@@ -2,7 +2,7 @@
 title: "Thatcher Reagan Boris Trump"
 date: 2019-12-12T22:58:56-06:00
 draft: false
-image: /images/uploads/boris.jpg
+image: /uploads/boris.jpg
 # featuredImage: /images/uploads/
 categories:
 - Politics

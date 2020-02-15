@@ -3,7 +3,7 @@ title: "Perpetual Happiness: Wish for Whatever Happens"
 date: 2019-03-29T20:32:07-05:00
 draft: true
 author: Bill Hennessy
-# image: /images/uploads/
+# image: /uploads/
 # featuredImage: /images/uploads/
 categories: 
 - Faith

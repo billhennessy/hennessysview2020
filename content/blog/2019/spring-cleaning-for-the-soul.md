@@ -3,7 +3,7 @@ title: "Fasting Is a Good Spring Cleaning for the Soul"
 date: 2019-03-09T07:24:26-06:00
 draft: false
 author: Bill Hennessy
-image: /images/uploads/vianney.jpg
+image: /uploads/vianney.jpg
 featuredImage: /images/uploads/vianney.jpg
 categories: 
 - Faith

@@ -2,7 +2,7 @@
 title: "Join Me October 13 at the Arch"
 date: 2019-09-21T12:46:43-05:00
 draft: false
-image: /images/uploads/rosary-c2c.png
+image: /uploads/rosary-c2c.png
 featuredImage: /images/uploads/rosary-c2c.png
 categories:
 - Faith

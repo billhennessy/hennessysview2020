@@ -2,7 +2,7 @@
 layout: blog
 title: Do We Love The World?
 date: 2019-07-20T13:41:03.872Z
-image: /images/uploads/stumblingblock.jpg
+image: /uploads/stumblingblock.jpg
 categories:
   - Faith
 tags:

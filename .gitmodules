@@ -1,3 +1,9 @@
 [submodule "themes/liva"]
 	path = themes/liva
 	url = https://github.com/themefisher/liva-hugo.git
+[submodule "themes/swift"]
+	path = themes/swift
+	url = https://github.com/onweru/hugo-swift-theme.git
+[submodule "themes/novela"]
+	path = themes/novela
+	url = https://github.com/forestryio/hugo-theme-novela.git

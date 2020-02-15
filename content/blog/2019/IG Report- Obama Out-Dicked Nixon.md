@@ -2,7 +2,7 @@
 title: "IG Report: Obama Out-Dicked Nixon"
 date: 2019-12-13T19:47:43-06:00
 draft: false
-image: /images/uploads/obama-nixon.jpg
+image: /uploads/obama-nixon.jpg
 # featuredImage: /images/uploads/
 categories:
 - Politics

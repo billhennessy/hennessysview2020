@@ -2,7 +2,7 @@
 title: "Your President Trump: Season Six"
 date: 2019-12-31T12:18:05-06:00
 draft: false
-image: /images/uploads/trump-grin.png
+image: /uploads/trump-grin.png
 # featuredImage: /images/uploads/
 categories:
 - Donald Trump

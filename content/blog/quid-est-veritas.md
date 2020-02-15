@@ -2,7 +2,7 @@
 title: "Quid Est Veritas"
 date: 2020-01-04T12:12:51-06:00
 draft: false
-image: /images/uploads/pilate.jpg
+image: /uploads/pilate.jpg
 
 description: "Did Pontius Pilate get a bad rap?"
 

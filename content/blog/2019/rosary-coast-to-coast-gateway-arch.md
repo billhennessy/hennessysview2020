@@ -2,7 +2,7 @@
 title: "Rosary Coast-to-Coast Gateway Arch October 13"
 date: 2019-08-17T20:55:57-05:00
 draft: false
-image: /images/uploads/jakub.png
+image: /uploads/jakub.png
 featuredImage: /images/uploads/jakub.png
 categories:
 - Faith

@@ -2,7 +2,7 @@
 title: "What About False Prophets (and Kooks)?"
 date: 2019-07-27T07:48:18-05:00
 draft: false
-image: /images/uploads/puzzle2.jpg
+image: /uploads/puzzle2.jpg
 categories:
 - Faith
 type: "post"

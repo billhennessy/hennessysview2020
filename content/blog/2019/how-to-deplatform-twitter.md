@@ -2,7 +2,7 @@
 title: "How to Deplatform Twitter"
 date: 2019-11-17T19:53:16-06:00
 draft: false
-# image: /images/uploads/
+# image: /uploads/
 # featuredImage: /images/uploads/
 categories:
 - Politics

@@ -2,7 +2,7 @@
 title: "Mass Killings Are the Fruit of Modernism"
 date: 2019-08-04T09:53:11-05:00
 draft: false
-image: /images/uploads/pius-x-quote.jpg
+image: /uploads/pius-x-quote.jpg
 categories:
 - Faith
 type: "post"

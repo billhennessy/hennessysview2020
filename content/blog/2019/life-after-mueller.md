@@ -3,7 +3,7 @@ title: "Life After Mueller"
 date: 2019-03-24T14:06:53-05:00
 draft: true
 author: Bill Hennessy
-# image: /images/uploads/
+# image: /uploads/
 # featuredImage: /images/uploads/
 categories: 
 - Politics

@@ -2,7 +2,7 @@
 title: "Impeachment Is a Styrofoam Bird"
 date: 2019-12-19T13:16:10-06:00
 draft: false
-# image: /images/uploads/
+image: /uploads/zorr.jpg
 # featuredImage: /images/uploads/
 categories:
 - Politics
@@ -19,8 +19,6 @@ This post is about impeachment. But, first, you need to hear about a toy bird fr
 ### Disappointing Toys
 
 When I was seven or eight, I just had to have a Zorr: The Mighty Eagle.
-
-![Zorr: Mighty Eagle](/images/uploads/zorr.jpg)
 
 Zorr could soar on the wind for hours, just like a real eagle. The TV commercials left me certain that Zorr would make the most popular kid on my block—maybe the whole parish. I'd have a pet eagle, really. A pet eagle that's _better_ than a real eagle, because it wouldn't crap all over the house or fly off with the neighbor's Yorkie clutched in its vice-like talons. 
 

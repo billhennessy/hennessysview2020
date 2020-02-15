@@ -3,7 +3,7 @@ title: "Chelsea, Meet Stoicism"
 date: 2019-04-06T19:29:32-05:00
 draft: false
 author: Bill Hennessy
-image: /images/uploads/Chelsea-Handler.jpg
+image: /uploads/Chelsea-Handler.jpg
 featuredImage: /images/uploads/Chelsea-Handler.jpg
 categories: 
 - Stoicism

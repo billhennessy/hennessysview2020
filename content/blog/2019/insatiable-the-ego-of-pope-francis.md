@@ -3,7 +3,7 @@ title: "Insatiable: The Ego of Pope Francis"
 date: 2019-03-26T20:00:29-05:00
 draft: true
 author: Bill Hennessy
-# image: /images/uploads/
+# image: /uploads/
 # featuredImage: /images/uploads/
 categories: 
 - Faith

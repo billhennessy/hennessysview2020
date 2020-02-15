@@ -2,7 +2,7 @@
 layout: blog
 title: A Very Bad Week for Planned Parenthood
 date: 2019-07-18T17:55:28.382Z
-image: /images/uploads/download.jpeg
+image: /uploads/download.jpeg
 categories:
   - Faith
 tags:

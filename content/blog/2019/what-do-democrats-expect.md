@@ -2,7 +2,7 @@
 title: "What Do Democrats Expect?"
 date: 2019-12-04T18:50:36-06:00
 draft: false
-image: /images/uploads/gadsden.jpg
+image: /uploads/gadsden.jpg
 # featuredImage: /images/uploads/
 categories:
 - Politics

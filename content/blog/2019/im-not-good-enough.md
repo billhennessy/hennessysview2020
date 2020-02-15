@@ -2,7 +2,7 @@
 title: "Im Not Good Enough for the New Church"
 date: 2019-11-02T10:58:14-05:00
 draft: false 
-image: /images/uploads/new-mass.jpeg
+image: /uploads/new-mass.jpeg
 # featuredImage: /images/uploads/
 categories: 
 - Faith

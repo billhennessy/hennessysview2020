@@ -2,7 +2,7 @@
 title: "Lousy Bishops"
 date: 2019-07-28T19:56:58-05:00
 draft: false
-image: /images/uploads/mccarrick.jpg
+image: /uploads/mccarrick.jpg
 Categories:
 - Faith
 ---

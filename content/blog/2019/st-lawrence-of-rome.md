@@ -2,7 +2,7 @@
 title: "St Lawrence of Rome"
 date: 2019-08-10T04:39:51-05:00
 draft: false
-image: /images/uploads/st_lawrence.jpg
+image: /uploads/st_lawrence.jpg
 featureImage: /images/uploads/st_lawrence.jpg
 categories: 
 - Faith

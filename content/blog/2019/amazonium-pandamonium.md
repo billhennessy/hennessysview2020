@@ -2,7 +2,7 @@
 title: "Amazonium Pandamonium"
 date: 2019-11-03T11:41:27-06:00
 draft: false
-image: /images/uploads/Pachamamas.png
+image: /uploads/Pachamamas.png
 # featuredImage: /images/uploads/
 categories:
 - Faith

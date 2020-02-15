@@ -2,7 +2,7 @@
 title: "Unfinished Business: Exodus and Eric Greitens"
 date: 2020-01-25T13:20:42-06:00
 draft: false
-thumbnail: /images/uploads/moses-and-pharaoh.jpg
+image: /uploads/moses-and-pharaoh.jpg
 # featuredImage: /images/uploads/
 categories:
 - Politics

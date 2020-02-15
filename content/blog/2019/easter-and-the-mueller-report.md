@@ -3,7 +3,7 @@ title: "Easter and the Mueller Report"
 date: 2019-04-21T10:04:54-05:00
 draft: false
 author: Bill Hennessy
-image: /images/uploads/chrysostom.jpg
+image: /uploads/chrysostom.jpg
 featuredImage: /images/uploads/chrysostom.jpg
 categories: 
 - Faith

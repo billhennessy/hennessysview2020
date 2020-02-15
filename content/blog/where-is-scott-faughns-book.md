@@ -2,7 +2,7 @@
 title: "Where Is Scott Faughn's Book?"
 date: 2020-02-02T15:10:19-06:00
 draft: false
-image: /images/uploads/faughn.jpg
+image: '/uploads/faughn.jpg'
 
 categories:
 - Politics

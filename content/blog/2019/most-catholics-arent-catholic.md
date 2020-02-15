@@ -4,7 +4,7 @@ date: 2019-08-08T17:32:27-05:00
 draft: false
 categories:
 - Faith
-image: /images/uploads/its-toasted.png
+image: /uploads/its-toasted.png
 ---
 This was one of my favorite episodes of Mad Men. 
 

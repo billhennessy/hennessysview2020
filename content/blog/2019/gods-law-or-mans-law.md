@@ -2,7 +2,7 @@
 title: "God's Law or Mans Law"
 date: 2019-12-30T19:54:35-06:00
 draft: false
-# image: /images/uploads/
+image: /gods_law.jpg
 # featuredImage: /images/uploads/
 categories:
 - Faith

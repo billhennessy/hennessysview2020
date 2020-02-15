@@ -3,7 +3,7 @@ title: "Jesus in a Hockey Parade"
 date: 2019-07-15T19:51:07-05:00
 draft: true
 author: Bill Hennessy
-# image: /images/uploads/
+# image: /uploads/
 # featuredImage: /images/uploads/
 categories: 
 - Faith

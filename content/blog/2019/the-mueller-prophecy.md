@@ -2,7 +2,7 @@
 title: "The Mueller Prophecy"
 date: 2019-07-24T19:57:50-05:00
 draft: false
-image: /images/uploads/dazed-and-confused.jpg
+image: /uploads/dazed-and-confused.jpg
 categories:
 - Politics
 - Donald Trump

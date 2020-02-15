@@ -2,7 +2,7 @@
 layout: blog
 title: 'Yes, President Trump Will Win Re-election'
 date: 2019-07-18T00:21:47.933Z
-image: /images/uploads/trump-grin.png
+image: /uploads/trump-grin.png
 categories:
   - Politics
 tags:

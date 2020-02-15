@@ -2,7 +2,7 @@
 title: "Denying Christ Before Congress"
 date: 2019-11-02T13:48:06-05:00
 draft: true
-# image: /images/uploads/
+# image: /uploads/
 # featuredImage: /images/uploads/
 categories:
 - Faith

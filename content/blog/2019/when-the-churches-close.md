@@ -2,7 +2,7 @@
 title: "When the Churches Close"
 date: 2019-08-24T20:28:34-05:00
 draft: true
-image: /images/uploads/
+image: /uploads/
 categories:
 - Faith
 tags:

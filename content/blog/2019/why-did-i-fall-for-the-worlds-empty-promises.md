@@ -3,7 +3,7 @@ title: "Why Did I Fall for the World/s Empty Promises"
 date: 2019-03-30T10:56:53-05:00
 draft: true
 author: Bill Hennessy
-# image: /images/uploads/
+# image: /uploads/
 # featuredImage: /images/uploads/
 categories: 
 - Faith

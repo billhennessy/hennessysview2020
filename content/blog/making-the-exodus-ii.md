@@ -2,7 +2,7 @@
 title: "Making the Exodus II"
 date: 2020-01-11T07:15:53-06:00
 draft: false
-thumbnail: /images/uploads/exodus.png
+image: /uploads/exodus.png
 # featuredImage: /images/uploads/
 categories:
 - Faith

@@ -3,7 +3,7 @@ title: "Rex the Libertarian Tyrant"
 date: 2019-04-06T13:32:57-05:00
 draft: false
 author: Bill Hennessy
-# image: /images/uploads/
+# image: /uploads/
 # featuredImage: /images/uploads/
 categories: 
 - Politics

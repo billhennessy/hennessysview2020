@@ -3,7 +3,7 @@ title: "New Mass by the Numbers"
 date: 2019-04-07T10:34:10-05:00
 draft: false
 author: Bill Hennessy
-image: /images/uploads/church-almost-empty.jpg
+image: /uploads/church-almost-empty.jpg
 featuredImage: /images/uploads/church-almost-empty.jpg
 categories: 
 - Faith

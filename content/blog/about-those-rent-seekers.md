@@ -2,7 +2,7 @@
 title: "About Those Rent Seekers"
 date: 2020-01-26T12:12:16-06:00
 draft: false
-# thumbnail: /images/uploads/
+image: "/rent_seeker.jpg"
 # featuredImage: /images/uploads/
 categories:
 - Politics

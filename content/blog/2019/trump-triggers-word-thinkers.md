@@ -1,7 +1,7 @@
 ---
 title: "Trump's Tweets Trigger Word-Thinkers"
 date: 2019-07-21T15:37:50-05:00
-image: /images/uploads/president_trump.jpg
+image: /uploads/president_trump.jpg
 draft: false
 categories:
 - Donald Trump

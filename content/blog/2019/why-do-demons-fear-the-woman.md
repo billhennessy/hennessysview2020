@@ -2,7 +2,7 @@
 title: "Why Do Demons Fear the Woman"
 date: 2019-12-28T09:29:11-06:00
 draft: false
-image: /images/uploads/mary-untier-of-knots.png
+image: /uploads/mary-untier-of-knots.png
 # featuredImage: /images/uploads/
 categories:
 - Faith

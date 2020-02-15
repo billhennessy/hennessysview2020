@@ -1,7 +1,7 @@
 ---
 title: "Why We Don't Believe Prophets"
 date: 2019-07-22T08:11:30-05:00
-image: /images/uploads/yellowstone-caldera.jpg
+image: /uploads/yellowstone-caldera.jpg
 featuredImage: /images/uploads/yellowstone-caldera.jpg
 draft: false
 categories:

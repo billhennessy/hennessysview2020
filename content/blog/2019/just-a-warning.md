@@ -3,7 +3,7 @@ title: "What Could Be In Mueller Report"
 date: 2019-03-23T15:21:52-05:00
 draft: false
 author: Bill Hennessy
-# image: /images/uploads/
+# image: /uploads/
 # featuredImage: /images/uploads/
 categories: 
 - Politics

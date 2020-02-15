@@ -3,7 +3,7 @@ title: "Liberal Mania Revisited"
 date: 2019-05-26T10:03:02-05:00
 draft: true
 author: Bill Hennessy
-# image: /images/uploads/
+# image: /uploads/
 # featuredImage: /images/uploads/
 categories: 
 - Faith

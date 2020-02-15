@@ -2,7 +2,7 @@
 title: "Cold Showers and Confession"
 date: 2019-12-30T12:25:50-06:00
 draft: false
-image: /images/uploads/armor-of-god-centurion.jpg
+image: /uploads/armor-of-god-centurion.jpg
 # featuredImage: /images/uploads/
 categories:
 - Faith

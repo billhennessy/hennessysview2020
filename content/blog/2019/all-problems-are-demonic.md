@@ -2,7 +2,7 @@
 title: "All (political) Problems Are Demonic in Nature"
 date: 2019-08-25T17:32:42-05:00
 draft: false
-image: /images/uploads/armor_of_god.jpg
+image: /uploads/armor_of_god.jpg
 featuredImage: /images/uploads/armor_of_god.jpg
 categories:
 - Politics

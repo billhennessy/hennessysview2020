@@ -2,7 +2,7 @@
 title: "Conservatives Are Out Gunned"
 date: 2019-09-01T03:10:14-05:00
 draft: true
-# image: /images/uploads/
+# image: /uploads/
 # featuredImage: /images/uploads/
 categories:
 - Faith

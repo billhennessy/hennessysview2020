@@ -2,7 +2,7 @@
 layout: blog
 title: 'A Spy''s Guide to Taking Risks: A Book You Need to Read'
 date: 2019-07-19T23:05:34.463Z
-image: /images/uploads/spys-guide.jpg
+image: /uploads/spys-guide.jpg
 categories:
   - Books
 tags:

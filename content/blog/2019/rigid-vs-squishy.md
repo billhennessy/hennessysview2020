@@ -2,7 +2,7 @@
 title: "Rigid vs Squishy"
 date: 2019-09-14T10:15:27-05:00
 draft: false
-image: /images/uploads/francis-witch-stang.jpg
+image: /uploads/francis-witch-stang.jpg
 featuredImage: /images/uploads/francis-witch-stang.jpg
 categories:
 - Faith

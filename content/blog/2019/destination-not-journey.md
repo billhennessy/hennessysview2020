@@ -2,7 +2,7 @@
 title: "It's About the Destination, Not the Journey"
 date: 2019-12-31T07:05:57-06:00
 draft: false
-image: /images/uploads/jerry_garcia.jpg
+image: /uploads/jerry_garcia.jpg
 # featuredImage: /images/uploads/
 categories:
 - Faith

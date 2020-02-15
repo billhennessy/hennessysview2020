@@ -2,7 +2,7 @@
 title: "A Brief History of Executive Privilege"
 date: 2019-12-14T09:47:43-06:00
 draft: true
-image: /images/uploads/obama-nixon.jpg
+image: /uploads/obama-nixon.jpg
 # featuredImage: /images/uploads/
 categories:
 - Politics

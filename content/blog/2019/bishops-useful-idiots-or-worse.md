@@ -2,7 +2,7 @@
 title: "Catholic Winter: Chapter One"
 date: 2019-08-13T19:40:36-05:00
 draft: true
-# image: /images/uploads/
+# image: /uploads/
 # featuredImage: /images/uploads/
 categories:
 - Faith

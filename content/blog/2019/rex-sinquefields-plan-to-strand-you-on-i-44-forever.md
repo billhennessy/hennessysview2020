@@ -3,7 +3,7 @@ title: "Elitists Want to Make St. Louis County More Like Failing City #DontMerge
 date: 2019-01-12T08:56:10-06:00
 draft: false
 author: Bill Hennessy
-image: /images/uploads/i-44-standstill.PNG
+image: /uploads/i-44-standstill.PNG
 featuredImage: /images/uploads/i-44-standstill.PNG
 categories: 
 - Politics

@@ -1,18 +1,12 @@
 ---
-title: "Comments"
-date: 2020-01-04T13:43:02-06:00
+author: "Michael Henderson"
+date: 2014-09-28
+title: Comments
+image: '/commento.svg'
+type: post
 draft: false
-# thumbnail: /images/uploads/
-# featuredImage: /images/uploads/
-categories:
-- Blogging
-tags:
-- Commento
-- Disqus
-author: "Bill Hennessy"
-
-type: "post"
 ---
+
 
 I changed the commenting system to Commento from Disqus. For my frequenty commenters, this may require you to re-authenticate. (Sorry, but security, ya know.)
 

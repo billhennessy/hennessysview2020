@@ -3,7 +3,7 @@ title: "12 Reasons I Love Latin Mass"
 date: 2019-03-24T03:43:20-05:00
 draft: false
 author: Bill Hennessy
-image: /images/uploads/latin-mass-elevation.jpg
+image: /uploads/latin-mass-elevation.jpg
 featuredImage: /images/uploads/latin-mass-elevation.jpg
 categories: 
 - Faith

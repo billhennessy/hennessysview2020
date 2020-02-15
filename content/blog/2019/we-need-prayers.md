@@ -2,7 +2,7 @@
 title: "We Need Prayers"
 date: 2019-08-20T20:41:51-05:00
 draft: false
-image: /images/uploads/Rosary-Coast-to-Coast-Flyer-2019-2.png
+image: /uploads/Rosary-Coast-to-Coast-Flyer-2019-2.png
 featuredImage: /images/uploads/Rosary-Coast-to-Coast-Flyer-2019-2.png
 categories:
 - Faith

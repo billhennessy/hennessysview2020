@@ -3,7 +3,7 @@ title: "Why We Should Love Rachel Maddow Now"
 date: 2019-03-23T04:44:33-05:00
 draft: false
 author: Bill Hennessy
-image: /images/uploads/mueller-reaction.png
+image: /uploads/mueller-reaction.png
 featuredImage: /images/uploads/mueller-reaction.png
 categories: 
 - Faith
