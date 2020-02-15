@@ -1,0 +1,13 @@
+---
+author: Bill Hennessy
+date: 2008-09-04 06:11:50+00:00
+draft: false
+title: Sell!
+layout: blog
+#url: e/2008/09/04/sell/
+categories:
+- Latest
+---
+
+![](https://www.intrade.com/jsp/intrade/common/images/contractImages/obama.jpg)
+
