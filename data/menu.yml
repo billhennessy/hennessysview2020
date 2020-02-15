@@ -1,4 +1,4 @@
-- item: Blog
+- item: Home
   url: "blog"
 - item: Faith
   url: categories/faith/
@@ -10,3 +10,5 @@
   url: tags/donald-trump
 - item: Most Popular Post
   url: tags/ron-brown
+- item: Subscribe by Email
+  url: http://eepurl.com/gx1WCD
