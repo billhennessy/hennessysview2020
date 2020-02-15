@@ -6,7 +6,7 @@ title: This Is Why You Are Underemployed
 layout: blog
 #url: e/2012/11/05/this-is-why-you-are-underemployed/
 categories:
-- Obamacare
+- Politics
 tags:
 - bureau of labor statistics
 - cost of healthcare
@@ -19,7 +19,7 @@ tags:
 - Illinois
 - jobs
 - middle class
-- obamacare
+- Politics
 - Obmacare
 - Part-time
 - Patient Protection and Affordable Care Act

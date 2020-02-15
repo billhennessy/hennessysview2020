@@ -6,7 +6,7 @@ title: Poll Your Missouri State Rep Now
 
 # #url: e/2018/05/16/poll-your-missouri-state-rep-now/
 categories:
-- Missouri
+- Politics
 - Politics
 tags:
 - Eric Greitens

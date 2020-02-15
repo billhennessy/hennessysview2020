@@ -13,7 +13,7 @@ tags:
 - Politics
 - Get Out the Vote
 - guns
-- missouri
+- Politics
 - primary
 - second amendment
 - taxes

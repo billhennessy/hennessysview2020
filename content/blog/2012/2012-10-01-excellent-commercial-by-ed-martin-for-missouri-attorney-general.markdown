@@ -17,7 +17,7 @@ tags:
 - grassroots
 - Heritage Action
 - Madison Project
-- missouri
+- Politics
 - republican
 - St. Louis Missouri
 - st. louis tea party

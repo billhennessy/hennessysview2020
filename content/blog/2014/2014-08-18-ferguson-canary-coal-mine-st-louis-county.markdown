@@ -10,9 +10,9 @@ categories:
 tags:
 - crime
 - Politics
-- missouri
+- Politics
 - police militarization
-- poverty
+- Economy
 - St. Louis County
 type: "post"
 ---

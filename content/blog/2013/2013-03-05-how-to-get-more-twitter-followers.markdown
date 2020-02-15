@@ -6,7 +6,7 @@ title: How To Get More Twitter Followers
 layout: blog
 #url: e/2013/03/05/how-to-get-more-twitter-followers/
 categories:
-- Political Strategy
+- Politics
 tags:
 - how to get more followers
 - positive psychology

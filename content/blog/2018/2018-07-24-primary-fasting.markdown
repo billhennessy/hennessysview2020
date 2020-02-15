@@ -6,7 +6,7 @@ title: Primary Fasting
 
 # #url: e/2018/07/24/primary-fasting/
 categories:
-- Politics Election
+- Politics
 - Faith
 tags:
 - Dottie Bailey for Missouri

@@ -6,7 +6,7 @@ title: Here's Why John Danforth's Attack On Ed Martin Is So Bad for the GOP
 layout: blog
 # #url: e/2013/03/16/dear-senator-danforth-rockefeller-is-dead-and-so-is-your-message/
 categories:
-- Political Strategy
+- Politics
 tags:
 - Chairman Ed Martin
 - drones

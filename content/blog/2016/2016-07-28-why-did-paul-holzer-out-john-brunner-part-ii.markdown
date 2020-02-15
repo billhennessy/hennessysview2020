@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/07/28/why-did-paul-holzer-out-john-brunner-part-ii/
 categories:
 - Politics
-- Missouri
+- Politics
 tags:
 - Eric Greitens
 - John Brunner

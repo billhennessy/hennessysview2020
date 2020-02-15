@@ -6,7 +6,7 @@ title: Meditate on This, Why Don’t You?
 layout: blog
 #url: e/2011/07/01/meditate-on-this-why-dont-you/
 categories:
-- Limited Government
+- Politics
 tags:
 - collective
 - independence

@@ -6,7 +6,7 @@ title: Friday Happy Hour
 layout: blog
 #url: e/2011/03/03/friday-happy-hour/
 categories:
-- Missouri
+- Politics
 tags:
 - brian nieves
 - Jim Lembke

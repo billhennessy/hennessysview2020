@@ -11,7 +11,7 @@ categories:
 tags:
 - american exceptionalism
 - Politics
-- poverty
+- Economy
 type: "post"
 ---
 

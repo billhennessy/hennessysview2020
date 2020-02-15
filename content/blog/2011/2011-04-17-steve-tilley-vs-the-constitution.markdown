@@ -12,9 +12,9 @@ tags:
 - electoral college
 - Politics
 - leftist
-- missouri
 - Politics
-- pro-life
+- Politics
+- Faith
 - statist
 - Steve Tilley
 - tilley

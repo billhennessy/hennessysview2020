@@ -11,7 +11,7 @@ tags:
 - Attorney General
 - ed martin
 - Politics 2012
-- missouri
+- Politics
 - Obama's Lawyer
 - Republicans
 - Rex Singquefield

@@ -6,14 +6,14 @@ title: 'BREAKING: 2nd Federal Judge Rules HealthControl Unconstitutional—No On
 layout: blog
 #url: e/2011/01/31/breaking-2nd-federal-judge-rules-healthcontrol-unconstitutionalno-one-surprised/
 categories:
-- Limited Government
+- Politics
 tags:
 - 'tcot'
 - 'teaparty'
 - department of justice
 - Livingcontrol
 - judge vinson
-- obamacare
+- Politics
 - unconstitutional
 type: "post"
 ---

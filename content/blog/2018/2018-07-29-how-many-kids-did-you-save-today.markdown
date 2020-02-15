@@ -6,7 +6,7 @@ title: How Many Kids Did You Save Today?
 
 # #url: e/2018/07/29/how-many-kids-did-you-save-today/
 categories:
-- Pro-Life
+- Faith
 tags:
 - Defenders of the Unborn
 - Knights of Columbus

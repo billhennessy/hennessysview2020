@@ -7,12 +7,12 @@ layout: blog
 #url: e/2014/12/14/police-officers-like-writing-tickets/
 categories:
 - 'Ferguson'
-- Municipal Courts
+- Politics
 tags:
 - 'municourts'
 - Arch City Defenders
 - Politics
-- municipal courts
+- Politics
 - police
 type: "post"
 ---

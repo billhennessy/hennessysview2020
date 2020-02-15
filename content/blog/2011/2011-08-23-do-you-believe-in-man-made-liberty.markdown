@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/08/22/do-you-believe-in-man-made-liberty/
 categories:
 - Events
-- Other News
+- News
 tags:
 - God
 - jefferson

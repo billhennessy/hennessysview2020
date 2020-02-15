@@ -7,10 +7,10 @@ layout: blog
 #url: e/2016/08/05/the-strangest-governor-race-ever/
 categories:
 - Politics
-- Missouri
+- Politics
 tags:
 - Ann Wagner
-- Missouri Farm Bureau
+- Politics Farm Bureau
 - roy blunt
 type: "post"
 ---

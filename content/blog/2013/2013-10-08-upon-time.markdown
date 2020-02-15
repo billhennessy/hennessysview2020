@@ -6,13 +6,13 @@ title: What Would Buckley Do?
 layout: blog
 #url: e/2013/10/08/upon-time/
 categories:
-- Obamacare
+- Politics
 tags:
 - Democracy in America
 - freedom
 - John Boehner
 - Khrushchev
-- obamacare
+- Politics
 - shutdown
 - the Sharon Statement
 - tocqueville

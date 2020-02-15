@@ -13,7 +13,7 @@ tags:
 - bank deposits
 - Billy Long
 - HR 129
-- Missouri congressional delegation
+- Politics congressional delegation
 - obama budget
 - retirement income limits
 type: "post"

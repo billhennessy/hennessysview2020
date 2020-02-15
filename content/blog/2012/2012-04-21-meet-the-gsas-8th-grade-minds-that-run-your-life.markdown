@@ -6,7 +6,7 @@ title: Meet the GSA's 8th Grade Minds That Run Your Life
 layout: blog
 #url: e/2012/04/21/meet-the-gsas-8th-grade-minds-that-run-your-life/
 categories:
-- Limited Government
+- Politics
 - Trump
 tags:
 - bureaucracy

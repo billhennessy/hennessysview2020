@@ -6,7 +6,7 @@ title: BJC’s Overlord
 layout: blog
 #url: e/2010/07/27/bjcs-overlord/
 categories:
-- Limited Government
+- Politics
 tags:
 - BJC Hospitals
 - Proposition C

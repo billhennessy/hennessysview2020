@@ -6,12 +6,12 @@ title: Sandy Exposes Limits Of Government
 layout: blog
 #url: e/2012/11/04/sandy-exposes-limits-of-government/
 categories:
-- Limited Government
+- Politics
 tags:
 - 'sandy'
 - FEMA
 - hurricane
-- limited government
+- Politics
 - relief
 - rockaways
 - staten island

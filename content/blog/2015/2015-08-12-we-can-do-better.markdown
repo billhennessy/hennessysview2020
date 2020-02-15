@@ -6,10 +6,10 @@ title: The Compassionate Alternative to Raising the Minimum Wage
 layout: blog
 #url: e/2015/08/12/we-can-do-better/
 categories:
-- Poverty
+- Economy
 tags:
 - Earned Income Tax Credit
-- poverty
+- Economy
 type: "post"
 ---
 

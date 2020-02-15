@@ -11,7 +11,7 @@ tags:
 - California State Board of Education
 - Chris Nicastro
 - DESE
-- missouri
+- Politics
 - Secondary education
 - Tim Jones
 - United States

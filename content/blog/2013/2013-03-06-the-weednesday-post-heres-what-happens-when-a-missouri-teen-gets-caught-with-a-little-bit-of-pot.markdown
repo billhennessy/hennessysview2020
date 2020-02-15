@@ -12,7 +12,7 @@ categories:
 tags:
 - draconian marijuana laws
 - marijuana
-- missouri marijuana laws
+- Politics marijuana laws
 - ruining young peoples lives
 - weednesday post
 - young people

@@ -11,7 +11,7 @@ tags:
 - charles jaco
 - Claire McCaskill
 - Karl Rove
-- missouri
+- Politics
 - republican
 - Rove
 - Todd Akin

@@ -10,7 +10,7 @@ categories:
 tags:
 - Attorney General
 - ed martin
-- missouri
+- Politics
 type: "post"
 ---
 

@@ -12,7 +12,7 @@ tags:
 - conformity
 - Academics
 - Fern Ridge High School
-- Missouri Options
+- Politics Options
 - School
 - socialism
 type: "post"

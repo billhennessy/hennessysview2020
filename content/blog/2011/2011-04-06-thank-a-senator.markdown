@@ -7,9 +7,9 @@ layout: blog
 #url: e/2011/04/06/thank-a-senator/
 categories:
 - Politics
-- Limited Government
-- Missouri
-- Other News
+- Politics
+- Politics
+- News
 type: "post"
 ---
 

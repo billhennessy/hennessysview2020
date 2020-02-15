@@ -7,8 +7,8 @@ layout: blog
 #url: e/2011/05/09/umsl-communist-recruiting-with-taxpayer-dollars/
 categories:
 - Academics
-- Missouri
-- Other News
+- Politics
+- News
 - Union News
 tags:
 - Academic Freedom

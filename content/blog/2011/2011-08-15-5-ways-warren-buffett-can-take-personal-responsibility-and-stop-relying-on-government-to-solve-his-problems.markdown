@@ -7,8 +7,8 @@ title: 5 Ways Warren Buffett Can Take Personal Responsibility and Stop Relying o
 layout: blog
 #url: e/2011/08/15/5-ways-warren-buffett-can-take-personal-responsibility-and-stop-relying-on-government-to-solve-his-problems/
 categories:
-- Limited Government
-- Other News
+- Politics
+- News
 tags:
 - mega-rich
 - personal responsibility

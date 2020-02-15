@@ -12,7 +12,7 @@ tags:
 - Get Out the Vote
 - influence
 - neuroscience
-- persuasion
+- Living
 - placebic information
 - political psychology
 - psychology

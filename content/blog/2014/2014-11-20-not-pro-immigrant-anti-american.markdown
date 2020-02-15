@@ -6,7 +6,7 @@ title: It's Not Pro-Immigrant; It's Anti-American
 layout: blog
 #url: e/2014/11/20/not-pro-immigrant-anti-american/
 categories:
-- Limited Government
+- Politics
 tags:
 - executive order
 - Politics

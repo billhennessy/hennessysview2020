@@ -11,7 +11,7 @@ tags:
 - Politics
 - Ann Wagner
 - August 5
-- Missouri Primary
+- Politics
 - St. Louis County
 type: "post"
 ---

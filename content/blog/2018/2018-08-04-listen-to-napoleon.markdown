@@ -6,7 +6,7 @@ title: Listen to Napoleon
 
 # #url: e/2018/08/04/listen-to-napoleon/
 categories:
-- Politics Primary
+- Politics
 type: "post"
 ---
 

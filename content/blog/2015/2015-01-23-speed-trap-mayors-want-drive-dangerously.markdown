@@ -6,13 +6,13 @@ title: Do the Speed-Trap Mayors Want You To Drive Dangerously?
 layout: blog
 #url: e/2015/01/22/speed-trap-mayors-want-drive-dangerously/
 categories:
-- Municipal Courts
+- Politics
 tags:
 - 'municourts'
 - 'TaxationByCitation'
 - Eric Schmitt
 - Politics
-- missouri
+- Politics
 type: "post"
 ---
 

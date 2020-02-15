@@ -6,8 +6,8 @@ title: 'Matt Doell: The Ru Paul of Eureka'
 
 # #url: e/2018/08/04/matt-doell-the-ru-paul-of-eureka/
 categories:
-- Politics Primary
-- Politics Election
+- Politics
+- Politics
 tags:
 
 type: "post"

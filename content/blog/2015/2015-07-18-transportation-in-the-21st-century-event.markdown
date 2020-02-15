@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Events
 tags:
-- missouri
+- Politics
 - ride sharing
 - Transportation Empowerment Act
 - über

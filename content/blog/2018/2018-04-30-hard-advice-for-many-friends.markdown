@@ -6,7 +6,7 @@ title: Hard Advice for Many Friends
 
 # #url: e/2018/04/30/hard-advice-for-many-friends/
 categories:
-- Missouri
+- Politics
 tags:
 - eric Greiten
 type: "post"

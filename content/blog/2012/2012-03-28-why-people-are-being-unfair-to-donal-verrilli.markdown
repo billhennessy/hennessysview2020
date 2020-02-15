@@ -10,7 +10,7 @@ categories:
 tags:
 - Donald Verrilli
 - My Cousin Vinny
-- obamacare
+- Politics
 - scotus
 - Supreme-Court
 type: "post"

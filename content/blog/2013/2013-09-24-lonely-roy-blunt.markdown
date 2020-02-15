@@ -6,7 +6,7 @@ title: How Lonely Is Roy Blunt?
 layout: blog
 #url: e/2013/09/24/lonely-roy-blunt/
 categories:
-- Obamacare
+- Politics
 type: "post"
 ---
 

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/04/26/shut-down-labor-studies-now-governor-nixon/
 categories:
 - Politics
-- Missouri
+- Politics
 - Union News
 tags:
 - communism

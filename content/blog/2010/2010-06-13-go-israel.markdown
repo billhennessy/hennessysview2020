@@ -6,7 +6,7 @@ title: Go Israel
 layout: blog
 #url: e/2010/06/13/go-israel/
 categories:
-- Miscellaneous
+- Living
 - News
 tags:
 - christianity

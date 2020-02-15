@@ -10,7 +10,7 @@ categories:
 tags:
 - Politics
 - majoritarian
-- municipal courts
+- Politics
 - The Conservative Heart
 type: "post"
 ---

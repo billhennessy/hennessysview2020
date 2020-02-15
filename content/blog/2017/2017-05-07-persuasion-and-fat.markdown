@@ -7,11 +7,11 @@ layout: blog
 #url: e/2017/05/07/persuasion-and-fat/
 categories:
 - Living
-- Persuasion
+- Living
 tags:
 - avoid disease
 - lose weight
-- persuasion
+- Living
 type: "post"
 ---
 

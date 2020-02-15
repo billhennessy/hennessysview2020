@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/03/27/dana-bouncing-back/
 categories:
 - Living
-- Other News
+- News
 tags:
 - dana loesch
 - tailbone

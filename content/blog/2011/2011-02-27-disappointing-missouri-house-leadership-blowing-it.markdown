@@ -6,12 +6,12 @@ title: 'DISAPPOINTING: Missouri House Leadership Blowing it'
 layout: blog
 #url: e/2011/02/27/disappointing-missouri-house-leadership-blowing-it/
 categories:
-- Missouri
+- Politics
 tags:
 - 'teaparty'
 - GOP
-- Missouri Politics
-- Missouri Republicans
+- Politics Politics
+- Politics Republicans
 - Tea Party News
 type: "post"
 ---

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2017/09/17/chuck-and-nancy-and-donald-and-mitch-and-paul/
 categories:
 - News
-- Political Strategy
+- Politics
 - Donald Trump
 tags:
 

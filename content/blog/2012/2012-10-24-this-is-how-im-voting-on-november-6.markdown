@@ -12,7 +12,7 @@ tags:
 - Politics
 - endorsements
 - how to vote
-- missouri ballot measures
+- Politics ballot measures
 - november 6
 - support
 type: "post"

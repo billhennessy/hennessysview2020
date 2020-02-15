@@ -10,7 +10,7 @@ categories:
 tags:
 - AEI
 - Chetty
-- poverty
+- Economy
 type: "post"
 ---
 

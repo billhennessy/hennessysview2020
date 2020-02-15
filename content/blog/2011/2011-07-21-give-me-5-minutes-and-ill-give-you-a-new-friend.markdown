@@ -6,7 +6,7 @@ title: Give Me 5 Minutes, And I’ll Give You a New Friend
 layout: blog
 #url: e/2011/07/21/give-me-5-minutes-and-ill-give-you-a-new-friend/
 categories:
-- Missouri
+- Politics
 - Politics
 - St. Louis County
 tags:

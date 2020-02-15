@@ -11,7 +11,7 @@ tags:
 - Barack Obama
 - Claire McCaskill
 - GOP
-- missouri
+- Politics
 - republican
 - senate
 - Todd Akin

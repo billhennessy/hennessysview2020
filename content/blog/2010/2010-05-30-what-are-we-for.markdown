@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Economy
 - Politics
-- Limited Government
+- Politics
 - Politics
 tags:
 - bob bennett
@@ -17,7 +17,7 @@ tags:
 - flat tax
 - goals
 - Livingcare
-- obamacare
+- Politics
 - social security
 - Tea Party News
 type: "post"

@@ -6,7 +6,7 @@ title: Thank You, Harvard
 layout: blog
 #url: e/2011/07/02/thank-you-harvard/
 categories:
-- Limited Government
+- Politics
 tags:
 - Declaration of Independence
 - Harvard

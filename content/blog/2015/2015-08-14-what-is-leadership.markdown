@@ -12,7 +12,7 @@ tags:
 - Business
 - Leadership
 - military
-- missouri
+- Politics
 - simon sinek
 type: "post"
 ---

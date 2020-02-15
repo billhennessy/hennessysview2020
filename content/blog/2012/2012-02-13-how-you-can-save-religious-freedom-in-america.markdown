@@ -14,7 +14,7 @@ tags:
 - freedom
 - life
 - obama
-- pro-life
+- Faith
 - religion
 - religious freedom
 type: "post"

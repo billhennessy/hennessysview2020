@@ -6,7 +6,7 @@ title: Kudos to President Obama For Touching the Third Rail
 layout: blog
 # #url: e/2013/04/11/kudos-to-president-obama-for-touching-the-third-rail/
 categories:
-- Political Strategy
+- Politics
 tags:
 - chained CPI
 - club for growth

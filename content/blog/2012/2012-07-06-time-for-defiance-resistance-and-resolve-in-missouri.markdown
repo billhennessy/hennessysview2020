@@ -6,7 +6,7 @@ title: Time for Defiance, Resistance, and Resolve in Missouri
 layout: blog
 #url: e/2012/07/06/time-for-defiance-resistance-and-resolve-in-missouri/
 categories:
-- Obamacare
+- Politics
 tags:
 - Bobby Jindal
 - brian nieves
@@ -16,9 +16,9 @@ tags:
 - Jane Cunningham
 - Jason Crowell
 - Jim Lembke
-- limited government
-- missouri
-- obamacare
+- Politics
+- Politics
+- Politics
 - republican
 - resistance
 - resolve

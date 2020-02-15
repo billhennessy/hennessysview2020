@@ -6,13 +6,13 @@ title: Did Lloyd Smith and Jo Ann Emerson Plan This All Along?
 layout: blog
 #url: e/2012/12/04/did-lloyd-smith-and-jo-ann-emerson-plan-this-all-along/
 categories:
-- Missouri
+- Politics
 tags:
 - Emerson
 - Jo Ann Emerson
 - John McCain
 - Lloyd Smith
-- missouri
+- Politics
 - Mitt Romney
 - republican
 - Smith

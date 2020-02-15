@@ -7,8 +7,8 @@ title: Bad Judgment on Rockwood School Board (or something worse?)
 # #url: e/2018/07/31/bad-judgment-rockwood-school-board/
 categories:
 - Politics
-- Politics Primary
-- Politics Election
+- Politics
+- Politics
 tags:
 - Dottie Bailey
 - Rockwood School District

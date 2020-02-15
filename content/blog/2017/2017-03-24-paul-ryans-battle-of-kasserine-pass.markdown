@@ -6,7 +6,7 @@ title: Paul Ryan's Battle of Kasserine Pass
 layout: blog
 #url: e/2017/03/24/paul-ryans-battle-of-kasserine-pass/
 categories:
-- Obamacare
+- Politics
 tags:
 - Lloyd Fredendall
 - Paul Ryan

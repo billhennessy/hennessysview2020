@@ -6,7 +6,7 @@ title: Covenant of Liberty Is Available Now
 layout: blog
 #url: e/2012/03/20/covenant-of-liberty-is-available-now/
 categories:
-- Limited Government
+- Politics
 tags:
 - American History
 - Constitution

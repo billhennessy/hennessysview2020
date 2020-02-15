@@ -6,7 +6,7 @@ title: Hypocrisy of the Left on Self-Identification
 layout: blog
 #url: e/2015/06/16/hypocrisy-of-the-left-on-self-identification/
 categories:
-- Other News
+- News
 tags:
 - Caitlyn Jenner
 - hypocrisy

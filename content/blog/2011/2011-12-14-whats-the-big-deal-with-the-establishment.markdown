@@ -6,7 +6,7 @@ title: What’s the Big Deal with the Establishment?
 layout: blog
 #url: e/2011/12/14/whats-the-big-deal-with-the-establishment/
 categories:
-- Limited Government
+- Politics
 tags:
 - establishment
 - freedom

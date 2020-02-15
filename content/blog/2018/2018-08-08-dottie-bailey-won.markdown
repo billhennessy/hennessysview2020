@@ -6,7 +6,7 @@ title: Dottie Bailey Won
 
 # #url: e/2018/08/08/dottie-bailey-won/
 categories:
-- Politics Primary
+- Politics
 tags:
 - Dottie Bailey
 type: "post"

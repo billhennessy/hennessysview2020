@@ -6,11 +6,11 @@ title: Eric Cantor and the Trojan Rabbit
 layout: blog
 # #url: e/2013/09/10/eric-cantor-and-the-trojan-rabbit/
 categories:
-- Obamacare
+- Politics
 tags:
 - continuing resolution
 - eric cantor
-- obamacare
+- Politics
 type: "post"
 ---
 

@@ -10,7 +10,7 @@ categories:
 tags:
 - AR-15
 - brian nieves
-- missouri state senate
+- Politics state senate
 - Sporting Clays
 type: "post"
 ---

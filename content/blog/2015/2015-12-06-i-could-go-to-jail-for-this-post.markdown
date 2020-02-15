@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/12/06/i-could-go-to-jail-for-this-post/
 categories:
 - Politics
-- Limited Government
+- Politics
 tags:
 - jihad
 - Loretta Lynch

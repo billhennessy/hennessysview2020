@@ -6,7 +6,7 @@ title: 'Antibiotic-Resistent Bacterium: Obamacare'
 layout: blog
 #url: e/2017/03/25/antibiotic-resistent-bacterium-obamacare/
 categories:
-- Obamacare
+- Politics
 type: "post"
 ---
 

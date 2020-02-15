@@ -6,7 +6,7 @@ title: Thank You!
 layout: blog
 #url: e/2010/12/22/thank-you-2/
 categories:
-- Miscellaneous
+- Living
 tags:
 - blog rank
 - self-congratulations

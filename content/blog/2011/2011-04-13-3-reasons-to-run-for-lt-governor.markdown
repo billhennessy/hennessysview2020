@@ -7,12 +7,12 @@ layout: blog
 #url: e/2011/04/13/3-reasons-to-run-for-lt-governor/
 categories:
 - Politics
-- Missouri
+- Politics
 tags:
 - Politics
 - Lieutenant Governor
 - LooeyG
-- missouri
+- Politics
 type: "post"
 ---
 

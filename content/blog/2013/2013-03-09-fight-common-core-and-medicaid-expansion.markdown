@@ -14,9 +14,9 @@ tags:
 - john lamping
 - liberty
 - medicaid expansion
-- missouri state capitol
-- missouri state senate
-- obamacare
+- Politics state capitol
+- Politics state senate
+- Politics
 type: "post"
 ---
 

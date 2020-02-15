@@ -6,7 +6,7 @@ title: Socialism Sucks. Here’s How to Avoid It In America
 layout: blog
 #url: e/2012/10/23/socialism-sucks-heres-how-to-avoid-it-in-america/
 categories:
-- Limited Government
+- Politics
 tags:
 - evil
 - freedom

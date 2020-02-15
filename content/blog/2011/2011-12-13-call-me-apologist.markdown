@@ -6,7 +6,7 @@ title: Call Me “Apologist”
 layout: blog
 #url: e/2011/12/13/call-me-apologist/
 categories:
-- Miscellaneous
+- Living
 tags:
 - apologist
 - Glenn Kessler

@@ -15,7 +15,7 @@ tags:
 - Jay Nixon
 - Maria Chappelle-Nadal
 - Mayor Slay
-- missouri
+- Politics
 - police
 - trust
 - Violence in Ferguson

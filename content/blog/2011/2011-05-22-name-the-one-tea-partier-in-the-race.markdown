@@ -10,7 +10,7 @@ categories:
 tags:
 - Ann Wagner
 - ed martin
-- Missouri 2nd District
+- Politics 2nd District
 type: "post"
 ---
 

@@ -6,13 +6,13 @@ title: Despots Use Money to Buy Power
 layout: blog
 #url: e/2010/12/29/despots-use-money-to-buy-power/
 categories:
-- Limited Government
+- Politics
 tags:
 - degradation
 - despotism
 - Academics
 - humiliation
-- missouri
+- Politics
 - race to the top
 type: "post"
 ---

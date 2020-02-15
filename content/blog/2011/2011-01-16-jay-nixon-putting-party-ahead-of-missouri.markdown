@@ -14,7 +14,7 @@ tags:
 - Indiana
 - Jay Nixon
 - jobs
-- missouri
+- Politics
 - tax increase
 - wisconsin
 type: "post"

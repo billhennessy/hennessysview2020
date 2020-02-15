@@ -6,7 +6,7 @@ title: 4 Steps To Negotiating With a Politician
 layout: blog
 #url: e/2014/03/15/talk-politician/
 categories:
-- Political Strategy
+- Politics
 tags:
 - featured
 - Jim Camp

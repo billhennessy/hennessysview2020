@@ -7,11 +7,11 @@ layout: blog
 #url: e/2016/01/09/continue-your-support-of-good-local-government/
 categories:
 - Politics
-- Missouri
-- Municipal Courts
+- Politics
+- Politics
 tags:
 - Eric Schmitt
-- municipal courts
+- Politics
 - SB-572
 type: "post"
 ---

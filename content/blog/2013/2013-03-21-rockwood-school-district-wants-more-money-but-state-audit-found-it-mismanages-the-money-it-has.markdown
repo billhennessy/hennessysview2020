@@ -11,7 +11,7 @@ categories:
 tags:
 - April 2 Election
 - fiscal responsiblity
-- missouri state auditor
+- Politics state auditor
 - Rockwood School District
 - Rockwood Stakeholders
 - tom schweich

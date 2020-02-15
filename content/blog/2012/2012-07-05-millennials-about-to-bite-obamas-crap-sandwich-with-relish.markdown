@@ -6,12 +6,12 @@ title: Millennials About To Bite Obama’s Crap Sandwich . . . with Relish
 layout: blog
 #url: e/2012/07/05/millennials-about-to-bite-obamas-crap-sandwich-with-relish/
 categories:
-- Obamacare
+- Politics
 tags:
 - business insider
 - insurance costs
 - Millennials
-- obamacare
+- Politics
 type: "post"
 ---
 

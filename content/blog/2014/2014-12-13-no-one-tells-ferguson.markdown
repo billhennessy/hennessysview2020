@@ -7,11 +7,11 @@ layout: blog
 #url: e/2014/12/13/no-one-tells-ferguson/
 categories:
 - 'Ferguson'
-- Municipal Courts
+- Politics
 tags:
 - 'municourts'
 - Politics
-- municipal courts
+- Politics
 type: "post"
 ---
 

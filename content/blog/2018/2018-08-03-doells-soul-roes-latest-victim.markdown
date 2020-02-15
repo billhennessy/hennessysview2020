@@ -6,7 +6,7 @@ title: Doell's Soul Roe's Latest Victim
 
 # #url: e/2018/08/02/doells-soul-roes-latest-victim/
 categories:
-- Politics Primary
+- Politics
 tags:
 - Dottie Bailey
 - Matt Doell

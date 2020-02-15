@@ -6,7 +6,7 @@ title: Why We Took a Stand Against the NAACP
 layout: blog
 #url: e/2010/07/16/why-we-took-a-stand-against-the-naacp/
 categories:
-- Miscellaneous
+- Living
 tags:
 - NAACP
 - racism

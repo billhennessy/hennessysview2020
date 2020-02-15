@@ -13,7 +13,7 @@ tags:
 - Cole McNary
 - Jim Lembke
 - legitimate rape
-- missouri
+- Politics
 - rape
 - republican
 - Shane Schoeller

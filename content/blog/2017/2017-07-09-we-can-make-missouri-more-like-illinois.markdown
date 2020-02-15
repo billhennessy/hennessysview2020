@@ -6,7 +6,7 @@ title: We Can Make Missouri More Like Illinois
 layout: blog
 #url: e/2017/07/09/we-can-make-missouri-more-like-illinois/
 categories:
-- Missouri
+- Politics
 - St. Louis City
 - St. Louis County
 tags:

@@ -6,7 +6,7 @@ title: Republicans Lose Because They Don’t Attract Enough Conservatives
 layout: blog
 # #url: e/2013/03/04/republicans-lose-because-they-dont-attract-enough-conservatives/
 categories:
-- Political Strategy
+- Politics
 tags:
 - Battleground Poll
 - conservative identification

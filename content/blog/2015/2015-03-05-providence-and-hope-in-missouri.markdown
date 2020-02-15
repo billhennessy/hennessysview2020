@@ -11,7 +11,7 @@ tags:
 - Catherine Hanaway
 - Eric Greitens
 - John Hancock
-- missouri
+- Politics
 - tom schweich
 type: "post"
 ---

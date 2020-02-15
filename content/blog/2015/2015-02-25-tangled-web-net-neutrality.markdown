@@ -6,7 +6,7 @@ title: The tangled web of net neutrality
 layout: blog
 #url: e/2015/02/24/tangled-web-net-neutrality/
 categories:
-- Limited Government
+- Politics
 tags:
 - net neutrality
 type: "post"

@@ -6,7 +6,7 @@ title: Nightmarish Carnival of Democrat Mayhem Continues
 layout: blog
 #url: e/2010/08/10/nightmarish-carnival-of-democrat-mayhem-continues/
 categories:
-- Limited Government
+- Politics
 tags:
 - bailout
 - debt

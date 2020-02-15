@@ -6,7 +6,7 @@ title: AttackWatch Starring Pamela Anderson
 layout: blog
 #url: e/2011/09/15/attackwatch-starring-pamela-anderson/
 categories:
-- Other News
+- News
 tags:
 - 'AttackWatch'
 - Baywatch

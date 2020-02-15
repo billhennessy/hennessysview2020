@@ -6,7 +6,7 @@ title: Comes Now Gloria Allred and Makes an Ass of Herself
 layout: blog
 #url: e/2012/03/09/comes-now-gloria-allred-and-makes-an-ass-of-herself/
 categories:
-- Other News
+- News
 tags:
 - florida law
 - gloria allred

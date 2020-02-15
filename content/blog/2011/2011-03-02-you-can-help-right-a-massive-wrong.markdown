@@ -6,7 +6,7 @@ title: '*CORRECTED* You Can Help Right a Massive Wrong'
 layout: blog
 #url: e/2011/03/01/you-can-help-right-a-massive-wrong/
 categories:
-- Missouri
+- Politics
 tags:
 - Eric Schmitt
 - HB 466

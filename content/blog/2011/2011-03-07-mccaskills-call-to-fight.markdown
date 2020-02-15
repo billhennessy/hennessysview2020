@@ -6,7 +6,7 @@ title: McCaskill’s Call to Fight
 layout: blog
 #url: e/2011/03/07/mccaskills-call-to-fight/
 categories:
-- Missouri
+- Politics
 tags:
 - ed martin
 - McCaskill

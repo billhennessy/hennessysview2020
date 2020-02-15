@@ -6,7 +6,7 @@ title: Leftists Turn Against Nancy
 layout: blog
 #url: e/2017/09/18/leftist-turn-against-nancy/
 categories:
-- Political Strategy
+- Politics
 tags:
 - Donald Trump
 - nancy-pelosi

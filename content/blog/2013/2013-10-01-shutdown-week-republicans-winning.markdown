@@ -6,7 +6,7 @@ title: Shutdown Week Could Turn Into Big Win for Republicans
 layout: blog
 # #url: e/2013/09/30/shutdown-week-republicans-winning/
 categories:
-- Obamacare
+- Politics
 tags:
 - 'democratshutdown'
 - conservative

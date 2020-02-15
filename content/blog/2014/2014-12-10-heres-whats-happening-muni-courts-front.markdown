@@ -6,7 +6,7 @@ title: Here's What's Happening on the Muni Courts Front
 layout: blog
 #url: e/2014/12/09/heres-whats-happening-muni-courts-front/
 categories:
-- Municipal Courts
+- Politics
 - News
 tags:
 - 'municourts'

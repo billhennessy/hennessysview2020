@@ -6,9 +6,9 @@ title: Rah Rah Roy Blunt
 layout: blog
 #url: e/2011/07/07/rah-rah-roy-blunt/
 categories:
-- Limited Government
-- Missouri
-- Other News
+- Politics
+- Politics
+- News
 tags:
 - Debt Ceiling
 - default

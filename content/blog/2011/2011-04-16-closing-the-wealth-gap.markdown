@@ -6,7 +6,7 @@ title: Closing the Wealth Gap
 layout: blog
 #url: e/2011/04/16/closing-the-wealth-gap/
 categories:
-- Limited Government
+- Politics
 - Living
 - Tea Party News
 tags:

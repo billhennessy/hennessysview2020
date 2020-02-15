@@ -6,8 +6,8 @@ title: Donald Trump's Crazy Ivan
 layout: blog
 #url: e/2017/03/06/donald-trumps-crazy-ivan/
 categories:
-- Political Strategy
-- President Trump
+- Politics
+- Donald Trump
 type: "post"
 ---
 

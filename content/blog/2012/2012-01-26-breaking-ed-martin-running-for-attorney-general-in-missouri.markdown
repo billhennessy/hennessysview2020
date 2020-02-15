@@ -15,7 +15,7 @@ tags:
 - conservative
 - ed martin
 - Politics 2012
-- missouri
+- Politics
 - republican
 type: "post"
 ---

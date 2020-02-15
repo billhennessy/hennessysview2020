@@ -12,7 +12,7 @@ tags:
 - August Primary
 - Bob Dixon
 - Jim Lembke
-- Missouri Primary
+- Politics
 - Rob Schaaf
 type: "post"
 ---

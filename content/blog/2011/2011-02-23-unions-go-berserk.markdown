@@ -6,7 +6,7 @@ title: Unions Go Berserk
 layout: blog
 #url: e/2011/02/23/unions-go-berserk/
 categories:
-- Limited Government
+- Politics
 tags:
 - protests
 - unions

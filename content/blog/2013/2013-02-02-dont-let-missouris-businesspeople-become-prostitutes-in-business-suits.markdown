@@ -6,12 +6,12 @@ title: Don’t Let Missouri’s Businesspeople Become Prostitutes in Business Su
 layout: blog
 #url: e/2013/02/02/dont-let-missouris-businesspeople-become-prostitutes-in-business-suits/
 categories:
-- Obamacare
+- Politics
 tags:
 - medicaid expansion
-- missouri
-- missouri chamber of commerce
-- obamacare
+- Politics
+- Politics chamber of commerce
+- Politics
 type: "post"
 ---
 

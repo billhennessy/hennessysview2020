@@ -15,7 +15,7 @@ tags:
 - ed martin
 - export-import bank
 - libertarian
-- missouri
+- Politics
 - Right to Farm
 - Tea Party News
 type: "post"

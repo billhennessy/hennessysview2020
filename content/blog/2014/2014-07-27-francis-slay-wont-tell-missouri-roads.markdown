@@ -9,7 +9,7 @@ categories:
 - News
 tags:
 - Amendment 7
-- missouri
+- Politics
 - No 7
 - No on 7
 - Regressive Tax

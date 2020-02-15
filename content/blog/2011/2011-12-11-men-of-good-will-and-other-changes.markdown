@@ -6,7 +6,7 @@ title: “men of good will” and other changes
 layout: blog
 #url: e/2011/12/11/men-of-good-will-and-other-changes/
 categories:
-- Other News
+- News
 tags:
 - gloria
 - latin

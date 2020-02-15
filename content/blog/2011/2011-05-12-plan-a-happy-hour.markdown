@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/05/11/plan-a-happy-hour/
 categories:
 - Living
-- Other News
+- News
 tags:
 - commemorations
 - Happy Hour

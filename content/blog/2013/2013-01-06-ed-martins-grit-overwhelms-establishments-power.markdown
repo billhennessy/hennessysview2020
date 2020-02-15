@@ -6,14 +6,14 @@ title: Ed Martin’s Grit Overwhelms Establishment’s Power
 layout: blog
 # #url: e/2013/01/05/ed-martins-grit-overwhelms-establishments-power/
 categories:
-- Missouri
+- Politics
 tags:
 - Chairman
 - Chairman Ed
 - Ed Martin Jr
 - establishment
 - grassroots
-- Missouri Republican State Committee
+- Politics Republican State Committee
 - Republican Establishment
 - St. Louis Tea Party Coalition
 type: "post"

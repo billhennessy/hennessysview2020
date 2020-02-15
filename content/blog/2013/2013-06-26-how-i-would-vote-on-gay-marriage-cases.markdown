@@ -6,7 +6,7 @@ title: How I Would Vote on Gay Marriage Cases
 layout: blog
 #url: e/2013/06/25/how-i-would-vote-on-gay-marriage-cases/
 categories:
-- Limited Government
+- Politics
 tags:
 - gay marriage
 - Supreme-Court

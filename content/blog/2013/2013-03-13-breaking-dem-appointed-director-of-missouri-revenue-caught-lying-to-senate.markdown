@@ -11,7 +11,7 @@ categories:
 tags:
 - Governor Jay Nixon
 - Homeland Security
-- Missouri Department of Revenue
+- Politics Department of Revenue
 - Real ID Act
 - Senator Brian Nieves
 - Senator Kurt Schaefer

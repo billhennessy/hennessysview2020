@@ -6,7 +6,7 @@ title: 'Guest Post: An Open Letter to Millennials from Bob the Retiree'
 layout: blog
 #url: e/2013/12/13/open-letter-millennials-bob-retiree/
 categories:
-- Obamacare
+- Politics
 type: "post"
 ---
 

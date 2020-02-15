@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Political Psychology
 tags:
-- obamacare
+- Politics
 - Robert Cialdini
 - scarcity heuristic
 type: "post"

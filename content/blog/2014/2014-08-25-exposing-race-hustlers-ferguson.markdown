@@ -12,7 +12,7 @@ tags:
 - Politics
 - Jesse Jackson
 - mau-mauing the flak catchers
-- poverty
+- Economy
 - Tom Wolfe
 type: "post"
 ---

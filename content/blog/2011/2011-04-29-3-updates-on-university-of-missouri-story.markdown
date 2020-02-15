@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/04/28/3-updates-on-university-of-missouri-story/
 categories:
 - Politics
-- Missouri
+- Politics
 - Union News
 tags:
 - communism

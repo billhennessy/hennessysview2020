@@ -6,7 +6,7 @@ title: Ezra Klein and the Dead Constitution
 layout: blog
 #url: e/2011/01/01/ezra-klein-and-the-dead-constitution/
 categories:
-- Limited Government
+- Politics
 tags:
 - Constitution
 - dead constitution

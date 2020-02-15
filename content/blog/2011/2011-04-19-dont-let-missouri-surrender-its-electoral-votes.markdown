@@ -9,10 +9,10 @@ categories:
 - Activism
 - Constitution
 - Politics
-- Limited Government
+- Politics
 tags:
 - electoral college
-- missouri
+- Politics
 - voting
 type: "post"
 ---

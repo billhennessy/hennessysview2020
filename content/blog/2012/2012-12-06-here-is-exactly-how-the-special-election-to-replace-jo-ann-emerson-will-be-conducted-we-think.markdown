@@ -13,8 +13,8 @@ tags:
 - Congressional district
 - elections
 - Jo Ann Emerson
-- missouri
-- Missouri's 8th congressional district
+- Politics
+- Politics's 8th congressional district
 - National Rural Electric Cooperative Association
 - republican
 type: "post"

@@ -6,13 +6,13 @@ title: Here's One Way the Government's Making Medicine Worse in America
 layout: blog
 #url: e/2012/06/20/heres-one-way-the-governments-making-medicine-worse-in-america/
 categories:
-- Limited Government
+- Politics
 tags:
 - bureaucracy
 - dictaphone
 - government mandate
 - Livingcare
-- obamacare
+- Politics
 - st. louis tea party
 - The After Party
 - waste

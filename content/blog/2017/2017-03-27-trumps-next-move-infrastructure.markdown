@@ -6,7 +6,7 @@ title: 'Trump''s Next Move: Infrastructure'
 layout: blog
 #url: e/2017/03/27/trumps-next-move-infrastructure/
 categories:
-- Political Strategy
+- Politics
 tags:
 - '@realDonaldTrump'
 - infrastructure

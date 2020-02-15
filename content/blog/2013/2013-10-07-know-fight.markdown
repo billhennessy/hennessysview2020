@@ -6,7 +6,7 @@ title: Know When To Fight Your Own
 layout: blog
 #url: e/2013/10/07/know-fight/
 categories:
-- Political Strategy
+- Politics
 tags:
 - conservative
 - elections

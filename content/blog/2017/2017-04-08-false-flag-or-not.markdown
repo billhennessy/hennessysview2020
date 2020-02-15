@@ -7,7 +7,7 @@ layout: blog
 #url: e/2017/04/08/false-flag-or-not/
 categories:
 - Political Psychology
-- Political Strategy
+- Politics
 - Donald Trump
 tags:
 

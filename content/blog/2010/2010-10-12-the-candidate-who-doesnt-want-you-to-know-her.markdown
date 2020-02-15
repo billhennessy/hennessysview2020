@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 tags:
-- missouri auditor
+- Politics auditor
 - susan montee
 - tom schweich
 type: "post"

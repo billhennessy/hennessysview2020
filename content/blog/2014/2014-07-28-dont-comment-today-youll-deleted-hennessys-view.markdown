@@ -6,7 +6,7 @@ title: If You Don't Comment Today, You'll Be Deleted From Hennessy's View
 layout: blog
 #url: e/2014/07/28/dont-comment-today-youll-deleted-hennessys-view/
 categories:
-- Miscellaneous
+- Living
 type: "post"
 ---
 

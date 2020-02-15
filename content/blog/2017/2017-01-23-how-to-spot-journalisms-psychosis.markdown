@@ -6,7 +6,7 @@ title: How to Spot Journalism's Psychosis
 layout: blog
 #url: e/2017/01/23/how-to-spot-journalisms-psychosis/
 categories:
-- President Trump
+- Donald Trump
 - Press
 tags:
 - ADHD

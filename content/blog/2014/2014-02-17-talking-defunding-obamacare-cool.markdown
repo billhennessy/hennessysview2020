@@ -7,7 +7,7 @@ layout: blog
 #url: e/2014/02/17/talking-defunding-obamacare-cool/
 categories:
 - News
-- Obamacare
+- Politics
 type: "post"
 ---
 

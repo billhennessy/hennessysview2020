@@ -6,7 +6,7 @@ title: Glory Days for Missouri Republicans
 
 # #url: e/2018/05/06/glory-days-for-missouri-republicans/
 categories:
-- Missouri
+- Politics
 tags:
 - Eric Greitens
 - Republicans

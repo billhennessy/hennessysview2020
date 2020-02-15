@@ -7,14 +7,14 @@ layout: blog
 #url: e/2012/06/24/obamacare-ruling-comes-down-this-week-and-were-having-a-tea-party/
 categories:
 - Activism
-- Obamacare
+- Politics
 tags:
 - Activism
 - Activism Alert
 - Art Hill
 - Demonstration
 - Forest Park
-- obamacare
+- Politics
 - rally
 - st. louis tea party
 - Supreme-Court

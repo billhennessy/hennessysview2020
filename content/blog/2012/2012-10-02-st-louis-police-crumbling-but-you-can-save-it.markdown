@@ -11,7 +11,7 @@ tags:
 - Chris Koster
 - local control
 - Louis
-- missouri
+- Politics
 - police
 - proposition a
 - rex sinquefield

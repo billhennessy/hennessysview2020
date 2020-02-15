@@ -6,11 +6,11 @@ title: Let Depression Be Your Guide
 layout: blog
 #url: e/2012/07/02/let-depression-be-your-guide/
 categories:
-- Limited Government
+- Politics
 - Living
 tags:
 - depression
-- obamacare
+- Politics
 - perseverance
 - psychology
 - Supreme-Court

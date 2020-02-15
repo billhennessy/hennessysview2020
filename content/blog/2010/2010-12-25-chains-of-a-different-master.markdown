@@ -6,7 +6,7 @@ title: Chains of a Different Master
 layout: blog
 #url: e/2010/12/25/chains-of-a-different-master/
 categories:
-- Limited Government
+- Politics
 tags:
 - chains
 - Karl Marx

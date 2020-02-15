@@ -6,7 +6,7 @@ title: Guess Who the Puritans Are?
 layout: blog
 #url: e/2011/12/04/guess-who-the-puritans-are/
 categories:
-- Miscellaneous
+- Living
 tags:
 - doctrinaire
 - establishment

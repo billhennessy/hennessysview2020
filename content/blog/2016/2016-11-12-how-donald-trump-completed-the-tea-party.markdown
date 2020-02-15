@@ -6,10 +6,10 @@ title: How Donald Trump Completed the Tea Party
 layout: blog
 #url: e/2016/11/11/how-donald-trump-completed-the-tea-party/
 categories:
-- President Trump
+- Donald Trump
 - Tea Party News
 tags:
-- President Trump
+- Donald Trump
 - Tea Party News
 type: "post"
 ---
@@ -136,7 +136,7 @@ While the media perseverated on a few controversial tweets and comments, Trump s
   
   I own buildings. I'm a builder; I know how to build. Nobody can build like I can build. Nobody. And the builders in New York will tell you that. I build the best product. And my name helps a lot.
   
-  The problems we face now - poverty and violence at home, war and destruction abroad will last only as long as we continue relying on the same politicians who created them in the first place.
+  The problems we face now - Economy and violence at home, war and destruction abroad will last only as long as we continue relying on the same politicians who created them in the first place.
   
   We will make America strong again. We will make America proud again. We will make America safe again. And we will make America great again.
 

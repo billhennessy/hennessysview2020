@@ -11,7 +11,7 @@ tags:
 - establishment
 - GOP
 - Livingcare
-- missouri
+- Politics
 - Republican Party
 - Scott Brown
 - Tea Party News

@@ -11,7 +11,7 @@ categories:
 tags:
 - Brian K. Long
 - Jay Nixon
-- Missouri Department of Revenue
+- Politics Department of Revenue
 type: "post"
 ---
 

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/07/21/let-me-apologize/
 categories:
 - Living
-- Other News
+- News
 tags:
 - big government
 - ed martin

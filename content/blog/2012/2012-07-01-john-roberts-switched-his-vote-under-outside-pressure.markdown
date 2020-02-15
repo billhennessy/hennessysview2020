@@ -11,7 +11,7 @@ tags:
 - character
 - cowardice
 - John Roberts
-- obamacare
+- Politics
 type: "post"
 ---
 

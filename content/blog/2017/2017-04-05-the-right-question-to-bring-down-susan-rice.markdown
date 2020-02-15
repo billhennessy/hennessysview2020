@@ -6,7 +6,7 @@ title: The Right Question to Bring Down Susan Rice
 layout: blog
 #url: e/2017/04/05/the-right-question-to-bring-down-susan-rice/
 categories:
-- Obamagate
+- Politics
 tags:
 - intelligence
 - susan rice

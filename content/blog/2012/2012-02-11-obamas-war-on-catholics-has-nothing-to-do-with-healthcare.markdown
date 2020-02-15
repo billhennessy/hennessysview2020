@@ -15,7 +15,7 @@ tags:
 - insurance
 - jihad
 - obama
-- obamacare
+- Politics
 type: "post"
 ---
 

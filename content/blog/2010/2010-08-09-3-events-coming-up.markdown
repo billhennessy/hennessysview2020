@@ -6,7 +6,7 @@ title: 3 Events Coming Up
 layout: blog
 #url: e/2010/08/09/3-events-coming-up/
 categories:
-- Miscellaneous
+- Living
 tags:
 - events
 type: "post"

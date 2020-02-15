@@ -6,7 +6,7 @@ title: Are We the Last Americans?
 layout: blog
 #url: e/2010/12/07/are-we-the-last-americans/
 categories:
-- Limited Government
+- Politics
 tags:
 - Alfred McCoy
 - America

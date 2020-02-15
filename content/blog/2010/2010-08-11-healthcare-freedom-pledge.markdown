@@ -6,12 +6,12 @@ title: Healthcare Freedom Pledge
 layout: blog
 #url: e/2010/08/10/healthcare-freedom-pledge/
 categories:
-- Limited Government
+- Politics
 tags:
 - ed martin
 - Politics 2010
 - Livingcare Free Choice Act
-- obamacare
+- Politics
 type: "post"
 ---
 

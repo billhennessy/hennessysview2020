@@ -6,7 +6,7 @@ title: Mitch McConnell Vows To Help Harry Reid Fund Obamacare
 layout: blog
 # #url: e/2013/09/23/mitch-mcconnell-vows-help-harry-reid-fund-obamacare/
 categories:
-- Obamacare
+- Politics
 type: "post"
 ---
 

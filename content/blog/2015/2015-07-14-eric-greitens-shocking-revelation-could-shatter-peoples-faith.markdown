@@ -7,13 +7,13 @@ layout: blog
 #url: e/2015/07/14/eric-greitens-shocking-revelation-could-shatter-peoples-faith/
 categories:
 - Politics
-- Missouri
+- Politics
 tags:
 - Democrat
 - EricGreitens
 - Former Democrat
 - Governor
-- missouri
+- Politics
 type: "post"
 ---
 

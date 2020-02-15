@@ -6,7 +6,7 @@ title: Apologies to Seth Godin and His Readers
 layout: blog
 #url: e/2010/12/23/apologies-to-seth-godin-and-his-readers/
 categories:
-- Miscellaneous
+- Living
 tags:
 - etiquette
 - Seth Godin

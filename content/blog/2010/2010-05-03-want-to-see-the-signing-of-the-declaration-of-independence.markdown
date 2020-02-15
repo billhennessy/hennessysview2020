@@ -6,7 +6,7 @@ title: Want to see the signing of the Declaration of Independence?
 layout: blog
 #url: e/2010/05/02/want-to-see-the-signing-of-the-declaration-of-independence/
 categories:
-- Miscellaneous
+- Living
 - News
 tags:
 - Declaration of Independence

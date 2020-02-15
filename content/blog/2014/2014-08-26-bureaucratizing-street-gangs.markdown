@@ -12,7 +12,7 @@ tags:
 - Politics
 - Lee Presser
 - own your life
-- poverty
+- Economy
 - rush limbaugh
 type: "post"
 ---

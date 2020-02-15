@@ -10,7 +10,7 @@ categories:
 - Politics
 tags:
 - Eric Greitens
-- Missouri Governor
+- Politics Governor
 - weasels
 type: "post"
 ---

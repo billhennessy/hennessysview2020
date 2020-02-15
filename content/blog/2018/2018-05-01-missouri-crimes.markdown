@@ -11,7 +11,7 @@ categories:
 tags:
 - Al Watkins
 - Eric Greitens
-- Missouri Times
+- Politics Times
 - Scott Faughn
 type: "post"
 ---

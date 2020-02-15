@@ -6,9 +6,9 @@ title: Maybe Police Officers Would Rather Be Tax Collectors
 layout: blog
 #url: e/2015/02/01/maybe-police-officers-rather-tax-collectors/
 categories:
-- Municipal Courts
+- Politics
 tags:
-- municipal courts
+- Politics
 - police
 - speed traps
 type: "post"

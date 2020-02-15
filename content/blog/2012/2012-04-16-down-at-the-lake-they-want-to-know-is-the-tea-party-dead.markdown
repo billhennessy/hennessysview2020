@@ -14,7 +14,7 @@ tags:
 - ed martin
 - Lake Liberal
 - Lake of the Ozarks
-- missouri
+- Politics
 - Rallies
 - Tea Party News
 type: "post"

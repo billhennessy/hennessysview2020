@@ -6,7 +6,7 @@ title: Not So Fast, Seth
 layout: blog
 #url: e/2010/12/23/not-so-fast-seth/
 categories:
-- Limited Government
+- Politics
 tags:
 - Fox News
 - Linchpin

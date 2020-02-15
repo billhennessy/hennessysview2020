@@ -13,7 +13,7 @@ tags:
 - Barack Obama
 - Independence Day
 - John Roberts
-- obamacare
+- Politics
 - slavery
 - suicide
 type: "post"

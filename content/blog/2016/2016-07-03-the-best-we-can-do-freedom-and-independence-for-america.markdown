@@ -6,7 +6,7 @@ title: 'The Best We Can Do: Freedom and Independence For America'
 layout: blog
 #url: e/2016/07/03/the-best-we-can-do-freedom-and-independence-for-america/
 categories:
-- Limited Government
+- Politics
 - Living
 tags:
 - Independence Day

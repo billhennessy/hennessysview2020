@@ -6,7 +6,7 @@ title: I've Learned the House GOP Is A Lot Tougher Than Senate
 layout: blog
 #url: e/2013/09/28/ive-learned-house-gop-lot-tougher-senate/
 categories:
-- Obamacare
+- Politics
 tags:
 - 'democratshutdown'
 - conservative

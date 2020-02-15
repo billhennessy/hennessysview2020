@@ -6,12 +6,12 @@ title: 'BREAKING: Watch The Kudlow Report at 6 Central Tonight **MARCH 14**'
 layout: blog
 #url: e/2012/03/14/breaking-watch-the-kudlow-report-at-6-central-tonight/
 categories:
-- Other News
+- News
 tags:
 - CNBC
 - GOP
 - Larry Kudlow
-- obamacare
+- Politics
 - primaries
 - RomneyCare
 - Tea Party News

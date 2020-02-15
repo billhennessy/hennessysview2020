@@ -8,8 +8,8 @@ layout: blog
 categories:
 - Politics
 tags:
-- Missouri Caucus
-- Missouri Primary
+- Politics Caucus
+- Politics
 - Olivette
 - Presidential caucus
 - The After Party

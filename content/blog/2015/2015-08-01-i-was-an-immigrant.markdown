@@ -6,7 +6,7 @@ title: I was an immigrant
 layout: blog
 #url: e/2015/07/31/i-was-an-immigrant/
 categories:
-- Political Strategy
+- Politics
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: Grading my prediction for 2009
 layout: blog
 #url: e/2010/05/20/grading-my-prediction-for-2009/
 categories:
-- Miscellaneous
+- Living
 tags:
 - climate-change
 - michael jackson

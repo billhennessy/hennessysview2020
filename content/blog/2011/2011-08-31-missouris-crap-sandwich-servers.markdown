@@ -7,8 +7,8 @@ layout: blog
 #url: e/2011/08/31/missouris-crap-sandwich-servers/
 categories:
 - Politics
-- Limited Government
-- Missouri
+- Politics
+- Politics
 tags:
 - aerotropolis
 - china hub

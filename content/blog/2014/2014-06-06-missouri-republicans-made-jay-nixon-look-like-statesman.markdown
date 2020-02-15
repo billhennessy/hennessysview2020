@@ -7,15 +7,15 @@ layout: blog
 #url: e/2014/06/05/missouri-republicans-made-jay-nixon-look-like-statesman/
 categories:
 - Politics
-- Missouri
+- Politics
 tags:
 - anti-establishment
 - Politics
 - GOP
 - Jay Nixon
 - libertarian
-- missouri budget
-- Missouri House
+- Politics budget
+- Politics House
 - republican
 - Tea Party News
 type: "post"

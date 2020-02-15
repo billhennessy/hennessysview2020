@@ -6,7 +6,7 @@ title: How To Ruin a Perfectly Good Joke
 layout: blog
 #url: e/2014/09/03/ruin-perfectly-good-joke/
 categories:
-- Miscellaneous
+- Living
 tags:
 - Adam Sharp
 - Phil Hare

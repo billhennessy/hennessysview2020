@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - Chuck Purgason
-- Missouri Senate Race
+- Politics Senate Race
 - rasmussen report
 - Robin Carnahan
 - roy blunt

@@ -13,7 +13,7 @@ tags:
 - ed martin
 - Facebook
 - LinkedIn
-- missouri
+- Politics
 - Reddit
 - StumbleUpon
 type: "post"

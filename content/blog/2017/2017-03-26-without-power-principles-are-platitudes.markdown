@@ -6,7 +6,7 @@ title: Without Power, Principles Are Platitudes
 layout: blog
 #url: e/2017/03/26/without-power-principles-are-platitudes/
 categories:
-- Political Strategy
+- Politics
 tags:
 - Freedom Caucus
 - Strategy

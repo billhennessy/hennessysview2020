@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/07/30/2016-republican-primary-key-races/
 categories:
 - Politics
-- Missouri
+- Politics
 tags:
 - Andrew Koenig
 - Bill Eigel

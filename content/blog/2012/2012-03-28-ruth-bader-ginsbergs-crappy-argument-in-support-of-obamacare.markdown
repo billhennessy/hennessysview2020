@@ -8,7 +8,7 @@ layout: blog
 categories:
 - News
 tags:
-- obamacare
+- Politics
 - ruth bader ginsberg
 - scotus
 - Supreme-Court

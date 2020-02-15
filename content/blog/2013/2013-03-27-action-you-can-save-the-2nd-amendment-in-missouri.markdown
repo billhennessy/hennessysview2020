@@ -10,9 +10,9 @@ categories:
 - Activism
 tags:
 - 2nd Amendment
-- Missouri Department of Revenue
-- Missouri Driver's License
-- Missouri Legislature
+- Politics Department of Revenue
+- Politics Driver's License
+- Politics Legislature
 type: "post"
 ---
 

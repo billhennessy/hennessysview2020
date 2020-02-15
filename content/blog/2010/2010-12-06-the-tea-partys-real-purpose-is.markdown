@@ -6,14 +6,14 @@ title: The Tea Party’s Real Purpose Is . . .
 layout: blog
 #url: e/2010/12/06/the-tea-partys-real-purpose-is/
 categories:
-- Limited Government
+- Politics
 tags:
 - adams
 - Constitution
 - happiness
 - jay
 - jefferson
-- limited government
+- Politics
 - principles
 - Tea Party News
 type: "post"

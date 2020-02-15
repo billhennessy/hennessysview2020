@@ -7,7 +7,7 @@ layout: blog
 #url: e/2014/07/05/awesome-video-us-army-sergeant-tells-iraqi-police-way/
 categories:
 - Military
-- Missouri
+- Politics
 post_format:
 - Video
 type: "post"

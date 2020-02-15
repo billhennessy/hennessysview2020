@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/07/27/paul-holzer-john-brunner-1/
 categories:
 - Politics
-- Missouri
+- Politics
 - News
 tags:
 - Eric Greitens

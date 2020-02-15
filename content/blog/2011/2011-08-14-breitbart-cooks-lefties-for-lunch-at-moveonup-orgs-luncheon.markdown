@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/08/14/breitbart-cooks-lefties-for-lunch-at-moveonup-orgs-luncheon/
 categories:
 - News
-- Other News
+- News
 - Tea Party News
 type: "post"
 ---

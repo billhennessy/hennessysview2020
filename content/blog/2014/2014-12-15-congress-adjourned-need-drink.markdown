@@ -7,7 +7,7 @@ layout: blog
 #url: e/2014/12/14/congress-adjourned-need-drink/
 categories:
 - Politics
-- Limited Government
+- Politics
 - Living
 - US Congress
 tags:

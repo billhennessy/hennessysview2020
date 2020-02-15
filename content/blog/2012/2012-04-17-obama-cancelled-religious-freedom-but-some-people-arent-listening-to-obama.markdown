@@ -6,7 +6,7 @@ title: Obama Cancelled Religious Freedom, But Some People Aren't Listening to Ob
 layout: blog
 #url: e/2012/04/17/obama-cancelled-religious-freedom-but-some-people-arent-listening-to-obama/
 categories:
-- Limited Government
+- Politics
 tags:
 - abortion
 - contraceptions

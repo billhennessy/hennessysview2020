@@ -11,8 +11,8 @@ tags:
 - anti-Semitism
 - Eric Greitens
 - John Hancock
-- missouri
-- municipal courts
+- Politics
+- Politics
 - Tom Scheich
 type: "post"
 ---

@@ -6,7 +6,7 @@ title: What are the Perfect Ingredients of Great Book?
 layout: blog
 #url: e/2011/10/15/what-are-the-perfect-ingredients-of-great-book/
 categories:
-- Miscellaneous
+- Living
 tags:
 - bob mccarty
 - books

@@ -12,7 +12,7 @@ tags:
 - Democrat
 - democrats
 - Mackinac Center for Public Policy
-- missouri
+- Politics
 - republican
 - Republicans
 - Tax

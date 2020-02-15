@@ -6,10 +6,10 @@ title: How Greitens Protected Privacy in Missouri
 layout: blog
 #url: e/2017/08/07/how-greitens-protected-privacy-in-missouri/
 categories:
-- Missouri
+- Politics
 - News
 tags:
-- missouri
+- Politics
 - Prescription Database
 - Privacy
 type: "post"

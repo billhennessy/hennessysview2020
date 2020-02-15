@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - ed martin
-- missouri
+- Politics
 - Peter Kinder
 - primary
 - republican

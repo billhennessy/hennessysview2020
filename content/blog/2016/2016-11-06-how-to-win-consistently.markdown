@@ -7,11 +7,11 @@ layout: blog
 #url: e/2016/11/06/how-to-win-consistently/
 categories:
 - Politics
-- Missouri
+- Politics
 tags:
 - Donald Trump
 - Eric Greitens
-- missouri
+- Politics
 - roy blunt
 type: "post"
 ---

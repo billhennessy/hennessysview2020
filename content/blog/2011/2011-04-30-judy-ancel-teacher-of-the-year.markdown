@@ -6,7 +6,7 @@ title: 'Judy Ancel: Teacher of the Year'
 layout: blog
 #url: e/2011/04/30/judy-ancel-teacher-of-the-year/
 categories:
-- Missouri
+- Politics
 - Union News
 tags:
 - Judy Ancel

@@ -10,7 +10,7 @@ categories:
 tags:
 - anthony Kennedy
 - Livingcare
-- obamacare
+- Politics
 - scotus
 type: "post"
 ---

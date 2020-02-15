@@ -13,7 +13,7 @@ tags:
 - Freeman Health Systems
 - Lance Beshore
 - medicaid expansion
-- Missouri GOP
+- Politics GOP
 - Obmacare
 type: "post"
 ---

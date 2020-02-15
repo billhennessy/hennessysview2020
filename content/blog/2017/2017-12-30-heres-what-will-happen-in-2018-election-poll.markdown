@@ -7,7 +7,7 @@ layout: blog
 #url: e/2017/12/30/heres-what-will-happen-in-2018-election-poll/
 categories:
 - Politics
-- Persuasion
+- Living
 - Political Psychology
 tags:
 - Politics

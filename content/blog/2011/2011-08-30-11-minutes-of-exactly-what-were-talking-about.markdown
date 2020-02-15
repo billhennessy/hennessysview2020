@@ -6,7 +6,7 @@ title: 11 Minutes of Exactly What We’re Talking About
 layout: blog
 #url: e/2011/08/30/11-minutes-of-exactly-what-were-talking-about/
 categories:
-- Limited Government
+- Politics
 tags:
 - ed martin
 - kansas city

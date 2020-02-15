@@ -10,7 +10,7 @@ categories:
 tags:
 - Activism
 - GOP
-- Missouri Precinct Project
+- Politics Precinct Project
 - MOPP
 - Raging Elephants
 - republican

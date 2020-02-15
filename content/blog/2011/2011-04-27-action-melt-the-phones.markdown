@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/04/27/action-melt-the-phones/
 categories:
 - Politics
-- Missouri
+- Politics
 - Union News
 tags:
 - Activism

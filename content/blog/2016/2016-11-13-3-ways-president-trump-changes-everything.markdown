@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/11/12/3-ways-president-trump-changes-everything/
 categories:
 - News
-- President Trump
+- Donald Trump
 tags:
 - building
 - dressing up

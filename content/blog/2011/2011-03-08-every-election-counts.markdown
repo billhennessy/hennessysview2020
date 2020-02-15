@@ -6,12 +6,12 @@ title: Every Election Counts
 layout: blog
 #url: e/2011/03/08/every-election-counts/
 categories:
-- Missouri
+- Politics
 tags:
 - April 5
 - Chip Wood
 - Jesse Irwin
-- Missouri elections
+- Politics elections
 - vote
 type: "post"
 ---

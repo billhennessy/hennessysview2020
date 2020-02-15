@@ -7,7 +7,7 @@ layout: blog
 #url: e/2017/12/29/looking-ahead-to-season-four-of-trump-the-president/
 categories:
 - News
-- President Trump
+- Donald Trump
 - Trump
 tags:
 - Scott Adams

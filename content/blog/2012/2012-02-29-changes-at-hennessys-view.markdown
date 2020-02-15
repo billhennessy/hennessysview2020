@@ -6,7 +6,7 @@ title: Changes at Hennessy's View
 layout: blog
 #url: e/2012/02/29/changes-at-hennessys-view/
 categories:
-- Miscellaneous
+- Living
 tags:
 - hennessy
 - moving service

@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 tags:
-- missouri
+- Politics
 - PDMP
 - Prescription Database
 type: "post"

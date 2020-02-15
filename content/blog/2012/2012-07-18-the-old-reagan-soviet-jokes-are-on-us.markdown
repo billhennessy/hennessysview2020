@@ -6,7 +6,7 @@ title: The Old Reagan Soviet Jokes Are on US
 layout: blog
 #url: e/2012/07/18/the-old-reagan-soviet-jokes-are-on-us/
 categories:
-- Limited Government
+- Politics
 tags:
 - Barack Obama
 - obama

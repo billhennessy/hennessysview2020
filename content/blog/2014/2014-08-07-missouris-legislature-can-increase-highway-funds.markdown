@@ -6,11 +6,11 @@ title: How Missouri's Legislature Can Increase Highway Funds
 layout: blog
 #url: e/2014/08/07/missouris-legislature-can-increase-highway-funds/
 categories:
-- Political Strategy
+- Politics
 tags:
 - Amendment 7
-- Missouri House
-- Missouri Senate
+- Politics House
+- Politics Senate
 - Speaker John Diehl
 - TEA
 - Transportation E

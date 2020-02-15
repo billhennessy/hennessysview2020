@@ -6,7 +6,7 @@ title: Obama’s Contempt for the Rule of Law
 layout: blog
 #url: e/2011/02/04/obamas-contempt-for-the-rule-of-law/
 categories:
-- Limited Government
+- Politics
 tags:
 - Constitution
 - Contempt of court

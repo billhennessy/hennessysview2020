@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/08/02/what-everybody-ought-to-know-about-the-debt-deal/
 categories:
 - Economy
-- Limited Government
+- Politics
 - Tea Party News
 tags:
 - debt deal

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/04/08/a-party-not-a-club/
 categories:
 - Politics
-- Missouri
+- Politics
 tags:
 - Assessor
 - Chip Wood

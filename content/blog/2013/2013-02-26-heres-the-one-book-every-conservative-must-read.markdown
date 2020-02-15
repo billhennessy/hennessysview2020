@@ -16,7 +16,7 @@ tags:
 - Politics
 - John Mackey
 - Milton Friedman
-- obamacare
+- Politics
 type: "post"
 ---
 

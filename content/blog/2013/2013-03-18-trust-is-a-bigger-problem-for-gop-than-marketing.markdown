@@ -6,7 +6,7 @@ title: Trust Is a Bigger Problem for GOP Than Marketing
 layout: blog
 #url: e/2013/03/18/trust-is-a-bigger-problem-for-gop-than-marketing/
 categories:
-- Political Strategy
+- Politics
 tags:
 - GOP
 - marketing

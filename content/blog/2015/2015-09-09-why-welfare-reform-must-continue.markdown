@@ -12,7 +12,7 @@ tags:
 - Marienthal Austria
 - Nisbett and Ross
 - Person and Situation
-- poverty
+- Economy
 - The Conservative Heart
 type: "post"
 ---

@@ -13,8 +13,8 @@ tags:
 - HCFA
 - Livingcare freedom act
 - howard jarvis
-- missouri
-- Missouri Primary
+- Politics
+- Politics
 - tax revolt
 type: "post"
 ---

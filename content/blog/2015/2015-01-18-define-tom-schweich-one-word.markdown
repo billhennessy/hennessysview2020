@@ -10,7 +10,7 @@ categories:
 tags:
 - Catherine Hanaway
 - Governor
-- missouri
+- Politics
 - Rex Singquefield
 - tom schweich
 type: "post"

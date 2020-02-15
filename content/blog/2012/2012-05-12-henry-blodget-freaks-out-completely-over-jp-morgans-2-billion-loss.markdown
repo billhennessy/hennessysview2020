@@ -6,7 +6,7 @@ title: Henry Blodget Freaks Out Completely Over JP Morgan’s $2 Billion Loss
 layout: blog
 #url: e/2012/05/12/henry-blodget-freaks-out-completely-over-jp-morgans-2-billion-loss/
 categories:
-- Limited Government
+- Politics
 tags:
 - banking
 - business insider

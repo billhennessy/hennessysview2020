@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 tags:
-- persuasion
+- Living
 - radical Islam
 - Scott Adams
 type: "post"

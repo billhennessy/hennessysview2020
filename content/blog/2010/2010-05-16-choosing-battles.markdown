@@ -8,14 +8,14 @@ layout: blog
 categories:
 - Politics
 - Politics
-- Limited Government
+- Politics
 - Politics
 - Trump
 tags:
 - autism
 - Donald J. Trump
 - elections
-- missouri healthcare free choice act
+- Politics healthcare free choice act
 - US Congress
 type: "post"
 ---

@@ -9,7 +9,7 @@ layout: blog
 categories:
 - Constitution
 tags:
-- obamacare
+- Politics
 - Supreme-Court
 - Tea Party News
 type: "post"

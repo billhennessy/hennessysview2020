@@ -6,7 +6,7 @@ title: 4 Reasons Why House Republicans Should Pass a Clean Debt Ceiling Bill Now
 layout: blog
 #url: e/2013/10/05/4-reasons-to-pass-clean-debt-ceiling-bill/
 categories:
-- Political Strategy
+- Politics
 tags:
 - 'democratshutdown'
 - conservative

@@ -6,7 +6,7 @@ title: Bad Times for Unions
 layout: blog
 #url: e/2011/08/21/bad-times-for-unions/
 categories:
-- Other News
+- News
 - Union News
 tags:
 - CWA

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/12/29/how-the-rcga-is-ruining-st-louis-and-what-businesses-can-do-about-it/
 categories:
 - Politics
-- Limited Government
+- Politics
 - St. Louis City
 - St. Louis County
 tags:

@@ -10,8 +10,8 @@ categories:
 tags:
 - Jay Nixon
 - Kinder v. Holden
-- missouri
-- obamacare
+- Politics
+- Politics
 - Special Session
 - Steve Tilley
 type: "post"

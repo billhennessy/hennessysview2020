@@ -6,7 +6,7 @@ title: Time to Remove Justice Ginsburg
 layout: blog
 #url: e/2012/04/01/time-to-remove-justice-ginsberg/
 categories:
-- Limited Government
+- Politics
 tags:
 - ruth bader ginsberg
 - Scouts

@@ -6,7 +6,7 @@ title: Am I an Idiot?
 layout: blog
 #url: e/2011/01/11/am-i-an-idiot/
 categories:
-- Miscellaneous
+- Living
 tags:
 - liberals
 - Tucson

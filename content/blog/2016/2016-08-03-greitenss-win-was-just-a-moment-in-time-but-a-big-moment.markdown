@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/08/03/greitenss-win-was-just-a-moment-in-time-but-a-big-moment/
 categories:
 - Politics
-- Missouri
+- Politics
 tags:
 - Eric Greitens
 type: "post"

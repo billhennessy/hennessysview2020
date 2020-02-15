@@ -9,8 +9,8 @@ categories:
 - Politics
 tags:
 - Dottie Bailey
-- Missouri 110
-- Missouri House
+- Politics 110
+- Politics House
 type: "post"
 ---
 

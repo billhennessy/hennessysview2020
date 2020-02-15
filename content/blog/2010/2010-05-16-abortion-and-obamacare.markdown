@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - abortion
-- obamacare
+- Politics
 type: "post"
 ---
 

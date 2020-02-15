@@ -6,7 +6,7 @@ title: Entrepreneur vs. Empress
 layout: blog
 #url: e/2016/11/11/entrepreneur-vs-empress/
 categories:
-- President Trump
+- Donald Trump
 type: "post"
 ---
 

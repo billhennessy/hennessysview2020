@@ -6,7 +6,7 @@ title: 'Breaking: Droopy Matt Doell Gets Dirty'
 
 # #url: e/2018/08/02/droopy-matt-doell-gets-dirty/
 categories:
-- Politics Primary
+- Politics
 tags:
 - Matt Doell
 - Rockwood

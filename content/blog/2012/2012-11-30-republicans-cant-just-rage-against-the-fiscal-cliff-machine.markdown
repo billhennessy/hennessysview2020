@@ -6,7 +6,7 @@ title: Republicans Can't Just Rage Against The Fiscal Cliff Machine
 layout: blog
 #url: e/2012/11/30/republicans-cant-just-rage-against-the-fiscal-cliff-machine/
 categories:
-- Political Strategy
+- Politics
 type: "post"
 ---
 

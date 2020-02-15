@@ -6,7 +6,7 @@ title: Tucson
 layout: blog
 #url: e/2011/04/29/tucson/
 categories:
-- Other News
+- News
 - Tea Party News
 tags:
 - jenn

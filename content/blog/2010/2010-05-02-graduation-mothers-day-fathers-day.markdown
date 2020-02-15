@@ -6,7 +6,7 @@ title: Graduation, Mother’s Day, Father’s Day  . . .
 layout: blog
 #url: e/2010/05/02/graduation-mothers-day-fathers-day/
 categories:
-- Miscellaneous
+- Living
 tags:
 - Zen Conservatism
 type: "post"

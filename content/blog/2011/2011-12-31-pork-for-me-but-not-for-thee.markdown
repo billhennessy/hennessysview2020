@@ -6,7 +6,7 @@ title: Pork For Me But Not For Thee
 layout: blog
 #url: e/2011/12/31/pork-for-me-but-not-for-thee/
 categories:
-- Limited Government
+- Politics
 tags:
 - Politics
 - pork barrel

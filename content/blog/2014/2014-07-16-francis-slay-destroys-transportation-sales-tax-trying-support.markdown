@@ -12,7 +12,7 @@ tags:
 - Amendment 7
 - Gary Wiegert
 - Mayor Slay
-- Missouri Sales Tax
+- Politics Sales Tax
 - Sales Tax Increase
 - Transportation Sales Tax
 type: "post"

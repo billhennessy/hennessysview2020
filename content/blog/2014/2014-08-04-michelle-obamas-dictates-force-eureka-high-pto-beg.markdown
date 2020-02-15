@@ -6,7 +6,7 @@ title: Michelle Obama's Dictates Force Eureka High PTO To Beg
 layout: blog
 #url: e/2014/08/04/michelle-obamas-dictates-force-eureka-high-pto-beg/
 categories:
-- Limited Government
+- Politics
 tags:
 - Department of
 - michelle obama

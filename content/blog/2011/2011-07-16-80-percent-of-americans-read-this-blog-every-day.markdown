@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Economy
 - News
-- Limited Government
+- Politics
 tags:
 - Debt Ceiling
 - obama

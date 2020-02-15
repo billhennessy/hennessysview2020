@@ -6,7 +6,7 @@ title: Why Is Jay Barnes So Angry?
 
 # #url: e/2018/05/26/why-is-greasy-jay-barnes-so-angry/
 categories:
-- Missouri
+- Politics
 - News
 tags:
 - Al Watkins

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/07/31/dont-make-these-simple-mistakes-about-debt/
 categories:
 - Economy
-- Limited Government
+- Politics
 type: "post"
 ---
 

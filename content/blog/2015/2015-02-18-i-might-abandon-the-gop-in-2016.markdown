@@ -6,7 +6,7 @@ title: I Might Abandon the GOP in 2016
 layout: blog
 #url: e/2015/02/17/i-might-abandon-the-gop-in-2016/
 categories:
-- Political Strategy
+- Politics
 type: "post"
 ---
 

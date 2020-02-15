@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Activism
 - Economy
-- Limited Government
+- Politics
 - Politics
 tags:
 - Dodd Financial Reform

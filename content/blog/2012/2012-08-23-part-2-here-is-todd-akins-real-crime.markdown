@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 tags:
-- missouri
+- Politics
 - Politics
 - republican
 - Todd

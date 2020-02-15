@@ -6,7 +6,7 @@ title: Why Municipal Courts Matter to Liberty
 layout: blog
 #url: e/2014/09/05/municipal-courts-matter-liberty/
 categories:
-- Municipal Courts
+- Politics
 - Trump
 tags:
 - Arch City Defenders
@@ -15,7 +15,7 @@ tags:
 - Politics
 - libertarian
 - Politics
-- municipal courts
+- Politics
 type: "post"
 ---
 

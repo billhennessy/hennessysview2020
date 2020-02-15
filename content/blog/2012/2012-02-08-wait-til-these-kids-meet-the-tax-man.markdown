@@ -6,7 +6,7 @@ title: Wait ‘til These Kids Meet the Tax Man
 layout: blog
 #url: e/2012/02/08/wait-til-these-kids-meet-the-tax-man/
 categories:
-- Limited Government
+- Politics
 tags:
 - bureacracy
 - georgetown

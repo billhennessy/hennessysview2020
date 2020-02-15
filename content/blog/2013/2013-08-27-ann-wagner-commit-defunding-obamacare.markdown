@@ -6,8 +6,8 @@ title: How Ann Wagner Should Commit to Defunding Obamacare
 layout: blog
 #url: e/2013/08/27/ann-wagner-commit-defunding-obamacare/
 categories:
-- Limited Government
-- Obamacare
+- Politics
+- Politics
 type: "post"
 ---
 

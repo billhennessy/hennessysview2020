@@ -6,7 +6,7 @@ title: Afraid to Live
 layout: blog
 #url: e/2010/09/20/afraid-to-live/
 categories:
-- Limited Government
+- Politics
 tags:
 - despotism
 type: "post"

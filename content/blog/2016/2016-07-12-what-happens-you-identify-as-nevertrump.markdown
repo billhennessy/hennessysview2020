@@ -12,7 +12,7 @@ tags:
 - Identity claims
 - neuroscience
 - NeverTrump
-- persuasion
+- Living
 type: "post"
 ---
 

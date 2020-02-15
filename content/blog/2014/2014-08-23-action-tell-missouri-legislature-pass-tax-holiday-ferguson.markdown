@@ -10,7 +10,7 @@ categories:
 - 'Ferguson'
 tags:
 - Jay Nixon
-- missouri
+- Politics
 - Sales Tax Holiday
 - Tim Jones
 - Veto Session

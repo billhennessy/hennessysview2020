@@ -6,7 +6,7 @@ title: 3 Differences Between Bain and Solyndra
 layout: blog
 #url: e/2012/05/23/3-differences-between-bain-and-solyndra/
 categories:
-- Limited Government
+- Politics
 tags:
 - Bain
 - capital

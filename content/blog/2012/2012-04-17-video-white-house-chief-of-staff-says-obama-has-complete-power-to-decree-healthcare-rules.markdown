@@ -7,7 +7,7 @@ title: 'Video: White House Chief of Staff Says Obama Has Complete Power to Decre
 layout: blog
 #url: e/2012/04/16/video-white-house-chief-of-staff-says-obama-has-complete-power-to-decree-healthcare-rules/
 categories:
-- Limited Government
+- Politics
 tags:
 - abortion
 - Birth Control
@@ -15,7 +15,7 @@ tags:
 - Faith
 - Chief of Staff
 - Jack Lew
-- obamacare
+- Politics
 - totalitarian
 - White House
 type: "post"

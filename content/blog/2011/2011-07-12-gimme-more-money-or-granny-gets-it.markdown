@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/07/12/gimme-more-money-or-granny-gets-it/
 categories:
 - Economy
-- Other News
+- News
 tags:
 - debt
 - Debt Ceiling

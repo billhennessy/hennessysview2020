@@ -6,7 +6,7 @@ title: Don't Fast on Sundays
 
 # #url: e/2018/07/28/dont-fast-on-sundays/
 categories:
-- Politics Election
+- Politics
 - Faith
 - Living
 tags:

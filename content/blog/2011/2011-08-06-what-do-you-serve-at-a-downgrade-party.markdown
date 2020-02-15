@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/08/05/what-do-you-serve-at-a-downgrade-party/
 categories:
 - Economy
-- Limited Government
+- Politics
 - Tea Party News
 tags:
 - AA+

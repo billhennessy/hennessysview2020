@@ -9,7 +9,7 @@ categories:
 - Tea Party News
 tags:
 - future of the tea party
-- missouri news horizon
+- Politics news horizon
 - nancy etcoff
 - pursuit of happiness
 - rebecca townsend

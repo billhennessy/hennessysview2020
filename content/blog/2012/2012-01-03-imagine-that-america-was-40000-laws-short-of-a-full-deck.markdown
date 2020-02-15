@@ -6,7 +6,7 @@ title: Imagine That! America Was 40,000 Laws Short of a Full Deck
 layout: blog
 #url: e/2012/01/02/imagine-that-america-was-40000-laws-short-of-a-full-deck/
 categories:
-- Limited Government
+- Politics
 tags:
 - Politics
 - hoarders

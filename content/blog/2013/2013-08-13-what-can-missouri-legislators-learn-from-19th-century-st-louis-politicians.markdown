@@ -6,11 +6,11 @@ title: What Can Missouri Legislators Learn From 19th Century St. Louis Politicia
 layout: blog
 #url: e/2013/08/13/what-can-missouri-legislators-learn-from-19th-century-st-louis-politicians/
 categories:
-- Obamacare
+- Politics
 tags:
 - Living Insurance Exchanges
 - Livingcare
-- obamacare
+- Politics
 type: "post"
 ---
 

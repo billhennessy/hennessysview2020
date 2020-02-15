@@ -15,7 +15,7 @@ tags:
 - Governor
 - Lt. Governor
 - Martin Baker
-- missouri
+- Politics
 - video
 type: "post"
 ---

@@ -14,7 +14,7 @@ tags:
 - medical costs
 - medical insurance
 - medicine
-- obamacare
+- Politics
 - tort reform
 type: "post"
 ---

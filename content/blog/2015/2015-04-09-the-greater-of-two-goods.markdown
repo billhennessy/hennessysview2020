@@ -10,7 +10,7 @@ categories:
 tags:
 - Eric Greitens
 - John Brunner
-- missouri
+- Politics
 type: "post"
 ---
 

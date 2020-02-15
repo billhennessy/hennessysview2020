@@ -7,7 +7,7 @@ layout: blog
 #url: e/2012/03/24/how-herbert-hoover-launched-cardinal-nation/
 categories:
 - Politics
-- Limited Government
+- Politics
 tags:
 - 'tcot'
 - 'teaparty'

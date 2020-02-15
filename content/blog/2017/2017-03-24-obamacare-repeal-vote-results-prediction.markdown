@@ -6,7 +6,7 @@ title: Obamacare Repeal Vote Results (Prediction)
 layout: blog
 #url: e/2017/03/23/obamacare-repeal-vote-results-prediction/
 categories:
-- Obamacare
+- Politics
 tags:
 - Donald Trump
 - Paul Ryan

@@ -6,13 +6,13 @@ title: Here’s What’s Great About the Supreme Court’s Obamacare Decision
 layout: blog
 #url: e/2012/06/30/heres-whats-great-about-the-supreme-courts-obamacare-decision/
 categories:
-- Obamacare
+- Politics
 tags:
 - flash rally
 - Livingcare
 - kings row
 - liberty
-- obamacare
+- Politics
 - republican
 - Supreme-Court
 type: "post"

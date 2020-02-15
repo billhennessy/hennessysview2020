@@ -6,7 +6,7 @@ title: Barney Frank Comes Home to the Facts
 layout: blog
 #url: e/2010/08/22/barney-frank-comes-home-to-the-facts/
 categories:
-- Limited Government
+- Politics
 type: "post"
 ---
 

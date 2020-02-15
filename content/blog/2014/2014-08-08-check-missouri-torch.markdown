@@ -6,7 +6,7 @@ title: Check Out The Missouri Torch
 layout: blog
 #url: e/2014/08/08/check-missouri-torch/
 categories:
-- Missouri
+- Politics
 - News
 type: "post"
 ---

@@ -6,7 +6,7 @@ title: The Supreme Court Votes on Obamacare Today
 layout: blog
 #url: e/2012/03/30/the-supreme-court-votes-on-obamacare-today/
 categories:
-- Limited Government
+- Politics
 tags:
 - anthony Kennedy
 - chief justice
@@ -14,7 +14,7 @@ tags:
 - Living insurance
 - John Roberts
 - michael patrick leahy
-- obamacare
+- Politics
 - Supreme-Court
 type: "post"
 ---

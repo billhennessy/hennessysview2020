@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/04/29/one-question-for-gail-hackett-of-umkc/
 categories:
 - Academics
-- Other News
+- News
 - Tea Party News
 tags:
 - Don Giljum

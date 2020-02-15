@@ -7,11 +7,11 @@ layout: blog
 # #url: e/2013/09/12/who-will-be-americas-clothing-czar/
 categories:
 - Politics
-- Limited Government
+- Politics
 tags:
 - clothing czar
 - freedom
-- limited government
+- Politics
 type: "post"
 ---
 

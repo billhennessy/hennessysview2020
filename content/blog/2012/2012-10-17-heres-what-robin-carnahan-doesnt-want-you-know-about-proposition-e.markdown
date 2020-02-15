@@ -10,8 +10,8 @@ categories:
 tags:
 - bureaucrats
 - Living Insurance Exchanges
-- Missouri Ballot
-- obamacare
+- Politics Ballot
+- Politics
 - Prop E
 - Proposition E
 type: "post"

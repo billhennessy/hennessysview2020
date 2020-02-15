@@ -6,7 +6,7 @@ title: So Much for the Experts
 layout: blog
 #url: e/2011/08/08/so-much-for-the-experts/
 categories:
-- Other News
+- News
 tags:
 - experts
 - History

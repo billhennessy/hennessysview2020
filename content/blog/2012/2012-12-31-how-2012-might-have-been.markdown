@@ -6,7 +6,7 @@ title: How 2012 Might Have Been
 layout: blog
 #url: e/2012/12/30/how-2012-might-have-been/
 categories:
-- Miscellaneous
+- Living
 tags:
 - '2012'
 - New Years
