@@ -6,7 +6,7 @@ title: Why Smart Phones Are More Popular Than the Tea Party
 layout: blog
 #url: e/2015/08/12/why-smart-phones-are-more-popular-than-the-tea-party/
 categories:
-- Conservatism
+- Politics
 - News
 tags:
 - conservative features

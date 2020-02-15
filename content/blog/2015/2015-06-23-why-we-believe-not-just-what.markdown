@@ -6,7 +6,7 @@ title: Charleston, South Carolina
 layout: blog
 #url: e/2015/06/22/why-we-believe-not-just-what/
 categories:
-- Charleston
+- Living
 - News
 type: "post"
 ---

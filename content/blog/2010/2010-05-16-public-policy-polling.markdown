@@ -7,7 +7,7 @@ layout: blog
 #url: e/2010/05/16/public-policy-polling/
 categories:
 - Economy
-- election
+- Politics
 - Politics
 type: "post"
 ---

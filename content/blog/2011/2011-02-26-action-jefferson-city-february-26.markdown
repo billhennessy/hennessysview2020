@@ -6,9 +6,9 @@ title: 'ACTION:  Jefferson City February 26  *UPDATE*'
 layout: blog
 #url: e/2011/02/25/action-jefferson-city-february-26/
 categories:
-- Action
+- Activism
 tags:
-- action
+- Activism
 - communism
 - jefferson city
 - rally

@@ -6,7 +6,7 @@ title: 5 Things to Question About Debt Deal
 layout: blog
 #url: e/2011/08/01/5-things-to-question-about-debt-deal/
 categories:
-- Economics and Economy
+- Economy
 - Limited Government
 tags:
 - compromise

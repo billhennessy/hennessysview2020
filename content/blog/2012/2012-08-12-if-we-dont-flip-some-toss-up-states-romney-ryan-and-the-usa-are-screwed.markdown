@@ -10,7 +10,7 @@ categories:
 tags:
 - Cole McNary
 - ed martin
-- election
+- Politics
 - electoral college
 - Mitt Romney
 - New Hampshire

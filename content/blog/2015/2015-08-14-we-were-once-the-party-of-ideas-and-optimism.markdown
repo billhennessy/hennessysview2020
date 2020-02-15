@@ -6,7 +6,7 @@ title: We Were Once the Party of Ideas and Optimism
 layout: blog
 #url: e/2015/08/13/we-were-once-the-party-of-ideas-and-optimism/
 categories:
-- Conservatism
+- Politics
 tags:
 - ideas
 - kemp

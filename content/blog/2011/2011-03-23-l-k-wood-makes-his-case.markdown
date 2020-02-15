@@ -9,7 +9,7 @@ categories:
 - St. Louis County
 tags:
 - Chip Wood
-- Election April 5
+- Politics April 5
 - L.K. Wood
 - St. Louis County Assessor
 type: "post"

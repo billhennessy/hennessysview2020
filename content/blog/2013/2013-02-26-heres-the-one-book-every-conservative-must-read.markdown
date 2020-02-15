@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Business
 tags:
-- conscious capitalism
+- Business
 - crony capitalism
 - Dodd-Frank
 - free enterprise capitalism

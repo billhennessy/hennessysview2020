@@ -7,7 +7,7 @@ title: Richard Florida Has the Relationship Between Home Ownership and Growth Al
 layout: blog
 #url: e/2012/06/25/richard-florida-has-the-relationship-between-home-ownership-and-growth-all-wrong/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - business insider
 - Economics

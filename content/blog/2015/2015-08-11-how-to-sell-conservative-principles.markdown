@@ -6,7 +6,7 @@ title: How to Sell Conservative Principles
 layout: blog
 #url: e/2015/08/11/how-to-sell-conservative-principles/
 categories:
-- Conservatism
+- Politics
 tags:
 - Live Your Why
 - simon sinek

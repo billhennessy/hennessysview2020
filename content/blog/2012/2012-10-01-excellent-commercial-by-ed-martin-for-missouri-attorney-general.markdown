@@ -11,7 +11,7 @@ tags:
 - Attorney General
 - Chris Koster
 - ed martin
-- election 2012
+- Politics 2012
 - Get Out the Vote
 - GOTV
 - grassroots

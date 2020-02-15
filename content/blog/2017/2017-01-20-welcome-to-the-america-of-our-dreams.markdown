@@ -6,7 +6,7 @@ title: Welcome to the America of Our Dreams
 layout: blog
 #url: e/2017/01/19/welcome-to-the-america-of-our-dreams/
 categories:
-- American Tea Party
+- Politics
 tags:
 - 'tcot'
 - Donald Trump

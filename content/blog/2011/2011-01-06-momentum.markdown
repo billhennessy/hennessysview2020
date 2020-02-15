@@ -6,7 +6,7 @@ title: Momentum
 layout: blog
 #url: e/2011/01/06/momentum/
 categories:
-- American Tea Party
+- Politics
 tags:
 - momentum
 - Tea Party News

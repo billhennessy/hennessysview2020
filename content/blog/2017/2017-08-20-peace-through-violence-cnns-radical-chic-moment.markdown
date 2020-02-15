@@ -8,7 +8,7 @@ layout: blog
 categories:
 - News
 tags:
-- Antifa
+- Politics
 - CNN
 - white supremacists
 type: "post"

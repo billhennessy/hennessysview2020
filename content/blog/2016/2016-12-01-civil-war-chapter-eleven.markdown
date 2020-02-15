@@ -6,7 +6,7 @@ title: 'Civil War: Chapter Eleven'
 layout: blog
 #url: e/2016/12/01/civil-war-chapter-eleven/
 categories:
-- Civil War Series
+- Fiction
 - Fiction
 type: "post"
 ---

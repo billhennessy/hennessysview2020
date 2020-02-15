@@ -9,7 +9,7 @@ categories:
 - Academics
 - Politics
 tags:
-- education
+- Academics
 - factory class
 - ruling class
 - schools

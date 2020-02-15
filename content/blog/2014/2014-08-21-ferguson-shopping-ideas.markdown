@@ -6,7 +6,7 @@ title: Ferguson Shopping Ideas
 layout: blog
 #url: e/2014/08/21/ferguson-shopping-ideas/
 categories:
-- Action
+- Activism
 tags:
 - buycott
 - BUYcott Ferguson

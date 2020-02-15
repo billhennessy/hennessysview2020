@@ -8,7 +8,7 @@ layout: blog
 #url: e/2010/05/28/3-ways-to-stop-democrat-sen-bob-casey-from-stealing-your-tax-money-to-reimburse-seiu-for-bribing-media-matters-and-huffington-post/
 categories:
 - Crime
-- election
+- Politics
 - Politics
 tags:
 - bob casey

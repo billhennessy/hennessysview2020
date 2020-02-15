@@ -6,7 +6,7 @@ title: Republicans Need Marketing Consultants
 layout: blog
 # #url: e/2013/09/07/republicans-need-marketing-consultants/
 categories:
-- Campaigns and Elections
+- Politics
 type: "post"
 ---
 

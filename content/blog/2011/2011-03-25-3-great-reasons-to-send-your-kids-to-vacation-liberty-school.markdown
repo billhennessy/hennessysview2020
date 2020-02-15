@@ -6,10 +6,10 @@ title: 3 Great Reasons to Send Your Kids to Vacation Liberty School
 layout: blog
 #url: e/2011/03/25/3-great-reasons-to-send-your-kids-to-vacation-liberty-school/
 categories:
-- Education
+- Academics
 tags:
 - as a mom
-- education
+- Academics
 - vacation liberty school
 type: "post"
 ---

@@ -6,10 +6,10 @@ title: 'Civil War: Chapter Two'
 layout: blog
 #url: e/2016/11/19/civil-war-chapter-two/
 categories:
-- Civil War Series
+- Fiction
 - Fiction
 tags:
-- Civil War Series
+- Fiction
 type: "post"
 ---
 

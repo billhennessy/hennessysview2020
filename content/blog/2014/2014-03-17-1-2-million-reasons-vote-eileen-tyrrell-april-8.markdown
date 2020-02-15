@@ -6,7 +6,7 @@ title: 1.2 Million Reasons to Vote for Eileen Tyrrell on April 8
 layout: blog
 #url: e/2014/03/17/1-2-million-reasons-vote-eileen-tyrrell-april-8/
 categories:
-- Education
+- Academics
 tags:
 - Ballwin
 - Chesterfield

@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Limited Government
 tags:
-- conservatism
+- Politics
 - pork barrel
 - roy blunt
 type: "post"

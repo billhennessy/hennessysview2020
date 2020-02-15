@@ -6,7 +6,7 @@ title: What’s the One Thing Congress Should Push Right Now?
 layout: blog
 #url: e/2011/08/03/whats-the-one-thing-congress-should-push-right-now/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - flat tax
 - Jack Kemp

@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - beauty
-- election 2010
+- Politics 2010
 type: "post"
 ---
 

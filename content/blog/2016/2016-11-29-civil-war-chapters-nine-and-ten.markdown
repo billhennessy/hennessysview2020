@@ -6,7 +6,7 @@ title: 'Civil War: Chapters Nine and Ten'
 layout: blog
 #url: e/2016/11/29/civil-war-chapters-nine-and-ten/
 categories:
-- Civil War Series
+- Fiction
 - Fiction
 type: "post"
 ---

@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - Barack Obama
-- conservatism
+- Politics
 - George W. Bush
 - GOP
 - Harvard Institute of Politics

@@ -6,10 +6,10 @@ title: 'Civil War: Chapter Twelve'
 layout: blog
 #url: e/2016/12/03/civil-war-chapter-twelve/
 categories:
-- Civil War Series
+- Fiction
 - Fiction
 tags:
-- Civil War Series
+- Fiction
 type: "post"
 ---
 

@@ -10,7 +10,7 @@ categories:
 tags:
 - Ballot Measures
 - Constitutional Amendment
-- election
+- Politics
 - Get Out the Vote
 - guns
 - missouri

@@ -6,7 +6,7 @@ title: At Last, Obama’s Ready to Borrow More Money from China
 layout: blog
 #url: e/2011/07/22/at-last-obamas-ready-to-borrow-more-money-from-china/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - borrowing
 - debt

@@ -6,7 +6,7 @@ title: The Economy Is Getting Worse Thanks to Liberalism
 layout: blog
 #url: e/2012/07/25/the-economy-is-getting-worse-thanks-to-liberalism/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - Barack Obama
 - Betamax

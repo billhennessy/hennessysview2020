@@ -6,7 +6,7 @@ title: Jefferson on Debt
 layout: blog
 #url: e/2011/07/12/jefferson-on-debt/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - borrowing
 - debt

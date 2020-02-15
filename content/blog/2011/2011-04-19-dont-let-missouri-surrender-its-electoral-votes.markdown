@@ -6,7 +6,7 @@ title: Don’t Let Missouri Surrender Its Electoral Votes
 layout: blog
 #url: e/2011/04/18/dont-let-missouri-surrender-its-electoral-votes/
 categories:
-- Action
+- Activism
 - Constitution
 - Jefferson City
 - Limited Government

@@ -6,7 +6,7 @@ title: Steve Tilley vs. the Constitution
 layout: blog
 #url: e/2011/04/17/steve-tilley-vs-the-constitution/
 categories:
-- Campaigns and Elections
+- Politics
 - Jefferson City
 tags:
 - electoral college

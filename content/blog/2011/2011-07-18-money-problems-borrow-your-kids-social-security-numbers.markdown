@@ -6,7 +6,7 @@ title: Money Problems? Borrow Your Kids’ Social Security Numbers
 layout: blog
 #url: e/2011/07/18/money-problems-borrow-your-kids-social-security-numbers/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - children
 - debt

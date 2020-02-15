@@ -10,7 +10,7 @@ categories:
 tags:
 - '2012'
 - Blue Collar voters
-- election 2012
+- Politics 2012
 - establishment
 - GOP
 - New Hampshire

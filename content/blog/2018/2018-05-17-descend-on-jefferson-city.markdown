@@ -6,7 +6,7 @@ title: Descend on Jefferson City
 
 # #url: e/2018/05/17/descend-on-jefferson-city/
 categories:
-- Action
+- Activism
 tags:
 - Activism
 - Eric Greitens

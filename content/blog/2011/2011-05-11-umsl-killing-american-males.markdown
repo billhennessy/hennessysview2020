@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/05/10/umsl-killing-american-males/
 categories:
 - Business
-- Economics and Economy
+- Economy
 - Union News
 tags:
 - idleness

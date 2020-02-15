@@ -6,11 +6,11 @@ title: Obamacare Ruling Comes Down This Week, and We’re Having a Tea Party
 layout: blog
 #url: e/2012/06/24/obamacare-ruling-comes-down-this-week-and-were-having-a-tea-party/
 categories:
-- Action
+- Activism
 - Obamacare
 tags:
-- action
-- Action Alert
+- Activism
+- Activism Alert
 - Art Hill
 - Demonstration
 - Forest Park

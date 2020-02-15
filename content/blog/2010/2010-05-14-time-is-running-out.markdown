@@ -6,8 +6,8 @@ title: Time is Running Out
 layout: blog
 #url: e/2010/05/14/time-is-running-out/
 categories:
-- Action
-- election
+- Activism
+- Politics
 tags:
 - Murtha
 - PA12

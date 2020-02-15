@@ -6,11 +6,11 @@ title: Who’s Lucky?
 layout: blog
 #url: e/2011/05/14/whos-lucky/
 categories:
-- Education
+- Academics
 - Living
 tags:
 - conformity
-- education
+- Academics
 - Fern Ridge High School
 - Missouri Options
 - School

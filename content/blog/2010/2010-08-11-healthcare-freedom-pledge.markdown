@@ -9,7 +9,7 @@ categories:
 - Limited Government
 tags:
 - ed martin
-- election 2010
+- Politics 2010
 - Healthcare Free Choice Act
 - obamacare
 type: "post"

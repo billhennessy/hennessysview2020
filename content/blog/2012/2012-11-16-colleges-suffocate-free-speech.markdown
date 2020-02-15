@@ -6,7 +6,7 @@ title: Colleges Suffocate Free Speech
 layout: blog
 #url: e/2012/11/16/colleges-suffocate-free-speech/
 categories:
-- Education
+- Academics
 tags:
 - Arts
 - Barack Obama
@@ -14,7 +14,7 @@ tags:
 - college
 - Colleges and Universities
 - Directories
-- education
+- Academics
 - first amendment
 - free speech
 - Freedom of speech

@@ -6,7 +6,7 @@ title: This David Stockman Quote Should Scare the Hell Out of Everyone
 layout: blog
 #url: e/2012/03/05/this-david-stockman-quote-should-scare-the-hell-out-of-everyone/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - crash
 - david stockman

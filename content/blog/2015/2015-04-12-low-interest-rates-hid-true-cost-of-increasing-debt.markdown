@@ -6,7 +6,7 @@ title: Low Interest Rates Hid True Cost of Increasing Debt
 layout: blog
 #url: e/2015/04/12/low-interest-rates-hid-true-cost-of-increasing-debt/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - interest rates
 - Lee Presser

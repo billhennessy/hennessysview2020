@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - Politics
-- election
+- Politics
 - endorsements
 - how to vote
 - missouri ballot measures

@@ -6,7 +6,7 @@ title: And the inspiring truth about teachers
 layout: blog
 #url: e/2013/08/26/and-the-depressing-truth-about-teachers/
 categories:
-- Education
+- Academics
 type: "post"
 ---
 

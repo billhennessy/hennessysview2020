@@ -6,7 +6,7 @@ title: What Do You Serve at a Downgrade Party?
 layout: blog
 #url: e/2011/08/05/what-do-you-serve-at-a-downgrade-party/
 categories:
-- Economics and Economy
+- Economy
 - Limited Government
 - Tea Party News
 tags:

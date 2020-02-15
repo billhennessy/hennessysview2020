@@ -6,7 +6,7 @@ title: You Have No Idea How Much Your Boss Pays in Payroll Taxes
 layout: blog
 #url: e/2012/08/14/you-have-no-idea-how-much-your-boss-pays-in-payroll-taxes/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - Democratic Party
 - employment

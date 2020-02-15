@@ -6,7 +6,7 @@ title: Head To Jefferson City Wednesday To Fight Common Core and Medicaid Expans
 layout: blog
 #url: e/2013/03/09/fight-common-core-and-medicaid-expansion/
 categories:
-- Action
+- Activism
 tags:
 - common core
 - common core state standards

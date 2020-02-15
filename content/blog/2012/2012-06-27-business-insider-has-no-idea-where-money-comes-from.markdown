@@ -6,7 +6,7 @@ title: Business Insider Has No Idea Where Money Comes From
 layout: blog
 #url: e/2012/06/27/business-insider-has-no-idea-where-money-comes-from/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - employment
 - jobs

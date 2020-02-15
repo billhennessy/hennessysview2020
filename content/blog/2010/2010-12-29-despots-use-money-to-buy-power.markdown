@@ -10,7 +10,7 @@ categories:
 tags:
 - degradation
 - despotism
-- education
+- Academics
 - humiliation
 - missouri
 - race to the top

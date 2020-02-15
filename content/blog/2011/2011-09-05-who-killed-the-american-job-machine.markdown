@@ -6,7 +6,7 @@ title: Who Killed the American Job Machine
 layout: blog
 #url: e/2011/09/05/who-killed-the-american-job-machine/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - democrats
 - Economy

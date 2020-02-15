@@ -7,7 +7,7 @@ layout: blog
 #url: e/2017/01/14/americas-business-is-jobs-not-college/
 categories:
 - Economy
-- Education
+- Academics
 tags:
 - jobs
 - skilled labor

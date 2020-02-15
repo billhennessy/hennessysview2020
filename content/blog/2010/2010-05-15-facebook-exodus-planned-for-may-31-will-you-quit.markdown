@@ -6,7 +6,7 @@ title: 'Facebook Exodus Planned for May 31: Will You Quit?'
 layout: blog
 #url: e/2010/05/15/facebook-exodus-planned-for-may-31-will-you-quit/
 categories:
-- Action
+- Activism
 - Living
 tags:
 - delete facebook account

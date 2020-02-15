@@ -6,9 +6,9 @@ title: Who Can Stop the Antifa Caliphate?
 layout: blog
 #url: e/2017/08/31/who-can-stop-the-antifa-caliphate/
 categories:
-- Antifa
+- Politics
 tags:
-- Antifa
+- Politics
 - Wiliam F. Buckley
 type: "post"
 ---

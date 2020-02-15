@@ -6,7 +6,7 @@ title: President Trump's Only Failure
 layout: blog
 #url: e/2017/08/28/president-trumps-only-failure/
 categories:
-- Antifa
+- Politics
 - News
 tags:
 - domestic terrorism

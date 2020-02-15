@@ -6,7 +6,7 @@ title: Obama Makes It Worse
 layout: blog
 #url: e/2011/06/03/obama-makes-it-worse/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - borrowing
 - debt

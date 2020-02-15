@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 tags:
-- Campaigns and Elections
+- Politics
 - conservative donors
 - Crossroads
 - Crossroads Generation

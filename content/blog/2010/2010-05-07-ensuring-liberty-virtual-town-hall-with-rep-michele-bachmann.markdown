@@ -6,7 +6,7 @@ title: 'Ensuring Liberty: Virtual Town Hall with Rep. Michele Bachmann'
 layout: blog
 #url: e/2010/05/06/ensuring-liberty-virtual-town-hall-with-rep-michele-bachmann/
 categories:
-- Action
+- Activism
 - Ensuring Liberty
 tags:
 - Ensuring Liberty

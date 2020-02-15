@@ -6,11 +6,11 @@ title: Why poverty is a conservative issue
 layout: blog
 #url: e/2015/09/08/why-poverty-is-a-conservative-issue/
 categories:
-- Conservatism
+- Politics
 - News
 tags:
 - american exceptionalism
-- conservatism
+- Politics
 - poverty
 type: "post"
 ---

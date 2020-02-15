@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 tags:
-- election 2012
+- Politics 2012
 - Florida Straw Poll
 - GOP
 - herman cain

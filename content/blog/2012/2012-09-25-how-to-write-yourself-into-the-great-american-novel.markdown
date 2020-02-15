@@ -12,7 +12,7 @@ tags:
 - Barack Obama
 - Clint Eastwood
 - Dirty Harry
-- election 2012
+- Politics 2012
 - Holy Grail
 - King Arthur
 - newt gingrich

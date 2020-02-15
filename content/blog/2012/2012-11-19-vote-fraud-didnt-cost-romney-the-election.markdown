@@ -9,8 +9,8 @@ categories:
 - Tea Party News
 tags:
 - crazy talk
-- election 2012
-- election fraud
+- Politics 2012
+- Politics fraud
 - electoral college
 - Mitt Romney
 - romney

@@ -6,7 +6,7 @@ title: Here’s What Happens Now That Boehner’s “Plan B” Went Down In Flam
 layout: blog
 #url: e/2012/12/21/heres-what-happens-now-that-boehners-plan-b-went-down-in-flames/
 categories:
-- Budget and Debt
+- Politics
 tags:
 - Boehner
 - compromise

@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - cook for congress
-- election
+- Politics
 - Il-12
 - Illinois
 - Illinois Congressional District 12

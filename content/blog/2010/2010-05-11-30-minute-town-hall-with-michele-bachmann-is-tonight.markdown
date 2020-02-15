@@ -6,7 +6,7 @@ title: 30 Minute Town Hall with Michele Bachmann is Tuesday Night
 layout: blog
 #url: e/2010/05/10/30-minute-town-hall-with-michele-bachmann-is-tonight/
 categories:
-- Action
+- Activism
 - Economy
 - Limited Government
 - Politics

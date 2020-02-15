@@ -6,7 +6,7 @@ title: What’s Your FICA Score?
 layout: blog
 #url: e/2011/07/20/whats-your-fica-score/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - debt
 - federal debt

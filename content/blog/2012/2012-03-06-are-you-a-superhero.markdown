@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Latest
 tags:
-- action
+- Activism
 - give
 - superhero
 - Tea Party News

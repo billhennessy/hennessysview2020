@@ -6,7 +6,7 @@ title: Why I'm Not Freaking Out About the Budget
 layout: blog
 #url: e/2017/05/02/why-im-not-freaking-out-about-the-budget/
 categories:
-- Budget and Debt
+- Politics
 - News
 tags:
 - budget

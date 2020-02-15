@@ -6,7 +6,7 @@ title: Don’t Expect Boehner To Play The Black Knight
 layout: blog
 #url: e/2012/11/12/dont-expect-boehner-to-play-the-black-knight/
 categories:
-- Budget and Debt
+- Politics
 tags:
 - Black Night
 - Boehner

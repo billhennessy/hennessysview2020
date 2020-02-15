@@ -6,7 +6,7 @@ title: 'Video: Rick Santelli Destroys The Buffett Rule Live on CNBC'
 layout: blog
 #url: e/2012/04/15/video-rick-santelli-destroys-the-buffett-rule-live-on-cnbc/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - Lee Presser
 - Rick Santelli

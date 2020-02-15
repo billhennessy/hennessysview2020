@@ -7,7 +7,7 @@ title: Two US House Members From Missouri Want to Protect Your Bank Deposits. Yo
 layout: blog
 #url: e/2013/04/07/two-us-house-members-from-missouri-want-to-protect-your-bank-deposits-you-can-help/
 categories:
-- Budget and Debt
+- Politics
 tags:
 - Ann Wagner
 - bank deposits

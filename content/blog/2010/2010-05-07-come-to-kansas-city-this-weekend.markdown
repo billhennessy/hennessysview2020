@@ -6,7 +6,7 @@ title: Come to Kansas City This Weekend
 layout: blog
 #url: e/2010/05/06/come-to-kansas-city-this-weekend/
 categories:
-- Action
+- Activism
 - Zen Conservatism
 tags:
 - American Majority

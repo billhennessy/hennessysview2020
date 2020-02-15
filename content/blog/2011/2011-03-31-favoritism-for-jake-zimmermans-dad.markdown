@@ -6,7 +6,7 @@ title: Favoritism for Jake Zimmerman’s Dad?
 layout: blog
 #url: e/2011/03/31/favoritism-for-jake-zimmermans-dad/
 categories:
-- Campaigns and Elections
+- Politics
 - St. Louis County
 type: "post"
 ---

@@ -11,7 +11,7 @@ tags:
 - debt
 - Economy
 - ed martin
-- education
+- Academics
 - Lee Presser
 - race to the top
 type: "post"

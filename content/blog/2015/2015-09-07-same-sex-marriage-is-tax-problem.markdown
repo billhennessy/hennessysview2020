@@ -6,7 +6,7 @@ title: Same-Sex Marriage Is a Tax Problem
 layout: blog
 #url: e/2015/09/07/same-sex-marriage-is-tax-problem/
 categories:
-- Conservatism
+- Politics
 - News
 tags:
 - flat tax

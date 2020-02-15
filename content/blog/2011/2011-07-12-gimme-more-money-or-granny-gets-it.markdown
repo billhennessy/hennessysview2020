@@ -6,7 +6,7 @@ title: Gimme More Money or Granny Gets It!
 layout: blog
 #url: e/2011/07/12/gimme-more-money-or-granny-gets-it/
 categories:
-- Economics and Economy
+- Economy
 - Other News
 tags:
 - debt

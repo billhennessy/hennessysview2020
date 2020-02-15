@@ -7,7 +7,7 @@ title: Nobody Is Telling You About The Regulatory Armageddon About To Swamp The 
 layout: blog
 #url: e/2012/11/07/nobody-is-telling-you-about-the-regulatory-armageddon-about-to-swamp-the-us-economy/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - coal industry
 - economic meltdown

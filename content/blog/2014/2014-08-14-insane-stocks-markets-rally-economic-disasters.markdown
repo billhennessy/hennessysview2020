@@ -6,7 +6,7 @@ title: 'Insane: Stocks Markets Rally On Economic Disasters'
 layout: blog
 #url: e/2014/08/14/insane-stocks-markets-rally-economic-disasters/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - Economy
 - Eurozone

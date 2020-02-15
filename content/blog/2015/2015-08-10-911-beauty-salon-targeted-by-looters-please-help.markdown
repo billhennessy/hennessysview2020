@@ -6,7 +6,7 @@ title: 911 Beauty Salon Targeted by Looters. Please Help
 layout: blog
 #url: e/2015/08/10/911-beauty-salon-targeted-by-looters-please-help/
 categories:
-- Action
+- Activism
 - News
 tags:
 - 911 Beauty Salon

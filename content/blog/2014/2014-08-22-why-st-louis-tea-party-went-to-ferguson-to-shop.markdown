@@ -6,7 +6,7 @@ title: Why St. Louis Tea Party Went to Ferguson To Shop
 layout: blog
 #url: e/2014/08/21/why-st-louis-tea-party-went-to-ferguson-to-shop/
 categories:
-- Action
+- Activism
 tags:
 - buycott
 - ferguson

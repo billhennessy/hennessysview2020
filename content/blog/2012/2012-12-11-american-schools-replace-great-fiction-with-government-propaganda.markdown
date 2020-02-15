@@ -6,13 +6,13 @@ title: American Schools Replace Great Fiction With Government propaganda
 layout: blog
 #url: e/2012/12/11/american-schools-replace-great-fiction-with-government-propaganda/
 categories:
-- Education
+- Academics
 tags:
 - A Separate Peace
 - Catcher in the Rye
 - common core standards
 - Department of Education
-- education
+- Academics
 - English literature
 - Fear and Loathing in Las Vegas
 - humanities education

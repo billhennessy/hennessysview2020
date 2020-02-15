@@ -6,7 +6,7 @@ title: Special Thanks to American Majority
 layout: blog
 #url: e/2010/12/22/special-thanks-to-american-majority/
 categories:
-- Action
+- Activism
 tags:
 - American Majority
 - American Majority Action

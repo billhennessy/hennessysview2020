@@ -6,7 +6,7 @@ title: Let’s Buy David Hanneberry a New Boat
 layout: blog
 #url: e/2013/04/20/lets-buy-david-hanneberry-a-new-boat/
 categories:
-- Boston Bombing
+- Politics
 tags:
 - boat
 - crowd funding

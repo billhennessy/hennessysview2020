@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 tags:
-- election
+- Politics
 - harry-reid
 - lame duck
 - nancy_pelosi

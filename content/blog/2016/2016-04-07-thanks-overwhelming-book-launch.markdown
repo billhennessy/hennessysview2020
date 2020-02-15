@@ -6,7 +6,7 @@ title: Thanks for Overwhelming Book Launch!
 layout: blog
 #url: e/2016/04/06/thanks-overwhelming-book-launch/
 categories:
-- Coalition for Safer Drinking
+- Living
 - Crony Capitalism
 tags:
 - Chigurupati Technologies

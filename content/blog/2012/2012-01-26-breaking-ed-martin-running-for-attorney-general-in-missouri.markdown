@@ -14,7 +14,7 @@ tags:
 - Chris Koster
 - conservative
 - ed martin
-- election 2012
+- Politics 2012
 - missouri
 - republican
 type: "post"

@@ -6,10 +6,10 @@ title: Do You Hear The People Sing?
 layout: blog
 #url: e/2010/10/31/do-you-hear-the-people-sing/
 categories:
-- election
+- Politics
 tags:
 - ed martin
-- election
+- Politics
 - Tea Party News
 - vote
 type: "post"

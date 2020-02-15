@@ -6,7 +6,7 @@ title: Steve Tilley vs. Fiscal Responsibility
 layout: blog
 #url: e/2011/04/14/steve-tilley-vs-fiscal-responsibility/
 categories:
-- Economics and Economy
+- Economy
 - Jefferson City
 tags:
 - brian nieves

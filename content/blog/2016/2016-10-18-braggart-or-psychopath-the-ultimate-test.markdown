@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/10/17/braggart-or-psychopath-the-ultimate-test/
 categories:
 - Politics
-- Campaigns and Elections
+- Politics
 tags:
 - Find out
 - Quiz

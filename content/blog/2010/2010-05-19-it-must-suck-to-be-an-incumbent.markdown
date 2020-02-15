@@ -6,7 +6,7 @@ title: It Must Suck to be an Incumbent
 layout: blog
 #url: e/2010/05/19/it-must-suck-to-be-an-incumbent/
 categories:
-- Election Results
+- Politics Results
 tags:
 - arkansas
 - arlen_specter

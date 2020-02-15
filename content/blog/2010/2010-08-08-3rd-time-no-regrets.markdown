@@ -6,7 +6,7 @@ title: 3rd Time, No Regrets
 layout: blog
 #url: e/2010/08/07/3rd-time-no-regrets/
 categories:
-- Action
+- Activism
 tags:
 - 9-12 Tea Party
 type: "post"

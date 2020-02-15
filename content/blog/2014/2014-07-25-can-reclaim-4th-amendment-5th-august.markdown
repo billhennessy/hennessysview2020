@@ -6,7 +6,7 @@ title: You Can Reclaim the 4th Amendment the 5th of August
 layout: blog
 #url: e/2014/07/24/can-reclaim-4th-amendment-5th-august/
 categories:
-- Campaigns and Elections
+- Politics
 tags:
 - Amendment 9
 - August Primary

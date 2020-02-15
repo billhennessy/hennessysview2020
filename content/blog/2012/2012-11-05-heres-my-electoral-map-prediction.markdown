@@ -13,7 +13,7 @@ tags:
 - Barack Obama
 - Dead Head
 - Democratic Party (United States)
-- election map 2012
+- Politics map 2012
 - electoral map
 - Jimmy Carter
 - John B. Anderson

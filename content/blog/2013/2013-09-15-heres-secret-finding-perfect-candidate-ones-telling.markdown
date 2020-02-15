@@ -7,7 +7,7 @@ title: 'Here''s the Secret to Finding a Perfect Candidate That No one''s Telling
 layout: blog
 #url: e/2013/09/15/heres-secret-finding-perfect-candidate-ones-telling/
 categories:
-- Campaigns and Elections
+- Politics
 type: "post"
 ---
 

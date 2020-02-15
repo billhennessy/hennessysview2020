@@ -6,7 +6,7 @@ title: When does accountability begin?
 layout: blog
 #url: e/2016/02/07/when-does-accountability-begin/
 categories:
-- election
+- Politics
 - Trump
 tags:
 - accountability

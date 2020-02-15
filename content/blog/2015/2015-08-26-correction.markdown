@@ -6,7 +6,7 @@ title: Correction
 layout: blog
 #url: e/2015/08/25/correction/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - Central Banker
 - central banks

@@ -6,7 +6,7 @@ title: BUYcott Ferguson **UPDATE** DETAILS ** MORE UPDATES
 layout: blog
 #url: e/2014/08/18/buycott-ferguson/
 categories:
-- Action
+- Activism
 - Activism
 tags:
 - BUYcott Ferguson

@@ -6,7 +6,7 @@ title: Companies Should Adopt Conscious Capitalism Because It Pays
 layout: blog
 #url: e/2014/01/27/companies-adopt-conscious-capitalism-pays/
 categories:
-- Conscious Capitalism
+- Business
 tags:
 - Cypress Semiconductor
 - John Mackey

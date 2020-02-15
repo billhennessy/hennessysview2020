@@ -6,7 +6,7 @@ title: Predicting the Climax
 layout: blog
 #url: e/2016/11/22/predicting-the-climax/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - anti-globalization
 - Made In America

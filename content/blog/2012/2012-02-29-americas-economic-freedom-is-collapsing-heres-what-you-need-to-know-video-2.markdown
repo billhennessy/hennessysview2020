@@ -6,7 +6,7 @@ title: America’s Economic Freedom Is Collapsing. Here’s What You Need To Kno
 layout: blog
 #url: e/2012/02/28/americas-economic-freedom-is-collapsing-heres-what-you-need-to-know-video-2/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - economic freedom
 type: "post"

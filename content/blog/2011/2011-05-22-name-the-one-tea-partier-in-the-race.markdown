@@ -6,7 +6,7 @@ title: Name the One Tea Partier in the Race **CLARIFICATION**
 layout: blog
 #url: e/2011/05/21/name-the-one-tea-partier-in-the-race/
 categories:
-- Campaigns and Elections
+- Politics
 tags:
 - Ann Wagner
 - ed martin

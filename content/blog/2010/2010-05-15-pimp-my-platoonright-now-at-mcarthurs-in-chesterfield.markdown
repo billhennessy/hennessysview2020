@@ -6,7 +6,7 @@ title: Pimp My Platoon—Right Now at McArthur’s in Chesterfield
 layout: blog
 #url: e/2010/05/15/pimp-my-platoonright-now-at-mcarthurs-in-chesterfield/
 categories:
-- Action
+- Activism
 tags:
 - Marines
 - McArthurs Bakery

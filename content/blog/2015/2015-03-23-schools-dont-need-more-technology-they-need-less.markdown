@@ -6,9 +6,9 @@ title: Schools Don't Need More Technology--They Need Less
 layout: blog
 #url: e/2015/03/23/schools-dont-need-more-technology-they-need-less/
 categories:
-- Education
+- Academics
 tags:
-- education
+- Academics
 - Eric Greitens
 - schools
 type: "post"

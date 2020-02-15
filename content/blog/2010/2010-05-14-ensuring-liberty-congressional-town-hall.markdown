@@ -6,8 +6,8 @@ title: Ensuring Liberty Congressional Town Hall
 layout: blog
 #url: e/2010/05/14/ensuring-liberty-congressional-town-hall/
 categories:
-- Action
-- election
+- Activism
+- Politics
 - Ensuring Liberty
 tags:
 - Ensuring Liberty

@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - ed martin
-- election 2010
+- Politics 2010
 - gary fuhr
 - Paul Curtman
 - roy blunt

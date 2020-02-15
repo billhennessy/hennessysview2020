@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - '2010'
-- election
+- Politics
 - reagan
 type: "post"
 ---

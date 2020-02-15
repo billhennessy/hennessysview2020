@@ -6,7 +6,7 @@ title: A Magical Moment
 layout: blog
 #url: e/2010/09/17/a-magical-moment/
 categories:
-- election
+- Politics
 tags:
 - '1980'
 - ABC News

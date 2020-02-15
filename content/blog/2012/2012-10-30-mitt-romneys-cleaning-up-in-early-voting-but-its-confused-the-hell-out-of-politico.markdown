@@ -10,7 +10,7 @@ categories:
 - Politics
 tags:
 - Early Voting
-- election 2012
+- Politics 2012
 - gallup
 - politico
 - romney

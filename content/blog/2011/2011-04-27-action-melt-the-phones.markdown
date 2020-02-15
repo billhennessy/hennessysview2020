@@ -10,7 +10,7 @@ categories:
 - Missouri
 - Union News
 tags:
-- action
+- Activism
 - david giljam
 - Jay Nixon
 - Tea Party News

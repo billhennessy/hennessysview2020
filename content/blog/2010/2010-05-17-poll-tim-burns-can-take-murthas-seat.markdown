@@ -6,8 +6,8 @@ title: 'Poll: Tim Burns Can Take Murtha’s Seat'
 layout: blog
 #url: e/2010/05/16/poll-tim-burns-can-take-murthas-seat/
 categories:
-- Action
-- election
+- Activism
+- Politics
 tags:
 - Mark Critz
 - PA12

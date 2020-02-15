@@ -6,10 +6,10 @@ title: 'Civil War: Chapter Eight'
 layout: blog
 #url: e/2016/11/27/civil-war-chapter-eight/
 categories:
-- Civil War Series
+- Fiction
 - Fiction
 tags:
-- Civil War Series
+- Fiction
 type: "post"
 ---
 

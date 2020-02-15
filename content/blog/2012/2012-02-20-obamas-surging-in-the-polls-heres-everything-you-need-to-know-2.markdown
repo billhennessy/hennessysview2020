@@ -10,7 +10,7 @@ categories:
 tags:
 - apathy
 - candidates
-- election
+- Politics
 - obama
 - Polls
 - Repbulican

@@ -10,8 +10,8 @@ categories:
 tags:
 - Attorney General
 - ed martin
-- election 2012
-- election day tea party
+- Politics 2012
+- Politics day tea party
 - Governor
 - Lt. Governor
 - Martin Baker

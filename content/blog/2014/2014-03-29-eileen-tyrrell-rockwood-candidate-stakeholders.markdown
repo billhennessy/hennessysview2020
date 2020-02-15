@@ -6,7 +6,7 @@ title: Eileen Tyrrell Is Only Rockwood Candidate In It For All Stakeholders
 layout: blog
 #url: e/2014/03/29/eileen-tyrrell-rockwood-candidate-stakeholders/
 categories:
-- Education
+- Academics
 post_format:
 - Video
 type: "post"

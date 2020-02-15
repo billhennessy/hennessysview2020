@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Latest
 tags:
-- Election Day
+- Politics Day
 - Healthcare Free Choice Act
 - Prop C
 - vote

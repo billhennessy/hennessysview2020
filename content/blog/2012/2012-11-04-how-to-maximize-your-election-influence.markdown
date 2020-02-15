@@ -9,10 +9,10 @@ categories:
 - Politics
 tags:
 - answer
-- Campaigns and Elections
+- Politics
 - 'Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives'
 - Early Voting
-- Election Day
+- Politics Day
 - elections
 - Facebook
 - Hachette Book Group USA

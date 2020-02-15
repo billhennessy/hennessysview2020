@@ -6,12 +6,12 @@ title: Life As You’ve Known It Is About To Change
 layout: blog
 #url: e/2012/11/02/life-as-youve-known-it-is-about-to-change/
 categories:
-- Action
+- Activism
 tags:
 - Politics
 - Activism
 - Barack Obama
-- election 2012
+- Politics 2012
 - Free society
 - freedom
 - GOTV

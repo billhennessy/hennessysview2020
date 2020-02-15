@@ -6,7 +6,7 @@ title: Would you do me a favor this Saturday?
 layout: blog
 #url: e/2011/09/29/would-you-do-me-a-favor-this-saturday/
 categories:
-- Action
+- Activism
 - Press
 - Tea Party News
 tags:

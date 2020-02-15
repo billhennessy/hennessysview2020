@@ -6,7 +6,7 @@ title: All-American Alternative to Leftist Omaha Steaks
 layout: blog
 #url: e/2010/12/18/all-american-alternative-to-leftist-omaha-steaks/
 categories:
-- Action
+- Activism
 tags:
 - all-american meats
 - gateway pundit

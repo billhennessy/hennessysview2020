@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - Faith
-- election
+- Politics
 - first amendment
 - freedom
 - life

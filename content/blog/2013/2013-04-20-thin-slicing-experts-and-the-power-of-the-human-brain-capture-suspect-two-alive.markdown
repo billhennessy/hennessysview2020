@@ -7,11 +7,11 @@ title: Thin-Slicing, Experts, and the Power of the Human Brain Help Capture Susp
 layout: blog
 #url: e/2013/04/20/thin-slicing-experts-and-the-power-of-the-human-brain-capture-suspect-two-alive/
 categories:
-- Boston Bombing
+- Politics
 tags:
 - Blink
 - Boston
-- Boston Bombing
+- Politics
 - Boston Marathon
 - Dzhokhar Tsarnaev
 - malcolm gladwell

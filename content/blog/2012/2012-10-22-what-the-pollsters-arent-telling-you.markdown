@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 tags:
-- election
+- Politics
 - gallup
 - obama
 - Polls

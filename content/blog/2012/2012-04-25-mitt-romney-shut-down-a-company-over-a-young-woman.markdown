@@ -10,7 +10,7 @@ categories:
 tags:
 - Bain Capital
 - Ecstasy
-- election
+- Politics
 - Melissa Gay
 - Missing Girl
 - Mitt Romney

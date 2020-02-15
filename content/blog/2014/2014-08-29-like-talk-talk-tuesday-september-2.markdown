@@ -6,7 +6,7 @@ title: I Would Like to Talk to You on Tuesday September 2
 layout: blog
 #url: e/2014/08/28/like-talk-talk-tuesday-september-2/
 categories:
-- Action
+- Activism
 tags:
 - 'teaparty'
 - Bill Hennessy

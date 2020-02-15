@@ -6,7 +6,7 @@ title: Francis Slay Destroys the Transportation Sales Tax Trying to Support It *
 layout: blog
 #url: e/2014/07/15/francis-slay-destroys-transportation-sales-tax-trying-support/
 categories:
-- Action
+- Activism
 - Activism
 tags:
 - Amendment 7

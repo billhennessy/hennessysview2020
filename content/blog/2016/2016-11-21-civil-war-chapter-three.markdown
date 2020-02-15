@@ -6,10 +6,10 @@ title: 'Civil War: Chapter Three'
 layout: blog
 #url: e/2016/11/21/civil-war-chapter-three/
 categories:
-- Civil War Series
+- Fiction
 - Fiction
 tags:
-- Civil War Series
+- Fiction
 type: "post"
 ---
 

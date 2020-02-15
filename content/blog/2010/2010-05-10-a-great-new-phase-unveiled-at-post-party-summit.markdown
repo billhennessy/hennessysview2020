@@ -6,7 +6,7 @@ title: A Great New Phase Unveiled at Post-Party Summit
 layout: blog
 #url: e/2010/05/09/a-great-new-phase-unveiled-at-post-party-summit/
 categories:
-- Action
+- Activism
 tags:
 - lincoln
 - mcclellan

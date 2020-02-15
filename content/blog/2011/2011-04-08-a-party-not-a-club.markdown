@@ -6,7 +6,7 @@ title: A Party, Not a Club
 layout: blog
 #url: e/2011/04/08/a-party-not-a-club/
 categories:
-- Campaigns and Elections
+- Politics
 - Missouri
 tags:
 - Assessor

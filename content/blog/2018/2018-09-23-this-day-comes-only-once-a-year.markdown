@@ -6,7 +6,7 @@ title: This Day Comes Only Once a Year
 
 # #url: e/2018/09/23/this-day-comes-only-once-a-year/
 categories:
-- Action
+- Activism
 - Faith
 type: "post"
 ---

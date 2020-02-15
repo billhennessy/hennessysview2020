@@ -9,7 +9,7 @@ categories:
 - News
 - Tea Party News
 tags:
-- Antifa
+- Politics
 - Tea Party News
 - The Gateway Pundit
 - Vigilantism

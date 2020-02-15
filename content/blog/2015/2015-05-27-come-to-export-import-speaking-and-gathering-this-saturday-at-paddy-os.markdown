@@ -6,7 +6,7 @@ title: Come to Export Import Speaking and Gathering This Saturday at Paddy O's
 layout: blog
 #url: e/2015/05/27/come-to-export-import-speaking-and-gathering-this-saturday-at-paddy-os/
 categories:
-- Action
+- Activism
 - Crony Capitalism
 tags:
 - 'endExIm'

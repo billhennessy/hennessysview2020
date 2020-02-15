@@ -6,7 +6,7 @@ title: Blame Machines
 layout: blog
 #url: e/2011/06/14/blame-machines/
 categories:
-- Economics and Economy
+- Economy
 - Latest
 type: "post"
 ---

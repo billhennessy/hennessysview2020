@@ -6,7 +6,7 @@ title: Why Bother?
 layout: blog
 #url: e/2015/08/09/why-bother/
 categories:
-- Conservatism
+- Politics
 type: "post"
 ---
 

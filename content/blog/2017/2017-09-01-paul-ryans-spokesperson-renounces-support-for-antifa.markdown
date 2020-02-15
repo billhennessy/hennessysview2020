@@ -6,7 +6,7 @@ title: Paul Ryan's Spokesperson Renounces Support for Antifa
 layout: blog
 #url: e/2017/08/31/paul-ryans-spokesperson-renounces-support-for-antifa/
 categories:
-- Antifa
+- Politics
 - News
 tags:
 - Paul Ryan

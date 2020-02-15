@@ -6,7 +6,7 @@ title: Government Planning Is Killing the Economy
 layout: blog
 #url: e/2012/12/26/government-planning-is-killing-the-economy/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - central planning
 - failure of government

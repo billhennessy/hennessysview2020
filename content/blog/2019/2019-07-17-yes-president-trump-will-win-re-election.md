@@ -7,7 +7,7 @@ categories:
   - Politics
 tags:
   - Donald Trump
-  
+
 type: "post"
 ---
 New York Times columnist Thomas Friedman today asked a rhetorical question: [_Trump's Going to Get Re-elected, Isn't He?_](https://www.nytimes.com/2019/07/16/opinion/trump-2020.html)

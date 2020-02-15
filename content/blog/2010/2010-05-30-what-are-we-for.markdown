@@ -7,7 +7,7 @@ layout: blog
 #url: e/2010/05/30/what-are-we-for/
 categories:
 - Economy
-- election
+- Politics
 - Limited Government
 - Politics
 tags:

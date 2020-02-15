@@ -6,7 +6,7 @@ title: Asia's Open and NIKKEI Is Diving
 layout: blog
 #url: e/2014/04/06/asias-open-and-nikkei-is-diving/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - abenomics
 - asia

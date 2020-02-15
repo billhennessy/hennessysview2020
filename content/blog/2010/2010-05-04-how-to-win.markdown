@@ -6,7 +6,7 @@ title: How to Win
 layout: blog
 #url: e/2010/05/04/how-to-win/
 categories:
-- Action
+- Activism
 tags:
 - liberty evangelism
 type: "post"

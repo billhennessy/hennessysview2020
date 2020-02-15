@@ -6,7 +6,7 @@ title: Choosing Battles
 layout: blog
 #url: e/2010/05/15/choosing-battles/
 categories:
-- election
+- Politics
 - Ensuring Liberty
 - Limited Government
 - Politics

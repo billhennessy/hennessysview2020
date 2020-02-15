@@ -6,7 +6,7 @@ title: Why Welfare Reform Must Continue
 layout: blog
 #url: e/2015/09/09/why-welfare-reform-must-continue/
 categories:
-- Conservatism
+- Politics
 tags:
 - idleness
 - Marienthal Austria

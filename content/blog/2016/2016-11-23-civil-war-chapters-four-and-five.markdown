@@ -6,10 +6,10 @@ title: 'Civil War: Chapters Four and Five'
 layout: blog
 #url: e/2016/11/23/civil-war-chapters-four-and-five/
 categories:
-- Civil War Series
+- Fiction
 - Fiction
 tags:
-- Civil War Series
+- Fiction
 type: "post"
 ---
 

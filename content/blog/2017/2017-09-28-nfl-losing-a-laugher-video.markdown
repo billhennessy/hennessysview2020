@@ -8,7 +8,7 @@ layout: blog
 categories:
 - News
 - Sports
-- Donald Trumps
+- Donald Trump
 tags:
 type: "post"
 ---

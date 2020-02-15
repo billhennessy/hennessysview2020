@@ -9,7 +9,7 @@ categories:
 - Activism
 tags:
 - Classroom Activity
-- education
+- Academics
 - Florida Atlantic University
 - Learning
 - Stomp on Jesus

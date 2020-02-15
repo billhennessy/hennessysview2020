@@ -6,9 +6,9 @@ title: Here’s The Dirty Little Secret About Teachers Nobody Is Telling You Abo
 layout: blog
 #url: e/2013/02/15/heres-the-dirty-little-secret-about-teachers-nobody-is-telling-you-about/
 categories:
-- Education
+- Academics
 tags:
-- education
+- Academics
 - teachers
 - Teachers unions
 type: "post"

@@ -6,7 +6,7 @@ title: The Devastating Truth About Teachers' Unions
 layout: blog
 #url: e/2013/08/26/devastating-truth-teachers-unions/
 categories:
-- Education
+- Academics
 type: "post"
 ---
 

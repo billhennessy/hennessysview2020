@@ -6,7 +6,7 @@ title: Greece Rejects Central Banksters
 layout: blog
 #url: e/2015/07/05/greece-rejects-central-banksters/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - Greece
 type: "post"

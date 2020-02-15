@@ -17,7 +17,7 @@ tags:
 - cliché
 - democracy
 - Down
-- election
+- Politics
 - Eviction
 - Gave
 - George

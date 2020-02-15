@@ -6,7 +6,7 @@ title: America Has a Job To Do
 layout: blog
 #url: e/2015/08/11/america-has-work-to-do/
 categories:
-- Conservatism
+- Politics
 tags:
 - Arthur C. Brooks
 - EITC

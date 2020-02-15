@@ -10,7 +10,7 @@ categories:
 tags:
 - Constitution
 - democrats
-- education
+- Academics
 - idiots
 - ignorant Americans
 - ignorant voters

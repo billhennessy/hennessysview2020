@@ -6,7 +6,7 @@ title: How You Can Help a Brave Missouri Senator and Win an AR-15
 layout: blog
 # #url: e/2013/09/17/how-you-can-help-a-brave-missouri-senator-and-win-an-ar-15/
 categories:
-- Campaigns and Elections
+- Politics
 tags:
 - AR-15
 - brian nieves

@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Latest
 tags:
-- Election Day
+- Politics Day
 - proposition a
 - vote
 type: "post"

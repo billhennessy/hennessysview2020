@@ -6,7 +6,7 @@ title: It Can Happen Again—The Big Short Movie
 layout: blog
 #url: e/2015/12/24/it-can-happen-again/
 categories:
-- Economics and Economy
+- Economy
 - News
 tags:
 - capitalism

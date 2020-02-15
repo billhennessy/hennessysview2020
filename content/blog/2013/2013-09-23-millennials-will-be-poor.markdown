@@ -6,7 +6,7 @@ title: Why Millennials Will Be Poor Their Whole Lives
 layout: blog
 #url: e/2013/09/23/millennials-will-be-poor/
 categories:
-- Economics and Economy
+- Economy
 type: "post"
 ---
 

@@ -10,7 +10,7 @@ categories:
 tags:
 - allen bloom
 - chaos
-- election
+- Politics
 - saul bellow
 type: "post"
 ---

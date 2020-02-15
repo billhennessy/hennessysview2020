@@ -6,7 +6,7 @@ title: China Is Crashing and Greece Is Spinning Out of Control
 layout: blog
 #url: e/2015/07/07/f/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - Banksters
 - china

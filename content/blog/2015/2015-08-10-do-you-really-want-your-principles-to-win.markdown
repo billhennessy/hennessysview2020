@@ -6,9 +6,9 @@ title: Do You Really Want Your Principles to Win?
 layout: blog
 #url: e/2015/08/10/do-you-really-want-your-principles-to-win/
 categories:
-- Conservatism
+- Politics
 tags:
-- conservatism
+- Politics
 - majoritarian
 - municipal courts
 - The Conservative Heart

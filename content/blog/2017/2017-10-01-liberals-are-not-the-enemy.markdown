@@ -9,7 +9,7 @@ categories:
 - News
 - Politics
 tags:
-- Antifa
+- Politics
 - Bill McClellan
 - liberals
 - progressives

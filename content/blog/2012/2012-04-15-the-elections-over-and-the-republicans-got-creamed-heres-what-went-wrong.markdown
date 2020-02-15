@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - Ben Franklin
-- election
+- Politics
 - Republican Party
 - Tea Party News
 type: "post"

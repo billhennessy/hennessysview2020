@@ -6,7 +6,7 @@ title: Rockwood School Board Quid Pro Quo?
 layout: blog
 #url: e/2014/04/13/rockwood-school-board-quid-pro-quo/
 categories:
-- Education
+- Academics
 tags:
 - cronyism
 - quid pro quo

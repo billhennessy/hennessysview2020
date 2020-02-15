@@ -6,9 +6,9 @@ title: 'ACTION:  Steve Tilley and Kevin Engler Want to Implement Obamacare. Stop
 layout: blog
 #url: e/2012/05/03/action-steve-tilley-and-kevin-engler-want-to-implement-obamacare-stop-them/
 categories:
-- Action
+- Activism
 tags:
-- action
+- Activism
 - fillibuster
 - HB 1193
 - missouri

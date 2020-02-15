@@ -6,7 +6,7 @@ title: NYT Describes Mayhem of “Taxmageddon”, And It Will Scare You Sick
 layout: blog
 #url: e/2012/04/19/nyt-describes-mayhem-of-taxmageddon/
 categories:
-- Economics and Economy
+- Economy
 - Latest
 post_format:
 - Standard
@@ -14,7 +14,7 @@ tags:
 - David Leonhardt
 - debt
 - Economy
-- election
+- Politics
 - entitlements
 - government
 - new york times

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2012/06/03/youll-never-guess-whos-about-to-become-obamas-biggest-nightmare/
 categories:
 - Activism
-- Economics and Economy
+- Economy
 tags:
 - '2012'
 - Crossroads Generation

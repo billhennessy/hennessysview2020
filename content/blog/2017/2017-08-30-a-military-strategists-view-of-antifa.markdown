@@ -6,7 +6,7 @@ title: A Military Strategist's View of Antifa
 layout: blog
 #url: e/2017/08/30/a-military-strategists-view-of-antifa/
 categories:
-- Antifa
+- Politics
 - News
 tags:
 

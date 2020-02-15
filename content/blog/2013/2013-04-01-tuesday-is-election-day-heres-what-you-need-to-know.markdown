@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 tags:
-- Election Day
+- Politics Day
 - Kirkwood School District
 - Rockwood School District
 - Tax Increases

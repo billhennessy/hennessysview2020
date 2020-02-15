@@ -6,7 +6,7 @@ title: Obama Shuts Down Another Small Business
 layout: blog
 #url: e/2012/11/01/obama-shuts-down-another-small-business/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - Barack Obama
 - Mitt Romney

@@ -6,7 +6,7 @@ title: Take a Walk on the Hedonic Treadmill
 layout: blog
 #url: e/2015/06/17/take-a-walk-on-the-hedonic-treadmill/
 categories:
-- Economics and Economy
+- Economy
 - Political Psychology
 tags:
 - Dan Gilbert

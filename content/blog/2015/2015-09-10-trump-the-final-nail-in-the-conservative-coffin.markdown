@@ -6,7 +6,7 @@ title: 'Trump: The final nail in the conservative coffin?'
 layout: blog
 #url: e/2015/09/10/trump-the-final-nail-in-the-conservative-coffin/
 categories:
-- Conservatism
+- Politics
 - Trump
 tags:
 - Donald Trump

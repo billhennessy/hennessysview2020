@@ -8,8 +8,8 @@ layout: blog
 categories:
 - Living
 tags:
-- election 2012
-- Election Day
+- Politics 2012
+- Politics Day
 - Ferris Bueller's Day Off
 - Leisure
 - pursuit of happiness

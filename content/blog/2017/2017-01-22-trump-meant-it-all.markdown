@@ -6,7 +6,7 @@ title: Trump Meant It All
 layout: blog
 #url: e/2017/01/22/trump-meant-it-all/
 categories:
-- American Tea Party
+- Politics
 - Trump
 tags:
 - Tea Party News

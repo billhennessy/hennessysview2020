@@ -6,7 +6,7 @@ title: A Dangerous Misunderstanding of Debt
 layout: blog
 #url: e/2015/07/06/a-dangerous-misunderstanding-of-debt/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - 'Greece Debt Greferendum'
 type: "post"

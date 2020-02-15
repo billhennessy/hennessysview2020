@@ -10,7 +10,7 @@ categories:
 tags:
 - Attorney General
 - ed martin
-- election 2012
+- Politics 2012
 - missouri
 - Obama's Lawyer
 - Republicans

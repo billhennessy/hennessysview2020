@@ -6,10 +6,10 @@ title: 7 Points on Tea Party Popularity Poll (times 2)
 layout: blog
 #url: e/2010/06/08/7-points-on-tea-party-popularity-poll/
 categories:
-- Action
+- Activism
 - Tea Party News
 tags:
-- election
+- Politics
 - register to vote
 - Tea Party News
 - tea party popularity

@@ -6,12 +6,12 @@ title: The Biggest Rip-Off in America is College Tuition
 layout: blog
 #url: e/2012/01/29/the-biggest-rip-off-in-america-is-college-tuition/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - Barack Obama
 - college cost
 - college tuition
-- education
+- Academics
 - higher education
 - medical costs
 - student loans

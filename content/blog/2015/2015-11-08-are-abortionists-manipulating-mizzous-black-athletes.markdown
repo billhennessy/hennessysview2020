@@ -6,7 +6,7 @@ title: Are abortionists manipulating Mizzou's black athletes?
 layout: blog
 #url: e/2015/11/08/are-abortionists-manipulating-mizzous-black-athletes/
 categories:
-- Education
+- Academics
 - Trump
 tags:
 - black athletes

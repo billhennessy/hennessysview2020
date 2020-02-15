@@ -6,7 +6,7 @@ title: UMSL Econ Professor David Rose on Moral Foundations of Economic Behavior
 layout: blog
 #url: e/2012/01/24/umsl-econ-professor-david-rose-on-moral-foundations-of-economic-behavior/
 categories:
-- Economics and Economy
+- Economy
 tags:
 - David C. Rose
 - Economics

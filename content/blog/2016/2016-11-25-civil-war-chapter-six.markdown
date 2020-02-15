@@ -6,10 +6,10 @@ title: 'Civil War: Chapters Six and Seven'
 layout: blog
 #url: e/2016/11/25/civil-war-chapter-six/
 categories:
-- Civil War Series
+- Fiction
 - Fiction
 tags:
-- Civil War Series
+- Fiction
 type: "post"
 ---
 

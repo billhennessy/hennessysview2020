@@ -11,7 +11,7 @@ tags:
 - 'mo2'
 - Ann Wagner
 - County Executive
-- election
+- Politics
 - Rick Stream
 - St. Louis County
 - Steve Stenger

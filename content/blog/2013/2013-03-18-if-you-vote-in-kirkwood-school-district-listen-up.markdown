@@ -6,7 +6,7 @@ title: If You Vote in Kirkwood School District, Listen Up
 layout: blog
 #url: e/2013/03/18/if-you-vote-in-kirkwood-school-district-listen-up/
 categories:
-- Education
+- Academics
 tags:
 - Amy Russell
 - April 2 Election

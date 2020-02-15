@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - ed martin
-- election fraud
+- Politics fraud
 type: "post"
 ---
 
