@@ -1,10 +1,12 @@
-- item: About
-  url: about/
 - item: Blog
   url: "blog"
-- item: Category A
-  url: categories/development/
-- item: Category B
-  url: categories/golang/
-- item: Tag B
-  url: tags/go/
+- item: Faith
+  url: categories/faith/
+- item: Politics
+  url: categories/politics/
+- item: Eric Greitens
+  url: tags/eric-greitens/
+- item: Donald Trump
+  url: tags/donald-trump
+- item: Most Popular Post
+  url: tags/ron-brown

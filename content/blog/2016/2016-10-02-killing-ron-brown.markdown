@@ -4,7 +4,7 @@ date: 2016-10-02 16:01:17+00:00
 draft: false
 title: 'Killing Ron Brown: A Clinton Crime Family Story'
 layout: blog
-#url: e/2016/10/02/killing-ron-brown/
+url: /2016/10/02/killing-ron-brown/
 categories:
 - Politics
 - News

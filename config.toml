@@ -4,7 +4,7 @@ theme = "swift"
 author = "Bill Hennessy"
 copyright = "Copyright © 2003-2020, Right Press LLC & Bill Hennessy; all rights reserved."
 canonifyurls = true
-paginate = 12
+paginate = 6
 # Enable syntax highlighting
 # comment on delete the following lines 11 ~ 13
 pygmentsCodefences = true
@@ -18,7 +18,7 @@ pygmentsCodefencesGuessSyntax = true
   logo = "logo.gif"
   author = "Bill Hennessy" # default author
   image = "placeholder-image.png" # used whenever a page image is not set
-  blogDir = "blog" # uncomment and edit to exclude normal pages ... see issue #57
+  # blogDir = "blog" # uncomment and edit to exclude normal pages ... see issue #57
   commento = true
 # [params.staticman]
 #   endpoint = ""  # URL of your own API deployment (without trailing slash), default: "https://staticman-frama.herokuapp.com"
