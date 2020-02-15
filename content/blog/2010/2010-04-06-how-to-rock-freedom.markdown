@@ -7,7 +7,6 @@ layout: blog
 #url: e/2010/04/05/how-to-rock-freedom/
 categories:
 - Living
-- Living
 tags:
 - gimme back my freedom
 - music
