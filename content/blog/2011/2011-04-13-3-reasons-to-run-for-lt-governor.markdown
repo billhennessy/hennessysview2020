@@ -6,10 +6,10 @@ title: 3 Reasons to Run for Lt. Governor
 layout: blog
 #url: e/2011/04/13/3-reasons-to-run-for-lt-governor/
 categories:
-- Jefferson City
+- Politics
 - Missouri
 tags:
-- jefferson city
+- Politics
 - Lieutenant Governor
 - LooeyG
 - missouri

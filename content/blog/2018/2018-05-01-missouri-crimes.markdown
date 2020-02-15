@@ -6,7 +6,7 @@ title: Missouri Crimes
 
 # #url: e/2018/04/30/missouri-crimes/
 categories:
-- Jefferson City
+- Politics
 - News
 tags:
 - Al Watkins

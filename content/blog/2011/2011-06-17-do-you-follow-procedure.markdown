@@ -6,7 +6,7 @@ title: Do You Follow Procedure?
 layout: blog
 #url: e/2011/06/17/do-you-follow-procedure/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

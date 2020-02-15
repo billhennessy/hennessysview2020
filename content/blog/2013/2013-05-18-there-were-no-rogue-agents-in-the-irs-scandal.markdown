@@ -6,7 +6,7 @@ title: There Were No Rogue Agents In the IRS Scandal
 layout: blog
 #url: e/2013/05/18/there-were-no-rogue-agents-in-the-irs-scandal/
 categories:
-- IRS Scandal
+- Politics
 tags:
 - irs
 type: "post"

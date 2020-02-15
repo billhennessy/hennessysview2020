@@ -6,7 +6,7 @@ title: Election Night
 layout: blog
 #url: e/2010/11/03/election-night/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

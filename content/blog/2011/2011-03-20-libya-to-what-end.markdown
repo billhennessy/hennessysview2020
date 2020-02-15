@@ -6,7 +6,7 @@ title: 'Libya: To What End?'
 layout: blog
 #url: e/2011/03/20/libya-to-what-end/
 categories:
-- International
+- Politics
 tags:
 - Libya
 - obama

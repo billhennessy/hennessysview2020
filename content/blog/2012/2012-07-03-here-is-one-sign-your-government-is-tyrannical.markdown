@@ -6,7 +6,7 @@ title: Here Is One Sign That Your Government Is Tyrannical
 layout: blog
 #url: e/2012/07/03/here-is-one-sign-your-government-is-tyrannical/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - inducements
 - negative feedback

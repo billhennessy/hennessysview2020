@@ -6,7 +6,7 @@ title: America Is Back!
 layout: blog
 #url: e/2017/05/22/america-is-back/
 categories:
-- Islamofascism
+- Politics
 tags:
 - Manchester
 type: "post"

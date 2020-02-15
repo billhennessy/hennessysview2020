@@ -6,7 +6,7 @@ title: To My Commenters
 layout: blog
 #url: e/2011/03/01/to-my-commenters/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

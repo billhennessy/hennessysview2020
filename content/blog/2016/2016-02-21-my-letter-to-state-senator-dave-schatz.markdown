@@ -6,7 +6,7 @@ title: My Letter to State Senator Dave Schatz
 layout: blog
 #url: e/2016/02/21/my-letter-to-state-senator-dave-schatz/
 categories:
-- Jefferson City
+- Politics
 tags:
 - Dave Schatz
 - Ethics Reform

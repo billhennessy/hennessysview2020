@@ -6,7 +6,7 @@ title: Why We Must Win
 layout: blog
 #url: e/2012/01/25/why-we-must-win/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

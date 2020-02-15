@@ -6,7 +6,7 @@ title: Why I Support the Board of Police Commissioners
 layout: blog
 #url: e/2011/02/22/why-i-support-the-board-of-police-commissioners/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

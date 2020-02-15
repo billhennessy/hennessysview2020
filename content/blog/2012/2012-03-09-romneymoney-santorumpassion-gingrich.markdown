@@ -6,7 +6,7 @@ title: Romney=money, Santorum=passion, Gingrich
 layout: blog
 #url: e/2012/03/08/romneymoney-santorumpassion-gingrich/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: Why John McCain Wants the GOP To Go First
 layout: blog
 #url: e/2013/03/08/why-john-mccain-wants-gop-to-go-first/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - John McCain
 - libertarian

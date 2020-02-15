@@ -6,7 +6,7 @@ title: Counselling Sessions
 layout: blog
 #url: e/2017/09/10/counselling-sessions/
 categories:
-- IRS Scandal
+- Politics
 - News
 tags:
 - Jeff Sessions

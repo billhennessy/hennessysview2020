@@ -6,7 +6,7 @@ title: 'Part 3:  Todd Akin Needs to Lead or Get Out of the Way'
 layout: blog
 #url: e/2012/08/23/part-3-todd-akin-needs-to-lead-or-get-out-of-the-way/
 categories:
-- Latest
+- News
 tags:
 - Barack Obama
 - Claire McCaskill

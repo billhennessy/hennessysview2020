@@ -10,7 +10,7 @@ categories:
 tags:
 - Activism
 - communism
-- jefferson city
+- Politics
 - rally
 - SEIU
 - Tea Party News

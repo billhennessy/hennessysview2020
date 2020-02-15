@@ -6,7 +6,7 @@ title: Congress Adjourned and You Need a Drink
 layout: blog
 #url: e/2014/12/14/congress-adjourned-need-drink/
 categories:
-- Liberty Movement
+- Politics
 - Limited Government
 - Living
 - US Congress

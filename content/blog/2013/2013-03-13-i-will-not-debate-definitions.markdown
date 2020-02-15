@@ -6,7 +6,7 @@ title: I Will Not Debate Definitions
 layout: blog
 #url: e/2013/03/12/i-will-not-debate-definitions/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - conservative
 - definitions of words

@@ -6,7 +6,7 @@ title: Bill Cosby Should Ask for a Change of Venue to Cologne Germany
 layout: blog
 #url: e/2016/01/11/bill-cosby-should-ask-for-change-of-venue-to-cologne-germany/
 categories:
-- Islamofascism
+- Politics
 - Trump
 tags:
 - Cologne

@@ -6,7 +6,7 @@ title: What Scrooge Teaches Millennials
 layout: blog
 #url: e/2011/12/28/what-scrooge-teaches-millennials/
 categories:
-- Latest
+- News
 tags:
 - Baby Boomers
 - debt

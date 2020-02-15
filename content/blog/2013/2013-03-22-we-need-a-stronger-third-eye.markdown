@@ -6,7 +6,7 @@ title: We Need a Stronger Third Eye
 layout: blog
 #url: e/2013/03/21/we-need-a-stronger-third-eye/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - acting
 - challenger disaster

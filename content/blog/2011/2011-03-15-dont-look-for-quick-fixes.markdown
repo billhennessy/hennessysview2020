@@ -6,7 +6,7 @@ title: Don’t Look for Quick Fixes
 layout: blog
 #url: e/2011/03/14/dont-look-for-quick-fixes/
 categories:
-- Latest
+- News
 - Tea Party News
 tags:
 - boomers

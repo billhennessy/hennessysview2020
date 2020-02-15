@@ -6,7 +6,7 @@ title: Spring view
 layout: blog
 #url: e/2012/04/09/spring-view/
 categories:
-- Latest
+- News
 post_format:
 - Image
 type: "post"

@@ -6,7 +6,7 @@ title: America’s Dictator
 layout: blog
 #url: e/2012/03/12/americas-dictator/
 categories:
-- Latest
+- News
 tags:
 - dictator
 - new york times

@@ -6,7 +6,7 @@ title: It’s Time To End War On Weed
 layout: blog
 # #url: e/2013/01/01/its-time-to-end-war-on-weed/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - Angelina Jolie
 - Cannabis

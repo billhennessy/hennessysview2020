@@ -6,7 +6,7 @@ title: MoveOnUp.org was never supposed to happen
 layout: blog
 #url: e/2011/08/14/moveonup-org-was-never-supposed-to-happen/
 categories:
-- Latest
+- News
 tags:
 - African-American
 - black conservatives.

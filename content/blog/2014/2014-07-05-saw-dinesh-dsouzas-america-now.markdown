@@ -6,7 +6,7 @@ title: I Saw Dinesh D'Souza's America So Now You Have To
 layout: blog
 #url: e/2014/07/05/saw-dinesh-dsouzas-america-now/
 categories:
-- Liberty Movement
+- Politics
 type: "post"
 ---
 

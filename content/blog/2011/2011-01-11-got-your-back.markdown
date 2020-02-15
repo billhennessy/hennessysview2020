@@ -6,7 +6,7 @@ title: Got Your Back
 layout: blog
 #url: e/2011/01/11/got-your-back/
 categories:
-- Latest
+- News
 tags:
 - got your back
 - NAACP

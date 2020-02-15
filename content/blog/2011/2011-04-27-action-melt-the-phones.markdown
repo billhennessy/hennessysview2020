@@ -6,7 +6,7 @@ title: 'ACTION: Melt the Phones'
 layout: blog
 #url: e/2011/04/27/action-melt-the-phones/
 categories:
-- Jefferson City
+- Politics
 - Missouri
 - Union News
 tags:

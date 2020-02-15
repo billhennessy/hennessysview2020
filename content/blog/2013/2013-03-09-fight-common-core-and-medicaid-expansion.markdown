@@ -10,7 +10,7 @@ categories:
 tags:
 - common core
 - common core state standards
-- jefferson city
+- Politics
 - john lamping
 - liberty
 - medicaid expansion

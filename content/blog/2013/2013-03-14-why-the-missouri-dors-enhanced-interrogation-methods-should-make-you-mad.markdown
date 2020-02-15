@@ -6,8 +6,8 @@ title: Why the Missouri DOR’s Enhanced Interrogation Methods Should Make You M
 layout: blog
 #url: e/2013/03/14/why-the-missouri-dors-enhanced-interrogation-methods-should-make-you-mad/
 categories:
-- Jefferson City
-- Liberty Movement
+- Politics
+- Politics
 tags:
 - Brian K. Long
 - Jay Nixon

@@ -6,7 +6,7 @@ title: 'It’s 1978 All Over Again **UPDATE: Thaddeus McCotter Agrees With Me**'
 layout: blog
 #url: e/2011/01/28/its-1978-all-over-again/
 categories:
-- Latest
+- News
 tags:
 - cairo
 - egypt

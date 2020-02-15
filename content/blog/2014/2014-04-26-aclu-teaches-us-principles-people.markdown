@@ -6,7 +6,7 @@ title: What the ACLU Teaches Us About Cliven Bundy
 layout: blog
 #url: e/2014/04/26/aclu-teaches-us-principles-people/
 categories:
-- Liberty Movement
+- Politics
 - News
 tags:
 - ACLU

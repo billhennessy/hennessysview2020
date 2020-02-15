@@ -6,7 +6,7 @@ title: The Difference Between Cooperation and Consensus
 layout: blog
 #url: e/2011/03/21/the-difference-between-cooperation-and-consensus/
 categories:
-- Humor and Living
+- Living
 - Living
 tags:
 - consensus

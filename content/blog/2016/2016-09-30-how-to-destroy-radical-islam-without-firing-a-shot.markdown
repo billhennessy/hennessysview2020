@@ -6,7 +6,7 @@ title: How to Destroy Radical Islam Without Firing a Shot
 layout: blog
 #url: e/2016/09/29/how-to-destroy-radical-islam-without-firing-a-shot/
 categories:
-- Islamofascism
+- Politics
 tags:
 - persuasion
 - radical Islam

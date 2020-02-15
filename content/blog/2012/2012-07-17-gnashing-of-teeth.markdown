@@ -7,7 +7,7 @@ title: If the election were held today, there’d be a lot of crying and gnashin
 layout: blog
 #url: e/2012/07/17/gnashing-of-teeth/
 categories:
-- Latest
+- News
 tags:
 - Barack Obama
 - Mitt Romney

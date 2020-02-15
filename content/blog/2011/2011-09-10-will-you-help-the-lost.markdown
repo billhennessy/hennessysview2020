@@ -6,10 +6,10 @@ title: Will You Help Find the Lost?
 layout: blog
 #url: e/2011/09/10/will-you-help-the-lost/
 categories:
-- Jefferson County
+- Politics
 tags:
 - conservative
-- Jefferson County
+- Politics
 type: "post"
 ---
 

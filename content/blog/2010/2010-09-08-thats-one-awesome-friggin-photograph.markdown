@@ -6,7 +6,7 @@ title: That’s One Awesome Friggin’ Photograph
 layout: blog
 #url: e/2010/09/08/thats-one-awesome-friggin-photograph/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

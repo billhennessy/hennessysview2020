@@ -7,7 +7,7 @@ layout: blog
 #url: e/2014/01/07/missouri-statewide-right-to-work-meeting-wednesday-january-8/
 categories:
 - Activism
-- Jefferson City
+- Politics
 tags:
 - right to work
 type: "post"

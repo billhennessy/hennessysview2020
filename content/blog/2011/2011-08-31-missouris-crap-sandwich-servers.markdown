@@ -6,7 +6,7 @@ title: Missouri’s Crap Sandwich Servers
 layout: blog
 #url: e/2011/08/31/missouris-crap-sandwich-servers/
 categories:
-- Jefferson City
+- Politics
 - Limited Government
 - Missouri
 tags:

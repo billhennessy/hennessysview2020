@@ -6,7 +6,7 @@ title: 50 Years Later Dr. King’s Dream Becomes a Night Terror
 layout: blog
 #url: e/2013/08/24/50-years-later-dr-kings-dream-becomes-a-night-terror/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - equality
 - freedom

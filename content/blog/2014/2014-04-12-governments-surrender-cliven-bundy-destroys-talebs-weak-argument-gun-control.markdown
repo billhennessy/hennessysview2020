@@ -7,7 +7,7 @@ title: The Government’s Surrender to Cliven Bundy Destroys Taleb’s Weak Argu
 layout: blog
 #url: e/2014/04/12/governments-surrender-cliven-bundy-destroys-talebs-weak-argument-gun-control/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - bureau of land management
 - Cliven Bundy

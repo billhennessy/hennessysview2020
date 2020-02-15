@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/07/16/80-percent-of-americans-read-this-blog-every-day/
 categories:
 - Economy
-- Latest
+- News
 - Limited Government
 tags:
 - Debt Ceiling

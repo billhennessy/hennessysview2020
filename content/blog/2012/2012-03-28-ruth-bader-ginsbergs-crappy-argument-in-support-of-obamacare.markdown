@@ -6,7 +6,7 @@ title: Ruth Bader Ginsburg’s Crappy Argument In Support of ObamaCare
 layout: blog
 #url: e/2012/03/27/ruth-bader-ginsbergs-crappy-argument-in-support-of-obamacare/
 categories:
-- Latest
+- News
 tags:
 - obamacare
 - ruth bader ginsberg

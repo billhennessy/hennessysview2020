@@ -6,7 +6,7 @@ title: The White House Will Ban Rush From Armed Forces Radio
 layout: blog
 #url: e/2012/03/12/the-white-house-will-ban-rush-from-armed-forces-radio/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - Armed Forces Radio
 - feminazis

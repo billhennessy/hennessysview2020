@@ -6,7 +6,7 @@ title: See This Movie Today
 layout: blog
 #url: e/2012/08/25/see-this-movie-today/
 categories:
-- Latest
+- News
 post_format:
 - Image
 type: "post"

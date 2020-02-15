@@ -6,7 +6,7 @@ title: Why Did Jay Nixon Spit in Our Faces?
 layout: blog
 #url: e/2011/09/15/why-did-jay-nixon-spit-in-our-faces/
 categories:
-- Jefferson City
+- Politics
 tags:
 - Jay Nixon
 - Kinder v. Holden

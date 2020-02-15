@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/04/14/steve-tilley-vs-fiscal-responsibility/
 categories:
 - Economy
-- Jefferson City
+- Politics
 tags:
 - brian nieves
 - debt

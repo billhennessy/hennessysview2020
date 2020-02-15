@@ -6,7 +6,7 @@ title: How to Make an Election Day Plan
 layout: blog
 #url: e/2010/11/01/how-to-make-an-election-day-plan/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

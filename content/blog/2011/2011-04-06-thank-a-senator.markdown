@@ -6,7 +6,7 @@ title: Thank a Senator
 layout: blog
 #url: e/2011/04/06/thank-a-senator/
 categories:
-- Jefferson City
+- Politics
 - Limited Government
 - Missouri
 - Other News

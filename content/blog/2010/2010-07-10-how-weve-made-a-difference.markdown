@@ -9,7 +9,7 @@ categories:
 - Tea Party News
 tags:
 - Claire McCaskill
-- Jefferson County
+- Politics
 - obama
 - peggy noonan
 - revolution

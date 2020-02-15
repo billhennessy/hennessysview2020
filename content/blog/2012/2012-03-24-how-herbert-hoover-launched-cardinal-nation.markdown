@@ -6,7 +6,7 @@ title: How Herbert Hoover Launched Cardinal Nation
 layout: blog
 #url: e/2012/03/24/how-herbert-hoover-launched-cardinal-nation/
 categories:
-- Liberty Movement
+- Politics
 - Limited Government
 tags:
 - 'tcot'

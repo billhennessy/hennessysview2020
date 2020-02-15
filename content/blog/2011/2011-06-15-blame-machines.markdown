@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/06/14/blame-machines/
 categories:
 - Economy
-- Latest
+- News
 type: "post"
 ---
 

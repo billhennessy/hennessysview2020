@@ -6,7 +6,7 @@ title: Police LT Mike Madden Paints Picture of Jihadi Death
 layout: blog
 #url: e/2015/12/06/police-lt-mike-madden-paints-picture-of-jihadi-death/
 categories:
-- Islamofascism
+- Politics
 post_format:
 - Video
 tags:

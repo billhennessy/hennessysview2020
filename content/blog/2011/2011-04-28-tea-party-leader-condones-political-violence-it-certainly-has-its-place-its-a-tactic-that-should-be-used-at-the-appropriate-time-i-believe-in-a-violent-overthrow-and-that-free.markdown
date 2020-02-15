@@ -8,7 +8,7 @@ title: 'Tea Party Leader condones political violence: “It certainly has its pl
 layout: blog
 #url: e/2011/04/27/tea-party-leader-condones-political-violence-it-certainly-has-its-place-its-a-tactic-that-should-be-used-at-the-appropriate-time-i-believe-in-a-violent-overthrow-and-that-free/
 categories:
-- Jefferson City
+- Politics
 - Missouri
 - Other News
 - Union News

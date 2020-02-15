@@ -6,7 +6,7 @@ title: Going Home
 layout: blog
 #url: e/2015/05/17/going-home/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - Seneca
 type: "post"

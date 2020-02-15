@@ -10,7 +10,7 @@ categories:
 tags:
 - Barack Obama
 - Indiana
-- Jefferson City Missouri
+- Politics Missouri
 - Platte City Missouri
 - Richard Mourdock
 - Tea Party movement

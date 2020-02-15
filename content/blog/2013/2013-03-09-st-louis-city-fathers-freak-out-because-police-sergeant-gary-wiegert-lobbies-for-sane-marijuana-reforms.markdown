@@ -7,14 +7,14 @@ title: St. Louis City Fathers Freak Out Because Police Sergeant Gary Wiegert Lob
 layout: blog
 #url: e/2013/03/08/st-louis-city-fathers-freak-out-because-police-sergeant-gary-wiegert-lobbies-for-sane-marijuana-reforms/
 categories:
-- Liberty Movement
+- Politics
 - The Weednesday Post
 tags:
 - Columbia
 - Gary Wiegert
 - HB 511
 - HB 512
-- jefferson city
+- Politics
 - marijuana reform
 - show-me cannabis
 - St. Louis City

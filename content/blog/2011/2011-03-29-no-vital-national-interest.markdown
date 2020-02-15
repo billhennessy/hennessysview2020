@@ -6,8 +6,8 @@ title: No “Vital National Interest”
 layout: blog
 #url: e/2011/03/29/no-vital-national-interest/
 categories:
-- int
-- International
+- Politics
+- Politics
 tags:
 - Gates
 - Libya

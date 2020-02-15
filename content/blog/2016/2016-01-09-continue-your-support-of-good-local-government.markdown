@@ -6,7 +6,7 @@ title: Continue Your Support of Good Local Government
 layout: blog
 #url: e/2016/01/09/continue-your-support-of-good-local-government/
 categories:
-- Jefferson City
+- Politics
 - Missouri
 - Municipal Courts
 tags:

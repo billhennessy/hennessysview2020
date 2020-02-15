@@ -6,7 +6,7 @@ title: Loretta Lynch Mob **UPDATE**
 layout: blog
 #url: e/2015/12/06/i-could-go-to-jail-for-this-post/
 categories:
-- Islamofascism
+- Politics
 - Limited Government
 tags:
 - jihad

@@ -7,10 +7,10 @@ layout: blog
 #url: e/2011/04/17/steve-tilley-vs-the-constitution/
 categories:
 - Politics
-- Jefferson City
+- Politics
 tags:
 - electoral college
-- jefferson city
+- Politics
 - leftist
 - missouri
 - Politics

@@ -6,7 +6,7 @@ title: 10 Days Until 3rd Anniversary Tea Party
 layout: blog
 #url: e/2012/02/14/10-days-until-3rd-anniversary-tea-party/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

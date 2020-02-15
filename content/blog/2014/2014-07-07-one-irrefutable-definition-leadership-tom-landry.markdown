@@ -6,7 +6,7 @@ title: One Irrefutable Definition of Leadership from Tom Landry
 layout: blog
 #url: e/2014/07/07/one-irrefutable-definition-leadership-tom-landry/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - Politics
 - Tom Landry

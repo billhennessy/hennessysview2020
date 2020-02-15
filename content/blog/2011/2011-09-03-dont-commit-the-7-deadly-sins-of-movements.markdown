@@ -6,7 +6,7 @@ title: Don't Commit the 7 Deadly Sins of Movements
 layout: blog
 #url: e/2011/09/03/dont-commit-the-7-deadly-sins-of-movements/
 categories:
-- Latest
+- News
 - Tea Party News
 tags:
 - 7 Deadly Sins

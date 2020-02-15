@@ -6,7 +6,7 @@ title: What's In Your Medicine Cabinet?
 layout: blog
 #url: e/2015/04/13/whats-in-your-medicine-cabinet/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - missouri
 - PDMP

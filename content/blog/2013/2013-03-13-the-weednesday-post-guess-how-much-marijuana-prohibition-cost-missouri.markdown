@@ -6,7 +6,7 @@ title: 'The Weednesday Post: Guess How Much Marijuana Prohibition Costs Missouri
 layout: blog
 # #url: e/2013/03/13/the-weednesday-post-guess-how-much-marijuana-prohibition-cost-missouri/
 categories:
-- Liberty Movement
+- Politics
 - The Weednesday Post
 tags:
 - cost of war on marijuana

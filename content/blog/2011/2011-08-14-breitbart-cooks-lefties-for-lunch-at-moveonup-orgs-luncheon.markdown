@@ -6,7 +6,7 @@ title: Breitbart Cooks Lefties for Lunch at MoveOnUp.org's Luncheon
 layout: blog
 #url: e/2011/08/14/breitbart-cooks-lefties-for-lunch-at-moveonup-orgs-luncheon/
 categories:
-- Latest
+- News
 - Other News
 - Tea Party News
 type: "post"

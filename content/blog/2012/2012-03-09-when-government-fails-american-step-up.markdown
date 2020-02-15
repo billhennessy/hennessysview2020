@@ -6,7 +6,7 @@ title: When Government Fails, Americans Step Up
 layout: blog
 #url: e/2012/03/08/when-government-fails-american-step-up/
 categories:
-- Liberty Movement
+- Politics
 type: "post"
 ---
 

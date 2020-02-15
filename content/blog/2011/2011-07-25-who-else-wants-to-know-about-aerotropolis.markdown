@@ -6,7 +6,7 @@ title: Who Else Wants To Know About Aerotropolis?
 layout: blog
 #url: e/2011/07/24/who-else-wants-to-know-about-aerotropolis/
 categories:
-- Jefferson City
+- Politics
 tags:
 - aerotropolis
 type: "post"

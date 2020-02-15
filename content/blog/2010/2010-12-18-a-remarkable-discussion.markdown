@@ -6,7 +6,7 @@ title: A Remarkable Discussion
 layout: blog
 #url: e/2010/12/18/a-remarkable-discussion/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

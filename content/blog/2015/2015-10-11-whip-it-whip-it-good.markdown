@@ -6,7 +6,7 @@ title: Whip It. Whip It Good.
 layout: blog
 #url: e/2015/10/11/whip-it-whip-it-good/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - Ann Wagner
 - House Majority Whip

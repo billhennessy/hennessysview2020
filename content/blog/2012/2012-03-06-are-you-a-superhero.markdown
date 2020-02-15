@@ -6,7 +6,7 @@ title: Are You a Superhero?
 layout: blog
 #url: e/2012/03/06/are-you-a-superhero/
 categories:
-- Latest
+- News
 tags:
 - Activism
 - give

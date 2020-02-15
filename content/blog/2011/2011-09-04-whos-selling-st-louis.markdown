@@ -6,7 +6,7 @@ title: Who's Selling St. Louis?
 layout: blog
 #url: e/2011/09/04/whos-selling-st-louis/
 categories:
-- Jefferson City
+- Politics
 tags:
 - aerotropolis
 - china hub

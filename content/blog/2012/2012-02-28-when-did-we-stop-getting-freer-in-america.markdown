@@ -6,7 +6,7 @@ title: Why Not an Annual Celebration of Freedom?
 layout: blog
 #url: e/2012/02/28/when-did-we-stop-getting-freer-in-america/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - 13th Amendment
 - 13th Amendment Freedom Week

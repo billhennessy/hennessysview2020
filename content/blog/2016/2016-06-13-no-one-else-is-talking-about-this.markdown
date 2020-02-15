@@ -6,7 +6,7 @@ title: No One Else Is Talking About This
 layout: blog
 #url: e/2016/06/13/no-one-else-is-talking-about-this/
 categories:
-- Islamofascism
+- Politics
 - Terrorism
 type: "post"
 ---

@@ -6,8 +6,8 @@ title: 'Breaking: Dem Appointed Director of Missouri Revenue Caught Lying to Sen
 layout: blog
 # #url: e/2013/03/13/breaking-dem-appointed-director-of-missouri-revenue-caught-lying-to-senate/
 categories:
-- Jefferson City
-- Liberty Movement
+- Politics
+- Politics
 tags:
 - Governor Jay Nixon
 - Homeland Security

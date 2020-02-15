@@ -6,7 +6,7 @@ title: Shut Down Labor Studies Now, Governor Nixon
 layout: blog
 #url: e/2011/04/26/shut-down-labor-studies-now-governor-nixon/
 categories:
-- Jefferson City
+- Politics
 - Missouri
 - Union News
 tags:

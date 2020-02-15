@@ -6,7 +6,7 @@ title: This Sums Up Everything I Believe Better Than I Ever Could
 layout: blog
 #url: e/2012/09/14/this-sums-up-everything-i-believe-better-than-i-ever-could/
 categories:
-- Latest
+- News
 tags:
 - Barack Obama
 - Mitt Romney

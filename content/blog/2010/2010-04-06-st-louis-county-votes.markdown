@@ -6,7 +6,7 @@ title: St. Louis County Votes
 layout: blog
 #url: e/2010/04/05/st-louis-county-votes/
 categories:
-- Latest
+- News
 tags:
 - Politics Day
 - proposition a

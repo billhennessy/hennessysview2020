@@ -6,7 +6,7 @@ title: Why I Am Skipping Independence Day This Year
 layout: blog
 #url: e/2012/07/04/im-skipping-independence-day-because-we-gave-our-independence-back/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - 4th of July
 - American surrender

@@ -6,7 +6,7 @@ title: Irrational History
 layout: blog
 #url: e/2010/10/06/irrational-history/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

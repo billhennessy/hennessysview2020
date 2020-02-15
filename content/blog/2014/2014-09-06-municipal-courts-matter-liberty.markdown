@@ -14,7 +14,7 @@ tags:
 - featured
 - Politics
 - libertarian
-- liberty movement
+- Politics
 - municipal courts
 type: "post"
 ---

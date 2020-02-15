@@ -6,7 +6,7 @@ title: Can You Trust the Democcrats' Platform?
 layout: blog
 #url: e/2012/09/04/can-you-trust-the-democcrats-platform/
 categories:
-- Latest
+- News
 tags:
 - Barack Obama
 - Democratic

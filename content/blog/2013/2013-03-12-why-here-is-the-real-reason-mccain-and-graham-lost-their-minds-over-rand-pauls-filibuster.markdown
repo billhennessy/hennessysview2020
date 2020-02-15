@@ -6,7 +6,7 @@ title: Why Libertarian Kids, Not Drones, Scare McCain and Graham
 layout: blog
 #url: e/2013/03/12/why-here-is-the-real-reason-mccain-and-graham-lost-their-minds-over-rand-pauls-filibuster/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - dorm rooms
 - establishment

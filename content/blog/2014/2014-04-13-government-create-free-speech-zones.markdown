@@ -6,7 +6,7 @@ title: Yes, the Government Should Fear the People
 layout: blog
 #url: e/2014/04/13/government-create-free-speech-zones/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - Bundy Ranch
 - first amendment

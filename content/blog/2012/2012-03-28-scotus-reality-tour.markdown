@@ -6,7 +6,7 @@ title: SCOTUS Reality Tour
 layout: blog
 #url: e/2012/03/28/scotus-reality-tour/
 categories:
-- Latest
+- News
 tags:
 - anthony Kennedy
 - Livingcare

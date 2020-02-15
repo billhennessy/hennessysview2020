@@ -6,7 +6,7 @@ title: Want to Know What Real Change Looks Like?
 layout: blog
 #url: e/2011/11/16/want-to-know-what-real-change-looks-like/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

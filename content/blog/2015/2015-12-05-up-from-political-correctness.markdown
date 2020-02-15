@@ -6,7 +6,7 @@ title: Up From Political Correctness
 layout: blog
 #url: e/2015/12/05/up-from-political-correctness/
 categories:
-- Islamofascism
+- Politics
 tags:
 - 'bubblemakers'
 - Islamic radicalism

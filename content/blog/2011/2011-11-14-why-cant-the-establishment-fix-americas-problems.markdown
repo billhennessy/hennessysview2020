@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/11/14/why-cant-the-establishment-fix-americas-problems/
 categories:
 - Politics
-- Latest
+- News
 tags:
 - Barry Goldwater
 - establishment

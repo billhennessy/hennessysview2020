@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/02/15/proud-to-stand-with-veterans-supporting-eric-greitens/
 categories:
 - Politics
-- Jefferson City
+- Politics
 tags:
 - Eric Greitens
 - Missouri Governor

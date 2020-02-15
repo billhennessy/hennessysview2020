@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Activism
 - Constitution
-- Jefferson City
+- Politics
 - Limited Government
 tags:
 - electoral college

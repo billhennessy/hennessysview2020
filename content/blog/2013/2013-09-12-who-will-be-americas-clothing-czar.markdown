@@ -6,7 +6,7 @@ title: Who Will Be America’s Clothing Czar
 layout: blog
 # #url: e/2013/09/12/who-will-be-americas-clothing-czar/
 categories:
-- Liberty Movement
+- Politics
 - Limited Government
 tags:
 - clothing czar

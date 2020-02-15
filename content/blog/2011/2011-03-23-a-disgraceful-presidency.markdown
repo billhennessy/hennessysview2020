@@ -6,7 +6,7 @@ title: A Disgraceful Presidency
 layout: blog
 #url: e/2011/03/23/a-disgraceful-presidency/
 categories:
-- International
+- Politics
 - White House
 tags:
 - Germany

@@ -6,7 +6,7 @@ title: 'Action Alert: Help a David defeat a Goliath'
 layout: blog
 #url: e/2012/03/18/action-alert-help-a-david-defeat-a-goliath/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

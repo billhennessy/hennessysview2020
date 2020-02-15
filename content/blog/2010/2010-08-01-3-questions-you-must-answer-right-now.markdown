@@ -6,7 +6,7 @@ title: 4 Questions You Must Answer Right Now
 layout: blog
 #url: e/2010/08/01/3-questions-you-must-answer-right-now/
 categories:
-- Latest
+- News
 tags:
 - Politics Day
 - Livingcare Free Choice Act

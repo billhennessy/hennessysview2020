@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/09/21/kids-are-back-in-school-and-jihadists-killing-again/
 categories:
 - Politics
-- Islamofascism
+- Politics
 tags:
 - Clinton
 - FBI

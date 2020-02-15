@@ -6,7 +6,7 @@ title: America is for Americans
 layout: blog
 #url: e/2015/12/09/america-is-for-americans/
 categories:
-- Islamofascism
+- Politics
 - Trump
 tags:
 - Cruz

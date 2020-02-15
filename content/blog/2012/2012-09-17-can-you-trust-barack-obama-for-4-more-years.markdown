@@ -6,7 +6,7 @@ title: Can You Trust Barack Obama for 4 More Years?
 layout: blog
 #url: e/2012/09/17/can-you-trust-barack-obama-for-4-more-years/
 categories:
-- International
+- Politics
 tags:
 - BarackObama
 - Iraq

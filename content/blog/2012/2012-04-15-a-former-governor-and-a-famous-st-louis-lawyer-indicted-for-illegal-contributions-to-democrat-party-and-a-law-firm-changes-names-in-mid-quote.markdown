@@ -7,7 +7,7 @@ title: A Former Governor and a Famous St. Louis Lawyer Indicted for Illegal Cont
 layout: blog
 #url: e/2012/04/15/a-former-governor-and-a-famous-st-louis-lawyer-indicted-for-illegal-contributions-to-democrat-party-and-a-law-firm-changes-names-in-mid-quote/
 categories:
-- Latest
+- News
 post_format:
 - Aside
 tags:

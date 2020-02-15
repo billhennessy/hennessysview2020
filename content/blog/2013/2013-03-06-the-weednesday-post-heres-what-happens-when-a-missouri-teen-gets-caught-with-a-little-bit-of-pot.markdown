@@ -7,7 +7,7 @@ title: 'The WEEDnesday Post: Here’s What Happens When a Missouri Teen Gets Cau
 layout: blog
 # #url: e/2013/03/06/the-weednesday-post-heres-what-happens-when-a-missouri-teen-gets-caught-with-a-little-bit-of-pot/
 categories:
-- Liberty Movement
+- Politics
 - The Weednesday Post
 tags:
 - draconian marijuana laws

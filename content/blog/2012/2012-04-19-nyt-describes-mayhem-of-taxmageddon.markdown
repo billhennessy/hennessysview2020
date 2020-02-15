@@ -7,7 +7,7 @@ layout: blog
 #url: e/2012/04/19/nyt-describes-mayhem-of-taxmageddon/
 categories:
 - Economy
-- Latest
+- News
 post_format:
 - Standard
 tags:

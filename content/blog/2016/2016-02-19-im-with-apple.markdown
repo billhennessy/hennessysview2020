@@ -6,7 +6,7 @@ title: I'm with Apple
 layout: blog
 #url: e/2016/02/19/im-with-apple/
 categories:
-- Liberty Movement
+- Politics
 tags:
 - apple
 - FBI

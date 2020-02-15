@@ -6,7 +6,7 @@ title: How Much Damage Can They Do in 84 Days? *UPDATE*
 layout: blog
 #url: e/2010/08/10/how-much-damage-can-they-do-in-84-days/
 categories:
-- Latest
+- News
 type: "post"
 ---
 

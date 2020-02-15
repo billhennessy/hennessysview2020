@@ -6,7 +6,7 @@ title: 'Here''s What Chris Christie Got Right '
 layout: blog
 #url: e/2014/01/09/heres-chris-christie-got-right/
 categories:
-- IRS Scandal
+- Politics
 - News
 tags:
 - Barack Obama

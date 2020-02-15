@@ -6,7 +6,7 @@ title: The Unbearable Lightness of Being There
 layout: blog
 #url: e/2015/12/06/the-unbearable-lightness-of-being-there/
 categories:
-- Islamofascism
+- Politics
 tags:
 - Being There
 - Islamic radicalism
