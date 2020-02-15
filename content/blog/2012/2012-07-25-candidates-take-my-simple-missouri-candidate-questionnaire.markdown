@@ -6,7 +6,7 @@ title: Candidates, Take My Simple Missouri Candidate Questionnaire
 layout: blog
 #url: e/2012/07/24/candidates-take-my-simple-missouri-candidate-questionnaire/
 categories:
-- 2012 Election
+- Politics
 type: "post"
 ---
 

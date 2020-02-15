@@ -6,7 +6,7 @@ title: Preserving the Republic Is Paramount in 2012
 layout: blog
 #url: e/2012/08/20/preserving-the-republic-is-paramount-in-2012/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Ann Wagner
 - Claire McCaskill

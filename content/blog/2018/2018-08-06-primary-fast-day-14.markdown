@@ -6,7 +6,7 @@ title: 'Primary Fast: Day 14'
 
 # #url: e/2018/08/06/primary-fast-day-14/
 categories:
-- 2018 Primary Election
+- Politics Election
 - Faith
 tags:
 - Dottie Bailey

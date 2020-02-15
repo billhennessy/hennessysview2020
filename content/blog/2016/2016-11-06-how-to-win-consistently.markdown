@@ -6,7 +6,7 @@ title: How to Win Consistently
 layout: blog
 #url: e/2016/11/06/how-to-win-consistently/
 categories:
-- 2016 Election
+- Politics
 - Missouri
 tags:
 - Donald Trump

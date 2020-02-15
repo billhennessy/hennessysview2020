@@ -6,7 +6,7 @@ title: Have Voters Priced In Clinton's Criminality?
 layout: blog
 #url: e/2016/10/31/have-voters-priced-in-clintons-criminality/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Crooked Hillary
 type: "post"

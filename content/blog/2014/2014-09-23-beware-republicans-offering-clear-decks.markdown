@@ -6,7 +6,7 @@ title: Beware Republicans Offering to "Clear the Decks"
 layout: blog
 #url: e/2014/09/23/beware-republicans-offering-clear-decks/
 categories:
-- 2014 Election
+- Politics
 tags:
 - 'endExIm'
 - Ann Wagner

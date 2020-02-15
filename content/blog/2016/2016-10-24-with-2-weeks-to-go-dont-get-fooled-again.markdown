@@ -6,7 +6,7 @@ title: With 2 Weeks to Go, Don't Get Fooled Again
 layout: blog
 #url: e/2016/10/24/with-2-weeks-to-go-dont-get-fooled-again/
 categories:
-- 2016 Election
+- Politics
 post_format:
 - Video
 tags:

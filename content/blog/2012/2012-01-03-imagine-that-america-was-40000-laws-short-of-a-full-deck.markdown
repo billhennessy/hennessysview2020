@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Limited Government
 tags:
-- 2012 laws
+- Politics
 - hoarders
 - laws
 - new laws

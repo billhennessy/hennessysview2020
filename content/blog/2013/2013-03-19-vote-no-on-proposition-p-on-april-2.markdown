@@ -6,7 +6,7 @@ title: Vote No on Proposition P on April 2
 layout: blog
 # #url: e/2013/03/19/vote-no-on-proposition-p-on-april-2/
 categories:
-- 2013 Elections
+- Politics
 tags:
 - April 2 Election
 - Proposition P

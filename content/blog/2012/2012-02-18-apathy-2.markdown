@@ -6,7 +6,7 @@ title: Apathy
 layout: blog
 #url: e/2012/02/18/apathy-2/
 categories:
-- 2012 Election
+- Politics
 tags:
 - 3rd anniversary tea party
 - apathy

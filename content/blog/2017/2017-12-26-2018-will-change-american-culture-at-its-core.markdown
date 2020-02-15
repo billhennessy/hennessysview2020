@@ -6,7 +6,7 @@ title: 2018 will change American culture at its core
 layout: blog
 #url: e/2017/12/26/2018-will-change-american-culture-at-its-core/
 categories:
-- 2018 Election
+- Politics
 - News
 - The Fourth Turning
 - Trump

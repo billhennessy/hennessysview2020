@@ -5,8 +5,7 @@ image: /images/uploads/yellowstone-caldera.jpg
 featuredImage: /images/uploads/yellowstone-caldera.jpg
 draft: false
 categories:
-- Prophecy
-- Prophets
+- Faith
 - Living
 type: "post"
 ---

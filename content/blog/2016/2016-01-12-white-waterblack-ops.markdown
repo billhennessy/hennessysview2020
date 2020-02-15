@@ -6,7 +6,7 @@ title: White Water/Black Ops
 layout: blog
 #url: e/2016/01/12/white-waterblack-ops/
 categories:
-- 2016 Election
+- Politics
 - News
 - Trump
 tags:

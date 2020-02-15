@@ -6,9 +6,9 @@ title: THis Is How I’m Voting On November 6
 layout: blog
 #url: e/2012/10/24/this-is-how-im-voting-on-november-6/
 categories:
-- 2012 Election
+- Politics
 tags:
-- 2012 election
+- Politics
 - election
 - endorsements
 - how to vote

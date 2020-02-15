@@ -6,7 +6,7 @@ title: The Greater of Two Goods
 layout: blog
 #url: e/2015/04/09/the-greater-of-two-goods/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Eric Greitens
 - John Brunner

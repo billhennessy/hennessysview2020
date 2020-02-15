@@ -6,7 +6,7 @@ title: Ted Cruz's ultimate strategy
 layout: blog
 #url: e/2016/02/21/ted-cruzs-ultimate-strategy/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald J. Trump

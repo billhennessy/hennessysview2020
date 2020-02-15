@@ -6,7 +6,7 @@ title: Who Gets the Credit Matters Most
 layout: blog
 #url: e/2016/10/19/who-gets-the-credit-is-most-important/
 categories:
-- 2016 Election
+- Politics
 tags:
 - NeverTrump
 - reagan

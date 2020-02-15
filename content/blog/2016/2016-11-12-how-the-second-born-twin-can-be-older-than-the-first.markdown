@@ -6,7 +6,7 @@ title: How the Second-Born Twin Can Be Older Than the First
 layout: blog
 #url: e/2016/11/12/how-the-second-born-twin-can-be-older-than-the-first/
 categories:
-- 2016 Election
+- Politics
 tags:
 - brexit
 - reagan

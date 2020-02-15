@@ -5,7 +5,7 @@ draft: false
 image: /images/uploads/Pachamamas.png
 # featuredImage: /images/uploads/
 categories:
-- Catholic
+- Faith
 tags:
 - Amazon Synod
 - Pachamama

@@ -6,7 +6,7 @@ title: I Told You So! Democrats BOO God, Israel
 layout: blog
 #url: e/2012/09/05/i-told-you-so-democrats-boo-god-israel/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Barack Obama
 - Democratic

@@ -6,7 +6,7 @@ layout: blog
 draft: true
 #url: e/
 categories:
-- 2016 Election
+- Politics
 - Tea Party News
 - Trump
 tags:

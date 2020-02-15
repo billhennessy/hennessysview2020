@@ -6,7 +6,7 @@ title: Lewandowski Firing
 layout: blog
 #url: e/2016/06/21/lewandowski-firing/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Lewandowski

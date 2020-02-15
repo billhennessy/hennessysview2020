@@ -6,7 +6,7 @@ title: Only the '64 Phillies Rival Hillary Clinton's Brutal September Collapse
 layout: blog
 #url: e/2016/09/16/only-the-64-phillies-rival-hillary-clintons-brutal-september-collapse/
 categories:
-- 2016 Election
+- Politics
 tags:
 - bigot
 - Hillary-Clinton

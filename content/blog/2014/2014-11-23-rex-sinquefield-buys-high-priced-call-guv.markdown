@@ -6,7 +6,7 @@ title: Rex Sinquefield Buys High-Priced Call Guv
 layout: blog
 #url: e/2014/11/23/rex-sinquefield-buys-high-priced-call-guv/
 categories:
-- 2016 Election
+- Politics
 type: "post"
 ---
 

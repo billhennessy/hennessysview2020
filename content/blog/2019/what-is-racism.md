@@ -4,7 +4,7 @@ date: 2019-07-27T18:44:24-05:00
 draft: true
 image: 
 Categories:
-- Racism
+- Politics
 ---
 Martin Luther King told us to judge people by the content of their character, not by the color of their skin. That makes sense to me, and I try to live by it. 
 

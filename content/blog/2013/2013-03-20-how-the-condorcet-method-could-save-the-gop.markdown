@@ -6,7 +6,7 @@ title: How the Condorcet Method Could Save The GOP
 layout: blog
 # #url: e/2013/03/20/how-the-condorcet-method-could-save-the-gop/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Condorcet Method
 - elections

@@ -6,9 +6,9 @@ title: Bad Judgment on Rockwood School Board (or something worse?)
 
 # #url: e/2018/07/31/bad-judgment-rockwood-school-board/
 categories:
-- 2018 Election
-- 2018 Missouri Primary
-- 2018 Primary Election
+- Politics
+- Politics Primary
+- Politics Election
 tags:
 - Dottie Bailey
 - Rockwood School District

@@ -6,7 +6,7 @@ title: Convict Hillary
 layout: blog
 #url: e/2016/07/10/convict-hillary/
 categories:
-- 2016 Election
+- Politics
 - Crime
 tags:
 - Crooked Hillary

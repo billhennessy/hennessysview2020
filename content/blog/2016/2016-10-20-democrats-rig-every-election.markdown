@@ -6,7 +6,7 @@ title: Democrats Rig Every Election
 layout: blog
 #url: e/2016/10/20/democrats-rig-every-election/
 categories:
-- 2016 Election
+- Politics
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: The Flies Are Coming Home to Roost
 layout: blog
 #url: e/2016/10/09/the-flies-are-coming-home-to-roost/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Fly

@@ -6,7 +6,7 @@ title: Obama’s Surging in the Polls; Here’s Everything You Need to Know
 layout: blog
 #url: e/2012/02/20/obamas-surging-in-the-polls-heres-everything-you-need-to-know-2/
 categories:
-- 2012 Election
+- Politics
 tags:
 - apathy
 - candidates

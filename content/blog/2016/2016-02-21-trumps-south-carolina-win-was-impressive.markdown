@@ -6,7 +6,7 @@ title: Trump's South Carolina win was impressive
 layout: blog
 #url: e/2016/02/21/trumps-south-carolina-win-was-impressive/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald Trump

@@ -6,7 +6,7 @@ title: Will KMOX Drop Candy Crowley Or Lose Its Credibility?
 layout: blog
 #url: e/2012/10/16/will-kmox-drop-candy-crowley-or-lose-its-credibility/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Candy Crowley
 - KMOX

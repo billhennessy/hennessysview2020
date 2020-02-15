@@ -6,7 +6,7 @@ title: What It's Like to Meet Ted Cruz
 layout: blog
 #url: e/2016/07/20/what-its-like-to-meet-ted-cruz/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Ted Cruz

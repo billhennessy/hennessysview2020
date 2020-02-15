@@ -5,7 +5,6 @@ date: 2019-07-19T23:05:34.463Z
 image: /images/uploads/spys-guide.jpg
 categories:
   - Books
-  - Risk
 tags:
   - Risk
 

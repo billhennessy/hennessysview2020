@@ -6,7 +6,7 @@ title: Relate to This, Mitt
 layout: blog
 #url: e/2012/02/11/relate-to-this-mitt-2/
 categories:
-- 2012 Election
+- Politics
 tags:
 - conservative
 - grassroots

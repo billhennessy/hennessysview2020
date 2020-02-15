@@ -6,7 +6,7 @@ title: How Can I Possibly Vote for Rick Stream for County Executive?
 layout: blog
 #url: e/2014/09/30/vote-rick-stream-county-exec/
 categories:
-- 2014 Election
+- Politics
 tags:
 - 'mo2'
 - Ann Wagner

@@ -6,7 +6,7 @@ title: What if high turnout in Iowa means something else
 layout: blog
 #url: e/2016/02/01/what-if-high-turnout-in-iowa-means-something-else/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Ben Carson

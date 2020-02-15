@@ -6,7 +6,7 @@ title: The Psychology of The Inevitable
 layout: blog
 #url: e/2016/05/01/the-psychology-of-the-inevitable/
 categories:
-- 2016 Election
+- Politics
 - Political Psychology
 - Trump
 tags:

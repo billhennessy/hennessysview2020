@@ -6,7 +6,7 @@ title: How Herman Cain Can Win
 layout: blog
 #url: e/2011/10/04/how-herman-cain-can-win/
 categories:
-- 2012 Election
+- Politics
 tags:
 - herman cain
 type: "post"

@@ -6,7 +6,7 @@ title: When The Three O'Clock Call Came, Barack Obama Froze
 layout: blog
 #url: e/2012/10/27/when-the-300-am-call-came-barack-obama-froze/
 categories:
-- 2012 Election
+- Politics
 tags:
 - al-qaeda
 - Barack Obama

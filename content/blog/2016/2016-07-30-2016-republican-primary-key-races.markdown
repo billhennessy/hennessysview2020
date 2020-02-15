@@ -6,7 +6,7 @@ title: 2016 Republican Primary Key Races
 layout: blog
 #url: e/2016/07/30/2016-republican-primary-key-races/
 categories:
-- 2016 Election
+- Politics
 - Missouri
 tags:
 - Andrew Koenig

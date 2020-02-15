@@ -6,7 +6,7 @@ title: Trump Bunted a Hanging Slider He Could Have Walloped
 layout: blog
 #url: e/2016/09/27/trump-bunted-a-hanging-slider-he-could-have-walloped/
 categories:
-- 2016 Election
+- Politics
 tags:
 - 'debatenight'
 - Trump

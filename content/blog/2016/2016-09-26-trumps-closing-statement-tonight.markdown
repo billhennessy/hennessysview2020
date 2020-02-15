@@ -6,7 +6,7 @@ title: Trump's Closing Statement Tonight
 layout: blog
 #url: e/2016/09/26/trumps-closing-statement-tonight/
 categories:
-- 2016 Election
+- Politics
 - Trump
 type: "post"
 ---

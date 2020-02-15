@@ -6,7 +6,7 @@ title: Who Won the New Hampshire Republican Debate?
 layout: blog
 #url: e/2012/01/07/who-won-the-new-hampshire-republican-debate/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Gingrich
 - New Hampshire

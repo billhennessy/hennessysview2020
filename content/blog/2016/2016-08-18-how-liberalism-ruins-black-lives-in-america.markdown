@@ -6,7 +6,7 @@ title: How Liberalism Ruins Black Lives in America
 layout: blog
 #url: e/2016/08/17/how-liberalism-ruins-black-lives-in-america/
 categories:
-- 2016 Election
+- Politics
 - News
 - Trump
 tags:

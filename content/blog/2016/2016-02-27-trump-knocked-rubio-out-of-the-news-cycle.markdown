@@ -6,7 +6,7 @@ title: Trump knocks Rubio out of the news cycle
 layout: blog
 #url: e/2016/02/26/trump-knocked-rubio-out-of-the-news-cycle/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - chris christie

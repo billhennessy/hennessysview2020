@@ -5,7 +5,7 @@ draft: false
 image: /images/uploads/new-mass.jpeg
 # featuredImage: /images/uploads/
 categories: 
-- Catholic
+- Faith
 tags:
 - Traditional Latin Mass
 author: "Bill Hennessy"

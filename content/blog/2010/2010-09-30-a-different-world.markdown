@@ -6,7 +6,7 @@ title: A Different World
 layout: blog
 #url: e/2010/09/30/a-different-world/
 categories:
-- 2010 Election
+- Politics
 tags:
 - Leadership
 type: "post"

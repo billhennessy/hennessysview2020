@@ -7,7 +7,7 @@ image: /images/uploads/vianney.jpg
 featuredImage: /images/uploads/vianney.jpg
 categories: 
 - Faith
-- Fasting
+
 tags:
 - Lent
 - Spring

@@ -6,7 +6,7 @@ title: Get Off Your Duff and GoVote.com
 layout: blog
 #url: e/2011/12/18/get-off-your-duff-and-govote-com/
 categories:
-- 2010 Election
+- Politics
 tags:
 - civics
 - govote.com

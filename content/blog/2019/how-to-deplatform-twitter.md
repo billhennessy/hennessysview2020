@@ -5,8 +5,7 @@ draft: false
 # image: /images/uploads/
 # featuredImage: /images/uploads/
 categories:
-- Action
-- Twitter
+- Politics
 tags:
 - deplatform twitter
 author: "Bill Hennessy"

@@ -6,9 +6,9 @@ title: Are the Missouri August Primary results a fluke or the beginning of a tre
 layout: blog
 #url: e/2014/08/10/missouri-august-primary-results-fluke-beginning-trend/
 categories:
-- 2014 Election
+- Politics
 tags:
-- 2014 Primary
+- Politics
 - Ann Wagner
 - August 5
 - Missouri Primary

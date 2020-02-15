@@ -6,7 +6,7 @@ title: Trump's Landslide Tipping Point Is Breathing Down Your Neck
 layout: blog
 #url: e/2016/09/19/trumps-landslide-tipping-point-is-breathing-down-your-neck/
 categories:
-- 2016 Election
+- Politics
 - Political Psychology
 tags:
 - Bradley Effect

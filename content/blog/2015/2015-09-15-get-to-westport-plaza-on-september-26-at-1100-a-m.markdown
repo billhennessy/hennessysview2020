@@ -6,7 +6,7 @@ title: Get to Westport Plaza on September 26 at 11:00 a.m.
 layout: blog
 #url: e/2015/09/14/get-to-westport-plaza-on-september-26-at-1100-a-m/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Eric Greitens
 - Greitens For Missouri

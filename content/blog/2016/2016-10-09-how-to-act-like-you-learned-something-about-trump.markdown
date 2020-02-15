@@ -6,7 +6,7 @@ title: How to Act Like You Learned Something About Trump
 layout: blog
 #url: e/2016/10/09/how-to-act-like-you-learned-something-about-trump/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Scalia

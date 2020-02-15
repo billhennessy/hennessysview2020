@@ -6,7 +6,7 @@ title: A Voice, Not an Echo
 layout: blog
 #url: e/2016/07/22/a-voice-not-an-echo/
 categories:
-- 2016 Election
+- Politics
 - Trump
 type: "post"
 ---

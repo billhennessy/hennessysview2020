@@ -6,7 +6,7 @@ title: Trump for President. I Endorse.
 layout: blog
 #url: e/2016/05/06/trump-for-president-i-endorse/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald Trump

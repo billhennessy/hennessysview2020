@@ -6,7 +6,7 @@ title: Ted Cruz and Glenn Beck Were 100% Right about Katrina Pierson
 layout: blog
 #url: e/2016/01/23/ted-cruz-and-glenn-beck-were-100-right-about-katrina-pierson/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald J. Trump

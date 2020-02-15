@@ -6,7 +6,7 @@ title: Go Vote in Illinois
 layout: blog
 #url: e/2012/03/19/go-vote-in-illinois/
 categories:
-- 2012 Election
+- Politics
 tags:
 - cook for congress
 - election

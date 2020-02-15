@@ -6,7 +6,7 @@ title: How Reagan Almost Blew It in 1980
 layout: blog
 #url: e/2016/08/23/how-reagan-almost-blew-it-in-1980/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - reagan

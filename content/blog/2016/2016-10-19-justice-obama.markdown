@@ -6,7 +6,7 @@ title: Justice Obama
 layout: blog
 #url: e/2016/10/19/justice-obama/
 categories:
-- 2016 Election
+- Politics
 type: "post"
 ---
 

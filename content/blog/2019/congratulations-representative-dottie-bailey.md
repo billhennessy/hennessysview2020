@@ -4,8 +4,7 @@ date: 2019-01-10T07:42:26-06:00
 draft: false
 author: Bill Hennessy
 categories: 
-- Missouri
-- Tea Party
+- Politics
 tags:
 - Dottie Bailey
 - Tea Party

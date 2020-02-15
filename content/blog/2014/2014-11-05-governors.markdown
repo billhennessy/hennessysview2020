@@ -6,7 +6,7 @@ title: The Governors
 layout: blog
 #url: e/2014/11/05/governors/
 categories:
-- 2014 Election
+- Politics
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: Why Did the Pritzkers Donate to Greitens?
 layout: blog
 #url: e/2015/12/29/why-did-the-pritzkers-donate-to-greitens/
 categories:
-- 2016 Election
+- Politics
 - News
 tags:
 - Eric Greitens

@@ -12,7 +12,7 @@ tags:
 - abortion
 - Birth Control
 - Bishops
-- Catholic
+- Faith
 - Chief of Staff
 - Jack Lew
 - obamacare

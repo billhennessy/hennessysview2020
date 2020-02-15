@@ -6,7 +6,7 @@ title: Drowning Beauty
 layout: blog
 #url: e/2010/10/06/drowning-beauty/
 categories:
-- 2010 Election
+- Politics
 tags:
 - beauty
 - election 2010

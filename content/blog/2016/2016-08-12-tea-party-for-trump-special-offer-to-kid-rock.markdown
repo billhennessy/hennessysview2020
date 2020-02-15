@@ -6,7 +6,7 @@ title: Tea Party for Trump Special Offer to Kid Rock
 layout: blog
 #url: e/2016/08/12/tea-party-for-trump-special-offer-to-kid-rock/
 categories:
-- 2016 Election
+- Politics
 - Trump
 type: "post"
 ---

@@ -6,7 +6,7 @@ title: How to Predict Trump's Landslide Win
 layout: blog
 #url: e/2016/05/13/how-to-predict-trumps-landslide-win/
 categories:
-- 2016 Election
+- Politics
 - Political Psychology
 - Trump
 tags:

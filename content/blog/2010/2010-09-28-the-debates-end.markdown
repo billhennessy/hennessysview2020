@@ -6,7 +6,7 @@ title: The Debate’s End
 layout: blog
 #url: e/2010/09/27/the-debates-end/
 categories:
-- 2010 Election
+- Politics
 tags:
 - ed martin
 - russ carnahan

@@ -6,7 +6,7 @@ title: Everybody Knows It's Over Now
 layout: blog
 #url: e/2016/10/28/everybody-knows-its-over-now/
 categories:
-- 2016 Election
+- Politics
 type: "post"
 ---
 

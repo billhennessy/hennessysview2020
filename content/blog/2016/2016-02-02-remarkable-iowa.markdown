@@ -6,7 +6,7 @@ title: The biggest shock in Iowa
 layout: blog
 #url: e/2016/02/01/remarkable-iowa/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald J. Trump

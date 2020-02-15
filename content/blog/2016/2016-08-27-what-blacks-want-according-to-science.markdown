@@ -6,7 +6,7 @@ title: What Blacks Want, According to Science
 layout: blog
 #url: e/2016/08/26/what-blacks-want-according-to-science/
 categories:
-- 2016 Election
+- Politics
 tags:
 - racism
 type: "post"

@@ -4,7 +4,6 @@ date: 2019-07-27T07:48:18-05:00
 draft: false
 image: /images/uploads/puzzle2.jpg
 categories:
-- Prophets
 - Faith
 type: "post"
 ---

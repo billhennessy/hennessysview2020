@@ -6,7 +6,7 @@ title: New Hampshire Exposes GOP’s Diverse Base
 layout: blog
 #url: e/2012/01/11/new-hampshire-exposes-gops-diverse-base/
 categories:
-- 2012 Election
+- Politics
 tags:
 - '2012'
 - Blue Collar voters

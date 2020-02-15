@@ -6,7 +6,7 @@ title: John “The Weasel” Brunner
 layout: blog
 #url: e/2015/11/24/john-the-weasel-brunner/
 categories:
-- 2016 Election
+- Politics
 tags:
 - EricGreitens
 - MoGov

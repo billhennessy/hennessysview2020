@@ -6,7 +6,7 @@ title: Democrats Have Just One Chance for October Surprise
 layout: blog
 #url: e/2014/10/26/democrats-just-one-chance-october-surprise/
 categories:
-- 2014 Election
+- Politics
 tags:
 - department of justice
 - eric holder

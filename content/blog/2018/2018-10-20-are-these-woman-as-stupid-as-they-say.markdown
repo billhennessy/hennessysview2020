@@ -6,7 +6,7 @@ title: Are These Woman as Stupid as They Say?
 
 # #url: e/2018/10/20/are-these-woman-as-stupid-as-they-say/
 categories:
-- 2018 Election
+- Politics
 tags:
 - voting
 type: "post"

@@ -6,7 +6,7 @@ title: Democrats Committed Massive Vote Fraud in 2008, They'll Do It Again in 20
 layout: blog
 #url: e/2012/04/22/democrats-committed-massive-vote-fraud-in-2008-theyll-do-it-again-in-2012-and-few-people-care/
 categories:
-- 2012 Election
+- Politics
 post_format:
 - Standard
 tags:

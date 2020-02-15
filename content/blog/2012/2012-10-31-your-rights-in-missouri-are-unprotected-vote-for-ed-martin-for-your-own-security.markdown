@@ -6,7 +6,7 @@ title: Your Rights In Missouri Are Unprotected. Vote For Ed Martin For Your Own 
 layout: blog
 #url: e/2012/10/31/your-rights-in-missouri-are-unprotected-vote-for-ed-martin-for-your-own-security/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Attorney General
 - Chris Koster

@@ -6,7 +6,7 @@ title: The Art of Lying
 layout: blog
 #url: e/2016/10/13/the-art-of-lying/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Jessica Leed
 - Mindy McGillivrary

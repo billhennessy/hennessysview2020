@@ -6,7 +6,7 @@ title: If you want Mike Lee on the Supreme Court, you have to vote for Roy Blunt
 layout: blog
 #url: e/2016/09/25/if-you-want-mike-lee-on-the-supreme-court-you-have-to-vote-for-roy-blunt/
 categories:
-- 2016 Election
+- Politics
 tags:
 - MoSen
 - roy blunt

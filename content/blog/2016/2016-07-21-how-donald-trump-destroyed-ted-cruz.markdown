@@ -6,7 +6,7 @@ title: How Donald Trump Destroyed Ted Cruz
 layout: blog
 #url: e/2016/07/21/how-donald-trump-destroyed-ted-cruz/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Ted Cruz

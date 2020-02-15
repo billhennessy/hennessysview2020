@@ -4,7 +4,6 @@ date: 2019-07-28T19:56:58-05:00
 draft: false
 image: /images/uploads/mccarrick.jpg
 Categories:
-- Catholic
 - Faith
 ---
 (Disclosure: I am a traditional Catholic.)

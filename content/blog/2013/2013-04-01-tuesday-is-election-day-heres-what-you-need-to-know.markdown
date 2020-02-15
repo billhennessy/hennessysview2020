@@ -6,7 +6,7 @@ title: Tuesday Is Election Day. Here's What You Need to Know
 layout: blog
 #url: e/2013/04/01/tuesday-is-election-day-heres-what-you-need-to-know/
 categories:
-- 2013 Elections
+- Politics
 tags:
 - Election Day
 - Kirkwood School District

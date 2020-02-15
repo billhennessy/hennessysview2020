@@ -6,7 +6,7 @@ title: If Donald Trump Scares You, You Should See a Depression
 layout: blog
 #url: e/2016/08/09/if-donald-trump-scares-you-you-should-see-a-depression/
 categories:
-- 2016 Election
+- Politics
 - Economy
 tags:
 - debt

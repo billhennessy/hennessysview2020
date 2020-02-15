@@ -6,7 +6,7 @@ title: The GOP's Sad New Whisper Campaign **UPDATE**
 layout: blog
 #url: e/2015/03/21/the-gops-sad-new-whisper-campaign/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Catherine Hanaway
 - Eric Greitens

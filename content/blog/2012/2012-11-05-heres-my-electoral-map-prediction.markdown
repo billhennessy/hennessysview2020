@@ -6,7 +6,7 @@ title: Here’s My Electoral Map Prediction
 layout: blog
 #url: e/2012/11/05/heres-my-electoral-map-prediction/
 categories:
-- 2012 Election
+- Politics
 tags:
 - 1980 Election
 - 1980 Gallup Poll

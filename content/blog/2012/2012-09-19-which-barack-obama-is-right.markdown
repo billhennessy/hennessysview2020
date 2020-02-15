@@ -6,7 +6,7 @@ title: Which Barack Obama is Right?
 layout: blog
 #url: e/2012/09/19/which-barack-obama-is-right/
 categories:
-- 2012 Election
+- Politics
 tags:
 - '2008'
 - BarackObama

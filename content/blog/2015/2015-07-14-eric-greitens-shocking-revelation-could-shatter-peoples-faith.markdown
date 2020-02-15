@@ -6,7 +6,7 @@ title: Eric Greitens’ Shocking Revelation Could Shatter People’s Faith
 layout: blog
 #url: e/2015/07/14/eric-greitens-shocking-revelation-could-shatter-peoples-faith/
 categories:
-- 2016 Election
+- Politics
 - Missouri
 tags:
 - Democrat

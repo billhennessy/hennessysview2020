@@ -6,7 +6,7 @@ title: Seems Like Obama Is Tired of Hillary's S***
 layout: blog
 #url: e/2016/10/31/seems-like-obama-is-tired-of-hillarys-s/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Barack Obama
 - Email Server

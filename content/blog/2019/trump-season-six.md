@@ -5,7 +5,7 @@ draft: false
 image: /images/uploads/trump-grin.png
 # featuredImage: /images/uploads/
 categories:
-- President Trump
+- Donald Trump
 tags:
 - Scott Adams
 - Trump Movie

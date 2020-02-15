@@ -7,7 +7,6 @@ image: /images/uploads/church-almost-empty.jpg
 featuredImage: /images/uploads/church-almost-empty.jpg
 categories: 
 - Faith
-- Catholic
 tags:
 - Latin Mass
 - New Mass

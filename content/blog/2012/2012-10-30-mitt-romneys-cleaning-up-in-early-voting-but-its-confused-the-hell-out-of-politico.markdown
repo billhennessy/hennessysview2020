@@ -7,7 +7,7 @@ title: Mitt Romney’s Cleaning Up in Early Voting, but It’s Confused the Hell
 layout: blog
 #url: e/2012/10/30/mitt-romneys-cleaning-up-in-early-voting-but-its-confused-the-hell-out-of-politico/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Early Voting
 - election 2012

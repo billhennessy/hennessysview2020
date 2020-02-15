@@ -6,7 +6,7 @@ title: 'Part 2: Here Is Todd Akin’s Real Crime'
 layout: blog
 #url: e/2012/08/23/part-2-here-is-todd-akins-real-crime/
 categories:
-- 2012 Election
+- Politics
 tags:
 - missouri
 - Politics

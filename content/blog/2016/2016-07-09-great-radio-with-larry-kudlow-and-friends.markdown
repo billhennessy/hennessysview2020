@@ -6,7 +6,7 @@ title: Great Radio with Larry Kudlow and Friends
 layout: blog
 #url: e/2016/07/09/great-radio-with-larry-kudlow-and-friends/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald Trump

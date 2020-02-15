@@ -6,7 +6,7 @@ title: Why Government Employees Should Be Scared of Trump
 layout: blog
 #url: e/2016/06/21/why-government-employees-should-be-scared-of-trump/
 categories:
-- 2016 Election
+- Politics
 - Trump
 type: "post"
 ---

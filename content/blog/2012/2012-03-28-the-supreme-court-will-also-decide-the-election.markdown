@@ -6,7 +6,7 @@ title: The Supreme Court Will Also Decide the Election
 layout: blog
 #url: e/2012/03/28/the-supreme-court-will-also-decide-the-election/
 categories:
-- 2012 Election
+- Politics
 tags:
 - obama
 - Supreme-Court

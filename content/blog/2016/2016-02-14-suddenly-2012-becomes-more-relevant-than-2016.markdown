@@ -6,8 +6,8 @@ title: Suddenly 2012 becomes more relevant than 2016
 layout: blog
 #url: e/2016/02/13/suddenly-2012-becomes-more-relevant-than-2016/
 categories:
-- 2012 Election
-- 2016 Election
+- Politics
+- Politics
 tags:
 - Scalia
 type: "post"

@@ -5,9 +5,7 @@ draft: false
 image: /images/uploads/rosary-c2c.png
 featuredImage: /images/uploads/rosary-c2c.png
 categories:
-- Spiritual Warfare
-- Catholic
-- Christian
+- Faith
 tags:
 - Rosary Coast-to-Coast
 author: "Bill Hennessy"

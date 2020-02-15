@@ -5,12 +5,12 @@ draft: false
 # thumbnail: /images/uploads/
 # featuredImage: /images/uploads/
 categories:
-- Missouri
-- Eric Grietens
+- Politics
 
 tags:
 - Tax Credit Syndicate
 - Rent-Seekers
+- Eric Greitens
 
 author: "Bill Hennessy"
 

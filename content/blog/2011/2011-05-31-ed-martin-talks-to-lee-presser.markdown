@@ -6,7 +6,7 @@ title: Ed Martin Talks to Lee Presser
 layout: blog
 #url: e/2011/05/31/ed-martin-talks-to-lee-presser/
 categories:
-- 2012 Election
+- Politics
 tags:
 - debt
 - Economy

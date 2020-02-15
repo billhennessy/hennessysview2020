@@ -4,7 +4,7 @@ date: 2019-08-21T06:33:04-05:00
 draft: false
 
 categories:
-- Catholic
+- Faith
 - Living
 tags:
 - popularity

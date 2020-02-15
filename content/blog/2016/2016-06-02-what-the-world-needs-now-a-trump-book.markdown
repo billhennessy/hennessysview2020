@@ -6,7 +6,7 @@ title: 'What The World Needs Now: A Trump Book'
 layout: blog
 #url: e/2016/06/01/what-the-world-needs-now-a-trump-book/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - book

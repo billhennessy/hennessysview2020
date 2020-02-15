@@ -6,7 +6,7 @@ title: Surface thinking, deep thinking
 layout: blog
 #url: e/2016/02/17/surface-thinking-deep-thinking/
 categories:
-- 2016 Election
+- Politics
 tags:
 - conservative
 - Eric Greitens

@@ -6,7 +6,7 @@ title: Forbidden Truths of Republicans and Race
 layout: blog
 #url: e/2016/06/07/forbidden-truths-of-republicans-and-race/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - race

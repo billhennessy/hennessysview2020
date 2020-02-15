@@ -7,7 +7,7 @@ title: The Electionâ€™s Over, and America Gave Obama His Eviction Notice. Hereâ€
 layout: blog
 #url: e/2012/04/18/the-elections-over-and-america-gave-obama-his-eviction-notice-heres-what-went-down/
 categories:
-- 2012 Election
+- Politics
 - Latest
 tags:
 - America

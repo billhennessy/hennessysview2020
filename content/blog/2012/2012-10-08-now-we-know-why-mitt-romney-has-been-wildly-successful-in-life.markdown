@@ -6,7 +6,7 @@ title: Now We Know Why Mitt Romney Has Been Wildly Successful In Life
 layout: blog
 #url: e/2012/10/07/now-we-know-why-mitt-romney-has-been-wildly-successful-in-life/
 categories:
-- 2012 Election
+- Politics
 tags:
 - authority
 - Barack Obama

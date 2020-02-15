@@ -6,7 +6,7 @@ title: How NeverTrump Promotes Race Violence
 layout: blog
 #url: e/2016/07/12/how-nevertrump-promotes-race-violence/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Hillary

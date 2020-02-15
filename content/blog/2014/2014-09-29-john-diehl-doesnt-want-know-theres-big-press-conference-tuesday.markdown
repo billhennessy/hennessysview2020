@@ -6,7 +6,7 @@ title: John Diehl Doesn't Want You to Know There's a Big Press Conference Tuesda
 layout: blog
 #url: e/2014/09/29/john-diehl-doesnt-want-know-theres-big-press-conference-tuesday/
 categories:
-- 2014 Election
+- Politics
 - Activism
 type: "post"
 ---

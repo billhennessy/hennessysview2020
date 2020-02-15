@@ -6,7 +6,7 @@ title: Barack Obama Is Having a Very Bad Week, and Even WaPo Noticed
 layout: blog
 #url: e/2012/09/26/barack-obamas-having-a-very-bad-week-and-even-wapo-noticed/
 categories:
-- 2012 Election
+- Politics
 tags:
 - BarackObama
 - iran

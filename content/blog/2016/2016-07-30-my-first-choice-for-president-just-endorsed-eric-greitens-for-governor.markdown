@@ -6,7 +6,7 @@ title: My First Choice for President Just Endorsed Eric Greitens for Governor
 layout: blog
 #url: e/2016/07/30/my-first-choice-for-president-just-endorsed-eric-greitens-for-governor/
 categories:
-- 2016 Election
+- Politics
 - Missouri
 tags:
 - Eric Greitens

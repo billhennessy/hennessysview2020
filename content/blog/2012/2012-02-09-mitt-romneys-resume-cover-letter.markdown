@@ -6,7 +6,7 @@ title: Mitt Romney’s Resume Cover Letter
 layout: blog
 #url: e/2012/02/09/mitt-romneys-resume-cover-letter/
 categories:
-- 2012 Election
+- Politics
 tags:
 - elitists
 - establishment

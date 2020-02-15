@@ -6,7 +6,7 @@ title: How Rational Is Your Vote?
 layout: blog
 #url: e/2012/01/31/how-rational-is-your-vote/
 categories:
-- 2012 Election
+- Politics
 tags:
 - emotions
 - facts

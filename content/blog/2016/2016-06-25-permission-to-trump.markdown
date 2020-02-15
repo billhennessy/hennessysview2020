@@ -6,7 +6,7 @@ title: Permission to Trump
 layout: blog
 #url: e/2016/06/25/permission-to-trump/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald J. Trump

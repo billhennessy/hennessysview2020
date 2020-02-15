@@ -6,7 +6,7 @@ title: Send Dan Hyatt to Jefferson City
 layout: blog
 #url: e/2015/09/27/send-dan-hyatt-to-jefferson-city/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Dan Hyatt
 type: "post"

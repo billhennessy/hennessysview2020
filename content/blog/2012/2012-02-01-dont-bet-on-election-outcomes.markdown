@@ -6,9 +6,9 @@ title: Don’t Bet On Election Outcomes
 layout: blog
 #url: e/2012/02/01/dont-bet-on-election-outcomes/
 categories:
-- 2012 Election
+- Politics
 tags:
-- 2012 election
+- Politics
 - 3rd anniversary tea party
 - bet on elections
 - kahneman

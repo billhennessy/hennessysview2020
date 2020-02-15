@@ -6,7 +6,7 @@ title: Rick Stream Probably Didn't Know I Knew His Old Career Counselor
 layout: blog
 #url: e/2014/09/28/rick-stream-probably-didnt-know-knew-old-transition-counselor/
 categories:
-- 2014 Election
+- Politics
 - St. Louis County
 tags:
 - Rick Stream

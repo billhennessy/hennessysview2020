@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Action
 tags:
-- 2012 election
+- Politics
 - Activism
 - Barack Obama
 - election 2012

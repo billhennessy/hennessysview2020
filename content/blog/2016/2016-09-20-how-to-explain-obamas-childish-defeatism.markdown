@@ -5,7 +5,7 @@ title: How to Explain Obama's Childish Defeatism
 layout: blog
 #url: e/2016-09-20-how-to-explain-obamas-childish-defeatism
 categories:
-- 2016 Election
+- Politics
 tags:
 - Barack Obama
 - locus of control

@@ -6,7 +6,7 @@ title: Predicting the Trump-Pena Nieto Communique
 layout: blog
 #url: e/2016/08/31/predicting-the-trump-nieto-comminique/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Mexico

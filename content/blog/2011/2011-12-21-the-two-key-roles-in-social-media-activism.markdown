@@ -6,7 +6,7 @@ title: The Two Key Roles in Social Media Activism *Update*
 layout: blog
 #url: e/2011/12/21/the-two-key-roles-in-social-media-activism/
 categories:
-- 2012 Election
+- Politics
 tags:
 - connections
 - elections

@@ -6,7 +6,7 @@ title: Doell's Soul Roe's Latest Victim
 
 # #url: e/2018/08/02/doells-soul-roes-latest-victim/
 categories:
-- 2018 Missouri Primary
+- Politics Primary
 tags:
 - Dottie Bailey
 - Matt Doell

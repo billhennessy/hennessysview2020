@@ -6,7 +6,7 @@ title: 'The Cruz campaign''s epic #facepalm'
 layout: blog
 #url: e/2016/01/31/cruzs-epic-facepalm/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald J. Trump

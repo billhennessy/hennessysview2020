@@ -6,7 +6,7 @@ title: Do Republican elites know something they're not telling?
 layout: blog
 #url: e/2016/01/25/do-republican-elites-know-something-theyre-not-telling/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Cruz

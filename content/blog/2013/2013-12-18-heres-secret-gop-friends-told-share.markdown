@@ -6,7 +6,7 @@ title: Here's a Secret about the GOP My Friends Told Me Not To Share
 layout: blog
 # #url: e/2013/12/18/heres-secret-gop-friends-told-share/
 categories:
-- 2016 Election
+- Politics
 - News
 type: "post"
 ---

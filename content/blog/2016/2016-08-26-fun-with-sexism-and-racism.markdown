@@ -6,7 +6,7 @@ title: Fun with Sexism and Racism
 layout: blog
 #url: e/2016/08/25/fun-with-sexism-and-racism/
 categories:
-- 2016 Election
+- Politics
 type: "post"
 ---
 

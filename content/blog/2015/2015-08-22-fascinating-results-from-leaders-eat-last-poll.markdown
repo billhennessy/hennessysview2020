@@ -9,7 +9,7 @@ categories:
 - Political Psychology
 - Trump
 tags:
-- 2016 Election
+- Politics
 - Donald J. Trump
 - Eric Greitens
 - John Brunner

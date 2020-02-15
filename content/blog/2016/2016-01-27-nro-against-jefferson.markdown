@@ -6,7 +6,7 @@ title: 'NRO: Against Jefferson'
 layout: blog
 #url: e/2016/01/26/nro-against-jefferson/
 categories:
-- 2016 Election
+- Politics
 - News
 - Trump
 tags:

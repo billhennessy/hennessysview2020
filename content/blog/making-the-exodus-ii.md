@@ -5,8 +5,7 @@ draft: false
 thumbnail: /images/uploads/exodus.png
 # featuredImage: /images/uploads/
 categories:
-- Exodus 90
-- Catholicism
+- Faith
 tags:
 - Exodus 90
 author: "Bill Hennessy"

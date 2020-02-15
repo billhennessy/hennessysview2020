@@ -6,7 +6,7 @@ title: Donna Brazile's Corrupt Silent Partner
 layout: blog
 #url: e/2016/10/31/donna-braziles-corrupt-silent-partner/
 categories:
-- 2016 Election
+- Politics
 - News
 - Politics
 tags:

@@ -6,7 +6,7 @@ title: Media Conspire to Suppress Republican Turnout
 layout: blog
 #url: e/2012/11/06/media-conspire-to-suppress-republican-turnout/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Barack Obama
 - KSDK

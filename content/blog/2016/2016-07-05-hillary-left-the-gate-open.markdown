@@ -6,7 +6,7 @@ title: Hillary Left the Gate Open and Laughed
 layout: blog
 #url: e/2016/07/05/hillary-left-the-gate-open/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Email Server
 - FBI

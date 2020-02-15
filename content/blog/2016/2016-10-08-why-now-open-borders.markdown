@@ -6,7 +6,7 @@ title: Why Now? Open Borders
 layout: blog
 #url: e/2016/10/08/why-now-open-borders/
 categories:
-- 2016 Election
+- Politics
 tags:
 - open borders
 - Wikileaks

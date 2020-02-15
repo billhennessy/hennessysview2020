@@ -6,7 +6,7 @@ title: John Brunner's Charade, Part II
 layout: blog
 #url: e/2016/07/28/why-did-paul-holzer-out-john-brunner-part-ii/
 categories:
-- 2016 Election
+- Politics
 - Missouri
 tags:
 - Eric Greitens

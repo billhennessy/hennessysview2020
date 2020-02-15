@@ -4,7 +4,6 @@ date: 2019-08-07T20:17:02-05:00
 draft: false
 image: /images/uploads/dress_mass.jpg
 categories:
-- Catholic
 - Faith
 type: "post"
 ---

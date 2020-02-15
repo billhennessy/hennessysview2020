@@ -6,7 +6,7 @@ title: Let Some Things Go; Fight For Others
 layout: blog
 #url: e/2010/10/04/let-some-things-go-fight-for-others/
 categories:
-- 2010 Election
+- Politics
 tags:
 - allen bloom
 - chaos

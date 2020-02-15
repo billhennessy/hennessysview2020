@@ -6,7 +6,7 @@ title: Purpose Trumps Policy and Principles—Video
 layout: blog
 #url: e/2016/08/05/purpose-trumps-policy-and-principles-video/
 categories:
-- 2016 Election
+- Politics
 - Political Psychology
 tags:
 - Purpose

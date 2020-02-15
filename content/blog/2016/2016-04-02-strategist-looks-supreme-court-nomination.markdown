@@ -6,7 +6,7 @@ title: How a Strategist Looks at the Supreme Court Nomination Battle
 layout: blog
 #url: e/2016/04/02/strategist-looks-supreme-court-nomination/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald J. Trump

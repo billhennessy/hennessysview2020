@@ -6,7 +6,7 @@ title: Distrust Adjectives, and the Politicians Who Use Them
 layout: blog
 #url: e/2012/07/21/distrust-adjectives-and-the-politicians-who-use-them/
 categories:
-- 2012 Election
+- Politics
 type: "post"
 ---
 

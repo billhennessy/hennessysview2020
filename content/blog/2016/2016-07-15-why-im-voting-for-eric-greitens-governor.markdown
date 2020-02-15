@@ -6,7 +6,7 @@ title: Why I'm Voting for Eric Greitens Governor
 layout: blog
 #url: e/2016/07/15/why-im-voting-for-eric-greitens-governor/
 categories:
-- 2016 Election
+- Politics
 - Missouri
 tags:
 - Eric Greitens

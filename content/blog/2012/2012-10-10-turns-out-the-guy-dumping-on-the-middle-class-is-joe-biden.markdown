@@ -6,7 +6,7 @@ title: Turns Out The Guy Dumping On The Middle Class Is Joe Biden
 layout: blog
 #url: e/2012/10/09/turns-out-the-guy-dumping-on-the-middle-class-is-joe-biden/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Barack Obama
 - ed martin

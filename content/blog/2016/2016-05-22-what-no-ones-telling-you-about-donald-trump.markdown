@@ -6,7 +6,7 @@ title: What No One's Telling You About Donald Trump
 layout: blog
 #url: e/2016/05/22/what-no-ones-telling-you-about-donald-trump/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - '@realDonaldTrump'

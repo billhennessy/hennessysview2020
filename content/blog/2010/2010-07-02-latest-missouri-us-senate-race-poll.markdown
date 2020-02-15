@@ -6,7 +6,7 @@ title: Latest Missouri US Senate Race Poll
 layout: blog
 #url: e/2010/07/02/latest-missouri-us-senate-race-poll/
 categories:
-- 2010 Election
+- Politics
 tags:
 - Chuck Purgason
 - Missouri Senate Race

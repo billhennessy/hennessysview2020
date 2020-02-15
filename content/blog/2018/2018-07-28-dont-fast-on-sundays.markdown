@@ -6,11 +6,11 @@ title: Don't Fast on Sundays
 
 # #url: e/2018/07/28/dont-fast-on-sundays/
 categories:
-- 2018 Primary Election
+- Politics Election
 - Faith
 - Living
 tags:
-- 2018 election
+- Politics
 type: "post"
 ---
 

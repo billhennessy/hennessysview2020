@@ -6,7 +6,7 @@ title: Trump Is the Only Viable Pro-Life Choice
 layout: blog
 #url: e/2016/05/09/trump-is-the-only-viable-pro-life-choice/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - abortion

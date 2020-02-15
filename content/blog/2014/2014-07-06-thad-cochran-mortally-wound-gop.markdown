@@ -6,7 +6,7 @@ title: Thad Cochran's Pyrrhic Win
 layout: blog
 #url: e/2014/07/06/thad-cochran-mortally-wound-gop/
 categories:
-- 2016 Election
+- Politics
 tags:
 - crony capitalism
 - cronyism

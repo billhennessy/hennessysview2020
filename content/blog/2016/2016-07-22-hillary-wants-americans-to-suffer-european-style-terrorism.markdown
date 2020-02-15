@@ -6,7 +6,7 @@ title: Hillary Wants Americans to Suffer European-style Terrorism
 layout: blog
 #url: e/2016/07/22/hillary-wants-americans-to-suffer-european-style-terrorism/
 categories:
-- 2016 Election
+- Politics
 - Terrorism
 type: "post"
 ---

@@ -6,7 +6,7 @@ title: We Heard From Ann Wagner. Now Let's Hear From the Clintons' Victims
 layout: blog
 #url: e/2016/10/08/lets-hear-from-the-clintons-victims/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Ann Wagner
 - Clinton

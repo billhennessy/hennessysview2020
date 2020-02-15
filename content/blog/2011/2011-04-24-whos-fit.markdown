@@ -6,7 +6,7 @@ title: Who’s Fit?
 layout: blog
 #url: e/2011/04/23/whos-fit/
 categories:
-- 2012 Election
+- Politics
 - Other News
 - Politics
 - Trump

@@ -6,7 +6,7 @@ title: St. Louis Police Department Is Crumbling, But You Can Vote to Save It
 layout: blog
 #url: e/2012/10/01/st-louis-police-crumbling-but-you-can-save-it/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Chris Koster
 - local control

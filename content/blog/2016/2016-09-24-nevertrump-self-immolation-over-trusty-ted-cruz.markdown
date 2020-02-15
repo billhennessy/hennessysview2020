@@ -6,7 +6,7 @@ title: '#NeverTrump Self Immolation Over Trusty Ted Cruz'
 layout: blog
 #url: e/2016/09/24/nevertrump-self-immolation-over-trusty-ted-cruz/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - john lamping

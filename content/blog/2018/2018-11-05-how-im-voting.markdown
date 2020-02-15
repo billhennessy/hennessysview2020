@@ -6,7 +6,7 @@ title: How I'm Voting
 
 # #url: e/2018/11/05/how-im-voting/
 categories:
-- 2018 Election
+- Politics
 - Living
 type: "post"
 ---

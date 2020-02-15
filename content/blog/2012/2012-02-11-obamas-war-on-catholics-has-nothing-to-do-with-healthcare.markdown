@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 tags:
-- Catholic
+- Faith
 - christianity
 - contraceptives
 - healthcare

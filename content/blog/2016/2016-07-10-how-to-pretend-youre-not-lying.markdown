@@ -6,7 +6,7 @@ title: How to Pretend You're Not Lying
 layout: blog
 #url: e/2016/07/10/how-to-pretend-youre-not-lying/
 categories:
-- 2016 Election
+- Politics
 - Trump
 type: "post"
 ---

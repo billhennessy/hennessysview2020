@@ -6,7 +6,7 @@ title: Jason Plummer Steps In It
 layout: blog
 #url: e/2012/03/16/jason-plummer-steps-in-it/
 categories:
-- 2010 Election
+- Politics
 tags:
 - GOP Establishment
 - grassroots

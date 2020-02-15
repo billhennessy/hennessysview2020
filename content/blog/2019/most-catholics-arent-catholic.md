@@ -3,7 +3,6 @@ title: "Don't Trust Father Don Draper"
 date: 2019-08-08T17:32:27-05:00
 draft: false
 categories:
-- Catholic
 - Faith
 image: /images/uploads/its-toasted.png
 ---

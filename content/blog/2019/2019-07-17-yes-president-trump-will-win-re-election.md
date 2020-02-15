@@ -4,9 +4,10 @@ title: 'Yes, President Trump Will Win Re-election'
 date: 2019-07-18T00:21:47.933Z
 image: /images/uploads/trump-grin.png
 categories:
+  - Politics
+tags:
   - Donald Trump
-  - 2020 Election
-  - The Fourth Turning
+  
 type: "post"
 ---
 New York Times columnist Thomas Friedman today asked a rhetorical question: [_Trump's Going to Get Re-elected, Isn't He?_](https://www.nytimes.com/2019/07/16/opinion/trump-2020.html)

@@ -6,7 +6,7 @@ title: Why Are Some Missouri Conservatives Putting Position Before Interest?
 layout: blog
 #url: e/2016/10/22/why-are-some-missouri-conservatives-putting-position-before-interest/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Eric Greitens
 - SJR39

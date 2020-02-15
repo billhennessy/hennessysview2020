@@ -11,8 +11,7 @@ tags:
 - Fasting
 - Health
 - Diet
-- 2019
-type: "post"
+- Politics: "post"
 ---
 
 Fasting is probably the healthiest thing you can do for yourself. It's also the cheapest healthy thing you can do. Unlike most diets and exercise plans, supplements, and, especially, trips to a doctor, fasting actually *saves* money. When you fast, you don't eat. 

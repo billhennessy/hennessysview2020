@@ -6,7 +6,7 @@ title: Ignoramus Rex
 layout: blog
 #url: e/2012/09/30/ignoramus-rex/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Attorney General
 - ed martin

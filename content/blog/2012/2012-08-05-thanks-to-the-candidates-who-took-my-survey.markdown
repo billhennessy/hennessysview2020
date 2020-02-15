@@ -6,7 +6,7 @@ title: Thanks to the Candidates Who Took My Survey
 layout: blog
 #url: e/2012/08/04/thanks-to-the-candidates-who-took-my-survey/
 categories:
-- 2012 Election
+- Politics
 type: "post"
 ---
 

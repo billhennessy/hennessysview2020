@@ -6,7 +6,7 @@ title: The Best Way to Deal with Trump
 layout: blog
 #url: e/2016/06/28/the-best-way-to-deal-with-trump/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - books

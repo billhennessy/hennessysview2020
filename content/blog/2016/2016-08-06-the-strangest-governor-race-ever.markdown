@@ -6,7 +6,7 @@ title: The Strangest Governor Race Ever
 layout: blog
 #url: e/2016/08/05/the-strangest-governor-race-ever/
 categories:
-- 2016 Election
+- Politics
 - Missouri
 tags:
 - Ann Wagner

@@ -7,7 +7,7 @@ author: Bill Hennessy
 # featuredImage: /images/uploads/
 categories: 
 - Faith
-- Hockey
+
 tags:
 - st louis blues
 type: "post"

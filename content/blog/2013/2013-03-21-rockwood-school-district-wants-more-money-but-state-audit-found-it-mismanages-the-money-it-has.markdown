@@ -7,7 +7,7 @@ title: Rockwood School District Wants More Money But State Audit Found It Misman
 layout: blog
 #url: e/2013/03/21/rockwood-school-district-wants-more-money-but-state-audit-found-it-mismanages-the-money-it-has/
 categories:
-- 2013 Elections
+- Politics
 tags:
 - April 2 Election
 - fiscal responsiblity

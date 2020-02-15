@@ -6,7 +6,7 @@ title: Proud to stand with veterans supporting Eric Greitens
 layout: blog
 #url: e/2016/02/15/proud-to-stand-with-veterans-supporting-eric-greitens/
 categories:
-- 2016 Election
+- Politics
 - Jefferson City
 tags:
 - Eric Greitens

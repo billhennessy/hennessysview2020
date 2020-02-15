@@ -6,7 +6,7 @@ title: Abraham, Isaac, and Todd
 layout: blog
 #url: e/2012/08/24/abraham-isaac-and-todd/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Abraham
 - Binding of Isaac

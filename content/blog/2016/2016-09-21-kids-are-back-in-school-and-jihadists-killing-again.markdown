@@ -6,7 +6,7 @@ title: Kids Are Back in School And Jihadists Are Killing Again
 layout: blog
 #url: e/2016/09/21/kids-are-back-in-school-and-jihadists-killing-again/
 categories:
-- 2016 Election
+- Politics
 - Islamofascism
 tags:
 - Clinton

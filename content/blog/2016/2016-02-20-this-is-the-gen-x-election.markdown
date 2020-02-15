@@ -6,7 +6,7 @@ title: This is the Gen X election
 layout: blog
 #url: e/2016/02/20/this-is-the-gen-x-election/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald J. Trump

@@ -6,11 +6,11 @@ title: Here's what will happen in 2018 election (POLL)
 layout: blog
 #url: e/2017/12/30/heres-what-will-happen-in-2018-election-poll/
 categories:
-- 2018 Election
+- Politics
 - Persuasion
 - Political Psychology
 tags:
-- 2018 election
+- Politics
 - data science
 type: "post"
 ---

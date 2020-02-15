@@ -6,7 +6,7 @@ title: Bastardizing Trump
 layout: blog
 #url: e/2016/11/28/bastardizing-trump/
 categories:
-- 2016 Election
+- Politics
 tags:
 - recount
 type: "post"

@@ -5,8 +5,7 @@ draft: false
 thumbnail: /images/uploads/moses-and-pharaoh.jpg
 # featuredImage: /images/uploads/
 categories:
-- Missouri
-- Eric Greitens
+- Politics
 tags:
 - Eric Greitens
 - Tax Credit Syndicate

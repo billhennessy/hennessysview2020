@@ -6,7 +6,7 @@ title: I Will Vote for Libertarian Bill Slantz for Congress
 layout: blog
 #url: e/2014/09/23/will-vote-libertarian-bill-slantz-congress/
 categories:
-- 2014 Election
+- Politics
 tags:
 - Ann Wagner
 - Bill Slantz

@@ -6,7 +6,7 @@ title: How to Avoid Overconfidence
 layout: blog
 #url: e/2010/06/21/how-to-avoid-overconfidence/
 categories:
-- 2010 Election
+- Politics
 tags:
 - block captains
 - gallup

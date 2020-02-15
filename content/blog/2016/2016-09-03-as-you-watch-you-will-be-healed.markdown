@@ -6,7 +6,7 @@ title: As You Watch, You Will Be Healed
 layout: blog
 #url: e/2016/09/03/as-you-watch-you-will-be-healed/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - black church

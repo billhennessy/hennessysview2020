@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Living
 tags:
-- Catholic
+- Faith
 - Christmas
 type: "post"
 ---

@@ -6,7 +6,7 @@ title: Hillary Told Us Trump Won
 layout: blog
 #url: e/2016/10/10/hillary-told-us-trump-won/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - debate

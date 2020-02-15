@@ -6,7 +6,7 @@ title: Who Is Conservative?
 layout: blog
 #url: e/2016/05/08/who-is-conservative/
 categories:
-- 2016 Election
+- Politics
 - Political Psychology
 - Trump
 tags:

@@ -6,7 +6,7 @@ title: Human Decay in the Age of Obama
 layout: blog
 #url: e/2010/10/12/human-decay-in-the-age-of-obama/
 categories:
-- 2010 Election
+- Politics
 tags:
 - Barack Obama
 - Greece

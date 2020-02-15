@@ -6,7 +6,7 @@ title: McCaskillPAC
 layout: blog
 #url: e/2012/04/25/mccaskillpac/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Arizona
 - Claire McCaskill

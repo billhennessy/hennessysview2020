@@ -6,7 +6,7 @@ title: How to be inconsistent
 layout: blog
 #url: e/2016/11/03/how-to-be-inconsistent/
 categories:
-- 2016 Election
+- Politics
 - News
 tags:
 - Donald Trump

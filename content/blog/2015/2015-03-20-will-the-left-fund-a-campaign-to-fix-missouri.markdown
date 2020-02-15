@@ -6,7 +6,7 @@ title: Will the Left Fund a Campaign to "Fix" Missouri? **UPDATE**
 layout: blog
 #url: e/2015/03/19/will-the-left-fund-a-campaign-to-fix-missouri/
 categories:
-- 2016 Election
+- Politics
 tags:
 - anti-Semitism
 - Eric Greitens

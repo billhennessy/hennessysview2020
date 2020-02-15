@@ -6,10 +6,10 @@ title: Fill the Cabinet
 layout: blog
 #url: e/2015/08/08/fill-the-cabinet/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
-- 2016 Election
+- Politics
 - Cabinet Officers
 - Donald J. Trump
 - republican

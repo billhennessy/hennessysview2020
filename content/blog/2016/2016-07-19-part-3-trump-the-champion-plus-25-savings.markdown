@@ -6,7 +6,7 @@ title: 'Part 3: Trump, The Champion  (plus 25% savings)'
 layout: blog
 #url: e/2016/07/18/part-3-trump-the-champion-plus-25-savings/
 categories:
-- 2016 Election
+- Politics
 - Trump
 type: "post"
 ---

@@ -6,7 +6,7 @@ title: Why can't presidential candidates talk like this?
 layout: blog
 #url: e/2015/09/17/why-cant-presidential-candidates-talk-like-this/
 categories:
-- 2016 Election
+- Politics
 type: "post"
 ---
 

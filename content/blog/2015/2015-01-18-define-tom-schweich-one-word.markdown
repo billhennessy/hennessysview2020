@@ -6,7 +6,7 @@ title: How to Define Tom Schweich With One Word
 layout: blog
 #url: e/2015/01/18/define-tom-schweich-one-word/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Catherine Hanaway
 - Governor

@@ -6,7 +6,7 @@ title: Here's what's at stake on November 7
 
 # #url: e/2018/10/24/heres-whats-at-stake-on-november-7/
 categories:
-- 2018 Election
+- Politics
 tags:
 - Fast
 - Pray

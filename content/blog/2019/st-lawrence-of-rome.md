@@ -5,7 +5,7 @@ draft: false
 image: /images/uploads/st_lawrence.jpg
 featureImage: /images/uploads/st_lawrence.jpg
 categories: 
-- Catholic
+- Faith
 tags:
 - St. Lawrence of Rome
 ---

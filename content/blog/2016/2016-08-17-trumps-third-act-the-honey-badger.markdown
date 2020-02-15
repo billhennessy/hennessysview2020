@@ -6,7 +6,7 @@ title: 'Trump''s Third Act: The Honey Badger'
 layout: blog
 #url: e/2016/08/17/trumps-third-act-the-honey-badger/
 categories:
-- 2016 Election
+- Politics
 - Tea Party News
 - Trump
 tags:

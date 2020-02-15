@@ -6,7 +6,7 @@ title: We All Need a Drink
 layout: blog
 #url: e/2015/04/15/we-all-need-a-drink/
 categories:
-- 2016 Election
+- Politics
 tags:
 - government
 - ronald-reagan

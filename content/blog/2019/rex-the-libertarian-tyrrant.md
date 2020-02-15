@@ -6,7 +6,7 @@ author: Bill Hennessy
 # image: /images/uploads/
 # featuredImage: /images/uploads/
 categories: 
-- Missouri
+- Politics
 tags:
 - Better Together
 - City-County Merger

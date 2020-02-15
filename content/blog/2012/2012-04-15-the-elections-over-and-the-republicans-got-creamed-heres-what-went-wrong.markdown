@@ -6,7 +6,7 @@ title: The Election’s Over, and the Republicans Got Creamed. Here’s What Wen
 layout: blog
 #url: e/2012/04/15/the-elections-over-and-the-republicans-got-creamed-heres-what-went-wrong/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Ben Franklin
 - election

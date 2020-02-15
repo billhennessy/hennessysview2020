@@ -6,7 +6,7 @@ title: Obama Administration Revives Watergate—In Living Color!
 layout: blog
 #url: e/2016/10/30/obama-administration-revives-watergate-in-living-color/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Crooked Hillary
 - Watergate

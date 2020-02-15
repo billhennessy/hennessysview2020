@@ -5,8 +5,7 @@ draft: false
 # image: /images/uploads/bishop_barron.jpg
 # featuredImage: /images/uploads/bishop_barron.jpg
 categories:
-- Catholic
-- Latin Mass
+- Faith
 
 tags:
 - Bishop Barron

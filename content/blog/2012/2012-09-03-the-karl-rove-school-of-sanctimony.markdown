@@ -6,7 +6,7 @@ title: The Karl Rove School of Sanctimony
 layout: blog
 #url: e/2012/09/03/the-karl-rove-school-of-sanctimony/
 categories:
-- 2012 Election
+- Politics
 tags:
 - charles jaco
 - Claire McCaskill

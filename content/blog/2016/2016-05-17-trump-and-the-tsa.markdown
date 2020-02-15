@@ -6,7 +6,7 @@ title: Trump and the TSA
 layout: blog
 #url: e/2016/05/17/trump-and-the-tsa/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald J. Trump

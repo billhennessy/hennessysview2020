@@ -6,7 +6,7 @@ title: 'Part 1: Contingencies Every Conservatives Needs Right Now'
 layout: blog
 #url: e/2012/08/23/part-1-contingencies-every-conservatives-needs-right-now/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Todd Akin
 type: "post"

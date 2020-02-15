@@ -6,7 +6,7 @@ title: How to Write Yourself Into the Great American Novel
 layout: blog
 #url: e/2012/09/24/how-to-write-yourself-into-the-great-american-novel/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Arthur
 - Barack Obama

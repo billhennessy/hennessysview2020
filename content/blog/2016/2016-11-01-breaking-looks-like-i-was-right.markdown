@@ -6,7 +6,7 @@ title: 'BREAKING: Looks Like I Was Right'
 layout: blog
 #url: e/2016/11/01/breaking-looks-like-i-was-right/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Hillary-Clinton
 - michelle obama

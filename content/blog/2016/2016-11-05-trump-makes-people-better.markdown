@@ -6,7 +6,7 @@ title: Trump Makes People Better
 layout: blog
 #url: e/2016/11/05/trump-makes-people-better/
 categories:
-- 2016 Election
+- Politics
 - News
 - Trump
 post_format:

@@ -6,7 +6,7 @@ title: Is the Romney Campaign Serious About Winning?
 layout: blog
 #url: e/2012/09/11/is-the-romney-campaign-serious-about-winning/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Barack Obama
 - CNN

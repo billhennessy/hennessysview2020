@@ -6,7 +6,7 @@ title: Trump Had But One Speech to Give for His Country, and It Was Perfect
 layout: blog
 #url: e/2016/07/24/trump-had-but-one-speech-to-give-for-his-country-and-it-was-perfect/
 categories:
-- 2016 Election
+- Politics
 - Trump
 type: "post"
 ---

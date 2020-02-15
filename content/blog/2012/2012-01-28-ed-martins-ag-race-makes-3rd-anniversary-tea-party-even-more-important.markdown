@@ -6,7 +6,7 @@ title: Ed Martin’s AG Race Makes 3rd Anniversary Tea Party Even More Important
 layout: blog
 #url: e/2012/01/27/ed-martins-ag-race-makes-3rd-anniversary-tea-party-even-more-important/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Attorney General
 - ed martin

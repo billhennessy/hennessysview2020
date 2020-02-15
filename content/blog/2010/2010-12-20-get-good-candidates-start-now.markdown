@@ -6,7 +6,7 @@ title: Get Good Candidates. Start Now.
 layout: blog
 #url: e/2010/12/19/get-good-candidates-start-now/
 categories:
-- 2012 Election
+- Politics
 tags:
 - '2012'
 - conservative coalition

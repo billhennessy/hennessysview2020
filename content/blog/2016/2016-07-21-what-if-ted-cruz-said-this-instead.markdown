@@ -6,7 +6,7 @@ title: What If Ted Cruz Said This Instead?
 layout: blog
 #url: e/2016/07/21/what-if-ted-cruz-said-this-instead/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Ted Cruz
 type: "post"

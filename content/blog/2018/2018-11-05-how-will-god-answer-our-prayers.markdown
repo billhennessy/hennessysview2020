@@ -6,7 +6,7 @@ title: How will God answer our prayers?
 
 # #url: e/2018/11/05/how-will-god-answer-our-prayers/
 categories:
-- 2018 Election
+- Politics
 - Faith
 tags:
 - Dottie Bailey

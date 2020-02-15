@@ -6,7 +6,7 @@ title: Santorum Surging Because People Like Him
 layout: blog
 #url: e/2012/02/11/santorum-surging-because-people-like-him/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Mitt Romney
 - PPP

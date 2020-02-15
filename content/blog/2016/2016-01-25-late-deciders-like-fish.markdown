@@ -6,7 +6,7 @@ title: How late-deciders are like fish
 layout: blog
 #url: e/2016/01/25/late-deciders-like-fish/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald J. Trump

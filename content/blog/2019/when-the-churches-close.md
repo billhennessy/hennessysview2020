@@ -4,7 +4,7 @@ date: 2019-08-24T20:28:34-05:00
 draft: true
 image: /images/uploads/
 categories:
-- Catholic
+- Faith
 tags:
 - End Game
 author: "Bill Hennessy"

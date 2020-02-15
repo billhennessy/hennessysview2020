@@ -6,7 +6,7 @@ title: Want to End the Obama Era?
 layout: blog
 #url: e/2010/09/22/want-to-end-the-obama-era/
 categories:
-- 2010 Election
+- Politics
 tags:
 - Mourning in America
 type: "post"

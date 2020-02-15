@@ -6,7 +6,7 @@ title: Greitens breathes life into our first principles
 layout: blog
 #url: e/2016/02/09/evangelical-papists/
 categories:
-- 2016 Election
+- Politics
 - Stoicism
 tags:
 - Eric Greitens

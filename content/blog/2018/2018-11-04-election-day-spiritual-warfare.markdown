@@ -6,7 +6,7 @@ title: Election Day Spiritual Warfare
 
 # #url: e/2018/11/04/election-day-spiritual-warfare/
 categories:
-- 2018 Election
+- Politics
 - Faith
 type: "post"
 ---

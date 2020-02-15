@@ -6,7 +6,7 @@ title: Trump's Misdirection Play
 layout: blog
 #url: e/2016/08/19/trumps-misdirection-play/
 categories:
-- 2016 Election
+- Politics
 - News
 - Trump
 tags:

@@ -6,7 +6,7 @@ title: A Catholic Priest Eviscerates Childish NeverTrumpers
 layout: blog
 #url: e/2016/10/19/a-catholic-priest-eviscerates-childish-nevertrumpers/
 categories:
-- 2016 Election
+- Politics
 tags:
 - abortion
 - NeverTrump

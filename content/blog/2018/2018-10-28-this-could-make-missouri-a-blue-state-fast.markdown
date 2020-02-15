@@ -6,7 +6,7 @@ title: This could make Missouri a blue state fast
 
 # #url: e/2018/10/28/this-could-make-missouri-a-blue-state-fast/
 categories:
-- 2018 Election
+- Politics
 tags:
 
 type: "post"

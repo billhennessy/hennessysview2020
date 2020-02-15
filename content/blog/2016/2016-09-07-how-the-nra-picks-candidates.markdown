@@ -6,7 +6,7 @@ title: How the NRA Picks Candidates
 layout: blog
 #url: e/2016/09/06/how-the-nra-picks-candidates/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Eric Greitens
 - NRA

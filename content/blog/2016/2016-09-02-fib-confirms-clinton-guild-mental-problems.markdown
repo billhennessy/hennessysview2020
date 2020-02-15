@@ -6,7 +6,7 @@ title: 'BREAKING: FBI Report Confirms Hillary''s Guilty Mental Problems'
 layout: blog
 #url: e/2016/09/02/fib-confirms-clinton-guild-mental-problems/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Crooked Hillary
 - FBI

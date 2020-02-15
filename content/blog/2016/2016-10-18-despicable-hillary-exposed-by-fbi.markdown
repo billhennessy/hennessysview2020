@@ -6,7 +6,7 @@ title: Despicable Hillary Exposed by FBI
 layout: blog
 #url: e/2016/10/17/despicable-hillary-exposed-by-fbi/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Wicked Hillary
 type: "post"

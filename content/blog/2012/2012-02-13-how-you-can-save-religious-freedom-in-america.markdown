@@ -6,9 +6,9 @@ title: How You Can Save Religious Freedom in America
 layout: blog
 #url: e/2012/02/13/how-you-can-save-religious-freedom-in-america/
 categories:
-- 2012 Election
+- Politics
 tags:
-- Catholic
+- Faith
 - election
 - first amendment
 - freedom

@@ -6,7 +6,7 @@ title: What The Pollsters Aren’t Telling You
 layout: blog
 #url: e/2012/10/21/what-the-pollsters-arent-telling-you/
 categories:
-- 2012 Election
+- Politics
 tags:
 - election
 - gallup
@@ -18,7 +18,7 @@ type: "post"
 
 Polls do influence elections. That’s why people like Nate Silver and some of the [writers at Business Insider](https://www.businessinsider.com/obama-re-takes-the-lead-in-the-real-clear-politics-2012-10) are doing somersaults over Gallup’s Daily Presidential Tracking numbers.
 
-[![RealClearPolitics - 2012 Election Maps - Electoral Map](https://ludicrite.files.wordpress.com/2012/10/realclearpolitics-2012-election-maps-electoral-map_thumb.png)
+[![RealClearPolitics - Politics Maps - Electoral Map](https://ludicrite.files.wordpress.com/2012/10/realclearpolitics-2012-election-maps-electoral-map_thumb.png)
 ](https://ludicrite.files.wordpress.com/2012/10/realclearpolitics-2012-election-maps-electoral-map.png)
 
 For over a week, Gallup has shown a tidal wave for support for Mitt Romney. Nate Silver of FiveThirtyEight tried to discredit Gallup by blogging about outlier results it’s shown in past years. Here’s the conclusion Business Insider reached:

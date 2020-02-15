@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Faith
 tags:
-- Catholic
+- Faith
 - Christian
 - humility
 - Lent

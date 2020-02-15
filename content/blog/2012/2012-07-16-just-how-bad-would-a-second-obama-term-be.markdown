@@ -6,7 +6,7 @@ title: Just How Bad Would a Second Obama Term Be?
 layout: blog
 #url: e/2012/07/16/just-how-bad-would-a-second-obama-term-be/
 categories:
-- 2012 Election
+- Politics
 tags:
 - BarackObama
 - God

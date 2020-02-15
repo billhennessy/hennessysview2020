@@ -6,7 +6,7 @@ title: On to November
 layout: blog
 #url: e/2010/08/07/on-to-november/
 categories:
-- 2010 Election
+- Politics
 tags:
 - ed martin
 - election 2010

@@ -6,7 +6,7 @@ title: Did You Vote?
 layout: blog
 #url: e/2012/11/07/did-you-vote/
 categories:
-- 2012 Election
+- Politics
 tags:
 - low turnout
 - poll

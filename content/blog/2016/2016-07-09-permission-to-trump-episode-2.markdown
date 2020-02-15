@@ -6,7 +6,7 @@ title: Permission to Trump, Episode 2
 layout: blog
 #url: e/2016/07/09/permission-to-trump-episode-2/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Ed Martin Jr

@@ -6,7 +6,7 @@ title: Master of Manipulation
 layout: blog
 #url: e/2016/02/03/would-the-real-ted-cruz-please-stand-up/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Ben Carson
 - CNN

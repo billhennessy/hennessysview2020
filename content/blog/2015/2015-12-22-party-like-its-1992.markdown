@@ -6,7 +6,7 @@ title: Party Like It's 1992
 layout: blog
 #url: e/2015/12/22/party-like-its-1992/
 categories:
-- 2016 Election
+- Politics
 - Trump
 - Donald Trump
 

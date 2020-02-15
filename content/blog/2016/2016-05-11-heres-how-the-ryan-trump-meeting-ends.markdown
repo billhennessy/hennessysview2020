@@ -6,7 +6,7 @@ title: Here's How the Ryan-Trump Meeting Ends
 layout: blog
 #url: e/2016/05/11/heres-how-the-ryan-trump-meeting-ends/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald Trump

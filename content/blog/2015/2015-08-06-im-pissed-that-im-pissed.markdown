@@ -6,7 +6,7 @@ title: I’m Pissed That I’m Pissed
 layout: blog
 #url: e/2015/08/06/im-pissed-that-im-pissed/
 categories:
-- 2016 Election
+- Politics
 tags:
 - happiness
 - 'hope attitudes'

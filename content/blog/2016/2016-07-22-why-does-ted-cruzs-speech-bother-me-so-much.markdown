@@ -6,7 +6,7 @@ title: Why does Ted Cruz's Speech Bother Me So Much?
 layout: blog
 #url: e/2016/07/22/why-does-ted-cruzs-speech-bother-me-so-much/
 categories:
-- 2016 Election
+- Politics
 - Politics
 - Trump
 tags:

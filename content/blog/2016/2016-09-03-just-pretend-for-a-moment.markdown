@@ -6,7 +6,7 @@ title: Just Pretend for a Moment
 layout: blog
 #url: e/2016/09/03/just-pretend-for-a-moment/
 categories:
-- 2016 Election
+- Politics
 - News
 tags:
 - Clinton Press Conference

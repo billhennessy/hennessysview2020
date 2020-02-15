@@ -6,7 +6,7 @@ title: I'm Sorry I Was Late to the Trump Train
 layout: blog
 #url: e/2016/11/09/im-sorry-i-was-late-to-the-trump-train/
 categories:
-- 2016 Election
+- Politics
 type: "post"
 ---
 

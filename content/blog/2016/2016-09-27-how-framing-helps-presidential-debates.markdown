@@ -4,7 +4,7 @@ date: 2016-09-27 22:30:15+00:00
 title: How Framing Helps Presidential Debates
 layout: blog
 categories:
-- 2016 Election
+- Politics
 tags:
 - Debate Night
 type: "post"

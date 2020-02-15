@@ -6,7 +6,7 @@ title: Being the Oddball Sucks
 layout: blog
 #url: e/2016/07/20/how-leaders-decide/
 categories:
-- 2016 Election
+- Politics
 - Political Psychology
 - Trump
 tags:

@@ -6,7 +6,7 @@ title: Bill Radles Endorses Ed Martin for Attorney General
 layout: blog
 #url: e/2012/10/31/bill-radles-endorses-ed-martin-for-attorney-general/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Attorney General
 - ed martin

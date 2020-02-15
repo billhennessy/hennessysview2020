@@ -6,7 +6,7 @@ title: How To Maximize Your Election Influence
 layout: blog
 #url: e/2012/11/04/how-to-maximize-your-election-influence/
 categories:
-- 2012 Election
+- Politics
 tags:
 - answer
 - Campaigns and Elections

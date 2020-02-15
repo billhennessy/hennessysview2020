@@ -6,7 +6,7 @@ title: Romney-Ryan Have a Vision They Can Talk About
 layout: blog
 #url: e/2012/08/11/obamas-surrounded-by-really-nasty-people/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Barack Obama
 - Chicago

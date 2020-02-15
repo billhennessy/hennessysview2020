@@ -6,7 +6,7 @@ title: 4 Steps to Launch Conservative Revolution
 layout: blog
 #url: e/2010/06/08/4-steps-to-launch-conservative-revolution/
 categories:
-- 2010 Election
+- Politics
 - Politics
 tags:
 - conservative revolution

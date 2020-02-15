@@ -6,7 +6,7 @@ title: Trump Surging Up, Up, and Away
 layout: blog
 #url: e/2016/09/04/trump-surging-up-up-and-away/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Polls

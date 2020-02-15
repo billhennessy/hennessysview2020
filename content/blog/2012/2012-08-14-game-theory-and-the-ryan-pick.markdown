@@ -6,7 +6,7 @@ title: Game Theory and the Ryan Pick
 layout: blog
 #url: e/2012/08/14/game-theory-and-the-ryan-pick/
 categories:
-- 2012 Election
+- Politics
 tags:
 - game theory
 - obama

@@ -6,7 +6,7 @@ title: Shady City Votes and Ego-Trip Riders
 layout: blog
 #url: e/2010/11/03/shady-city-votes-and-ego-trip-riders/
 categories:
-- 2010 Election
+- Politics
 tags:
 - ed martin
 - election fraud

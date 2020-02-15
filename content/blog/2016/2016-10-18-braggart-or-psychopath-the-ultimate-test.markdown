@@ -6,7 +6,7 @@ title: 'Psychopath or Braggart: The Ultimate Test'
 layout: blog
 #url: e/2016/10/17/braggart-or-psychopath-the-ultimate-test/
 categories:
-- 2016 Election
+- Politics
 - Campaigns and Elections
 tags:
 - Find out

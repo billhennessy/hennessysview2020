@@ -6,7 +6,7 @@ title: Top 5 Moves for Herman Cain Supporters Right Now
 layout: blog
 #url: e/2011/09/25/top-5-moves-for-herman-cain-supporters-right-now/
 categories:
-- 2012 Election
+- Politics
 tags:
 - election 2012
 - Florida Straw Poll

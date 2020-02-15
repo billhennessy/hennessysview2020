@@ -6,7 +6,7 @@ title: The Odyssey of Eric Greitens
 
 # #url: e/2018/04/21/odyssey-eric-greitens/
 categories:
-- Missouri
+- Politics
 tags:
 - Donald Trump
 - Eric Greitens

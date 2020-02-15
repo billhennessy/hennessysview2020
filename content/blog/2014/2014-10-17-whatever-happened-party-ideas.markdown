@@ -6,7 +6,7 @@ title: Whatever Happened to the Party of Ideas?
 layout: blog
 #url: e/2014/10/16/whatever-happened-party-ideas/
 categories:
-- 2014 Election
+- Politics
 tags:
 - Ann Wagner
 - Heritage Action

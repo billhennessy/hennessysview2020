@@ -6,7 +6,7 @@ title: 7 Fascinating Results In The Missouri Primary
 layout: blog
 #url: e/2014/08/06/10-curious-results-missouri-primary/
 categories:
-- 2014 Election
+- Politics
 tags:
 - endExIm
 - 2nd Amendment

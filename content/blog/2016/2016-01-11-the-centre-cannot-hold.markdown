@@ -6,10 +6,10 @@ title: The Centre Cannot Hold
 layout: blog
 #url: e/2016/01/10/the-centre-cannot-hold/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
-- 2016 Election
+- Politics
 - crisis
 - Donald J. Trump
 - The Fourth Turning

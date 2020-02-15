@@ -6,7 +6,7 @@ title: 'BREAKING: Santorum Pulls Away with 13-Vote Lead'
 layout: blog
 #url: e/2012/01/03/breaking-santorum-pulls-away-with-13-vote-lead/
 categories:
-- 2012 Election
+- Politics
 tags:
 - establishment
 - Gingrich

@@ -6,7 +6,7 @@ title: What Rick Perry Can Learn From Clark Griswold
 layout: blog
 #url: e/2011/09/24/what-rick-perry-can-learn-from-clark-griswold/
 categories:
-- 2012 Election
+- Politics
 - White House
 tags:
 - clark griswold

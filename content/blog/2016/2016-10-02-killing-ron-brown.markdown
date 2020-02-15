@@ -6,7 +6,7 @@ title: 'Killing Ron Brown: A Clinton Crime Family Story'
 layout: blog
 #url: e/2016/10/02/killing-ron-brown/
 categories:
-- 2016 Election
+- Politics
 - News
 tags:
 - Hillary-Clinton

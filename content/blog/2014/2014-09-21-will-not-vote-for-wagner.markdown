@@ -6,7 +6,7 @@ title: Why I Will Not Vote for Ann Wagner in 2014
 layout: blog
 #url: e/2014/09/21/will-not-vote-for-wagner/
 categories:
-- 2014 Election
+- Politics
 tags:
 - 'endExIm'
 - Ann Wagner

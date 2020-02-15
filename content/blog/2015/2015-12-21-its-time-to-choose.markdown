@@ -6,7 +6,7 @@ title: It's Time to Choose
 layout: blog
 #url: e/2015/12/20/its-time-to-choose/
 categories:
-- 2016 Election
+- Politics
 - News
 - Trump
 - Donald Trump

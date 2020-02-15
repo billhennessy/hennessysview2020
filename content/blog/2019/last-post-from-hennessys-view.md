@@ -3,7 +3,7 @@ title: "Last Post From Hennessy's View"
 date: 2019-08-18T11:11:54-05:00
 draft: false
 categories:
-- Tea Party
+- Politics
 author: "Bill Hennessy"
 type: "post"
 ---

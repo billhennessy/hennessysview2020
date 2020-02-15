@@ -6,7 +6,7 @@ title: Here’s How Nate Silver Determines Obama’s Chances of Winning
 layout: blog
 #url: e/2012/10/29/heres-how-nate-silver-determines-obamas-chances-of-winning/
 categories:
-- 2012 Election
+- Politics
 tags:
 - business insider
 - FiveThirtyEight

@@ -6,7 +6,7 @@ title: Obama Attends Backyard Barbecue Fundraiser
 layout: blog
 #url: e/2012/05/05/obama-attends-backyard-barbecue-fundraiser/
 categories:
-- 2012 Election
+- Politics
 - Satire
 type: "post"
 ---

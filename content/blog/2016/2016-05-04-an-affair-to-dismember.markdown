@@ -6,7 +6,7 @@ title: An Affair to Dismember (Trump)
 layout: blog
 #url: e/2016/05/04/an-affair-to-dismember/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald Trump

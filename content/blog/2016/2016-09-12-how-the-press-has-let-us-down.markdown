@@ -6,7 +6,7 @@ title: How the Press Has Let Us Down
 layout: blog
 #url: e/2016/09/11/how-the-press-has-let-us-down/
 categories:
-- 2016 Election
+- Politics
 tags:
 - HillarysHealth
 type: "post"

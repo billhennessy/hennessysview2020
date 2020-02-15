@@ -6,7 +6,7 @@ title: Why Did Paul Holzer Expose John Brunner? Part III
 layout: blog
 #url: e/2016/07/29/why-did-paul-holzer-out-john-brunner-part-iii/
 categories:
-- 2016 Election
+- Politics
 - Missouri
 tags:
 - Eric Greitens

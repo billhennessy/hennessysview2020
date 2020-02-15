@@ -6,7 +6,7 @@ image: /images/uploads/gadsden.jpg
 # featuredImage: /images/uploads/
 categories:
 - Politics
-- Impeachment
+- Donal Trump
 tags:
 - Impeachment
 author: "Bill Hennessy"

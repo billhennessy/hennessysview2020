@@ -6,7 +6,7 @@ title: Suddenly You Feel Sorry for Hillary
 layout: blog
 #url: e/2016/09/11/suddenly-you-feel-sorry-for-hillary/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Hillary Health
 type: "post"

@@ -6,7 +6,7 @@ title: How to Rock the Election Like Scott Walker and Richard Mourdock
 layout: blog
 #url: e/2012/09/08/how-to-rock-the-election-like-scott-walker-and-richard-mourdock/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Barack Obama
 - Indiana

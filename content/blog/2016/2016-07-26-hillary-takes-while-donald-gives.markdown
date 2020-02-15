@@ -6,7 +6,7 @@ title: Hillary Takes While Donald Gives
 layout: blog
 #url: e/2016/07/26/hillary-takes-while-donald-gives/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Crooked Hillary

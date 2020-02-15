@@ -5,8 +5,7 @@ draft: false
 image: /images/uploads/francis-witch-stang.jpg
 featuredImage: /images/uploads/francis-witch-stang.jpg
 categories:
-- Catholic
-- Evil
+- Faith
 tags:
 - Pope Francis
 - Evil

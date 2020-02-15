@@ -6,7 +6,7 @@ title: Maybe he's not a conservative
 layout: blog
 #url: e/2016/02/16/more-on-first-principles/
 categories:
-- 2016 Election
+- Politics
 tags:
 - conservative
 - Eric Greitens

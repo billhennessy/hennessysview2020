@@ -6,7 +6,7 @@ title: Excellent Commercial by Ed Martin for Missouri Attorney General
 layout: blog
 #url: e/2012/10/01/excellent-commercial-by-ed-martin-for-missouri-attorney-general/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Attorney General
 - Chris Koster

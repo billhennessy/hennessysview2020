@@ -6,7 +6,7 @@ title: 'BREAKING: Ed Martin Running for Attorney General in Missouri *UPDATE*'
 layout: blog
 #url: e/2012/01/26/breaking-ed-martin-running-for-attorney-general-in-missouri/
 categories:
-- 2012 Election
+- Politics
 tags:
 - 'tcot'
 - 'teaparty'

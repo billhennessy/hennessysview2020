@@ -6,7 +6,7 @@ title: How bad would Trump presidency be?
 layout: blog
 #url: e/2016/02/24/why-so-many-conservatives-are-wrong-about-trump/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Dan Gilbert

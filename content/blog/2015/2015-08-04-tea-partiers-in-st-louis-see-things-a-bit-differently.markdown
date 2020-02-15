@@ -6,7 +6,7 @@ title: Tea Partiers in St. Louis See Things a Bit Differently
 layout: blog
 #url: e/2015/08/04/tea-partiers-in-st-louis-see-things-a-bit-differently/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald J. Trump

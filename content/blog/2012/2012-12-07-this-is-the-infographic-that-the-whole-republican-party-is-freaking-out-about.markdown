@@ -6,7 +6,7 @@ title: This Is The Infographic That The Whole Republican Party Is Freaking Out A
 layout: blog
 #url: e/2012/12/06/this-is-the-infographic-that-the-whole-republican-party-is-freaking-out-about/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Barack Obama
 - demographics

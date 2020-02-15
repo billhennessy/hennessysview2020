@@ -6,7 +6,7 @@ title: Feelin' Berned? Special Offer for Bernie Fans
 layout: blog
 #url: e/2016/07/24/feelin-berned-special-offer-for-bernie-fans/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Bernie Sanders
 - DNCLeak

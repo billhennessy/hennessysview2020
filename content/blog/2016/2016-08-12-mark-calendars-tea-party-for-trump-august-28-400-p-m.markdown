@@ -6,7 +6,7 @@ title: 'Mark Calendars: Tea Party for Trump August 28 @ 4:00 p.m. UPDATE'
 layout: blog
 #url: e/2016/08/11/mark-calendars-tea-party-for-trump-august-28-400-p-m/
 categories:
-- 2016 Election
+- Politics
 - Activism
 type: "post"
 ---

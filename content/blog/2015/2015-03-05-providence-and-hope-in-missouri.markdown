@@ -6,7 +6,7 @@ title: Providence and Hope in Missouri
 layout: blog
 #url: e/2015/03/05/providence-and-hope-in-missouri/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Catherine Hanaway
 - Eric Greitens

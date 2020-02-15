@@ -6,7 +6,7 @@ title: Falling Down Again
 layout: blog
 #url: e/2010/08/12/falling-down-again/
 categories:
-- 2010 Election
+- Politics
 tags:
 - falling down
 - msnbc poll

@@ -4,9 +4,9 @@ date: 2019-07-24T19:57:50-05:00
 draft: false
 image: /images/uploads/dazed-and-confused.jpg
 categories:
-- Robert Mueller
+- Politics
 - Donald Trump
-- Prophets
+
 tags:
 - Robert Mueller
 ---

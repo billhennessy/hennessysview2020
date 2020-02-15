@@ -6,7 +6,7 @@ title: Trump won the Fox News debate
 layout: blog
 #url: e/2016/01/27/glenn-beck-is-evil-incarnate/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald Trump

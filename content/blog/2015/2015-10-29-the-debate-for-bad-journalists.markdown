@@ -6,7 +6,7 @@ title: The Debate for Bad Journalists
 layout: blog
 #url: e/2015/10/28/the-debate-for-bad-journalists/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - 'cnbcgopdebate'

@@ -6,7 +6,7 @@ title: This Guy Puts People to Work
 layout: blog
 #url: e/2015/03/31/eric-greitens-puts-people-to-work/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Eric Greitens
 type: "post"

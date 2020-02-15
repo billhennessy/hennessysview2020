@@ -6,7 +6,7 @@ title: Forgive Paul Ryan
 layout: blog
 #url: e/2016/06/09/forgive-paul-ryan/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - La Raza

@@ -6,7 +6,7 @@ title: What Is Leadership?
 layout: blog
 #url: e/2015/08/14/what-is-leadership/
 categories:
-- 2016 Election
+- Politics
 - Military
 tags:
 - Business

@@ -6,7 +6,7 @@ title: Magical Thinking
 layout: blog
 #url: e/2016/09/14/magical-thinking/
 categories:
-- 2016 Election
+- Politics
 - Living
 tags:
 - magical thinking

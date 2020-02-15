@@ -6,7 +6,7 @@ title: 'UPDATE: Kid Rock Winning MI Senate Race'
 layout: blog
 #url: e/2017/07/23/update-kid-rock-winning-mi-senate-race/
 categories:
-- 2018 Election
+- Politics
 tags:
 - Kid Rock
 - MI Sen

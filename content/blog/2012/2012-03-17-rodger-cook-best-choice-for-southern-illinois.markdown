@@ -6,7 +6,7 @@ title: Rodger Cook Best Choice for Southern Illinois
 layout: blog
 #url: e/2012/03/17/rodger-cook-best-choice-for-southern-illinois/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Illinois
 - Illinois Congressional District 12

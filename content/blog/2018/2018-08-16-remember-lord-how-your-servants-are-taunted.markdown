@@ -9,7 +9,7 @@ categories:
 - Faith
 tags:
 - Armor of Christ
-- Catholic Scandal
+- Faith Scandal
 - Pedophile Priests
 - Sex abuse scandal
 type: "post"

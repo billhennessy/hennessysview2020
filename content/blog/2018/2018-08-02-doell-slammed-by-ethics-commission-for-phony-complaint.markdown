@@ -6,7 +6,7 @@ title: Doell Slammed by Ethics Commission for Phony Complaint
 
 # #url: e/2018/08/02/doell-slammed-by-ethics-commission-for-phony-complaint/
 categories:
-- 2018 Missouri Primary
+- Politics Primary
 tags:
 - Matt Doell
 - Missouri Ethics Commission

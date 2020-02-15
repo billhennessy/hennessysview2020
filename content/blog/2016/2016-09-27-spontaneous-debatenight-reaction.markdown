@@ -6,7 +6,7 @@ title: 'Spontaneous #DebateNight Reaction'
 layout: blog
 #url: e/2016/09/26/spontaneous-debatenight-reaction/
 categories:
-- 2016 Election
+- Politics
 tags:
 - 'debatenight'
 type: "post"

@@ -6,7 +6,7 @@ title: 'Caution: Identifying as ''NeverTrump'' Changes Your Brain'
 layout: blog
 #url: e/2016/07/12/what-happens-you-identify-as-nevertrump/
 categories:
-- 2016 Election
+- Politics
 - Political Psychology
 tags:
 - Identity claims

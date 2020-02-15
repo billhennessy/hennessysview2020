@@ -5,7 +5,7 @@ draft: false
 author: Bill Hennessy
 categories: 
 - Faith
-- Religious Freedom
+
 tags:
 - Persecution
 - Martyrs

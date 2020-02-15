@@ -6,7 +6,7 @@ title: Here’s What Robin Carnahan Doesn’t Want You Know About Proposition E
 layout: blog
 #url: e/2012/10/17/heres-what-robin-carnahan-doesnt-want-you-know-about-proposition-e/
 categories:
-- 2012 Election
+- Politics
 tags:
 - bureaucrats
 - Health Insurance Exchanges

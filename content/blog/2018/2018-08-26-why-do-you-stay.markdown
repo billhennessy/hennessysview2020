@@ -9,7 +9,7 @@ categories:
 - Faith
 - Living
 tags:
-- Catholic
+- Faith
 type: "post"
 ---
 

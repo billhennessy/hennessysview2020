@@ -7,7 +7,7 @@ title: St. Louis Board of Police Commissioners Proves Government Can’t Get Any
 layout: blog
 #url: e/2012/10/04/st-louis-board-of-police-commissioners-proves-government-cant-get-anything-right/
 categories:
-- 2012 Election
+- Politics
 tags:
 - conservatives
 - missouri

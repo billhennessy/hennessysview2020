@@ -6,7 +6,7 @@ title: The Power and the Glory
 layout: blog
 #url: e/2010/09/29/the-power-and-the-glory/
 categories:
-- 2010 Election
+- Politics
 - Trump
 tags:
 - disillusionment

@@ -6,7 +6,7 @@ title: The Thrilla in California
 layout: blog
 #url: e/2016/05/27/the-thrilla-in-california/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - debate

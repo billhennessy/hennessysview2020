@@ -8,7 +8,7 @@ categories:
 - Crime
 - Faith
 tags:
-- Catholic Supply
+- Faith Supply
 - Thomas Bruce
 type: "post"
 ---

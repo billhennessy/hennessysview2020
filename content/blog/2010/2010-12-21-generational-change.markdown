@@ -6,7 +6,7 @@ title: Generational Change
 layout: blog
 #url: e/2010/12/20/generational-change/
 categories:
-- 2010 Election
+- Politics
 tags:
 - election
 - voter turnout

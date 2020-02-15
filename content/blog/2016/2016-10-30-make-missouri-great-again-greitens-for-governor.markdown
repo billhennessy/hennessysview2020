@@ -6,7 +6,7 @@ title: Make Missouri Great Again—Greitens for Governor
 layout: blog
 #url: e/2016/10/30/make-missouri-great-again-greitens-for-governor/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Eric Greitens
 type: "post"

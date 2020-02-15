@@ -6,7 +6,7 @@ title: Analysis of 2016 GOP Governor Poll
 layout: blog
 #url: e/2015/07/19/analysis-of-2016-gop-governor-poll/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald J. Trump

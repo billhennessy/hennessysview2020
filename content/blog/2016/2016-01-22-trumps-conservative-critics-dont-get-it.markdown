@@ -6,7 +6,7 @@ title: Why National Review's Trump Issue Will Fail
 layout: blog
 #url: e/2016/01/22/trumps-conservative-critics-dont-get-it/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Dilbert

@@ -6,7 +6,7 @@ title: Ruth Bader Ginsburg Totally Had This Coming
 layout: blog
 #url: e/2016/07/13/ruth-bader-ginsburg-totally-had-this-coming/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - gofundme

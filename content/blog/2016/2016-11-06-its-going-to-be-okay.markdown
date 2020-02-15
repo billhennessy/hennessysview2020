@@ -6,7 +6,7 @@ title: It's Going to Be Okay
 layout: blog
 #url: e/2016/11/06/its-going-to-be-okay/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Hillary Emails
 - James Comey

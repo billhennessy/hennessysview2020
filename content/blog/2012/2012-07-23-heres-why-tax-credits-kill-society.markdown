@@ -6,7 +6,7 @@ title: Here's Why Tax Credits Kill Society
 layout: blog
 #url: e/2012/07/23/heres-why-tax-credits-kill-society/
 categories:
-- 2012 Election
+- Politics
 tags:
 - bill clinton
 - Democrat

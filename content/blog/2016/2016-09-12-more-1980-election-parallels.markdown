@@ -6,7 +6,7 @@ title: 'More 1980 Election Parallels: Passing Out and Falling Down'
 layout: blog
 #url: e/2016/09/12/more-1980-election-parallels/
 categories:
-- 2016 Election
+- Politics
 tags:
 - HillarysHealth
 - Jimmy Carter

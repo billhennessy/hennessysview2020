@@ -6,7 +6,7 @@ title: Here Is Rand Paul's Secret to Broadening the Republican Base
 layout: blog
 #url: e/2014/07/27/rand-pauls-secret-broadening-republican-base/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Cannabis
 - marijuana laws

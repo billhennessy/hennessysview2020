@@ -6,7 +6,7 @@ title: President Trump
 layout: blog
 #url: e/2016/05/16/president-trump/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Crooked Hillary

@@ -6,7 +6,7 @@ title: 'Warning: Reality Doesn''t Care'
 layout: blog
 #url: e/2016/07/11/warning-reality-doesnt-care/
 categories:
-- 2016 Election
+- Politics
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: 'Senator Rock: Who''s the Joke? (offensive) VIDEO'
 layout: blog
 #url: e/2017/07/15/senator-rock-whos-the-joke-offensive-video/
 categories:
-- 2018 Election
+- Politics
 - News
 tags:
 - Kid Rock

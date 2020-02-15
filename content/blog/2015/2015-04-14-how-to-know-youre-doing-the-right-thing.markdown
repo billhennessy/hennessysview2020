@@ -6,7 +6,7 @@ title: How to Know You're Doing the Right Thing
 layout: blog
 #url: e/2015/04/14/how-to-know-youre-doing-the-right-thing/
 categories:
-- 2016 Election
+- Politics
 tags:
 - 'stlteaparty'
 - Eric Greitens

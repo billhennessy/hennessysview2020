@@ -8,7 +8,7 @@ title: A Bishop Does the Right Thing and the Post-Dispatch Deceives You
 categories:
 - Living
 tags:
-- Catholic
+- Faith
 - Sexual Abuse
 type: "post"
 ---

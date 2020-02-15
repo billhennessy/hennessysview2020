@@ -6,7 +6,7 @@ title: Yellow Josh "Hee" Hawley
 
 # #url: e/2018/04/20/yellow-josh-hee-hawley/
 categories:
-- 2018 Election
+- Politics
 tags:
 - Eric Greitens
 - Kim Gardner

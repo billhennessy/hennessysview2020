@@ -6,7 +6,7 @@ title: How to Tell If You're a Racist
 layout: blog
 #url: e/2016/06/06/how-to-tell-if-youre-a-racist/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - hispanic

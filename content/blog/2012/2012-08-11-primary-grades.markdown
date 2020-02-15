@@ -6,7 +6,7 @@ title: Primary Grades
 layout: blog
 #url: e/2012/08/10/primary-grades/
 categories:
-- 2012 Election
+- Politics
 tags:
 - ed martin
 - missouri

@@ -5,9 +5,7 @@ draft: true
 # image: /images/uploads/
 # featuredImage: /images/uploads/
 categories:
-- Internet
-- Christianity
-- Catholic
+- Faith
 tags:
 - Ephesians 6
 author: "Bill Hennessy"

@@ -6,7 +6,7 @@ title: The Conservative Base Is Dying And Taking Your Freedom With It *CORRECTIO
 layout: blog
 #url: e/2012/11/07/the-conservative-base-is-dying-and-taking-freedom-with-it/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Barack Obama
 - conservatism

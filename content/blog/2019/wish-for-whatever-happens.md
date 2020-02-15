@@ -7,7 +7,6 @@ author: Bill Hennessy
 # featuredImage: /images/uploads/
 categories: 
 - Faith
-- Happiness
 tags:
 - Blog
 type: "post"

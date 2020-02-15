@@ -6,7 +6,7 @@ title: Time is Running Out to Avoid Bloodshed
 layout: blog
 #url: e/2016/11/16/time-is-running-out-to-avoid-bloodshed/
 categories:
-- 2016 Election
+- Politics
 type: "post"
 ---
 

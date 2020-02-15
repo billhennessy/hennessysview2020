@@ -6,7 +6,7 @@ title: Greitens's Win Was Just a Moment in Time. But a Big Moment
 layout: blog
 #url: e/2016/08/03/greitenss-win-was-just-a-moment-in-time-but-a-big-moment/
 categories:
-- 2016 Election
+- Politics
 - Missouri
 tags:
 - Eric Greitens

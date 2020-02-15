@@ -6,7 +6,7 @@ title: You Won't Believe How Many Islamic Terrorist Attacks This Year
 layout: blog
 #url: e/2016/07/15/you-wont-believe-how-many-islamic-terrorist-attacks-this-year/
 categories:
-- 2016 Election
+- Politics
 - Terrorism
 - Trump
 tags:

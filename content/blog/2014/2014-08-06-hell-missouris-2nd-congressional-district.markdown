@@ -6,9 +6,9 @@ title: What the Hell Is Up In Missouri's 2nd Congressional District?
 layout: blog
 #url: e/2014/08/05/hell-missouris-2nd-congressional-district/
 categories:
-- 2014 Election
+- Politics
 tags:
-- 2014 Election
+- Politics
 type: "post"
 ---
 

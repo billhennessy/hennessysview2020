@@ -6,7 +6,7 @@ title: How Conservatives Relate to Washington’s Continental Army
 layout: blog
 #url: e/2012/02/20/how-conservatives-relate-to-washingtons-continental-army/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Continental Army
 - George Washington

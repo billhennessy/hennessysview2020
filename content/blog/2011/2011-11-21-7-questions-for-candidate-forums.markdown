@@ -6,7 +6,7 @@ title: 7 Questions for Candidate Forums
 layout: blog
 #url: e/2011/11/21/7-questions-for-candidate-forums/
 categories:
-- 2012 Election
+- Politics
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: Are You Ready to Caucus?
 layout: blog
 #url: e/2012/01/09/are-you-ready-to-caucus/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Missouri Caucus
 - Missouri Primary

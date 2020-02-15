@@ -6,7 +6,7 @@ title: Why Can't the Establishment Fix America's Problems?
 layout: blog
 #url: e/2011/11/14/why-cant-the-establishment-fix-americas-problems/
 categories:
-- 2012 Election
+- Politics
 - Latest
 tags:
 - Barry Goldwater

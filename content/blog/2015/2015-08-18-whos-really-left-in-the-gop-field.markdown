@@ -6,7 +6,7 @@ title: Who's Really Left in the GOP Field?
 layout: blog
 #url: e/2015/08/18/whos-really-left-in-the-gop-field/
 categories:
-- 2016 Election
+- Politics
 - News
 - Trump
 tags:

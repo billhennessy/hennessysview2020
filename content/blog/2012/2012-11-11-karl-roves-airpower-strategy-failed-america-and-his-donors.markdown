@@ -6,7 +6,7 @@ title: Karl Rove’s Air Power Strategy Failed America And His Donors
 layout: blog
 #url: e/2012/11/10/karl-roves-airpower-strategy-failed-america-and-his-donors/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Campaigns and Elections
 - conservative donors

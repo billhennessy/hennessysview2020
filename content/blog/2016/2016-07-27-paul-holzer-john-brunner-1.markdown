@@ -6,7 +6,7 @@ title: John Brunner's Charade, part I
 layout: blog
 #url: e/2016/07/27/paul-holzer-john-brunner-1/
 categories:
-- 2016 Election
+- Politics
 - Missouri
 - News
 tags:

@@ -5,7 +5,7 @@ draft: false
 image: /images/uploads/jakub.png
 featuredImage: /images/uploads/jakub.png
 categories:
-- Catholic
+- Faith
 tags:
 - Rosary Coast-to-Coast
 author: "Bill Hennessy"

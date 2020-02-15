@@ -5,7 +5,7 @@ draft: true
 # image: /images/uploads/
 # featuredImage: /images/uploads/
 categories:
-- Catholic
+- Faith
 tags:
 - Bishop Robert Barron
 author: "Bill Hennessy"

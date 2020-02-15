@@ -6,7 +6,7 @@ title: One Question for Carly Fiorina
 layout: blog
 #url: e/2015/08/18/one-question-for-carly-fiorina/
 categories:
-- 2016 Election
+- Politics
 - Service
 - Trump
 tags:

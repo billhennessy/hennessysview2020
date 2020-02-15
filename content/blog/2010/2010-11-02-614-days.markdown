@@ -6,7 +6,7 @@ title: 614 Days
 layout: blog
 #url: e/2010/11/01/614-days/
 categories:
-- 2010 Election
+- Politics
 tags:
 - election
 - Tea Party News

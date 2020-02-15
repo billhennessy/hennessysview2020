@@ -6,7 +6,7 @@ title: 'Kansas: Point of No Return'
 layout: blog
 #url: e/2011/12/08/kansas-point-of-no-return/
 categories:
-- 2012 Election
+- Politics
 tags:
 - collectivism
 - individualism

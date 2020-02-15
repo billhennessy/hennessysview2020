@@ -5,8 +5,7 @@ draft: true
 author: Bill Hennessy
 categories: 
 - Faith
-- Health
-- Fasting
+- Living
 tags:
 - Health
 - Fasting

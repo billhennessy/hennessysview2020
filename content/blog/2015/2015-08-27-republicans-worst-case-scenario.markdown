@@ -6,7 +6,7 @@ title: Republicans Worst-Case Scenario?
 layout: blog
 #url: e/2015/08/26/republicans-worst-case-scenario/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Charles Krauthammer

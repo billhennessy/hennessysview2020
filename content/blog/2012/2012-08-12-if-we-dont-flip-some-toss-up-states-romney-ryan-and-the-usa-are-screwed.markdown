@@ -6,7 +6,7 @@ title: If We Don’t Flip Some Toss-Up States, Romney, Ryan, and the USA Are Scr
 layout: blog
 #url: e/2012/08/12/if-we-dont-flip-some-toss-up-states-romney-ryan-and-the-usa-are-screwed/
 categories:
-- 2012 Election
+- Politics
 tags:
 - Cole McNary
 - ed martin
@@ -35,14 +35,14 @@ Choosing Paul Ryan as his running mate was a great Romney move. Looking ahead, R
 
 But it wasn’t enough to win the election and unseat America’s first anti-American president.  To do that, we must find a way to win over the selfish middle. (I know, writing things like “selfish middle” doesn’t help, but I hate lying to them.)
 
-[![RealClearPolitics - 2012 Election Maps - Obama vs. Romney Create Your Own Electoral Map](https://ludicrite.files.wordpress.com/2012/08/realclearpolitics-2012-election-maps-obama-vs-romney-create-your-own-electoral-map.png)
+[![RealClearPolitics - Politics Maps - Obama vs. Romney Create Your Own Electoral Map](https://ludicrite.files.wordpress.com/2012/08/realclearpolitics-2012-election-maps-obama-vs-romney-create-your-own-electoral-map.png)
 ](https://www.realclearpolitics.com/epolls/2012/president/obama_vs_romney_create_your_own_electoral_college_map.html)
 
 Here’s the reality: the Electoral College, which once favored Republicans, is now the exclusive property of the DNC.  That’s because “moderates,” who vote for candidates promising to give them stuff, have moved into formerly conservative states.  In the map above, Obama needs only 33 electoral votes to win.
 
 Now, take out all the toss-ups by giving the gray states to the candidate currently with the lead in polls in that state:
 
-[![RealClearPolitics - 2012 Election Maps - No Toss-Ups](https://ludicrite.files.wordpress.com/2012/08/realclearpolitics-2012-election-maps-no-toss-ups_thumb.png)
+[![RealClearPolitics - Politics Maps - No Toss-Ups](https://ludicrite.files.wordpress.com/2012/08/realclearpolitics-2012-election-maps-no-toss-ups_thumb.png)
 ](https://ludicrite.files.wordpress.com/2012/08/realclearpolitics-2012-election-maps-no-toss-ups.png)
 
 If the election were held today, America would be screwed.

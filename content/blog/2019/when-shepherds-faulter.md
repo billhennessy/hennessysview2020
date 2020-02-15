@@ -4,7 +4,6 @@ date: 2019-07-28T20:56:51-05:00
 draft: true
 Categories:
 - Faith
-- Catholic
 type: "post"
 ---
 

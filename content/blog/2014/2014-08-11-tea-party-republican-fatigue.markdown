@@ -6,7 +6,7 @@ title: Is The Tea Party Suffering From Republican Fatigue Syndrome?
 layout: blog
 #url: e/2014/08/11/tea-party-republican-fatigue/
 categories:
-- 2014 Election
+- Politics
 tags:
 - 2104 Primary
 - Ann Wagner

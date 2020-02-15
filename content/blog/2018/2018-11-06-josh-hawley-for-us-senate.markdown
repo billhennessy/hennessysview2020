@@ -6,7 +6,7 @@ title: Josh Hawley for US Senate
 
 # #url: e/2018/11/05/josh-hawley-for-us-senate/
 categories:
-- 2018 Election
+- Politics
 tags:
 - Josh Hawley
 - MoSen

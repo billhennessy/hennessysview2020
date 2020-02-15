@@ -5,7 +5,7 @@ draft: true
 # image: /images/uploads/
 # featuredImage: /images/uploads/
 categories:
-- Catholic Winter
+- Faith
 tags:
 - Fiction
 author: "Bill Hennessy"

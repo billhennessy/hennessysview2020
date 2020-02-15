@@ -6,7 +6,7 @@ title: The SEAL, the Race, and the CEO
 layout: blog
 #url: e/2015/04/10/the-seal-the-race-and-the-ceo/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Aslan
 - Eric Greitens

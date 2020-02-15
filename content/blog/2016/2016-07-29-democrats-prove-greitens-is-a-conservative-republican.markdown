@@ -6,7 +6,7 @@ title: Democrats Just Predicted Greitens Beats Koster
 layout: blog
 #url: e/2016/07/29/democrats-prove-greitens-is-a-conservative-republican/
 categories:
-- 2016 Election
+- Politics
 - Missouri
 tags:
 - Eric Greitens

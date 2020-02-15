@@ -4,7 +4,8 @@ date: 2019-07-20T23:36:35-05:00
 draft: false
 
 categories: 
-- Blog
+- Blogging
+
 tags:
 - twitter
 - facebook

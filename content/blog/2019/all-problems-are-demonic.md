@@ -6,7 +6,7 @@ image: /images/uploads/armor_of_god.jpg
 featuredImage: /images/uploads/armor_of_god.jpg
 categories:
 - Politics
-- Catholic
+- Faith
 tags:
 - Demonic
 author: "Bill Hennessy"

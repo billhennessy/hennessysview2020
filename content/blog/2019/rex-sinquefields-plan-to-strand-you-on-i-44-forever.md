@@ -6,9 +6,7 @@ author: Bill Hennessy
 image: /images/uploads/i-44-standstill.PNG
 featuredImage: /images/uploads/i-44-standstill.PNG
 categories: 
-- St. Louis City
-- St. Louis County
-- City-County Merger
+- Politics
 tags:
 - I-44 Traffic Jam
 - Rex Sinquefield

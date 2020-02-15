@@ -6,7 +6,7 @@ title: How Conservatives Abandoned Principles Over Trump
 layout: blog
 #url: e/2016/05/14/how-conservatives-abandoned-principles-over-trump/
 categories:
-- 2016 Election
+- Politics
 - Politics
 - Trump
 tags:

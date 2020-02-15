@@ -6,7 +6,7 @@ title: Her Crooked Highness Hillary Just Got Smoked
 layout: blog
 #url: e/2016/06/09/her-crooked-highness-hillary-just-got-smoked/
 categories:
-- 2016 Election
+- Politics
 - Trump
 type: "post"
 ---

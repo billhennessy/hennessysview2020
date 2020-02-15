@@ -6,7 +6,7 @@ title: Obama & Hillary Have Lost Control of Cop Killer Rhetoric
 layout: blog
 #url: e/2016/07/17/cop-killer-hillary-has-lost-control/
 categories:
-- 2016 Election
+- Politics
 - Crime
 - News
 tags:

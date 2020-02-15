@@ -6,7 +6,7 @@ title: One Week To Go. Are You Ready?
 layout: blog
 #url: e/2016/08/21/one-week-to-go-are-you-ready/
 categories:
-- 2016 Election
+- Politics
 - Tea Party News
 - Trump
 type: "post"

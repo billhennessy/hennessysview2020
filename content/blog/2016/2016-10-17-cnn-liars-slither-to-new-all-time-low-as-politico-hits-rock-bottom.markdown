@@ -6,7 +6,7 @@ title: CNN Liars Slither to New All-Time Low as Politico Hits Rock Bottom
 layout: blog
 #url: e/2016/10/17/cnn-liars-slither-to-new-all-time-low-as-politico-hits-rock-bottom/
 categories:
-- 2016 Election
+- Politics
 tags:
 - CNN Lies
 - GlennThrush

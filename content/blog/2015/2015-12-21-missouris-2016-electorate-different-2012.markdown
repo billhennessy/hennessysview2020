@@ -6,7 +6,7 @@ title: Missouri's 2016 Electorate Very Different from 2012
 layout: blog
 #url: e/2015/12/21/missouris-2016-electorate-different-2012/
 categories:
-- 2016 Election
+- Politics
 - News
 tags:
 - demographics

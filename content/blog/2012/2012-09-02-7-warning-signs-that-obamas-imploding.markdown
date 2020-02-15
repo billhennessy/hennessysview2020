@@ -6,7 +6,7 @@ title: 7 Warning Signs That Obama’s Imploding
 layout: blog
 #url: e/2012/09/02/7-warning-signs-that-obamas-imploding/
 categories:
-- 2012 Election
+- Politics
 tags:
 - BarackObama
 - bill clinton

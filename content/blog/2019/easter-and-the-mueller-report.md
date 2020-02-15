@@ -7,7 +7,7 @@ image: /images/uploads/chrysostom.jpg
 featuredImage: /images/uploads/chrysostom.jpg
 categories: 
 - Faith
-- Mueller
+
 tags:
 - Mueller Report
 - Easter

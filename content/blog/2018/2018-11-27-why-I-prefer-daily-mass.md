@@ -6,7 +6,7 @@ author: Bill Hennessy
 categories:
 - Faith
 tags:
-- Catholic
+- Faith
 - Liturgy
 type: "post"
 ---

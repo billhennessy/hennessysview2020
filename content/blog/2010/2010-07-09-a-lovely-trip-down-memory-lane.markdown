@@ -6,7 +6,7 @@ title: A lovely trip down memory lane
 layout: blog
 #url: e/2010/07/08/a-lovely-trip-down-memory-lane/
 categories:
-- 2010 Election
+- Politics
 tags:
 - '2010'
 - election

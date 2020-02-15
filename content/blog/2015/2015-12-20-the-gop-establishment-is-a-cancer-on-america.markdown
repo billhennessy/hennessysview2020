@@ -6,7 +6,7 @@ title: The GOP Establishment Is a Cancer on America
 layout: blog
 #url: e/2015/12/20/the-gop-establishment-is-a-cancer-on-america/
 categories:
-- 2016 Election
+- Politics
 - News
 - Trump
 - Donald Trump

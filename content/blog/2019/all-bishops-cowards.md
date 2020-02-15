@@ -5,8 +5,7 @@ draft: true
 author: Bill Hennessy
 categories: 
 - Faith
-- Abortion
-- Catholic
+
 tags:
 - Abortion
 - Courage

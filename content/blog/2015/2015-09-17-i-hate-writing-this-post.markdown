@@ -6,7 +6,7 @@ title: I hate writing this post
 layout: blog
 #url: e/2015/09/16/i-hate-writing-this-post/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Bush

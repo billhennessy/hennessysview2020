@@ -6,7 +6,7 @@ title: Where’s Bob Dole?
 layout: blog
 #url: e/2011/12/20/wheres-bob-dole/
 categories:
-- 2012 Election
+- Politics
 tags:
 - '1996'
 - Bob Dole

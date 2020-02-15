@@ -6,7 +6,7 @@ title: Perfect Words from Trump
 
 # #url: e/2018/11/04/perfect-words-from-trump/
 categories:
-- 2018 Election
+- Politics
 tags:
 - Donald J. Trump
 type: "post"

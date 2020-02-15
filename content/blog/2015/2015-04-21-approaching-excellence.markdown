@@ -6,7 +6,7 @@ title: Approaching Excellence
 layout: blog
 #url: e/2015/04/21/approaching-excellence/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - Donald J. Trump

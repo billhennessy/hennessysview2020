@@ -6,7 +6,7 @@ title: Disillusioned by the Bern
 layout: blog
 #url: e/2016/07/25/disillusioned-by-the-bern/
 categories:
-- 2016 Election
+- Politics
 tags:
 - Bernie Sanders
 type: "post"

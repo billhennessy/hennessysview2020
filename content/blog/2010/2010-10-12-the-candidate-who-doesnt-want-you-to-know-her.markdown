@@ -6,7 +6,7 @@ title: The Candidate Who Doesn’t Want You to Know Her
 layout: blog
 #url: e/2010/10/12/the-candidate-who-doesnt-want-you-to-know-her/
 categories:
-- 2010 Election
+- Politics
 tags:
 - missouri auditor
 - susan montee

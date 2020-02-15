@@ -6,7 +6,7 @@ title: It must be a diversion, right?
 layout: blog
 #url: e/2016/06/01/it-must-be-a-diversion-right/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - David French

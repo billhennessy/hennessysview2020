@@ -6,7 +6,7 @@ title: Where's the Outrage Over Democrat Death Party?
 layout: blog
 #url: e/2016/06/22/death-party-blues/
 categories:
-- 2016 Election
+- Politics
 - Trump
 tags:
 - assassination

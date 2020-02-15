@@ -6,7 +6,7 @@ title: How Weather in Thailand Could Change American Politics
 layout: blog
 #url: e/2011/11/18/how-weather-in-thailand-could-change-american-politics/
 categories:
-- 2012 Election
+- Politics
 type: "post"
 ---
 
