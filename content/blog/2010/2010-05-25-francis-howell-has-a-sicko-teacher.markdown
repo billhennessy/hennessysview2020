@@ -6,7 +6,7 @@ title: Francis Howell Has a Sicko Teacher
 layout: blog
 #url: e/2010/05/24/francis-howell-has-a-sicko-teacher/
 categories:
-- Academics &amp; Education
+- Academics
 tags:
 - Celeste Finkenbine
 - Debra Blessman

@@ -6,7 +6,7 @@ title: How to Explain the Uselessness of Teachers’ Unions
 layout: blog
 #url: e/2010/06/03/how-to-explain-the-uselessness-of-teachers-unions/
 categories:
-- Academics &amp; Education
+- Academics
 tags:
 - bullies
 - Christie

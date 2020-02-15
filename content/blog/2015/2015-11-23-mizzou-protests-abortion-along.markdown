@@ -6,7 +6,7 @@ title: Mizzou Protests Were About Abortion All Along
 layout: blog
 #url: e/2015/11/23/mizzou-protests-abortion-along/
 categories:
-- Academics &amp; Education
+- Academics
 - News
 tags:
 - Concerned Student 1950

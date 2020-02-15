@@ -6,7 +6,7 @@ title: Seducing the States
 layout: blog
 #url: e/2011/02/08/seducing-the-states/
 categories:
-- Academics &amp; Education
+- Academics
 tags:
 - bob mccarty
 - eduction

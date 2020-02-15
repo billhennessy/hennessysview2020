@@ -6,7 +6,7 @@ title: One Question for Gail Hackett of UMKC
 layout: blog
 #url: e/2011/04/29/one-question-for-gail-hackett-of-umkc/
 categories:
-- Academics &amp; Education
+- Academics
 - Other News
 - Tea Party News
 tags:

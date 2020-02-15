@@ -6,7 +6,7 @@ title: Who Has the Fear?
 layout: blog
 #url: e/2010/09/22/who-has-the-fear/
 categories:
-- Academics &amp; Education
+- Academics
 - Politics
 tags:
 - education

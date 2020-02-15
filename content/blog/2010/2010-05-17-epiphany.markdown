@@ -6,7 +6,7 @@ title: Epiphany
 layout: blog
 #url: e/2010/05/16/epiphany/
 categories:
-- Academics &amp; Education
+- Academics
 - Living
 tags:
 - Epiphany

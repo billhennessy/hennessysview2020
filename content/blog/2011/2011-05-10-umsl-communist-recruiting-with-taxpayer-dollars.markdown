@@ -6,7 +6,7 @@ title: 'UMSL: Communist Recruiting With Taxpayer Dollars'
 layout: blog
 #url: e/2011/05/09/umsl-communist-recruiting-with-taxpayer-dollars/
 categories:
-- Academics &amp; Education
+- Academics
 - Missouri
 - Other News
 - Union News

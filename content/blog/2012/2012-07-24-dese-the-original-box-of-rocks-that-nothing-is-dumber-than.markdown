@@ -6,7 +6,7 @@ title: 'DESE: The original box of rocks that nothing is dumber than'
 layout: blog
 #url: e/2012/07/24/dese-the-original-box-of-rocks-that-nothing-is-dumber-than/
 categories:
-- Academics &amp; Education
+- Academics
 tags:
 - California State Board of Education
 - Chris Nicastro

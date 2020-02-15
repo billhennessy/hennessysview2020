@@ -6,7 +6,7 @@ title: A Candidate With Skin in the Game
 
 # #url: e/2018/04/22/a-candidate-with-skin-in-the-game/
 categories:
-- 2018 Election
+- Politics
 tags:
 - Dottie Bailey
 - Missouri 110
