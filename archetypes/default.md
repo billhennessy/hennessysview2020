@@ -7,7 +7,7 @@ draft: true
 author: "Bill Hennessy"
 
 # post thumb
-image: "images/uploads/"
+image: "/uploads/"
 
 # meta description
 description: "this is meta description"
