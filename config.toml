@@ -11,11 +11,11 @@ pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-  # ga_analytics = "" # google analytics ID e.g UA-116386578-1
+  ga_analytics = "UA-3826996-2" # google analytics ID e.g UA-116386578-1
 
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
-  # twitter = "" # twitter handle e.g @weru
-  # logo = "logo.png"
+  twitter = "@hennessystl" # twitter handle e.g @weru
+  logo = "logo.gif"
   author = "Bill Hennessy" # default author
   image = "placeholder-image.png" # used whenever a page image is not set
   blogDir = "blog" # uncomment and edit to exclude normal pages ... see issue #57
