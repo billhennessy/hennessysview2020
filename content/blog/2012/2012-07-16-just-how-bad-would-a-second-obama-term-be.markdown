@@ -15,7 +15,7 @@ tags:
 - United State
 - United States Congress
 - United States Constitution
-- US Congress
+- Politics
 type: "post"
 ---
 

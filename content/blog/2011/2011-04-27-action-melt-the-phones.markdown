@@ -8,12 +8,12 @@ layout: blog
 categories:
 - Politics
 - Politics
-- Union News
+- Politics
 tags:
 - Activism
 - david giljam
 - Jay Nixon
-- Tea Party News
+- Politics
 - University of Missouri System
 type: "post"
 ---

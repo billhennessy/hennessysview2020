@@ -7,7 +7,7 @@ layout: blog
 #url: e/2010/06/01/the-dip/
 categories:
 - Living
-- Tea Party News
+- Politics
 tags:
 - Seth Godin
 - The Dip

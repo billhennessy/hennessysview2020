@@ -7,7 +7,7 @@ layout: blog
 #url: e/2010/08/04/take-your-bill-and-shove-it-mr-president/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 type: "post"

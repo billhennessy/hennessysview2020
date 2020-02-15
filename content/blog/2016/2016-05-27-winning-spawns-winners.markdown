@@ -9,7 +9,7 @@ categories:
 - News
 tags:
 - hockey
-- st. louis blues
+- Politics blues
 type: "post"
 ---
 

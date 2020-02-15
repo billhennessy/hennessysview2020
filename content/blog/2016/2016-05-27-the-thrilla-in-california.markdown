@@ -7,12 +7,12 @@ layout: blog
 #url: e/2016/05/27/the-thrilla-in-california/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - debate
 - Sanders
-- Trump
-- Trump Sanders
+- Donald Trump
+- Donald Trump Sanders
 type: "post"
 ---
 

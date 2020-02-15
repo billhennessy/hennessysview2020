@@ -6,12 +6,12 @@ title: '3rd Anniversary Tea Party: Thank You!'
 layout: blog
 #url: e/2012/02/27/3rd-anniversary-tea-party-thank-you/
 categories:
-- Tea Party News
+- Politics
 tags:
 - 3rd anniversary tea party
 - crowne plaza
 - michael patrick leahy
-- st. louis tea party
+- Politics tea party
 type: "post"
 ---
 

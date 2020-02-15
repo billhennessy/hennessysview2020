@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/01/31/cruzs-epic-facepalm/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - Iowa Caucus

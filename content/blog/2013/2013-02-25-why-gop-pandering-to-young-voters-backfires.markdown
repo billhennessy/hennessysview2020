@@ -6,7 +6,7 @@ title: Why GOP Pandering to Young Voters Backfires
 layout: blog
 #url: e/2013/02/25/why-gop-pandering-to-young-voters-backfires/
 categories:
-- Science
+- Living
 tags:
 - aging
 - anterior insula

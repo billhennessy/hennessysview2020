@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/12/16/dr-strangedebate-or-how-i-learned-to-stop-worrying-and-love-the-gop/
 categories:
 - News
-- Trump
+- Donald Trump
 - Donald Trump
 tags:
 - Donald J. Trump

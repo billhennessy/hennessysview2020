@@ -6,7 +6,7 @@ title: Do we owe Obama an apology?
 layout: blog
 #url: e/2016/02/01/do-we-owe-obama-an-apology/
 categories:
-- White House
+- Politics
 tags:
 - affinity bubbles
 - Bundy Ranch

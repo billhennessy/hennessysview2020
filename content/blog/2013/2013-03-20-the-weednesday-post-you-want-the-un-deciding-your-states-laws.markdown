@@ -6,7 +6,7 @@ title: 'The Weednesday Post: You Want the UN Deciding Your State’s Laws?'
 layout: blog
 # #url: e/2013/03/20/the-weednesday-post-you-want-the-un-deciding-your-states-laws/
 categories:
-- The Weednesday Post
+- Politics
 tags:
 - Gallup Poll on Marijuana Legalization
 - UN Convention on Narcotics

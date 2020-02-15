@@ -9,8 +9,8 @@ categories:
 - Political Psychology
 tags:
 - narratives
-- syria
-- Trump
+- Politics
+- Donald Trump
 type: "post"
 ---
 

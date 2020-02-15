@@ -13,7 +13,7 @@ tags:
 - dictator
 - obama
 - Obmacare
-- White House
+- Politics
 type: "post"
 ---
 

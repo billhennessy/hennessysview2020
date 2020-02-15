@@ -7,11 +7,11 @@ layout: blog
 #url: e/2017/07/09/we-can-make-missouri-more-like-illinois/
 categories:
 - Politics
-- St. Louis City
-- St. Louis County
+- Politics
+- Politics
 tags:
 - Better Together
-- St. Louis City County Merger
+- Politics Merger
 type: "post"
 ---
 

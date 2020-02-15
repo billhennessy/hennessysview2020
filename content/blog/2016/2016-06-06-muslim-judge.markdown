@@ -6,7 +6,7 @@ title: Muslim Judge
 layout: blog
 #url: e/2016/06/06/muslim-judge/
 categories:
-- Trump
+- Donald Trump
 tags:
 - Muslim Judges
 - sharia law

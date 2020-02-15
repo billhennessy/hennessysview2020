@@ -6,7 +6,7 @@ title: Mark Levin Is Turning On Trump
 layout: blog
 #url: e/2016/06/23/mark-levin-is-turning-on-trump/
 categories:
-- Trump
+- Donald Trump
 tags:
 - book
 - Donald J. Trump

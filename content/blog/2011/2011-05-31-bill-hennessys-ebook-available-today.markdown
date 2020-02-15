@@ -6,7 +6,7 @@ title: Bill Hennessy's Ebook Available Today
 layout: blog
 #url: e/2011/05/31/bill-hennessys-ebook-available-today/
 categories:
-- Tea Party News
+- Politics
 type: "post"
 ---
 

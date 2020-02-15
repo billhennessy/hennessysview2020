@@ -6,11 +6,11 @@ title: Keep Missouri Money in Missouri with TEA
 layout: blog
 #url: e/2015/07/28/keep-missouri-money-in-missouri-with-tea/
 categories:
-- Transportation Empowerment Act
+- Politics
 tags:
 - featured
 - TEA
-- Transportation Empowerment Act
+- Politics
 type: "post"
 ---
 

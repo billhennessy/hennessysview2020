@@ -15,7 +15,7 @@ tags:
 - Obama's Lawyer
 - Republicans
 - Rex Singquefield
-- Tea Party News
+- Politics
 type: "post"
 ---
 

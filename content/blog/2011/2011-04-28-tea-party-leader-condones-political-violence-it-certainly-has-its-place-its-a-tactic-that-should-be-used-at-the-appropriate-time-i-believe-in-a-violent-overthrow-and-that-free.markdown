@@ -11,13 +11,13 @@ categories:
 - Politics
 - Politics
 - News
-- Union News
+- Politics
 tags:
 - Don Giljum
 - indimidation
 - Jay Nixon
 - sabotage
-- Tea Party News
+- Politics
 - union violence
 type: "post"
 ---

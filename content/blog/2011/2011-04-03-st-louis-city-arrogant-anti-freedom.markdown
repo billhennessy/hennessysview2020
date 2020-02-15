@@ -6,8 +6,8 @@ title: 'St. Louis City: Arrogant, Anti-Freedom'
 layout: blog
 #url: e/2011/04/03/st-louis-city-arrogant-anti-freedom/
 categories:
-- St. Louis City
-- Tea Party News
+- Politics
+- Politics
 tags:
 - eminent domain
 - first amendment

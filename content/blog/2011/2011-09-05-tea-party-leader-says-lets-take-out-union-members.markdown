@@ -6,11 +6,11 @@ title: Tea Party Leader Says  Let’s “Take Out” Union Members
 layout: blog
 #url: e/2011/09/05/tea-party-leader-says-lets-take-out-union-members/
 categories:
-- Union News
+- Politics
 tags:
 - crime
 - jimmy hoffa
-- Tea Party News
+- Politics
 - teamsters
 - Union Thugs
 - union violence

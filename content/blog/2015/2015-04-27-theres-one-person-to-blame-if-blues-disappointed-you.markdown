@@ -11,7 +11,7 @@ tags:
 - 'stlblies'
 - Disappointment
 - oshie
-- st. louis blues
+- Politics blues
 - Stanley Cup Playoffs
 - Twitter
 type: "post"

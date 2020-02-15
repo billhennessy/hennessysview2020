@@ -10,7 +10,7 @@ categories:
 tags:
 - 'teaparty'
 - Bill Hennessy
-- st. louis tea party
+- Politics tea party
 type: "post"
 ---
 

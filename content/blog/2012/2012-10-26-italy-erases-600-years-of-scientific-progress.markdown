@@ -6,13 +6,13 @@ title: Italy Erases 600 years of Scientific Progress
 layout: blog
 #url: e/2012/10/26/italy-erases-600-years-of-scientific-progress/
 categories:
-- Science
+- Living
 tags:
 - earthquakes
 - gods
 - Italy
 - roman mythology
-- Science
+- Living
 type: "post"
 ---
 

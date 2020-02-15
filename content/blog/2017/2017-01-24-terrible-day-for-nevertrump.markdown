@@ -7,7 +7,7 @@ layout: blog
 #url: e/2017/01/23/terrible-day-for-nevertrump/
 categories:
 - Constitution
-- Trump
+- Donald Trump
 tags:
 - executive orders
 type: "post"

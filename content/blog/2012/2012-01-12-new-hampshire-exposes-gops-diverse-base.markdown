@@ -17,7 +17,7 @@ tags:
 - Reagan Democrats
 - Repbulican
 - romney
-- Tea Party News
+- Politics
 type: "post"
 ---
 

@@ -12,7 +12,7 @@ tags:
 - NAACP
 - progressives
 - rhetoric
-- Tea Party News
+- Politics
 - Tucson
 - vitriol
 type: "post"

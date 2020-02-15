@@ -6,7 +6,7 @@ title: 'Disturbing: United Church of Christ Advancing Islam?'
 layout: blog
 #url: e/2010/06/07/disturbing-united-church-of-christ-advancing-islam/
 categories:
-- Religion
+- Faith
 tags:
 - Koran
 - Parkway UCC

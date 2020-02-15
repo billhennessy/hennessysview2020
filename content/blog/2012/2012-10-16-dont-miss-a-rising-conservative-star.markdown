@@ -6,7 +6,7 @@ title: Don’t Miss A Rising Conservative Star
 layout: blog
 #url: e/2012/10/16/dont-miss-a-rising-conservative-star/
 categories:
-- The After Party
+- Politics
 tags:
 - Activism
 - American Majority

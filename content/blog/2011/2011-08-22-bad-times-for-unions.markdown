@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/08/21/bad-times-for-unions/
 categories:
 - News
-- Union News
+- Politics
 tags:
 - CWA
 - IBEW

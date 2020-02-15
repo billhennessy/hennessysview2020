@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/07/09/great-radio-with-larry-kudlow-and-friends/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald Trump
 - Larry Kudlow

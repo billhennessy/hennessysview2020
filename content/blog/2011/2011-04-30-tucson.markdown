@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/04/29/tucson/
 categories:
 - News
-- Tea Party News
+- Politics
 tags:
 - jenn
 - larry schweikart

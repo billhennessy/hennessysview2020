@@ -7,7 +7,7 @@ layout: blog
 #url: e/2012/04/21/meet-the-gsas-8th-grade-minds-that-run-your-life/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - bureaucracy
 - Donald J. Trump

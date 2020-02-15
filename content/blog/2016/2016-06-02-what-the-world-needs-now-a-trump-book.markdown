@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/06/01/what-the-world-needs-now-a-trump-book/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - book
 - hennessy

@@ -6,12 +6,12 @@ title: Growing the Pie
 layout: blog
 #url: e/2011/03/29/growing-the-pie/
 categories:
-- Tea Party News
-- Union News
+- Politics
+- Politics
 tags:
 - Lobbyist
-- st. louis tea party
-- Tea Party News
+- Politics tea party
+- Politics
 type: "post"
 ---
 

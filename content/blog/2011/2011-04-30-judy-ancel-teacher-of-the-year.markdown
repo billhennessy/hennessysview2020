@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/04/30/judy-ancel-teacher-of-the-year/
 categories:
 - Politics
-- Union News
+- Politics
 tags:
 - Judy Ancel
 - UMKC

@@ -6,7 +6,7 @@ title: I Will Be On Panel at Show-Me Cannabis Conference April 13
 layout: blog
 #url: e/2013/04/08/i-will-be-on-panel-at-show-me-cannabis-conference-april-13/
 categories:
-- The Weednesday Post
+- Politics
 tags:
 - decriminalization
 - Legalization

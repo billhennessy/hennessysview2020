@@ -7,7 +7,7 @@ layout: blog
 #url: e/2010/05/13/2-paths-to-focus/
 categories:
 - Living
-- Zen Conservatism
+- Politics
 tags:
 - concentration
 - focus

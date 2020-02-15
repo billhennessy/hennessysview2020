@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/05/16/president-trump/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Crooked Hillary
 - Donald J. Trump

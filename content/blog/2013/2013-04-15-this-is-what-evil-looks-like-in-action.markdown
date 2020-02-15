@@ -6,7 +6,7 @@ title: This Is What Evil Looks Like In Action **UPDATES**
 layout: blog
 #url: e/2013/04/15/this-is-what-evil-looks-like-in-action/
 categories:
-- Terrorism
+- Politics
 tags:
 - 'firewolf'
 - anti-tax

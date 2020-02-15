@@ -10,8 +10,8 @@ categories:
 tags:
 - Heritage Action
 - Social
-- st. louis tea party
-- The After Party
+- Politics tea party
+- Politics
 type: "post"
 ---
 

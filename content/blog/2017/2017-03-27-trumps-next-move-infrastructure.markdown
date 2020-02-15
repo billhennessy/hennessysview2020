@@ -10,7 +10,7 @@ categories:
 tags:
 - '@realDonaldTrump'
 - infrastructure
-- Trump
+- Donald Trump
 type: "post"
 ---
 

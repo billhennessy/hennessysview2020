@@ -6,7 +6,7 @@ title: Here Are My Replies to Most Serious Arguments Against Ending Cannabis Pro
 layout: blog
 #url: e/2014/01/04/replies-serious-arguments-ending-cannabis-prohibitions/
 categories:
-- The Weednesday Post
+- Politics
 type: "post"
 ---
 

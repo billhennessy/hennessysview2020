@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Activism
 - Press
-- Tea Party News
+- Politics
 tags:
 - Betsey Bruce
 - charles jaco

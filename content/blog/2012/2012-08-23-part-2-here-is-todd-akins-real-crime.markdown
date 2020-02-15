@@ -14,7 +14,7 @@ tags:
 - Todd
 - Todd Akin
 - United States Senate
-- White House
+- Politics
 type: "post"
 ---
 

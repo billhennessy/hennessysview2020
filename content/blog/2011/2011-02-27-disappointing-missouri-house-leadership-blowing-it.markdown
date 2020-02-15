@@ -12,7 +12,7 @@ tags:
 - GOP
 - Politics Politics
 - Politics Republicans
-- Tea Party News
+- Politics
 type: "post"
 ---
 

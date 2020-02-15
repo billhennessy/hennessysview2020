@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/02/26/trump-knocked-rubio-out-of-the-news-cycle/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - chris christie
 - Donald Trump

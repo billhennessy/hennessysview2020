@@ -6,13 +6,13 @@ title: What Happened to the Tea Party?
 layout: blog
 #url: e/2014/05/21/happened-tea-party/
 categories:
-- Tea Party News
+- Politics
 tags:
 - Ann Wagner
 - Politics
 - export-import bank
 - Republicans
-- Tea Party News
+- Politics
 type: "post"
 ---
 

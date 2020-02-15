@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 - News
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - email

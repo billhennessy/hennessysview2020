@@ -6,11 +6,11 @@ title: Did You See the Crisis Coming?
 layout: blog
 #url: e/2011/08/07/did-you-see-the-crisis-coming/
 categories:
-- Tea Party News
+- Politics
 tags:
 - crisis
-- Tea Party News
-- The After Party
+- Politics
+- Politics
 - The Fourth Turning
 - trust
 type: "post"

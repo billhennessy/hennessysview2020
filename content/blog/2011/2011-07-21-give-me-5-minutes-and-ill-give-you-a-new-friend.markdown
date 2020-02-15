@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 - Politics
-- St. Louis County
+- Politics
 tags:
 - Ann Wagner
 - Dan Riehl

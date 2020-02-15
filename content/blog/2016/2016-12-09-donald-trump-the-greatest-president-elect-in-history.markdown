@@ -6,7 +6,7 @@ title: 'Donald Trump: The Greatest President-elect in History'
 layout: blog
 #url: e/2016/12/08/donald-trump-the-greatest-president-elect-in-history/
 categories:
-- Trump
+- Donald Trump
 type: "post"
 ---
 

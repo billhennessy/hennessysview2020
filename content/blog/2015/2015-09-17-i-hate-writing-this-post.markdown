@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/09/16/i-hate-writing-this-post/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Bush
 - Carson
@@ -21,7 +21,7 @@ tags:
 - Paul
 - Republican Debate
 - Rubio
-- Trump
+- Donald Trump
 - Walker
 type: "post"
 ---

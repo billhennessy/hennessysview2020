@@ -6,7 +6,7 @@ title: Something's About to Change
 layout: blog
 #url: e/2016/05/23/somethings-about-to-change/
 categories:
-- Trump
+- Donald Trump
 tags:
 - apparel
 - attire

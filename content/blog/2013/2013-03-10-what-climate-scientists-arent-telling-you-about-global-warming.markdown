@@ -6,7 +6,7 @@ title: What Climate Scientists Aren’t Telling You About Global Warming
 layout: blog
 #url: e/2013/03/10/what-climate-scientists-arent-telling-you-about-global-warming/
 categories:
-- Science
+- Living
 tags:
 - AGW
 - antropogenic global warming

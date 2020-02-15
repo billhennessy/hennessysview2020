@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/06/06/how-to-tell-if-youre-a-racist/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - hispanic
 - muslim

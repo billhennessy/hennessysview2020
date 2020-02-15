@@ -7,8 +7,8 @@ layout: blog
 #url: e/2016/08/21/one-week-to-go-are-you-ready/
 categories:
 - Politics
-- Tea Party News
-- Trump
+- Politics
+- Donald Trump
 type: "post"
 ---
 

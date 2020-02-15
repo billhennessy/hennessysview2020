@@ -13,7 +13,7 @@ tags:
 - Polls
 - Preference Cascade
 - social proof
-- Trump
+- Donald Trump
 type: "post"
 ---
 

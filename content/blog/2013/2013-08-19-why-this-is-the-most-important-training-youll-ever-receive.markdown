@@ -7,11 +7,11 @@ layout: blog
 # #url: e/2013/08/19/why-this-is-the-most-important-training-youll-ever-receive/
 categories:
 - Activism
-- Self-governance
+- Politics
 tags:
 - activist training
 - center for self-governance
-- self-governance
+- Politics
 type: "post"
 ---
 

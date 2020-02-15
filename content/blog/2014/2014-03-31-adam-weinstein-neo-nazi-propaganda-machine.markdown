@@ -7,8 +7,8 @@ layout: blog
 #url: e/2014/03/31/adam-weinstein-neo-nazi-propaganda-machine/
 categories:
 - Politics
-- Science
-- Trump
+- Living
+- Donald Trump
 tags:
 - Adam Weinstein
 - AGW

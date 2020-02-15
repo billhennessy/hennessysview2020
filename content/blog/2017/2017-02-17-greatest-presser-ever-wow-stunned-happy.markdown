@@ -7,7 +7,7 @@ layout: blog
 #url: e/2017/02/16/greatest-presser-ever-wow-stunned-happy/
 categories:
 - News
-- Trump
+- Donald Trump
 type: "post"
 ---
 

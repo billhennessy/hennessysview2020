@@ -10,8 +10,8 @@ categories:
 tags:
 - April 2 Election
 - Proposition P
-- St. Louis City
-- St. Louis County
+- Politics
+- Politics
 type: "post"
 ---
 

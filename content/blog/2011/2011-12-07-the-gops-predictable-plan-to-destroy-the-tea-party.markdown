@@ -6,12 +6,12 @@ title: The GOP’s Predictable Plan to Destroy the Tea Party
 layout: blog
 #url: e/2011/12/07/the-gops-predictable-plan-to-destroy-the-tea-party/
 categories:
-- Tea Party News
+- Politics
 tags:
 - establishment
 - GOP
 - insurgents
-- Tea Party News
+- Politics
 type: "post"
 ---
 

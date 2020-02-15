@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/07/26/poll-what-do-you-think-about-service/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - National Service

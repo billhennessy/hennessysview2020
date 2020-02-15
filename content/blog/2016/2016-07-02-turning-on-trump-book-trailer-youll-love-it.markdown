@@ -6,9 +6,9 @@ title: Watch the Trailer
 layout: blog
 #url: e/2016/07/02/turning-on-trump-book-trailer-youll-love-it/
 categories:
-- Trump
+- Donald Trump
 tags:
-- Trump
+- Donald Trump
 - Turning On Trump
 type: "post"
 ---

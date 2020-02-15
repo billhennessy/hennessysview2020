@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 post_format:
-- Video
+
 tags:
 - Criminal Hillary
 - Donna Brazile

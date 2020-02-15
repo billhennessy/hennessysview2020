@@ -7,13 +7,13 @@ layout: blog
 #url: e/2016/01/25/do-republican-elites-know-something-theyre-not-telling/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Cruz
 - Donald J. Trump
 - GOP
 - Iowa Caucus
-- Trump
+- Donald Trump
 type: "post"
 ---
 

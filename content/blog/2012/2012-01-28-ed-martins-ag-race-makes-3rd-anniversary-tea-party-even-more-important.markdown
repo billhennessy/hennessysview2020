@@ -16,7 +16,7 @@ tags:
 - Lt. Governor
 - Martin Baker
 - Politics
-- video
+
 type: "post"
 ---
 

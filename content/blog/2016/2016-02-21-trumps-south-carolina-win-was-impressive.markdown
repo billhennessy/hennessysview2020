@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/02/21/trumps-south-carolina-win-was-impressive/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald Trump
 type: "post"

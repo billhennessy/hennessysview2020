@@ -12,7 +12,7 @@ tags:
 - freedom
 - liberty
 - republican
-- Tea Party News
+- Politics
 type: "post"
 ---
 

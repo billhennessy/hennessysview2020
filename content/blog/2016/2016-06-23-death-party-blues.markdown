@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/06/22/death-party-blues/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - assassination
 type: "post"

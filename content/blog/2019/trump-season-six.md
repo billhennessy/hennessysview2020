@@ -8,7 +8,7 @@ categories:
 - Donald Trump
 tags:
 - Scott Adams
-- Trump Movie
+- Donald Trump Movie
 author: "Bill Hennessy"
 type: "post"
 ---

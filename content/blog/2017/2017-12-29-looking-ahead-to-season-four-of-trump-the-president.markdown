@@ -8,7 +8,7 @@ layout: blog
 categories:
 - News
 - Donald Trump
-- Trump
+- Donald Trump
 tags:
 - Scott Adams
 type: "post"

@@ -11,7 +11,7 @@ tags:
 - dana loesch
 - gateway pundit
 - J. Eric Fuller
-- st. louis tea party
+- Politics tea party
 - trent humphries
 - tucson tea party
 type: "post"

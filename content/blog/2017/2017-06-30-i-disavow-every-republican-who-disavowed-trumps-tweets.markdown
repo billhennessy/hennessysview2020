@@ -6,8 +6,8 @@ title: I disavow every Republican who disavowed Trump's tweets
 layout: blog
 #url: e/2017/06/29/i-disavow-every-republican-who-disavowed-trumps-tweets/
 categories:
-- The Press
-- Trump
+- Press
+- Donald Trump
 tags:
 - Donald Trump
 - Face lift

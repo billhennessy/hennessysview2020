@@ -6,10 +6,10 @@ title: How to Focus for Better Living
 layout: blog
 #url: e/2010/04/25/how-to-focus-for-better-living/
 categories:
-- Zen Conservatism
+- Politics
 tags:
 - focus
-- Zen Conservatism
+- Politics
 type: "post"
 ---
 

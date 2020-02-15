@@ -6,11 +6,11 @@ title: How to Feel Safe from Terrorism
 layout: blog
 #url: e/2016/06/30/how-to-feel-safe-from-terrorism/
 categories:
-- Terrorism
-- Trump
+- Politics
+- Donald Trump
 tags:
 - Donald J. Trump
-- terrorism
+- Politics
 type: "post"
 ---
 

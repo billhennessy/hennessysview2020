@@ -16,9 +16,9 @@ tags:
 - Forest Park
 - Politics
 - rally
-- st. louis tea party
+- Politics tea party
 - Supreme-Court
-- Tea Party News
+- Politics
 type: "post"
 ---
 

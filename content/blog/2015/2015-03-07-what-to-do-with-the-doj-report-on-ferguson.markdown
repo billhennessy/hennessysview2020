@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/03/07/what-to-do-with-the-doj-report-on-ferguson/
 categories:
 - 'Ferguson'
-- Trump
+- Donald Trump
 tags:
 - 'municourts'
 - DOJ Report

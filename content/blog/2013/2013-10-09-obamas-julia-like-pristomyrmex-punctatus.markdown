@@ -6,7 +6,7 @@ title: How is Obama's Julia Like Pristomyrmex Punctatus?
 layout: blog
 # #url: e/2013/10/08/obamas-julia-like-pristomyrmex-punctatus/
 categories:
-- Science
+- Living
 tags:
 - ants
 - cheaters

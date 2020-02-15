@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Economy
 - Politics
-- Tea Party News
+- Politics
 tags:
 - AA+
 - downgraded

@@ -11,7 +11,7 @@ tags:
 - NAACP
 - racism
 - resolution
-- Tea Party News
+- Politics
 type: "post"
 ---
 

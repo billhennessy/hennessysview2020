@@ -18,7 +18,7 @@ tags:
 - inflation
 - stagflation
 - unemployment
-- US Congress
+- Politics
 type: "post"
 ---
 

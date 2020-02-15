@@ -12,7 +12,7 @@ tags:
 - Politics
 - Olivette
 - Presidential caucus
-- The After Party
+- Politics
 type: "post"
 ---
 

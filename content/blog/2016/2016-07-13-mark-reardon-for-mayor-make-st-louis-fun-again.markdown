@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/07/12/mark-reardon-for-mayor-make-st-louis-fun-again/
 categories:
 - News
-- Reardon for Mayor
+- Politics
 tags:
 - st.-louis
 type: "post"

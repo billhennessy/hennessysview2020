@@ -6,7 +6,7 @@ title: We Tore It Apart—We Can Rebuild It
 layout: blog
 #url: e/2017/01/01/we-tore-it-apart-we-can-rebuild-it/
 categories:
-- Tea Party News
+- Politics
 tags:
 - Samuel Adams
 - Tea Party movement

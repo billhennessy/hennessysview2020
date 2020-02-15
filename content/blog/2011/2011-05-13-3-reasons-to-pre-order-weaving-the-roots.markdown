@@ -6,7 +6,7 @@ title: 3 Reasons to Pre-Order “Weaving the Roots”
 layout: blog
 #url: e/2011/05/13/3-reasons-to-pre-order-weaving-the-roots/
 categories:
-- Tea Party News
+- Politics
 tags:
 - broadside books
 - HarperColins

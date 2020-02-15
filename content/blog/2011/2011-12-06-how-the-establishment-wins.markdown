@@ -6,7 +6,7 @@ title: How the Establishment Wins
 layout: blog
 #url: e/2011/12/06/how-the-establishment-wins/
 categories:
-- Tea Party News
+- Politics
 tags:
 - David and Goliath
 - establishment

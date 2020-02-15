@@ -7,7 +7,7 @@ layout: blog
 #url: e/2017/07/03/first-13er-president-a-gen-x-independence-day/
 categories:
 - News
-- Trump
+- Donald Trump
 - Generation X
 tags:
 

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/08/22/trumps-immigration-fans-need-to-read-wong-kim-ark/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - birthright citizenship
 - Donald J. Trump

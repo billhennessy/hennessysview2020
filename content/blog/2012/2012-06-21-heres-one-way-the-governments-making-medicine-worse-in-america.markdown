@@ -13,8 +13,8 @@ tags:
 - government mandate
 - Livingcare
 - Politics
-- st. louis tea party
-- The After Party
+- Politics tea party
+- Politics
 - waste
 type: "post"
 ---

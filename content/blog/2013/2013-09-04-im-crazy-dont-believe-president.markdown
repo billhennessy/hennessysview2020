@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 tags:
-- syria
+- Politics
 - war
 type: "post"
 ---

@@ -7,11 +7,11 @@ layout: blog
 #url: e/2010/06/08/7-points-on-tea-party-popularity-poll/
 categories:
 - Activism
-- Tea Party News
+- Politics
 tags:
 - Politics
 - register to vote
-- Tea Party News
+- Politics
 - tea party popularity
 - voters
 - washington post poll

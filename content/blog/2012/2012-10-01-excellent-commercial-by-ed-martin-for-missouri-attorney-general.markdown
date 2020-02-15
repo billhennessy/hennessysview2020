@@ -19,8 +19,8 @@ tags:
 - Madison Project
 - Politics
 - republican
-- St. Louis Missouri
-- st. louis tea party
+- Politics Missouri
+- Politics tea party
 - Todd Akin
 type: "post"
 ---

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2017/07/02/greatest-4th-of-july/
 categories:
 - News
-- Trump
+- Donald Trump
 - Donald Trump
 tags:
 - FakeNews

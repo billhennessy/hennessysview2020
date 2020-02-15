@@ -6,7 +6,7 @@ title: Donald the Great
 
 # #url: e/2018/10/06/donald-the-great/
 categories:
-- Trump
+- Donald Trump
 type: "post"
 ---
 

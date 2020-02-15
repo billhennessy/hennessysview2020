@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/06/07/forbidden-truths-of-republicans-and-race/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - race
 - republican

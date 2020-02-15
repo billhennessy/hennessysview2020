@@ -6,11 +6,11 @@ title: Unknowing Believers
 layout: blog
 #url: e/2011/04/20/unknowing-believers/
 categories:
-- Tea Party News
+- Politics
 tags:
 - big tent
 - broaden and build
-- Tea Party News
+- Politics
 - Unknowing Believers
 type: "post"
 ---

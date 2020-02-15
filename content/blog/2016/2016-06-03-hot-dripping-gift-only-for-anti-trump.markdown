@@ -6,7 +6,7 @@ title: Hot Dripping Gift Only for Anti-Trump
 layout: blog
 #url: e/2016/06/03/hot-dripping-gift-only-for-anti-trump/
 categories:
-- Trump
+- Donald Trump
 tags:
 - anti-Trump
 - NeverTrump

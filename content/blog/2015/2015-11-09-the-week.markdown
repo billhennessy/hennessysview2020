@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/11/09/the-week/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 type: "post"

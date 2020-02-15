@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Living
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - John F. Kennedy

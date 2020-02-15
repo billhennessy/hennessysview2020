@@ -6,7 +6,7 @@ title: How We've Made a Difference
 layout: blog
 #url: e/2010/07/10/how-weve-made-a-difference/
 categories:
-- Tea Party News
+- Politics
 tags:
 - Claire McCaskill
 - Politics

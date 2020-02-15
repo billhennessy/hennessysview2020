@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/07/20/what-its-like-to-meet-ted-cruz/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Ted Cruz
 type: "post"

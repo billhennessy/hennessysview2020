@@ -6,7 +6,7 @@ title: 'Guest Post: My Night With the Klan, Part 3'
 layout: blog
 #url: e/2015/12/16/guest-post-my-night-with-the-klan-part-3/
 categories:
-- Self-governance
+- Politics
 tags:
 - '1992'
 - KKK

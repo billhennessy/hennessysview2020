@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/08/08/we-deserve-better/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - Donald Trump

@@ -9,7 +9,7 @@ categories:
 - Academics
 - Politics
 - News
-- Union News
+- Politics
 tags:
 - Academic Freedom
 - communism

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/02/01/what-if-high-turnout-in-iowa-means-something-else/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Ben Carson
 - Donald J. Trump

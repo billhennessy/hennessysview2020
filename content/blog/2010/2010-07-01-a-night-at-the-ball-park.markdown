@@ -11,7 +11,7 @@ tags:
 - ball game
 - block captains
 - liberty evangelism
-- Tea Party News
+- Politics
 type: "post"
 ---
 

@@ -6,12 +6,12 @@ title: Don't Let Occupy Wall Street Erase the Tea Party's Purpose
 layout: blog
 #url: e/2011/10/07/warning-to-tea-party-think-before-you-speak/
 categories:
-- Tea Party News
+- Politics
 tags:
 - Occupy Wall Street
 - OccupyWallStreet
 - TARP
-- Tea Party News
+- Politics
 type: "post"
 ---
 

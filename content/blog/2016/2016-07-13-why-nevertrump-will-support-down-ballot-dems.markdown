@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/07/13/why-nevertrump-will-support-down-ballot-dems/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - down-ballot
 - NeverTrump

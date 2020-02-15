@@ -13,9 +13,9 @@ tags:
 - Politics
 - police
 - solyndra
-- St. Louis Board of Police Commissioners
-- St. Louis Missouri
-- St. Louis Police Department
+- Politics Board of Police Commissioners
+- Politics Missouri
+- Politics Police Department
 - st.-louis
 type: "post"
 ---

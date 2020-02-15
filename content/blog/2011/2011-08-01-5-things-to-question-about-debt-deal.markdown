@@ -15,7 +15,7 @@ tags:
 - default
 - establishment
 - obama
-- US Congress
+- Politics
 type: "post"
 ---
 

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/08/08/fill-the-cabinet/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Politics
 - Cabinet Officers

@@ -13,7 +13,7 @@ tags:
 - County Executive
 - Politics
 - Rick Stream
-- St. Louis County
+- Politics
 - Steve Stenger
 - Strategy
 type: "post"

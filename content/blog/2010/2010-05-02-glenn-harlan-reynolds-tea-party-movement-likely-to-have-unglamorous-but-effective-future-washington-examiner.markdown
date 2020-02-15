@@ -7,7 +7,7 @@ title: 'Glenn Harlan Reynolds: Tea Party movement likely to have unglamorous but
 layout: blog
 #url: e/2010/05/02/glenn-harlan-reynolds-tea-party-movement-likely-to-have-unglamorous-but-effective-future-washington-examiner/
 categories:
-- Tea Party News
+- Politics
 type: "post"
 ---
 

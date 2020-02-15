@@ -6,11 +6,11 @@ title: Obama’s Utterly Incoherent Syria Strategy
 layout: blog
 #url: e/2013/09/10/obamas-utterly-incoherent-syria-strategy/
 categories:
-- Syria
+- Politics
 tags:
 - Obama speech
-- syria speech
-- white house speech
+- Politics speech
+- Politics speech
 type: "post"
 ---
 

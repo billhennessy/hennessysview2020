@@ -6,12 +6,12 @@ title: Ed Martin Moves to Censure Henry Barbour Over Racist Mississippi Ads
 layout: blog
 #url: e/2014/08/06/ed-martin-moves-censure-henry-barbour-racist-mississippi-ads/
 categories:
-- Tea Party News
+- Politics
 tags:
 - ed martin
 - Mississippi
 - Republican Establishment
-- Tea Party News
+- Politics
 - Thad Cochran
 type: "post"
 ---

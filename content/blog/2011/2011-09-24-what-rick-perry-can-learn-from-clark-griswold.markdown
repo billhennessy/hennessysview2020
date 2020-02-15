@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/09/24/what-rick-perry-can-learn-from-clark-griswold/
 categories:
 - Politics
-- White House
+- Politics
 tags:
 - clark griswold
 - Debates

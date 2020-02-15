@@ -6,7 +6,7 @@ title: 5 Years Ago Today, The Tea Party Was Born On a Phone Call
 layout: blog
 #url: e/2014/02/20/5-years-ago-today-tea-party-born-phone-call/
 categories:
-- Tea Party News
+- Politics
 type: "post"
 ---
 

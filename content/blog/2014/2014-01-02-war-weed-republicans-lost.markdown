@@ -6,7 +6,7 @@ title: The War on Weed Is Over, and Republicans Lost
 layout: blog
 #url: e/2014/01/02/war-weed-republicans-lost/
 categories:
-- The Weednesday Post
+- Politics
 type: "post"
 ---
 

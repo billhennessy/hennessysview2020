@@ -11,7 +11,7 @@ tags:
 - 'tcot'
 - Donald Trump
 - maga
-- Tea Party News
+- Politics
 type: "post"
 ---
 

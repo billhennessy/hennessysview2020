@@ -6,7 +6,7 @@ title: This Is What Happens When I Blog About Cannabis Law Reform
 layout: blog
 #url: e/2014/01/05/happens-blog-cannabis-law-reform/
 categories:
-- The Weednesday Post
+- Politics
 type: "post"
 ---
 

@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 tags:
-- Tea Party News
+- Politics
 - Todd Akin
 type: "post"
 ---

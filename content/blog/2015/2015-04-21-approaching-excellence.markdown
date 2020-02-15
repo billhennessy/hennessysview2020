@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/04/21/approaching-excellence/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - Eric Greitens

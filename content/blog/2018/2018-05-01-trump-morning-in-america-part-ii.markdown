@@ -6,7 +6,7 @@ title: 'Trump: Morning in America Part II'
 
 # #url: e/2018/05/01/trump-morning-in-america-part-ii/
 categories:
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 type: "post"

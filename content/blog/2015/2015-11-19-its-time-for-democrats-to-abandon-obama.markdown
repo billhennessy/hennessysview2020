@@ -6,7 +6,7 @@ title: It’s time for Democrats to abandon Obama
 layout: blog
 #url: e/2015/11/18/its-time-for-democrats-to-abandon-obama/
 categories:
-- Terrorism
+- Politics
 tags:
 - ISIS
 type: "post"

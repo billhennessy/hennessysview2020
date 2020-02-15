@@ -15,7 +15,7 @@ tags:
 - life
 - obama
 - Faith
-- religion
+- Faith
 - religious freedom
 type: "post"
 ---

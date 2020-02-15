@@ -6,7 +6,7 @@ title: Are You Ready to Tea Party?????????
 layout: blog
 #url: e/2010/07/26/are-you-ready-to-tea-party/
 categories:
-- Tea Party News
+- Politics
 tags:
 - 9-12 Tea Party
 type: "post"

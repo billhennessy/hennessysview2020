@@ -11,7 +11,7 @@ tags:
 - Granite City
 - Keystone Pipeline
 - steel
-- Trump
+- Donald Trump
 type: "post"
 ---
 

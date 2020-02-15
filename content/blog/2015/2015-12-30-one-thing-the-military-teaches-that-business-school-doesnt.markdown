@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/12/30/one-thing-the-military-teaches-that-business-school-doesnt/
 categories:
 - News
-- Service
+- Living
 tags:
 - Adam Carolla
 - Jordan Garrett

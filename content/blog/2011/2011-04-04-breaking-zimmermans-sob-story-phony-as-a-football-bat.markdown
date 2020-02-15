@@ -6,10 +6,10 @@ title: 'BREAKING: Zimmerman’s Sob Story Phony as a Football Bat'
 layout: blog
 #url: e/2011/04/03/breaking-zimmermans-sob-story-phony-as-a-football-bat/
 categories:
-- St. Louis County
+- Politics
 tags:
 - Jake Zimmerman
-- St. Louis County Assessor
+- Politics Assessor
 type: "post"
 ---
 

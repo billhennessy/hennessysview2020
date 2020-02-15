@@ -6,13 +6,13 @@ title: Do You Fund A Terrorist Network?
 layout: blog
 #url: e/2012/12/15/do-you-fund-a-terrorist-network/
 categories:
-- Union News
+- Politics
 tags:
 - domestic terrorism
 - FBI definition of terrorism
 - michigan
 - right to work
-- terrorism
+- Politics
 - union terrorism
 - union violence
 - unions

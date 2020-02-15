@@ -8,9 +8,9 @@ layout: blog
 categories:
 - Politics
 post_format:
-- Video
+
 tags:
-- Transportation Empowerment Act
+- Politics
 - Transportation Sales Tax
 type: "post"
 ---

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/04/02/strategist-looks-supreme-court-nomination/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - game theory

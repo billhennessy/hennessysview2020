@@ -9,7 +9,7 @@ categories:
 - News
 tags:
 - Manafort
-- Trump is Right
+- Donald Trump is Right
 type: "post"
 ---
 

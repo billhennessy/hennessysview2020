@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/11/19/what-do-post-dispatch-reporters-and-joe-paterno-have-in-common/
 categories:
 - Press
-- St. Louis City
+- Politics
 tags:
 - 'occupystl'
 - occupy

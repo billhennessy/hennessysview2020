@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - founding principles
-- Tea Party News
+- Politics
 type: "post"
 ---
 

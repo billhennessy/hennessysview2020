@@ -6,7 +6,7 @@ title: 'Our Tax Code: The Fustercluck From Which Everything Rancid Crawls'
 layout: blog
 # #url: e/2013/01/02/our-tax-code-the-fustercluck-from-which-everything-rancid-crawls/
 categories:
-- US Congress
+- Politics
 tags:
 - Four Reforms
 - tax code history

@@ -6,8 +6,8 @@ title: The GOP is to Public Relations What Evel Knievel Was to Motorcycle Safety
 layout: blog
 #url: e/2011/12/23/the-gop-is-to-public-relations-what-evel-knievel-was-to-motorcycle-safety/
 categories:
-- Trump
-- US Congress
+- Donald Trump
+- Politics
 tags:
 - Donald J. Trump
 - payroll tax cut

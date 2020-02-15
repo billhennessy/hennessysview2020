@@ -15,7 +15,7 @@ tags:
 - Twitter
 - United States Congress
 - United States House of Representatives
-- US Congress
+- Politics
 type: "post"
 ---
 

@@ -28,7 +28,7 @@ But that’s not the weird part.  After all, election fraud is the Democrats’
 
 The weird part is the statement from Griesedieck’s law firm. In the statement, [the firm changes spelling of its name in the middle of a paragraph from St. Louis Business Journal](https://www.bizjournals.com/stlouis/news/2012/04/12/ed-griesedieck-roger-wilson-indicted.html):
 
-[![Ed Griesedieck, Roger Wilson indicted by feds - St. Louis Business Journal](https://ludicrite.files.wordpress.com/2012/04/ed-griesedieck-roger-wilson-indicted-by-feds-st-louis-business-journal_thumb.png)
+[![Ed Griesedieck, Roger Wilson indicted by feds - Politics Business Journal](https://ludicrite.files.wordpress.com/2012/04/ed-griesedieck-roger-wilson-indicted-by-feds-st-louis-business-journal_thumb.png)
 ](https://ludicrite.files.wordpress.com/2012/04/ed-griesedieck-roger-wilson-indicted-by-feds-st-louis-business-journal.png)
 
 I’m sure it’s just a typo by the BizJournal.com—like the 1.2 million typos I’ve committed on this blog in the past 12 years.  But I couldn’t help but wonder if Mr. Crebs was so appalled by the scandal that he changed his name to Krebs.

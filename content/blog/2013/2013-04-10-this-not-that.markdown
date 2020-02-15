@@ -11,7 +11,7 @@ tags:
 - Share This
 - The Real Conservative National Committee
 - This Not That
-- video
+
 - youtube
 type: "post"
 ---

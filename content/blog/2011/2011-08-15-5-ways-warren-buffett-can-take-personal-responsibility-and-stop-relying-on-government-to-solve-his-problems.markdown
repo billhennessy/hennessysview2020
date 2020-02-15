@@ -14,7 +14,7 @@ tags:
 - personal responsibility
 - tax increase
 - taxes
-- Tea Party News
+- Politics
 - warren buffett
 type: "post"
 ---

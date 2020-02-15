@@ -6,7 +6,7 @@ title: Here's How a Mere Mortal Becomes Speaker of the House
 layout: blog
 #url: e/2015/01/05/heres-mere-mortal-becomes-speaker-house/
 categories:
-- US Congress
+- Politics
 type: "post"
 ---
 

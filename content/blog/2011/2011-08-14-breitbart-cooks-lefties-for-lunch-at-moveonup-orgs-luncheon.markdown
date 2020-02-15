@@ -8,7 +8,7 @@ layout: blog
 categories:
 - News
 - News
-- Tea Party News
+- Politics
 type: "post"
 ---
 

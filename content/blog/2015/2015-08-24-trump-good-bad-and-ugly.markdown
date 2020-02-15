@@ -7,10 +7,10 @@ layout: blog
 #url: e/2015/08/24/trump-good-bad-and-ugly/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - Donald Trump
-- Trump
+- Donald Trump
 - voter expectations
 type: "post"
 ---

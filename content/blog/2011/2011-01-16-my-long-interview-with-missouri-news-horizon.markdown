@@ -6,15 +6,15 @@ title: An Extensive Interview with Missouri News Horizon
 layout: blog
 #url: e/2011/01/16/my-long-interview-with-missouri-news-horizon/
 categories:
-- Tea Party News
+- Politics
 tags:
 - future of the tea party
 - Politics news horizon
 - nancy etcoff
 - pursuit of happiness
 - rebecca townsend
-- st. louis tea party
-- Tea Party News
+- Politics tea party
+- Politics
 type: "post"
 ---
 

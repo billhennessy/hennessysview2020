@@ -6,12 +6,12 @@ title: I know where you’ll be on July 24
 layout: blog
 #url: e/2010/07/18/i-know-where-youll-be-on-july-24/
 categories:
-- Tea Party News
+- Politics
 tags:
 - Alton Tea Party
 - Madison County
 - Riverbend 9-12 Project
-- Tea Party News
+- Politics
 type: "post"
 ---
 

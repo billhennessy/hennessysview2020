@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Business
 - Economy
-- Union News
+- Politics
 tags:
 - idleness
 - Labor Studies

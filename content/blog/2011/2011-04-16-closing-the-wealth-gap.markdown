@@ -8,12 +8,12 @@ layout: blog
 categories:
 - Politics
 - Living
-- Tea Party News
+- Politics
 tags:
 - entitlements
 - income disparity
 - income gap
-- Tea Party News
+- Politics
 type: "post"
 ---
 

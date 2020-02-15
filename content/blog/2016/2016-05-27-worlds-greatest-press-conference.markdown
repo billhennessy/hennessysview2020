@@ -6,11 +6,11 @@ title: World's Greatest Press Conference
 layout: blog
 #url: e/2016/05/27/worlds-greatest-press-conference/
 categories:
-- Trump
+- Donald Trump
 tags:
 - McDonalds
 - Pocahontas
-- Trump
+- Donald Trump
 type: "post"
 ---
 

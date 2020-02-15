@@ -6,7 +6,7 @@ title: How You Can Wear Your Response to Jimmy Hoffa on Your Chest
 layout: blog
 #url: e/2011/09/07/how-you-can-wear-your-response-to-jimmy-hoffa-on-your-chest/
 categories:
-- Tea Party News
+- Politics
 tags:
 - jimmy hoffa
 - t-shirts

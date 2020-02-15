@@ -7,10 +7,10 @@ layout: blog
 #url: e/2014/09/28/rick-stream-probably-didnt-know-knew-old-transition-counselor/
 categories:
 - Politics
-- St. Louis County
+- Politics
 tags:
 - Rick Stream
-- St. Louis County Executive
+- Politics Executive
 type: "post"
 ---
 

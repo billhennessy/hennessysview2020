@@ -6,7 +6,7 @@ title: Why You Should Come to St. Louis If You Can’t Drive to the Beach
 layout: blog
 #url: e/2010/09/05/why-you-should-come-to-st-louis-if-you-cant-drive-to-the-beach/
 categories:
-- Tea Party News
+- Politics
 tags:
 - 9-12 Tea Party
 - social proof

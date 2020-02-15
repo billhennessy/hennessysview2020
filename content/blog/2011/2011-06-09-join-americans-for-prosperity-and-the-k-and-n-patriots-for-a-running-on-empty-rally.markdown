@@ -7,7 +7,7 @@ title: Join Americans for Prosperity and the K and N Patriots for a "Running on 
 layout: blog
 #url: e/2011/06/09/join-americans-for-prosperity-and-the-k-and-n-patriots-for-a-running-on-empty-rally/
 categories:
-- Tea Party News
+- Politics
 tags:
 - AFP
 - ed martin

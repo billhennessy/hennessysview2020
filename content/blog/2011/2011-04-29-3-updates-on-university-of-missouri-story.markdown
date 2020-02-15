@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 - Politics
-- Union News
+- Politics
 tags:
 - communism
 - Don Giljum

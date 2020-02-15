@@ -6,7 +6,7 @@ title: Stanford Sexual Assault Case
 layout: blog
 #url: e/2016/06/15/stanford-sexual-assault-case/
 categories:
-- Terrorism
+- Politics
 tags:
 - Orlando
 - Stanford

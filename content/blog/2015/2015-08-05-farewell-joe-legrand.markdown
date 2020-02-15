@@ -11,7 +11,7 @@ tags:
 - featured
 - Joe LeGrand
 - South St. Louis
-- St. Louis Hills
+- Politics Hills
 type: "post"
 ---
 

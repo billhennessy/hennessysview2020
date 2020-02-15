@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/07/13/ruth-bader-ginsburg-totally-had-this-coming/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - gofundme
 - New Zealand

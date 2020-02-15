@@ -77,7 +77,7 @@ There. You’re done. You’ve developed a personal voting plan to ensure you do
 
  
 
-[![Jesse Irwin - Candidate for 10th Ward Alderman - St. Louis, MO](https://hennessysview.com/wp-content/uploads/2011/03/Jesse-Irwin-Candidate-for-10th-Ward-Alderman-St.-Louis-MO_thumb.png)
+[![Jesse Irwin - Candidate for 10th Ward Alderman - Politics, MO](https://hennessysview.com/wp-content/uploads/2011/03/Jesse-Irwin-Candidate-for-10th-Ward-Alderman-St.-Louis-MO_thumb.png)
 ](https://hennessysview.com/wp-content/uploads/2011/03/Jesse-Irwin-Candidate-for-10th-Ward-Alderman-St.-Louis-MO.png)
 
  

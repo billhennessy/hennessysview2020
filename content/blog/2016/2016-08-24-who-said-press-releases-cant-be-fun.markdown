@@ -7,8 +7,8 @@ draft: true
 #url: e/
 categories:
 - Politics
-- Tea Party News
-- Trump
+- Politics
+- Donald Trump
 tags:
 - Festus
 - rally

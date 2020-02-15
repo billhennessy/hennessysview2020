@@ -6,11 +6,11 @@ title: Why Is 9-15 the Perfect Day to Start The After Party?
 layout: blog
 #url: e/2011/09/11/why-is-9-15-the-perfect-day-to-start-the-after-party/
 categories:
-- Tea Party News
+- Politics
 tags:
 - 9-11
 - Patrick Mahon
-- The After Party
+- Politics
 type: "post"
 ---
 

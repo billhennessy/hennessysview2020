@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/02/18/how-the-pope-helped-trump/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald Trump
 - Pope Francis

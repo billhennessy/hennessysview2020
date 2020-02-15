@@ -6,7 +6,7 @@ title: Why Would You Give State Workers the Power to Tax?
 layout: blog
 #url: e/2011/03/03/why-would-you-give-state-workers-the-power-to-tax/
 categories:
-- Union News
+- Politics
 tags:
 - AFSCME
 - unions

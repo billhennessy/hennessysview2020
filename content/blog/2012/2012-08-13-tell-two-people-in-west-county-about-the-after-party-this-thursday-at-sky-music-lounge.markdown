@@ -13,7 +13,7 @@ tags:
 - grassroots
 - Networks
 - Sky Music Lounge
-- The After Party
+- Politics
 - West County
 type: "post"
 ---

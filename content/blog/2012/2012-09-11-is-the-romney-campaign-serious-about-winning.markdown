@@ -15,7 +15,7 @@ tags:
 - North Carolina
 - obama
 - romney
-- White House
+- Politics
 type: "post"
 ---
 

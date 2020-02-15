@@ -23,7 +23,7 @@ tags:
 - Ty Woods
 - Tyrone Woods
 - United States
-- White House
+- Politics
 - youtube
 type: "post"
 ---

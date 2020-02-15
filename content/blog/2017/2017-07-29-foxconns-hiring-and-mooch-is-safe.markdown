@@ -11,7 +11,7 @@ tags:
 - Benedict Arnold
 - Priebus
 - Scaramucci
-- Trump
+- Donald Trump
 type: "post"
 ---
 

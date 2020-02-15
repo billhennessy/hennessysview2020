@@ -6,7 +6,7 @@ title: 'Dear Conservatives: We Are Already Losing 2016'
 layout: blog
 #url: e/2012/11/18/dear-conservatives-we-are-already-losing-2016/
 categories:
-- Tea Party News
+- Politics
 tags:
 - Barack Obama
 - Democratic Party (United States)

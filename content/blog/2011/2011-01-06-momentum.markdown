@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - momentum
-- Tea Party News
+- Politics
 type: "post"
 ---
 

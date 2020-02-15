@@ -7,10 +7,10 @@ layout: blog
 #url: e/2011/08/04/are-you-ready-for-the-next-wave/
 categories:
 - Politics
-- Tea Party News
+- Politics
 tags:
-- Tea Party News
-- The After Party
+- Politics
+- Politics
 type: "post"
 ---
 

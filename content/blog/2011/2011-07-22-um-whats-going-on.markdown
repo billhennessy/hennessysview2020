@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/07/21/um-whats-going-on/
 categories:
 - Living
-- Tea Party News
+- Politics
 tags:
 - dana loesch
 type: "post"

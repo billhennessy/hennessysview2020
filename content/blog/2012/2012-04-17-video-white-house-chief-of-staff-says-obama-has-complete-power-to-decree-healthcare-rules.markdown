@@ -17,7 +17,7 @@ tags:
 - Jack Lew
 - Politics
 - totalitarian
-- White House
+- Politics
 type: "post"
 ---
 

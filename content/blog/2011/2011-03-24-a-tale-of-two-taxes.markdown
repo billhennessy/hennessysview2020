@@ -6,13 +6,13 @@ title: A Tale of Two Taxes
 layout: blog
 #url: e/2011/03/24/a-tale-of-two-taxes/
 categories:
-- St. Louis County
+- Politics
 tags:
 - Assessor
 - Chip Wood
 - Claire McCaskill
 - property taxes
-- St. Louis County Assessor
+- Politics Assessor
 type: "post"
 ---
 

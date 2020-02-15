@@ -6,7 +6,7 @@ title: Municipal Court or Kangaroo Court?
 layout: blog
 #url: e/2014/08/20/municipal-court-kangaroo-court/
 categories:
-- St. Louis County
+- Politics
 tags:
 - Bel Ridge Court
 - Bel Ridge Missouri

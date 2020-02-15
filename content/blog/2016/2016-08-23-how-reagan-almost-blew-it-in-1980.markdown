@@ -7,10 +7,10 @@ layout: blog
 #url: e/2016/08/23/how-reagan-almost-blew-it-in-1980/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - reagan
-- Trump
+- Donald Trump
 type: "post"
 ---
 

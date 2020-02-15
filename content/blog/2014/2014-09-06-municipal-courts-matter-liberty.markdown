@@ -7,7 +7,7 @@ layout: blog
 #url: e/2014/09/05/municipal-courts-matter-liberty/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Arch City Defenders
 - Donald J. Trump

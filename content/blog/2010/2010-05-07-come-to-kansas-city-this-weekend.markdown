@@ -7,7 +7,7 @@ layout: blog
 #url: e/2010/05/06/come-to-kansas-city-this-weekend/
 categories:
 - Activism
-- Zen Conservatism
+- Politics
 tags:
 - American Majority
 - Bill Hennessy

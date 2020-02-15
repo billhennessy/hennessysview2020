@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/08/08/what-good-issued-from-the-candidate-debate/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - Ben Carson
 - debate

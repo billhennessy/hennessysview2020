@@ -7,10 +7,10 @@ title: 'SHOCKER: Geriatric Guy Talks Dirty to 17 Year Old Patriot *UPDATE* Help 
 layout: blog
 #url: e/2011/02/27/shocker-geriatric-guy-talks-dirty-to-17-year-old-patriot/
 categories:
-- Union News
+- Politics
 tags:
 - filth
-- Tea Party News
+- Politics
 - union
 type: "post"
 ---

@@ -14,7 +14,7 @@ tags:
 - kahneman
 - narrative fallacy
 - Politics
-- Science
+- Living
 - statistics
 type: "post"
 ---

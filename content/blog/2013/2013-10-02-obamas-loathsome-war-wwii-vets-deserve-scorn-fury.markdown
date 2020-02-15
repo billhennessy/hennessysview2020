@@ -15,8 +15,8 @@ tags:
 - libertarian
 - republican
 - shutdown
-- Tea Party News
-- US Congress
+- Politics
+- Politics
 type: "post"
 ---
 

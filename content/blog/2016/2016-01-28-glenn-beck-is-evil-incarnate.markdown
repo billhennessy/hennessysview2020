@@ -7,10 +7,10 @@ layout: blog
 #url: e/2016/01/27/glenn-beck-is-evil-incarnate/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald Trump
-- Trump
+- Donald Trump
 type: "post"
 ---
 

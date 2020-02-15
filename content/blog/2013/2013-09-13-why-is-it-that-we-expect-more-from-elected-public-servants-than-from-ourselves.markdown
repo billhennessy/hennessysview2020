@@ -7,7 +7,7 @@ title: 'Guest Post: Why is it that we expect more from elected public servants t
 layout: blog
 # #url: e/2013/09/13/why-is-it-that-we-expect-more-from-elected-public-servants-than-from-ourselves/
 categories:
-- Self-governance
+- Politics
 type: "post"
 ---
 

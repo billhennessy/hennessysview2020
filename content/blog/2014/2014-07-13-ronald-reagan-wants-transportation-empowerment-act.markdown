@@ -12,7 +12,7 @@ tags:
 - Heritage Action
 - Highways
 - ronald-reagan
-- Transportation Empowerment Act
+- Politics
 - William F. Buckley
 type: "post"
 ---

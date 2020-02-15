@@ -10,7 +10,7 @@ post_format:
 tags:
 - march 2013 snowstorm
 - snowstorm
-- st. louis snowstorm of 2013
+- Politics snowstorm of 2013
 type: "post"
 ---
 

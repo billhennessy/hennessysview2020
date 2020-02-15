@@ -15,7 +15,7 @@ tags:
 - grassroots
 - Politics Republican State Committee
 - Republican Establishment
-- St. Louis Tea Party Coalition
+- Politics Tea Party Coalition
 type: "post"
 ---
 

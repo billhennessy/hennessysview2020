@@ -14,7 +14,7 @@ tags:
 - Illinois Congressional District 12
 - Jason Plummer
 - Rodger Cook
-- Tea Party News
+- Politics
 type: "post"
 ---
 

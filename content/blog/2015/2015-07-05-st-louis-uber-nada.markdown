@@ -6,13 +6,13 @@ title: St. Louis Uber Nada
 layout: blog
 #url: e/2015/07/05/st-louis-uber-nada/
 categories:
-- St. Louis
+- Politics
 tags:
 - Kim Tucci
 - Metropolitan Taxi Commission
 - st.-louis
 - über
-- uberx
+- Politics
 type: "post"
 ---
 

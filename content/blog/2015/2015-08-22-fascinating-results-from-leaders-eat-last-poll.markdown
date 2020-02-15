@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/08/22/fascinating-results-from-leaders-eat-last-poll/
 categories:
 - Political Psychology
-- Trump
+- Donald Trump
 tags:
 - Politics
 - Donald J. Trump

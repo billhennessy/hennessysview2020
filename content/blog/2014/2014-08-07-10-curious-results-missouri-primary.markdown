@@ -17,7 +17,7 @@ tags:
 - libertarian
 - Politics
 - Right to Farm
-- Tea Party News
+- Politics
 type: "post"
 ---
 

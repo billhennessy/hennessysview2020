@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/05/04/an-affair-to-dismember/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald Trump
 - george will

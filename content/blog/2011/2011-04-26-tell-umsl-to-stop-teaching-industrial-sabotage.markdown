@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Activism
 - Politics
-- Union News
+- Politics
 tags:
 - Activism
 - communism

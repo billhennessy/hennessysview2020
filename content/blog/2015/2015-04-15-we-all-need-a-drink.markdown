@@ -19,7 +19,7 @@ I did recently. This gem of a paragraph leapt off the page and into my mind:
 
 
 
-> I believe this nation hungers for a spiritual revival; hungers to once again see honor placed above political expediency; to see government once again the protector of our liberties, not the distributor of gifts and privilege. Government should uphold and not undermine those institutions which are custodians of the very values upon which civilization is founded -- religion, education and, above all, family. Government cannot be clergyman, teacher and patriot. It is our servant, beholden to us.
+> I believe this nation hungers for a spiritual revival; hungers to once again see honor placed above political expediency; to see government once again the protector of our liberties, not the distributor of gifts and privilege. Government should uphold and not undermine those institutions which are custodians of the very values upon which civilization is founded -- Faith, education and, above all, family. Government cannot be clergyman, teacher and patriot. It is our servant, beholden to us.
 
 
 

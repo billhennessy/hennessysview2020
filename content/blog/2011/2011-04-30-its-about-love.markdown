@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/04/30/its-about-love/
 categories:
 - Press
-- Tea Party News
+- Politics
 tags:
 - Gabrielle Giffords
 - jennifer humphries

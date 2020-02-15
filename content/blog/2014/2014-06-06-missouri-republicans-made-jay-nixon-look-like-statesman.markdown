@@ -17,7 +17,7 @@ tags:
 - Politics budget
 - Politics House
 - republican
-- Tea Party News
+- Politics
 type: "post"
 ---
 

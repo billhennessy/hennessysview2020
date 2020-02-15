@@ -7,9 +7,9 @@ layout: blog
 #url: e/2011/09/15/my-remarks-to-first-after-party/
 categories:
 - Politics
-- Tea Party News
+- Politics
 tags:
-- The After Party
+- Politics
 type: "post"
 ---
 

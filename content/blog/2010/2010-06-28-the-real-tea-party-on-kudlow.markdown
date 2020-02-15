@@ -10,7 +10,7 @@ categories:
 tags:
 - CNBC
 - Larry Kudlow
-- Tea Party News
+- Politics
 type: "post"
 ---
 

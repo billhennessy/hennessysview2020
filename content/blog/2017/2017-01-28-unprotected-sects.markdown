@@ -6,11 +6,11 @@ title: Unprotected Sects
 layout: blog
 #url: e/2017/01/28/unprotected-sects/
 categories:
-- Trump
+- Donald Trump
 tags:
 - First Week
 - media
-- Trump
+- Donald Trump
 type: "post"
 ---
 

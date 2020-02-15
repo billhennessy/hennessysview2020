@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/02/21/ted-cruzs-ultimate-strategy/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - Prisoners Dilemma

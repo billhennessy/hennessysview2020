@@ -7,10 +7,10 @@ layout: blog
 #url: e/2016/10/09/how-to-act-like-you-learned-something-about-trump/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Scalia
-- Trump
+- Donald Trump
 type: "post"
 ---
 

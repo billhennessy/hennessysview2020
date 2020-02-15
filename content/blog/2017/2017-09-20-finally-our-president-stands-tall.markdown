@@ -9,7 +9,7 @@ categories:
 - News
 tags:
 - rocket man
-- Trump
+- Donald Trump
 - united nations
 - usga
 type: "post"

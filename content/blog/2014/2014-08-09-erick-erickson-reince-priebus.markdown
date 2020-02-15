@@ -7,8 +7,8 @@ layout: blog
 #url: e/2014/08/09/erick-erickson-reince-priebus/
 categories:
 - Politics
-- Tea Party News
-- Trump
+- Politics
+- Donald Trump
 tags:
 - 'CensureHenry'
 - 'RememberMS'
@@ -21,7 +21,7 @@ tags:
 - RedState Gathering
 - Reince Priebus
 - RNC
-- Tea Party News
+- Politics
 - Thad Cochran
 type: "post"
 ---

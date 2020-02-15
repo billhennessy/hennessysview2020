@@ -10,7 +10,7 @@ categories:
 tags:
 - anthem protest
 - NFL
-- Trump
+- Donald Trump
 type: "post"
 ---
 

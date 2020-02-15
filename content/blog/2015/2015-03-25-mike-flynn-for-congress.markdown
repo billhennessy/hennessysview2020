@@ -14,7 +14,7 @@ tags:
 - Mike Flynn
 - Ray LaHood
 - Special Election
-- US Congress
+- Politics
 type: "post"
 ---
 

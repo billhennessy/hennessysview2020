@@ -6,7 +6,7 @@ title: Tonight is The After Party
 layout: blog
 #url: e/2011/11/17/tonight-is-the-after-party/
 categories:
-- The After Party
+- Politics
 type: "post"
 ---
 

@@ -13,7 +13,7 @@ tags:
 - frank luntz
 - peggy noonan
 - republican
-- Tea Party News
+- Politics
 type: "post"
 ---
 

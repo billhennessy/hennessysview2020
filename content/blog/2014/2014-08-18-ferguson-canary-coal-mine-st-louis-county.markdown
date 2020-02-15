@@ -6,14 +6,14 @@ title: Ferguson is the Canary in the Coal Mine" for St. Louis County
 layout: blog
 #url: e/2014/08/18/ferguson-canary-coal-mine-st-louis-county/
 categories:
-- St. Louis County
+- Politics
 tags:
 - crime
 - Politics
 - Politics
 - police militarization
 - Economy
-- St. Louis County
+- Politics
 type: "post"
 ---
 

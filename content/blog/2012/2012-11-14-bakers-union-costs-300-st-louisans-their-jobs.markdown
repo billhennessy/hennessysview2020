@@ -6,7 +6,7 @@ title: Bakers Union Costs 300 St. Louisans Their Jobs  **UPDATE**
 layout: blog
 #url: e/2012/11/13/bakers-union-costs-300-st-louisans-their-jobs/
 categories:
-- Union News
+- Politics
 tags:
 - bakers union
 - bakers union strike

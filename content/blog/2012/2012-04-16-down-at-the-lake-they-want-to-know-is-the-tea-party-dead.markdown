@@ -7,7 +7,7 @@ layout: blog
 #url: e/2012/04/15/down-at-the-lake-they-want-to-know-is-the-tea-party-dead/
 categories:
 - News
-- Tea Party News
+- Politics
 tags:
 - Camdenton
 - Cynthia Davis
@@ -16,7 +16,7 @@ tags:
 - Lake of the Ozarks
 - Politics
 - Rallies
-- Tea Party News
+- Politics
 type: "post"
 ---
 

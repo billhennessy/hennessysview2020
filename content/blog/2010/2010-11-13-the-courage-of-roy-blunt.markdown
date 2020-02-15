@@ -6,7 +6,7 @@ title: The Courage of Roy Blunt
 layout: blog
 #url: e/2010/11/13/the-courage-of-roy-blunt/
 categories:
-- US Congress
+- Politics
 tags:
 - earmarks
 - rand paul

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/06/09/her-crooked-highness-hillary-just-got-smoked/
 categories:
 - Politics
-- Trump
+- Donald Trump
 type: "post"
 ---
 

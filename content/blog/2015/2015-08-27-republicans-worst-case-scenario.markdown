@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/08/26/republicans-worst-case-scenario/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Charles Krauthammer
 - Donald J. Trump

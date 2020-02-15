@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/07/18/part-3-trump-the-champion-plus-25-savings/
 categories:
 - Politics
-- Trump
+- Donald Trump
 type: "post"
 ---
 

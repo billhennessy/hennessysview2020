@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - rules of engagement
-- terrorism
+- Politics
 - war
 type: "post"
 ---

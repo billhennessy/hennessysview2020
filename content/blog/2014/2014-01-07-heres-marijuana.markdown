@@ -6,7 +6,7 @@ title: Here's What Marijuana Does To You
 layout: blog
 #url: e/2014/01/07/heres-marijuana/
 categories:
-- The Weednesday Post
+- Politics
 type: "post"
 ---
 

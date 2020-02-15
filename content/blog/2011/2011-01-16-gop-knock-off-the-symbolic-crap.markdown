@@ -6,7 +6,7 @@ title: 'GOP: Knock Off the Symbolic Crap'
 layout: blog
 #url: e/2011/01/15/gop-knock-off-the-symbolic-crap/
 categories:
-- US Congress
+- Politics
 tags:
 - bi-partisanship
 - eric cantor

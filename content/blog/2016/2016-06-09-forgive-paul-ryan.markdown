@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/06/09/forgive-paul-ryan/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - La Raza
 - Paul Ryan

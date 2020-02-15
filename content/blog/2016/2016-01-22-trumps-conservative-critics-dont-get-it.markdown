@@ -7,12 +7,12 @@ layout: blog
 #url: e/2016/01/22/trumps-conservative-critics-dont-get-it/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Dilbert
 - Donald Trump
 - National Review
-- Trump
+- Donald Trump
 type: "post"
 ---
 

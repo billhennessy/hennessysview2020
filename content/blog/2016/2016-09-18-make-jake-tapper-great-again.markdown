@@ -11,7 +11,7 @@ tags:
 - Bomb
 - Hillary-Clinton
 - Jake Tapper
-- terrorism
+- Politics
 type: "post"
 ---
 

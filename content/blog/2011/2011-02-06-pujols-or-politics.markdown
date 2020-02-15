@@ -11,7 +11,7 @@ tags:
 - albert pujols
 - Claire McCaskill
 - free agent
-- Tea Party News
+- Politics
 type: "post"
 ---
 

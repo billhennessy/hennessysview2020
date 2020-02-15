@@ -6,10 +6,10 @@ title: Billy left his home for Tucson Arizona
 layout: blog
 #url: e/2011/04/29/billy-left-his-home-for-tucson-arizona/
 categories:
-- Tea Party News
+- Politics
 tags:
 - dupnik
-- Tea Party News
+- Politics
 - tucson tea party
 type: "post"
 ---

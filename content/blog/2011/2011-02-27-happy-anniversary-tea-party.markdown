@@ -6,7 +6,7 @@ title: Happy Anniversary, Tea Party
 layout: blog
 #url: e/2011/02/27/happy-anniversary-tea-party/
 categories:
-- Tea Party News
+- Politics
 tags:
 - first tea party
 - nationwide chicago tea party

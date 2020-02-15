@@ -6,10 +6,10 @@ title: Tony Pousosa for County Executive
 layout: blog
 #url: e/2014/03/25/tony-pousosa-county-executive/
 categories:
-- St. Louis County
+- Politics
 tags:
 - featured
-- St. Louis County Executive
+- Politics Executive
 - Tony Pousosa
 type: "post"
 ---

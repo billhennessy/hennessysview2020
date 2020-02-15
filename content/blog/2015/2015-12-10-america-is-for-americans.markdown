@@ -7,14 +7,14 @@ layout: blog
 #url: e/2015/12/09/america-is-for-americans/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Cruz
 - Donald J. Trump
 - Politics
 - jihad
 - travel
-- Trump
+- Donald Trump
 type: "post"
 ---
 

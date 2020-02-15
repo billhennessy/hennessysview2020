@@ -6,8 +6,8 @@ title: What Is The Difference Between Leadership and Service?
 layout: blog
 #url: e/2015/08/16/what-is-the-difference-between-leadership-and-service/
 categories:
-- Service
-- Trump
+- Living
+- Donald Trump
 tags:
 - Donald J. Trump
 - Leadership

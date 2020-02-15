@@ -13,7 +13,7 @@ tags:
 - Martin Baker
 - maxine waters
 - racism
-- Tea Party News
+- Politics
 type: "post"
 ---
 

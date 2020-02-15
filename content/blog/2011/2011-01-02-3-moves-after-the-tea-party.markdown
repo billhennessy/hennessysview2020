@@ -6,13 +6,13 @@ title: 3 Moves After the Tea Party*
 layout: blog
 #url: e/2011/01/02/3-moves-after-the-tea-party/
 categories:
-- Tea Party News
+- Politics
 tags:
 - '2011'
 - '2012'
 - changes
 - policy
-- Tea Party News
+- Politics
 type: "post"
 ---
 

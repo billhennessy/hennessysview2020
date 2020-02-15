@@ -6,14 +6,14 @@ title: Hollow Holiday
 layout: blog
 #url: e/2011/07/06/hollow-holiday/
 categories:
-- Tea Party News
+- Politics
 tags:
 - August 4
 - independence
 - Kiener Plaza
 - rally
-- st. louis tea party
-- Tea Party News
+- Politics tea party
+- Politics
 type: "post"
 ---
 

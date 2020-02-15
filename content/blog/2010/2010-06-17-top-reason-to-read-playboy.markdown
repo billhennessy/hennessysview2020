@@ -6,7 +6,7 @@ title: Top Reason to Read Playboy
 layout: blog
 #url: e/2010/06/16/top-reason-to-read-playboy/
 categories:
-- Tea Party News
+- Politics
 tags:
 - Politics
 - Playboy

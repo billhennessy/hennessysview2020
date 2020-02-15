@@ -8,12 +8,12 @@ layout: blog
 categories:
 - Politics
 - News
-- Trump
+- Donald Trump
 post_format:
-- Video
+
 tags:
 - maga
-- Trump
+- Donald Trump
 type: "post"
 ---
 

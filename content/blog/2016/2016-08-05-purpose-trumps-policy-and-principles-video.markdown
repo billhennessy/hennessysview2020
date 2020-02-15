@@ -10,7 +10,7 @@ categories:
 - Political Psychology
 tags:
 - Purpose
-- Trump
+- Donald Trump
 type: "post"
 ---
 

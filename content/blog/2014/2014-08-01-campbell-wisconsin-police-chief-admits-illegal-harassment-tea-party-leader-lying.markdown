@@ -7,7 +7,7 @@ title: This Wisconsin Police Chief Admits Illegal Harassment of Tea Party Leader
 layout: blog
 #url: e/2014/08/01/campbell-wisconsin-police-chief-admits-illegal-harassment-tea-party-leader-lying/
 categories:
-- Tea Party News
+- Politics
 tags:
 - Campbell
 - Chief Kenemen

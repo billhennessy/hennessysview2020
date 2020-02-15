@@ -6,7 +6,7 @@ title: 'Donald Trump: America''s Work-craft Carrier'
 layout: blog
 #url: e/2016/11/30/donald-trump-americas-work-craft-carrier/
 categories:
-- Trump
+- Donald Trump
 type: "post"
 ---
 

@@ -10,7 +10,7 @@ categories:
 tags:
 - Freedom Caucus
 - Strategy
-- Trump
+- Donald Trump
 type: "post"
 ---
 

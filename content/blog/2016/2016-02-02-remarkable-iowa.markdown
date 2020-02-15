@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/02/01/remarkable-iowa/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - Iowa Caucus

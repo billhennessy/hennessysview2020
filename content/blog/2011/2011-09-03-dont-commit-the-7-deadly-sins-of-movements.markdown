@@ -7,11 +7,11 @@ layout: blog
 #url: e/2011/09/03/dont-commit-the-7-deadly-sins-of-movements/
 categories:
 - News
-- Tea Party News
+- Politics
 tags:
 - 7 Deadly Sins
-- Tea Party News
-- The After Party
+- Politics
+- Politics
 type: "post"
 ---
 

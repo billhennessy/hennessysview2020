@@ -6,7 +6,7 @@ title: The State of the GOP
 layout: blog
 #url: e/2012/03/28/the-state-of-the-gop/
 categories:
-- Tea Party News
+- Politics
 tags:
 - establishment
 - GOP
@@ -14,7 +14,7 @@ tags:
 - Politics
 - Republican Party
 - Scott Brown
-- Tea Party News
+- Politics
 type: "post"
 ---
 

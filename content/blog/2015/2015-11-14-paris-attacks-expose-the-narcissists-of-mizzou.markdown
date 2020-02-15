@@ -6,7 +6,7 @@ title: Paris Attacks Expose The Narcissists of Mizzou
 layout: blog
 #url: e/2015/11/14/paris-attacks-expose-the-narcissists-of-mizzou/
 categories:
-- Terrorism
+- Politics
 tags:
 - ConcernedStudent1950
 - Mizzou

@@ -13,7 +13,7 @@ tags:
 - music
 - rock
 - tom schweich
-- video
+
 type: "post"
 ---
 

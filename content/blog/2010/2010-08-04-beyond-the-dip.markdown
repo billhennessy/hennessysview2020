@@ -9,7 +9,7 @@ categories:
 - Living
 tags:
 - 9-12 Tea Party
-- Tea Party News
+- Politics
 - tea party patriots
 - The Dip
 type: "post"

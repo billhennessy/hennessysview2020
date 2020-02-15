@@ -6,11 +6,11 @@ title: Our military leaders are no Pattons
 layout: blog
 #url: e/2015/11/23/our-leaders-are-no-pattons/
 categories:
-- Syria
+- Politics
 tags:
 - ISIS
 - Patton
-- syria
+- Politics
 - war
 type: "post"
 ---

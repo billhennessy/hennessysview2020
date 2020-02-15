@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/09/26/trumps-closing-statement-tonight/
 categories:
 - Politics
-- Trump
+- Donald Trump
 type: "post"
 ---
 

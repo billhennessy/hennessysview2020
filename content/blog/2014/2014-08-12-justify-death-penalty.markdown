@@ -7,7 +7,7 @@ layout: blog
 #url: e/2014/08/12/justify-death-penalty/
 categories:
 - Faith
-- Trump
+- Donald Trump
 tags:
 - capital punishment
 - David Berkowitz

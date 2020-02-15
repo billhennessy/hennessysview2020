@@ -17,7 +17,7 @@ tags:
 - obama
 - Paula Broadwell
 - United States
-- White House
+- Politics
 type: "post"
 ---
 

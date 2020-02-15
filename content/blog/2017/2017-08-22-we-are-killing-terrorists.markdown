@@ -10,7 +10,7 @@ categories:
 - News
 tags:
 - afghanistan
-- Trump
+- Donald Trump
 type: "post"
 ---
 

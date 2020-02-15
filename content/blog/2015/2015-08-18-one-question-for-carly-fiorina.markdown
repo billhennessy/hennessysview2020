@@ -7,8 +7,8 @@ layout: blog
 #url: e/2015/08/18/one-question-for-carly-fiorina/
 categories:
 - Politics
-- Service
-- Trump
+- Living
+- Donald Trump
 tags:
 - Carly Fiorina
 - Donald J. Trump

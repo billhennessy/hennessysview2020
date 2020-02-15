@@ -6,7 +6,7 @@ title: 'Hey, Candy Crowley: Tea Party Groups Resemble the 13 Colonies, Not the B
 layout: blog
 #url: e/2012/05/06/hey-candy-crowley-tea-party-groups-resemble-the-13-colonies-more-than-the-balkans/
 categories:
-- Tea Party News
+- Politics
 tags:
 - campaign
 - Candy Crowley

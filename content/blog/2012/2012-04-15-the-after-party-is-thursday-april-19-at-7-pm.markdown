@@ -6,7 +6,7 @@ title: The After Party is Thursday, April 19, at 7 pm
 layout: blog
 #url: e/2012/04/15/the-after-party-is-thursday-april-19-at-7-pm/
 categories:
-- The After Party
+- Politics
 post_format:
 - Aside
 type: "post"

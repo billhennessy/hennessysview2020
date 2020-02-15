@@ -7,10 +7,10 @@ layout: blog
 #url: e/2017/01/22/trump-meant-it-all/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
-- Tea Party News
-- Trump
+- Politics
+- Donald Trump
 type: "post"
 ---
 

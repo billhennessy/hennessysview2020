@@ -6,7 +6,7 @@ title: Did Obama Aid the Kenyan Mall Massacre?
 layout: blog
 #url: e/2013/09/22/did-obama-aid-the-kenyan-mall-massacre/
 categories:
-- Terrorism
+- Politics
 tags:
 - al-qaeda
 - Kenya

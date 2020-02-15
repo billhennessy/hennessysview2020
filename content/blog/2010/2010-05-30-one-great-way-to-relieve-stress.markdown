@@ -10,7 +10,7 @@ categories:
 tags:
 - father's day
 - stressed out
-- Zen Conservatism
+- Politics
 type: "post"
 ---
 

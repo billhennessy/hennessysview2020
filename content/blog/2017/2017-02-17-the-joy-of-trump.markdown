@@ -6,7 +6,7 @@ title: The Joy of Trump
 layout: blog
 #url: e/2017/02/17/the-joy-of-trump/
 categories:
-- Trump
+- Donald Trump
 tags:
 - Jake Tapper
 - reagan

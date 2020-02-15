@@ -17,7 +17,7 @@ tags:
 - mubarak
 - obama
 - oil prices
-- terrorism
+- Politics
 - Yemen
 type: "post"
 ---

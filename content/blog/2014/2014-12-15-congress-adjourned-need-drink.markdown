@@ -9,7 +9,7 @@ categories:
 - Politics
 - Politics
 - Living
-- US Congress
+- Politics
 tags:
 - 'HeritageAction'
 - Party

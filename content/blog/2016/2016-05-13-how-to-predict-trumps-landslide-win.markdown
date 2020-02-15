@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 - Political Psychology
-- Trump
+- Donald Trump
 tags:
 - Donald Trump
 - forecasting
@@ -16,7 +16,7 @@ tags:
 - Paul Ryan
 - prediction
 - Ted Cruz
-- Trump
+- Donald Trump
 type: "post"
 ---
 

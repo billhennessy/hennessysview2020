@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/04/27/government-censors-health-information-collusion-rigged/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 type: "post"

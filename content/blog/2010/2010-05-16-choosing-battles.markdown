@@ -10,13 +10,13 @@ categories:
 - Politics
 - Politics
 - Politics
-- Trump
+- Donald Trump
 tags:
 - autism
 - Donald J. Trump
 - elections
 - Politics healthcare free choice act
-- US Congress
+- Politics
 type: "post"
 ---
 

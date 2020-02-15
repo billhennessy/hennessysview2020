@@ -6,7 +6,7 @@ title: Gary Weigert on WGNU. Listen
 layout: blog
 #url: e/2012/07/07/gary-weigert-on-wgnu-listen/
 categories:
-- Tea Party News
+- Politics
 post_format:
 - Standard
 tags:

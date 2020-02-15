@@ -6,7 +6,7 @@ title: 'Guest Post: My Night With the Klan, Part 1'
 layout: blog
 #url: e/2015/12/14/guest-post-my-night-with-the-klan/
 categories:
-- Self-governance
+- Politics
 tags:
 - 2nd Amendment
 - KKK

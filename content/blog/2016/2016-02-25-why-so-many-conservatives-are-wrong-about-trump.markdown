@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/02/24/why-so-many-conservatives-are-wrong-about-trump/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Dan Gilbert
 - Donald Trump

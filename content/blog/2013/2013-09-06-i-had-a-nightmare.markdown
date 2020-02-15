@@ -6,14 +6,14 @@ title: I Had a Nightmare
 layout: blog
 #url: e/2013/09/06/i-had-a-nightmare/
 categories:
-- Syria
+- Politics
 tags:
 - iran
 - Israel
 - nighmare
 - peace
 - russia
-- syria
+- Politics
 - turkey
 - war
 type: "post"

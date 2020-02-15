@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Academics
 post_format:
-- Video
+
 type: "post"
 ---
 

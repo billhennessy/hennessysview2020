@@ -9,7 +9,7 @@ categories:
 - Politics
 - News
 - The Fourth Turning
-- Trump
+- Donald Trump
 tags:
 - working class
 type: "post"

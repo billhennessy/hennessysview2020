@@ -7,10 +7,10 @@ layout: blog
 #url: e/2017/08/17/whos-a-racist/
 categories:
 - News
-- Tea Party News
+- Politics
 tags:
 - Politics
-- Tea Party News
+- Politics
 - The Gateway Pundit
 - Vigilantism
 type: "post"

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/01/23/ted-cruz-and-glenn-beck-were-100-right-about-katrina-pierson/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - Katrina Pierson

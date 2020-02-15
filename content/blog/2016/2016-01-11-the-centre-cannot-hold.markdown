@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/01/10/the-centre-cannot-hold/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Politics
 - crisis

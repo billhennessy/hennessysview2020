@@ -11,7 +11,7 @@ tags:
 - Activism
 - give
 - superhero
-- Tea Party News
+- Politics
 - traits
 type: "post"
 ---

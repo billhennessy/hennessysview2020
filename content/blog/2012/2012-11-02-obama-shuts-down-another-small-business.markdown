@@ -14,7 +14,7 @@ tags:
 - Obama administration
 - president
 - Small business
-- St. Louis Missouri
+- Politics Missouri
 - United States
 type: "post"
 ---

@@ -6,11 +6,11 @@ title: Why Tea Party?
 layout: blog
 #url: e/2011/12/19/why-tea-party/
 categories:
-- Tea Party News
+- Politics
 tags:
 - debt
 - liberty
-- Tea Party News
+- Politics
 - tyranny
 type: "post"
 ---

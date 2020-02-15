@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald Trump
 - founding principles

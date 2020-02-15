@@ -6,7 +6,7 @@ title: You’re Almost Out of Time
 layout: blog
 #url: e/2012/02/22/youre-almost-out-of-time-2/
 categories:
-- Tea Party News
+- Politics
 tags:
 - 3rd anniversary tea party
 type: "post"

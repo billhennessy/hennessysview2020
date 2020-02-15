@@ -15,9 +15,9 @@ tags:
 - police
 - proposition a
 - rex sinquefield
-- St. Louis Missouri
-- st. louis police
-- St. Louis Police Department
+- Politics Missouri
+- Politics police
+- Politics Police Department
 - st.-louis
 type: "post"
 ---

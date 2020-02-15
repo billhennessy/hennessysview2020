@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Academics
 - News
-- Tea Party News
+- Politics
 tags:
 - Don Giljum
 - Gail Hackett

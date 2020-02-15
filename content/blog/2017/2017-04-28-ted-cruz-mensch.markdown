@@ -6,7 +6,7 @@ title: 'Ted Cruz: Mensch!'
 layout: blog
 #url: e/2017/04/27/ted-cruz-mensch/
 categories:
-- Trump
+- Donald Trump
 tags:
 - El Chapo
 - Ted Cruz

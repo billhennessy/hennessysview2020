@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/01/25/late-deciders-like-fish/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - iowa

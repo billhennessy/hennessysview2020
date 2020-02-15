@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/09/03/as-you-watch-you-will-be-healed/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - black church
 - Donald J. Trump

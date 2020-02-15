@@ -12,7 +12,7 @@ tags:
 - elections
 - human networks
 - social networks
-- The After Party
+- Politics
 type: "post"
 ---
 

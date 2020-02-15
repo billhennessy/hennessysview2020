@@ -17,7 +17,7 @@ tags:
 - happiness
 - healing
 - own your life
-- st. louis tea party
+- Politics tea party
 - Tea Party Buycott
 type: "post"
 ---

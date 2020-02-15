@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 - Political Psychology
-- Trump
+- Donald Trump
 tags:
 - commitment
 - decisions

@@ -6,11 +6,11 @@ title: It's Been a Great Month for ISIS
 layout: blog
 #url: e/2016/07/04/its-been-a-great-month-for-isis/
 categories:
-- Terrorism
-- Trump
+- Politics
+- Donald Trump
 tags:
 - Donald J. Trump
-- terrorism
+- Politics
 type: "post"
 ---
 

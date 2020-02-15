@@ -6,7 +6,7 @@ title: Come Down to Arkansas August 13
 layout: blog
 #url: e/2016/07/29/come-down-to-arkansas-august-13/
 categories:
-- Tea Party News
+- Politics
 tags:
 - Arkansas Tea Party
 - Road Trip

@@ -6,8 +6,8 @@ title: Does the Tea Party Need a Lobbyist?
 layout: blog
 #url: e/2011/03/27/does-the-tea-party-need-a-lobbyist/
 categories:
-- Tea Party News
-- Video
+- Politics
+
 type: "post"
 ---
 

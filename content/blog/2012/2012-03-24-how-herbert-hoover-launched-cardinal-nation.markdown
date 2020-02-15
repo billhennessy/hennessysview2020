@@ -20,7 +20,7 @@ tags:
 - KMOX
 - michael patrick leahy
 - reading
-- St. Louis Cardinals
+- Politics Cardinals
 - statism
 - woodrow wilson
 type: "post"

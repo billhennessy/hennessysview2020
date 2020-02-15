@@ -6,10 +6,10 @@ title: The Longest Year
 layout: blog
 #url: e/2010/12/31/the-longest-year/
 categories:
-- Tea Party News
+- Politics
 tags:
 - '2011'
-- Tea Party News
+- Politics
 type: "post"
 ---
 

@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 - News
-- Trump
+- Donald Trump
 tags:
 - African-American
 - black unemployment

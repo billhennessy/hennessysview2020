@@ -11,7 +11,7 @@ tags:
 - Ben Franklin
 - Politics
 - Republican Party
-- Tea Party News
+- Politics
 type: "post"
 ---
 

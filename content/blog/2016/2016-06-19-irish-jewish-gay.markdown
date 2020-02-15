@@ -8,11 +8,11 @@ layout: blog
 categories:
 - Living
 - News
-- Terrorism
+- Politics
 tags:
 - gay
 - Orlando
-- Trump
+- Donald Trump
 type: "post"
 ---
 

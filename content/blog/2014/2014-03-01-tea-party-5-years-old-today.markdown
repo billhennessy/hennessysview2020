@@ -6,7 +6,7 @@ title: The Tea Party Is 5 Years Old Today
 layout: blog
 #url: e/2014/03/01/tea-party-5-years-old-today/
 categories:
-- Tea Party News
+- Politics
 type: "post"
 ---
 

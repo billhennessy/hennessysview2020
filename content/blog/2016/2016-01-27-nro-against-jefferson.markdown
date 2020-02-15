@@ -8,11 +8,11 @@ layout: blog
 categories:
 - Politics
 - News
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - National Review
-- Trump
+- Donald Trump
 type: "post"
 ---
 

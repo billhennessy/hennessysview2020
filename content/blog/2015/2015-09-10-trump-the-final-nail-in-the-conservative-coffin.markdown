@@ -7,11 +7,11 @@ layout: blog
 #url: e/2015/09/10/trump-the-final-nail-in-the-conservative-coffin/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald Trump
 - Jonah Goldberg
-- Trump
+- Donald Trump
 type: "post"
 ---
 

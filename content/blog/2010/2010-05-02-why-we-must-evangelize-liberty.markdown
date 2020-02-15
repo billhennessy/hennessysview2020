@@ -7,7 +7,7 @@ layout: blog
 #url: e/2010/05/02/why-we-must-evangelize-liberty/
 categories:
 - Politics
-- Tea Party News
+- Politics
 tags:
 - block captains
 - liberty

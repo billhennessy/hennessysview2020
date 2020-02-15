@@ -6,12 +6,12 @@ title: Crooked as a Dog’s Hind Leg
 layout: blog
 #url: e/2011/03/19/crooked-as-a-dogs-hind-leg/
 categories:
-- St. Louis County
+- Politics
 tags:
 - charlie dooley
 - Chip Wood
 - Corruption
-- St. Louis County Assessor
+- Politics Assessor
 - temporiti
 type: "post"
 ---

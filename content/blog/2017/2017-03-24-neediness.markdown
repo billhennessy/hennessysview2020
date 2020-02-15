@@ -7,7 +7,7 @@ layout: blog
 #url: e/2017/03/24/neediness/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - Livingcare
 - negotiation

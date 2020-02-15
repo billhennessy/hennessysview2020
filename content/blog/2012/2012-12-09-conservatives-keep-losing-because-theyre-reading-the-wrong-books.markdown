@@ -6,7 +6,7 @@ title: Conservatives Keep Losing Because They’re Reading The Wrong Books
 layout: blog
 #url: e/2012/12/09/conservatives-keep-losing-because-theyre-reading-the-wrong-books/
 categories:
-- Tea Party News
+- Politics
 tags:
 - books
 - Colorado

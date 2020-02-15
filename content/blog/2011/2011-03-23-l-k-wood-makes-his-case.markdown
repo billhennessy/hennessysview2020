@@ -6,12 +6,12 @@ title: L.K. Wood Makes His Case
 layout: blog
 #url: e/2011/03/23/l-k-wood-makes-his-case/
 categories:
-- St. Louis County
+- Politics
 tags:
 - Chip Wood
 - Politics April 5
 - L.K. Wood
-- St. Louis County Assessor
+- Politics Assessor
 type: "post"
 ---
 

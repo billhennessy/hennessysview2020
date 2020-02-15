@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/03/14/dont-look-for-quick-fixes/
 categories:
 - News
-- Tea Party News
+- Politics
 tags:
 - boomers
 - crisis

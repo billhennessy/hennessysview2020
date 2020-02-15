@@ -7,11 +7,11 @@ layout: blog
 #url: e/2015/08/15/you-have-a-new-son-america/
 categories:
 - Military
-- Service
+- Living
 tags:
 - National Service
 - Navy
-- service
+- Living
 type: "post"
 ---
 

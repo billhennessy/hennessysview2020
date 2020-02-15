@@ -12,7 +12,7 @@ tags:
 - Eric Greitens
 - Milton Friedman
 - National Service
-- service
+- Living
 - Stanley McChrystal
 - The Franklin Project
 type: "post"

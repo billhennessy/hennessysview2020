@@ -10,7 +10,7 @@ categories:
 tags:
 - Chip Wood
 - Property Tax Assessments
-- St. Louis County Assessor
+- Politics Assessor
 type: "post"
 ---
 

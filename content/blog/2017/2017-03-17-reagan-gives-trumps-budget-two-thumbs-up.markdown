@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - reagan
-- Trump Budget
+- Donald Trump Budget
 type: "post"
 ---
 

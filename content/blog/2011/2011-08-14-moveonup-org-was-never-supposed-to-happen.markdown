@@ -15,8 +15,8 @@ tags:
 - Martin Baker
 - MO-1
 - MoveOneUp
-- st. louis tea party
-- US Congress
+- Politics tea party
+- Politics
 type: "post"
 ---
 

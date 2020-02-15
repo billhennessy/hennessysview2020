@@ -6,7 +6,7 @@ title: 'Weednesday Post: Why The GOP Needs To Champion Marijuana Law Reform'
 layout: blog
 # #url: e/2013/02/27/weednesday-post-why-the-gop-needs-to-champion-marijuana-law-reform/
 categories:
-- The Weednesday Post
+- Politics
 tags:
 - decriminalization
 - Legalization

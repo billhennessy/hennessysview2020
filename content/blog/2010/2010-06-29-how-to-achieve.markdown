@@ -6,7 +6,7 @@ title: How to Achieve
 layout: blog
 #url: e/2010/06/29/how-to-achieve/
 categories:
-- Zen Conservatism
+- Politics
 tags:
 - achieving
 - focus

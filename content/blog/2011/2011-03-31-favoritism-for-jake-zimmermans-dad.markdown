@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/03/31/favoritism-for-jake-zimmermans-dad/
 categories:
 - Politics
-- St. Louis County
+- Politics
 type: "post"
 ---
 

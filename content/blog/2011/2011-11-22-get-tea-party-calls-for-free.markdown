@@ -6,7 +6,7 @@ title: Get Tea Party Calls--For Free!
 layout: blog
 #url: e/2011/11/22/get-tea-party-calls-for-free/
 categories:
-- Tea Party News
+- Politics
 type: "post"
 ---
 

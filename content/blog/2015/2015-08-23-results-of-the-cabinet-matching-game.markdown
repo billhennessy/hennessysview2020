@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/08/23/results-of-the-cabinet-matching-game/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Cabinet
 - Donald J. Trump

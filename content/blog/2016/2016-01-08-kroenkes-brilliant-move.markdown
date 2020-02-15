@@ -8,7 +8,7 @@ layout: blog
 categories:
 - News
 - Sports
-- St. Louis
+- Politics
 tags:
 - Kroenke
 - Los Angeles Rams

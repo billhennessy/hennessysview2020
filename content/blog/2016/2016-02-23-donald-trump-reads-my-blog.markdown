@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/02/22/donald-trump-reads-my-blog/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - '@realDonaldTrump'
 - Arthur C. Brooks

@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/10/28/the-debate-for-bad-journalists/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - 'cnbcgopdebate'
 - Donald J. Trump

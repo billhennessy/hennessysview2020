@@ -15,7 +15,7 @@ tags:
 - jefferson
 - Politics
 - principles
-- Tea Party News
+- Politics
 type: "post"
 ---
 

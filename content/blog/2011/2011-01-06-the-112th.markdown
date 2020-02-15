@@ -6,7 +6,7 @@ title: The 112th
 layout: blog
 #url: e/2011/01/05/the-112th/
 categories:
-- US Congress
+- Politics
 tags:
 - 112th Congress
 - deficit

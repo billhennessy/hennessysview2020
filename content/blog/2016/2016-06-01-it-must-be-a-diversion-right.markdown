@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/06/01/it-must-be-a-diversion-right/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - David French
 - Donald Trump

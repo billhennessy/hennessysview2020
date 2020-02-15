@@ -9,7 +9,7 @@ categories:
 - Military
 - Politics
 post_format:
-- Video
+
 type: "post"
 ---
 

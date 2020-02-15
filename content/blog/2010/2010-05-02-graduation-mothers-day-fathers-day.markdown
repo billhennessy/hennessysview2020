@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Living
 tags:
-- Zen Conservatism
+- Politics
 type: "post"
 ---
 

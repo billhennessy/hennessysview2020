@@ -11,7 +11,7 @@ tags:
 - brexit
 - reagan
 - Thatcher
-- Trump
+- Donald Trump
 type: "post"
 ---
 

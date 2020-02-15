@@ -11,7 +11,7 @@ categories:
 tags:
 - Politics
 - Supreme-Court
-- Tea Party News
+- Politics
 type: "post"
 ---
 

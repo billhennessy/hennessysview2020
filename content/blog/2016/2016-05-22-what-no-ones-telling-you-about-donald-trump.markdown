@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/05/22/what-no-ones-telling-you-about-donald-trump/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - '@realDonaldTrump'
 type: "post"

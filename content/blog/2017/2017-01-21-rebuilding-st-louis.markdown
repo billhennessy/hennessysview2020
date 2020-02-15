@@ -6,7 +6,7 @@ title: Rebuilding St. Louis
 layout: blog
 #url: e/2017/01/21/rebuilding-st-louis/
 categories:
-- St. Louis
+- Politics
 tags:
 - Andrew Jones Mayor
 type: "post"

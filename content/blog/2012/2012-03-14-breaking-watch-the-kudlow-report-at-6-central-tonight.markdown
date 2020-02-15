@@ -14,7 +14,7 @@ tags:
 - Politics
 - primaries
 - RomneyCare
-- Tea Party News
+- Politics
 - The Kudlow Report
 type: "post"
 ---

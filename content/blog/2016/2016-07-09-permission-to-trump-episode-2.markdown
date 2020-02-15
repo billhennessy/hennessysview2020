@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/07/09/permission-to-trump-episode-2/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Ed Martin Jr
 - Permission to Trump

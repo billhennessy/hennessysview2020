@@ -7,14 +7,14 @@ layout: blog
 #url: e/2011/12/27/how-government-growth-creates-scrooges/
 categories:
 - Living
-- Trump
+- Donald Trump
 tags:
 - charity
 - Donald J. Trump
 - government
 - human networks
 - Scrooge
-- The After Party
+- Politics
 - welfare
 type: "post"
 ---

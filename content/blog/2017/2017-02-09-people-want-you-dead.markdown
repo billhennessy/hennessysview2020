@@ -6,7 +6,7 @@ title: People Want You Dead
 layout: blog
 #url: e/2017/02/09/people-want-you-dead/
 categories:
-- Self-governance
+- Politics
 - Generation X
 - The Fourth Turning
 tags:

@@ -6,7 +6,7 @@ title: You Have a Date Next Thursday
 layout: blog
 #url: e/2012/04/15/you-have-a-date-next-thursday/
 categories:
-- The After Party
+- Politics
 post_format:
 - Aside
 tags:

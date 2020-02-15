@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/05/09/trump-is-the-only-viable-pro-life-choice/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - abortion
 - Donald Trump

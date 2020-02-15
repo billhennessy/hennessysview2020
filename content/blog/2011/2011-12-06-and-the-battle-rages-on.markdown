@@ -6,7 +6,7 @@ title: And the Battle Rages
 layout: blog
 #url: e/2011/12/06/and-the-battle-rages-on/
 categories:
-- Tea Party News
+- Politics
 type: "post"
 ---
 

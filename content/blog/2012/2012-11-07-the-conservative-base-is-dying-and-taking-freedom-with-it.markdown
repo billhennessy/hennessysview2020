@@ -14,7 +14,7 @@ tags:
 - GOP
 - Harvard Institute of Politics
 - republican
-- Tea Party News
+- Politics
 - voting
 type: "post"
 ---

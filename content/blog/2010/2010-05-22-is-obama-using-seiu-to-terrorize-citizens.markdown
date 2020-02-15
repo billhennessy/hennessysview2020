@@ -12,7 +12,7 @@ tags:
 - Impeachment
 - SEIU
 - Union Thugs
-- White House
+- Politics
 type: "post"
 ---
 

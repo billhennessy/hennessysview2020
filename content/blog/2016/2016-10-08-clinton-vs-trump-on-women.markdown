@@ -6,12 +6,12 @@ title: Clinton vs. Trump on Women
 layout: blog
 #url: e/2016/10/08/clinton-vs-trump-on-women/
 categories:
-- Trump
+- Donald Trump
 tags:
 - Access Hollywood
 - Clinton
 - Daniel Tosh
-- Trump
+- Donald Trump
 type: "post"
 ---
 

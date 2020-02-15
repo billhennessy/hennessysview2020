@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/05/17/trump-and-the-tsa/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - TSA

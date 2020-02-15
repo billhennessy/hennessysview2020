@@ -6,7 +6,7 @@ title: 'Stop The Crazy Talk: Vote Fraud Didn’t Cost Romney The Election'
 layout: blog
 #url: e/2012/11/19/vote-fraud-didnt-cost-romney-the-election/
 categories:
-- Tea Party News
+- Politics
 tags:
 - crazy talk
 - Politics 2012

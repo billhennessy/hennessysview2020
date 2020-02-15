@@ -7,10 +7,10 @@ layout: blog
 #url: e/2017/07/25/regarding-jeff-sessions/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - Sessions
-- Trump
+- Donald Trump
 type: "post"
 ---
 

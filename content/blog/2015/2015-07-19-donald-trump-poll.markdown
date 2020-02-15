@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/07/19/donald-trump-poll/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 type: "post"

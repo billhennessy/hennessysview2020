@@ -12,7 +12,7 @@ tags:
 - Clinton
 - FBI
 - Rahami
-- terrorism
+- Politics
 type: "post"
 ---
 

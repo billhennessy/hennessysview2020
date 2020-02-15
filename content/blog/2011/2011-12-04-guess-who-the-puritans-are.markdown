@@ -12,7 +12,7 @@ tags:
 - establishment
 - puritanical
 - republican
-- Tea Party News
+- Politics
 type: "post"
 ---
 

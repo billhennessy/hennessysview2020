@@ -7,7 +7,7 @@ layout: blog
 #url: e/2017/09/06/the-strategy-that-dare-not-speak-its-name/
 categories:
 - News
-- Trump
+- Donald Trump
 type: "post"
 ---
 

@@ -13,7 +13,7 @@ tags:
 - Politics
 - rally
 - SEIU
-- Tea Party News
+- Politics
 type: "post"
 ---
 

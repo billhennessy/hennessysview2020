@@ -8,7 +8,7 @@ layout: blog
 #url: e/2013/03/08/st-louis-city-fathers-freak-out-because-police-sergeant-gary-wiegert-lobbies-for-sane-marijuana-reforms/
 categories:
 - Politics
-- The Weednesday Post
+- Politics
 tags:
 - Columbia
 - Gary Wiegert
@@ -17,7 +17,7 @@ tags:
 - Politics
 - marijuana reform
 - show-me cannabis
-- St. Louis City
+- Politics
 type: "post"
 ---
 

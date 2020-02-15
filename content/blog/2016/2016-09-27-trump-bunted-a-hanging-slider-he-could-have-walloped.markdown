@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - 'debatenight'
-- Trump
+- Donald Trump
 type: "post"
 ---
 

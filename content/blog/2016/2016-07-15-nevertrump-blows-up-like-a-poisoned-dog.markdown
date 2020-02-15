@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/07/15/nevertrump-blows-up-like-a-poisoned-dog/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Epic Fail
 - NeverTrump

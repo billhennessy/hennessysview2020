@@ -7,11 +7,11 @@ layout: blog
 #url: e/2016/10/09/the-flies-are-coming-home-to-roost/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Fly
 - Hillary
-- Trump
+- Donald Trump
 - Westworld
 type: "post"
 ---

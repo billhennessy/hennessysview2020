@@ -7,7 +7,7 @@ layout: blog
 #url: e/2013/03/15/why-compromise-is-like-half-a-boob-job/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - budget compomise
 - chris voss

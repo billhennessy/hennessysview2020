@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 - Politics
-- Trump
+- Donald Trump
 tags:
 - political psychology
 - RNC Convention

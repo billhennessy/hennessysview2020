@@ -6,11 +6,11 @@ title: White House Common Sense Test Is Bassackwards
 layout: blog
 #url: e/2013/09/08/white-house-common-sense-test-is-bassackwards/
 categories:
-- Syria
+- Politics
 tags:
 - common sense
 - Denis McDonough
-- White House
+- Politics
 type: "post"
 ---
 

@@ -18,7 +18,7 @@ tags:
 - newt gingrich
 - Republican Party
 - Saturday
-- Tea Party News
+- Politics
 - Todd Akin
 - victory
 type: "post"

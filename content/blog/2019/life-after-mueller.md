@@ -8,7 +8,7 @@ author: Bill Hennessy
 categories: 
 - Politics
 tags:
-- Trump
+- Donald Trump
 - Mueller
 type: "post"
 ---

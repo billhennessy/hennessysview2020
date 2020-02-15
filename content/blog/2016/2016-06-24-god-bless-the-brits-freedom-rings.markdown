@@ -9,7 +9,7 @@ categories:
 - News
 tags:
 - brexit
-- Trump
+- Donald Trump
 type: "post"
 ---
 

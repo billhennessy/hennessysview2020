@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/02/27/im-trying-to-write-the-truth/
 categories:
 - Living
-- Trump
+- Donald Trump
 tags:
 - blogging
 - Donald J. Trump

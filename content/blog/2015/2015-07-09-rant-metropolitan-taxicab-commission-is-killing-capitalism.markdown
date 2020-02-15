@@ -6,7 +6,7 @@ title: 'RANT: Metropolitan Taxicab Commission Is Killing Capitalism'
 layout: blog
 #url: e/2015/07/08/rant-metropolitan-taxicab-commission-is-killing-capitalism/
 categories:
-- uberX
+- Politics
 tags:
 - KimTucci
 - MTC

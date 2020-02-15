@@ -7,13 +7,13 @@ layout: blog
 #url: e/2010/12/23/how-to-kill-the-tea-party/
 categories:
 - happiness
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - negative emotions
 - phobias
 - tea party positive emotions
-- Zen Conservatism
+- Politics
 type: "post"
 ---
 

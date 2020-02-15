@@ -18,8 +18,8 @@ tags:
 - liberty
 - Lin Ferry
 - president
-- St. Louis Missouri
-- st. louis tea party
+- Politics Missouri
+- Politics tea party
 - st.-louis
 - Todd Akin
 - United States

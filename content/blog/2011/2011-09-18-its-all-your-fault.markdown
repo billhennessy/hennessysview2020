@@ -6,11 +6,11 @@ title: It’s All Your Fault
 layout: blog
 #url: e/2011/09/18/its-all-your-fault/
 categories:
-- Tea Party News
-- The After Party
+- Politics
+- Politics
 tags:
 - Overflow
-- The After Party
+- Politics
 type: "post"
 ---
 

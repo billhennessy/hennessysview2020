@@ -7,7 +7,7 @@ layout: blog
 #url: e/2010/05/16/astonishing-science-sun-may-cause-global-warming/
 categories:
 - global-warming
-- Science
+- Living
 tags:
 - global_warming
 - moon temperature

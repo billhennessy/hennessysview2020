@@ -12,7 +12,7 @@ tags:
 - Ann Wagner
 - August 5
 - Politics
-- St. Louis County
+- Politics
 type: "post"
 ---
 

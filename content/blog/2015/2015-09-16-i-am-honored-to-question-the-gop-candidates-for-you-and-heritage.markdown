@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/09/16/i-am-honored-to-question-the-gop-candidates-for-you-and-heritage/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - Donald J. Trump
 - Greenville

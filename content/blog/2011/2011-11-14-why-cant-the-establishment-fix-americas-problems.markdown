@@ -14,7 +14,7 @@ tags:
 - grassroots
 - phyllis schlafly
 - ronald-reagan
-- Tea Party News
+- Politics
 type: "post"
 ---
 

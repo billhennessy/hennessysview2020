@@ -8,8 +8,8 @@ layout: blog
 categories:
 - Politics
 - Politics
-- St. Louis City
-- St. Louis County
+- Politics
+- Politics
 tags:
 - aerotropolis
 - chambers of commerce

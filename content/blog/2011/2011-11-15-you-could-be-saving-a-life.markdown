@@ -6,7 +6,7 @@ title: You Could Be Saving a Life
 layout: blog
 #url: e/2011/11/14/you-could-be-saving-a-life/
 categories:
-- The After Party
+- Politics
 tags:
 - donations
 - Help

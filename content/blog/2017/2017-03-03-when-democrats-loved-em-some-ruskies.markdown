@@ -8,7 +8,7 @@ layout: blog
 categories:
 - News
 post_format:
-- Video
+
 tags:
 - Flexible
 - nuclear war

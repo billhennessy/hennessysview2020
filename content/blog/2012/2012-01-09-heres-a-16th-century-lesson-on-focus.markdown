@@ -6,11 +6,11 @@ title: Here’s a 16th Century Lesson on Focus
 layout: blog
 #url: e/2012/01/08/heres-a-16th-century-lesson-on-focus/
 categories:
-- The After Party
+- Politics
 tags:
 - focus
 - Saint Francis de Sales
-- The After Party
+- Politics
 type: "post"
 ---
 

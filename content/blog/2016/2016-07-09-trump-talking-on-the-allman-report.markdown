@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/07/09/trump-talking-on-the-allman-report/
 categories:
 - Politics
-- Trump
+- Donald Trump
 tags:
 - Turning On Trump
 type: "post"

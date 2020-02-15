@@ -10,7 +10,7 @@ categories:
 tags:
 - ed martin
 - Politics
-- Tea Party News
+- Politics
 - vote
 type: "post"
 ---

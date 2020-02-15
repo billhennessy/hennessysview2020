@@ -7,7 +7,7 @@ layout: blog
 #url: e/2017/06/27/when-the-russian-narrative-broke/
 categories:
 - News
-- Trump
+- Donald Trump
 tags:
 - Russian Narrative
 type: "post"
