@@ -7,7 +7,7 @@ title: Here Are the Ex-Im Facts Ann Wagner and Claire McCaskill Don't Want You t
 layout: blog
 #url: e/2014/09/10/heres-ex-im-facts-ann-wagner-claire-mccaskill-wont-tell/
 categories:
-- Crony Capitalism
+- Politics
 tags:
 - 'endExIm'
 - Ann Wagner

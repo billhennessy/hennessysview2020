@@ -6,7 +6,7 @@ title: The Only Rule of Engagement Will Be Victory
 layout: blog
 #url: e/2015/11/21/the-only-rule-of-engagement-will-be-victory/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - rules of engagement
 - terrorism

@@ -10,7 +10,7 @@ categories:
 - Trump
 tags:
 - Donald J. Trump
-- gen x
+
 type: "post"
 ---
 

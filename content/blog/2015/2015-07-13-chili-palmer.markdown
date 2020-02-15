@@ -6,7 +6,7 @@ title: Chili Palmer
 layout: blog
 #url: e/2015/07/13/chili-palmer/
 categories:
-- 'Greece grexit tsipras merkel'
+- Politics
 tags:
 - Chili Palmer
 - debt

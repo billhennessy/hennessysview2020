@@ -6,7 +6,7 @@ title: The New Russian Empire
 layout: blog
 #url: e/2015/02/25/the-new-russian-empire/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - foreign policy
 - hyperinflation

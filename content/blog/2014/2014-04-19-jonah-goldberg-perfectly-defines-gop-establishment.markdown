@@ -6,9 +6,10 @@ title: Jonah Goldberg Perfectly Defines the GOP Establishment
 layout: blog
 #url: e/2014/04/19/jonah-goldberg-perfectly-defines-gop-establishment/
 categories:
-- Free Markets
+- Economy
+- Politics
 tags:
-- crony capitalism
+- Politics
 - export-import
 - featured
 - Jonah Goldberg

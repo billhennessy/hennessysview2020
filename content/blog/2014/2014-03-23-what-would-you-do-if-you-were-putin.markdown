@@ -6,7 +6,7 @@ title: What Would You Do If You Were Putin?
 layout: blog
 #url: e/2014/03/23/what-would-you-do-if-you-were-putin/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - featured
 - obama

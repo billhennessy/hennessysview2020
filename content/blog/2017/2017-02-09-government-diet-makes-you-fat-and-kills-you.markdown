@@ -6,10 +6,10 @@ title: Government Diet Makes You Fat and Kills You
 layout: blog
 #url: e/2017/02/08/government-diet-makes-you-fat-and-kills-you/
 categories:
-- Health
+- Living
 tags:
 - dietary guidelines
-- healthy eating
+- Livingy eating
 - lose weight
 - Obesity
 type: "post"

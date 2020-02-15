@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - bureaucrats
-- Health Insurance Exchanges
+- Living Insurance Exchanges
 - Missouri Ballot
 - obamacare
 - Prop E

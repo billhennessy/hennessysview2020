@@ -6,7 +6,7 @@ title: Obama the Reckless
 layout: blog
 #url: e/2011/08/08/obama-the-reckless/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - afghanistan
 - John McCain

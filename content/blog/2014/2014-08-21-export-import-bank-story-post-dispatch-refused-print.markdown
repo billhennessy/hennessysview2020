@@ -6,9 +6,9 @@ title: The Export-Import Bank Story the Post-Dispatch Refused to Print
 layout: blog
 #url: e/2014/08/21/export-import-bank-story-post-dispatch-refused-print/
 categories:
-- Crony Capitalism
+- Politics
 tags:
-- crony capitalism
+- Politics
 - cronyism
 - export-import
 type: "post"

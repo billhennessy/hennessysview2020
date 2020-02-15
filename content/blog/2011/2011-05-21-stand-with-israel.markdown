@@ -6,7 +6,7 @@ title: Stand With Israel
 layout: blog
 #url: e/2011/05/20/stand-with-israel/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - Israel
 type: "post"

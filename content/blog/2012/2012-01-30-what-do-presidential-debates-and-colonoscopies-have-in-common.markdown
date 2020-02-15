@@ -6,7 +6,7 @@ title: What Do Presidential Debates and Colonoscopies Have in Common?
 layout: blog
 #url: e/2012/01/30/what-do-presidential-debates-and-colonoscopies-have-in-common/
 categories:
-- Ensuring Liberty
+- Politics
 tags:
 - brain science
 - colonoscopies

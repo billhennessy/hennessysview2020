@@ -6,7 +6,7 @@ title: American Idiots
 layout: blog
 #url: e/2011/02/07/american-idiots/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - cairo
 - Claire Berlinski

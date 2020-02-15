@@ -8,9 +8,9 @@ layout: blog
 categories:
 - Activism
 - Politics
-- Ensuring Liberty
+- Politics
 tags:
-- Ensuring Liberty
+- Politics
 - Michele Bachmann
 - Steve King
 - Todd Akin

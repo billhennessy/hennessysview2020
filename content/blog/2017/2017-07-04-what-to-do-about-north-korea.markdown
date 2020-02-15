@@ -6,7 +6,7 @@ title: 'War & Tariffs: What to do about North Korea'
 layout: blog
 #url: e/2017/07/04/what-to-do-about-north-korea/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - china
 - North Korea

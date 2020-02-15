@@ -6,7 +6,7 @@ title: You've Been Drinking Wrong All Along PODCAST
 layout: blog
 #url: e/2016/04/09/youve-drinking-wrong-along/
 categories:
-- Crony Capitalism
+- Politics
 tags:
 - alcohol
 - Chigurupati Technologies

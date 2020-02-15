@@ -13,8 +13,8 @@ tags:
 - employoment
 - food service
 - Full-time
-- Health care
-- healthcare
+- Living care
+- Livingcare
 - hospitality
 - Illinois
 - jobs

@@ -6,7 +6,7 @@ title: Is Petraeus Taking Obama With Him?
 layout: blog
 #url: e/2012/11/13/what-if-petraeus-knew-exactly-what-he-was-doing/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - andrea mitchell
 - benghazi

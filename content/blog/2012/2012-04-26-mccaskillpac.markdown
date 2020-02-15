@@ -11,7 +11,7 @@ tags:
 - Arizona
 - Claire McCaskill
 - conservatives
-- immigration
+- Politics
 - Sotomayor
 - Supreme-Court
 - trayvon martin

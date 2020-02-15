@@ -6,7 +6,7 @@ title: '2018: The beginning of the end of the Fourth Turning in America'
 layout: blog
 #url: e/2017/12/27/2018-the-beginning-of-the-end-of-the-fourth-turning-in-america/
 categories:
-- Gen X
+- Generation X
 - News
 tags:
 - globalism

@@ -9,7 +9,7 @@ categories:
 - Tea Party News
 tags:
 - Ann Wagner
-- crony capitalism
+- Politics
 - export-import bank
 - Republicans
 - Tea Party News

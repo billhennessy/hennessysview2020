@@ -9,7 +9,7 @@ categories:
 - Living
 tags:
 - crisis
-- generation x
+- Generation X
 - History
 - james goulding
 - Millennials

@@ -6,7 +6,7 @@ title: 'BACKFIRE: Psychological Tricks Used to Advance Russian Conspiracy Theory
 layout: blog
 #url: e/2017/03/07/how-newspapers-lie/
 categories:
-- Headline
+- Politics
 - Political Psychology
 type: "post"
 ---

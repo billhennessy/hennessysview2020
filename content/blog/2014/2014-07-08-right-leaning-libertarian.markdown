@@ -9,7 +9,7 @@ categories:
 - News
 tags:
 - baby boomer
-- generation x
+- Generation X
 - in-group
 - labels
 - libertarian

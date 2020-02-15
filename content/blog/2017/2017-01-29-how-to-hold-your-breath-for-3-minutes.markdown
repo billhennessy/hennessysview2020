@@ -6,7 +6,7 @@ title: How to Hold Your Breath for 3 Minutes
 layout: blog
 #url: e/2017/01/29/how-to-hold-your-breath-for-3-minutes/
 categories:
-- Health
+- Living
 tags:
 - cancer
 - fasting

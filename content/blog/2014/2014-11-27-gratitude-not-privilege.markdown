@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Living
 tags:
-- ferguson
+- Politics
 - grief
 - Michael Brown
 - Thanksgiving

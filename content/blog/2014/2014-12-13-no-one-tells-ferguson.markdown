@@ -10,7 +10,7 @@ categories:
 - Municipal Courts
 tags:
 - 'municourts'
-- ferguson
+- Politics
 - municipal courts
 type: "post"
 ---

@@ -9,7 +9,7 @@ catetories:
 tags:
 - Blog
 - Fasting
-- Health
+- Living
 - Diet
 - Politics: "post"
 ---

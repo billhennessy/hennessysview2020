@@ -6,7 +6,7 @@ title: In the US House, Insider Money Buys Leadership Positions
 layout: blog
 #url: e/2014/11/29/us-house-insider-money-buys-leadership-positions/
 categories:
-- Crony Capitalism
+- Politics
 tags:
 - 'endExIm'
 - Ann Wagner

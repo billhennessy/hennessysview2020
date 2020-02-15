@@ -6,8 +6,8 @@ title: One of America’s Finest Moments
 layout: blog
 #url: e/2011/05/01/one-of-americas-finest-moments/
 categories:
-- Foreign Relations
-- Headline
+- Politics
+- Politics
 tags:
 - bin laden
 type: "post"

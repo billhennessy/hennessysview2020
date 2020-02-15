@@ -6,11 +6,11 @@ title: How Missouri Republicans Made Jay Nixon Look Like a Statesman
 layout: blog
 #url: e/2014/06/05/missouri-republicans-made-jay-nixon-look-like-statesman/
 categories:
-- Crony Capitalism
+- Politics
 - Missouri
 tags:
 - anti-establishment
-- crony capitalism
+- Politics
 - GOP
 - Jay Nixon
 - libertarian

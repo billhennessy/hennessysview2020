@@ -6,7 +6,7 @@ title: Why Are You Letting Your Doctor Kill You?
 layout: blog
 #url: e/2017/02/05/why-are-you-letting-your-doctor-kill-you/
 categories:
-- Health
+- Living
 tags:
 - Alzheimers
 - diabetes

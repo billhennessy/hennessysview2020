@@ -6,7 +6,7 @@ title: Maybe I'm All Wrong About Putin and Poland
 layout: blog
 #url: e/2014/03/30/maybe-im-wrong-putin-poland/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - being wrong
 - Charles Hugh Smith

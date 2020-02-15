@@ -7,7 +7,7 @@ layout: blog
 #url: e/2010/05/15/choosing-battles/
 categories:
 - Politics
-- Ensuring Liberty
+- Politics
 - Limited Government
 - Politics
 - Trump

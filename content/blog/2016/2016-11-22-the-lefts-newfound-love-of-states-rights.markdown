@@ -6,10 +6,10 @@ title: The Left's Newfound Love of States' Rights
 layout: blog
 #url: e/2016/11/21/the-lefts-newfound-love-of-states-rights/
 categories:
-- Federalism
+- Politics
 - Politics
 tags:
-- Federalism
+- Politics
 - sanctuary cities
 - States Rights
 type: "post"

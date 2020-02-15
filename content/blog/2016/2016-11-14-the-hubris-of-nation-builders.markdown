@@ -6,7 +6,7 @@ title: The Hubris of Nation Builders
 layout: blog
 #url: e/2016/11/14/the-hubris-of-nation-builders/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - George W. Bush
 - Iraq

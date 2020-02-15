@@ -12,7 +12,7 @@ categories:
 - Politics
 tags:
 - Dodd Financial Reform
-- Ensuring Liberty
+- Politics
 - Michele Bachmann
 type: "post"
 ---

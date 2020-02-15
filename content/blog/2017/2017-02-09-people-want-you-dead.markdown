@@ -7,7 +7,7 @@ layout: blog
 #url: e/2017/02/09/people-want-you-dead/
 categories:
 - Self-governance
-- generation x
+- Generation X
 - The Fourth Turning
 tags:
 - Berkeley Riot

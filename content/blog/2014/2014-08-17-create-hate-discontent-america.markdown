@@ -10,7 +10,7 @@ categories:
 tags:
 - crime
 - Darren Wilson
-- ferguson
+- Politics
 - Lacy Clay
 - Michael Brown
 - police militarization

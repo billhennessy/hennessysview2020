@@ -8,8 +8,8 @@ layout: blog
 categories:
 - Obamacare
 tags:
-- Health Insurance Exchanges
-- healthcare
+- Living Insurance Exchanges
+- Livingcare
 - obamacare
 type: "post"
 ---

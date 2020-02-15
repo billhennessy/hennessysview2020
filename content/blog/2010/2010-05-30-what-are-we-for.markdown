@@ -16,7 +16,7 @@ tags:
 - fair tax
 - flat tax
 - goals
-- healthcare
+- Livingcare
 - obamacare
 - social security
 - Tea Party News

@@ -6,9 +6,9 @@ title: What To Do About the New Political Dichotomy
 layout: blog
 #url: e/2014/06/24/new-political-dichotomy/
 categories:
-- Crony Capitalism
+- Politics
 tags:
-- crony capitalism
+- Politics
 type: "post"
 ---
 

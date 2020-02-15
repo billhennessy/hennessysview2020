@@ -6,7 +6,7 @@ title: King Abdullah Kicks Obama Out of Saudia Arabia ? **Video Added**
 layout: blog
 #url: e/2014/03/28/king-abdullah-kicks-obama-saudia-arabia/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - dinner cancelled
 - featured

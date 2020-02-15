@@ -10,7 +10,7 @@ categories:
 tags:
 - 'FergusonBuycott'
 - buycott
-- ferguson
+- Politics
 - shopping
 type: "post"
 ---

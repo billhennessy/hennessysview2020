@@ -6,7 +6,8 @@ title: The Big Short
 layout: blog
 #url: e/2015/12/19/the-big-short/
 categories:
-- Free Markets
+- Economy
+- Politics
 tags:
 - financial crash
 - Michael Lewis

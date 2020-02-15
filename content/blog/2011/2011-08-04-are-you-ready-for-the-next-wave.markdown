@@ -6,7 +6,7 @@ title: Are You Ready For The Next Wave?
 layout: blog
 #url: e/2011/08/04/are-you-ready-for-the-next-wave/
 categories:
-- Headline
+- Politics
 - Tea Party News
 tags:
 - Tea Party News

@@ -10,7 +10,7 @@ categories:
 - Activism
 tags:
 - BUYcott Ferguson
-- ferguson
+- Politics
 type: "post"
 ---
 

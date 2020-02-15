@@ -6,7 +6,7 @@ title: Waning US Influence
 layout: blog
 #url: e/2011/02/05/waning-us-influence/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - egypt
 - Jimmy Carter

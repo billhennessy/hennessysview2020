@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Tea Party News
 tags:
-- Ensuring Liberty
+- Politics
 - Playboy
 - Rogues of K Street
 - Tea party consultant

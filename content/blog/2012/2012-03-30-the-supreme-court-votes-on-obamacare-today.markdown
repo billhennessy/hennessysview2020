@@ -11,7 +11,7 @@ tags:
 - anthony Kennedy
 - chief justice
 - Covenant of Liberty
-- health insurance
+- Living insurance
 - John Roberts
 - michael patrick leahy
 - obamacare

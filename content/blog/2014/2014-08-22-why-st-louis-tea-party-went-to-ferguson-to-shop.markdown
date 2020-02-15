@@ -9,8 +9,9 @@ categories:
 - Activism
 tags:
 - buycott
-- ferguson
-- free markets
+- Politics
+- Economy
+- Politics
 - love
 type: "post"
 ---

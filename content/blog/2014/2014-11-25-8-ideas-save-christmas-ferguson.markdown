@@ -11,7 +11,7 @@ tags:
 - buycott
 - Christmas
 - featured
-- ferguson
+- Politics
 - nixon
 type: "post"
 ---

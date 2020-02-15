@@ -11,7 +11,7 @@ categories:
 tags:
 - 'municourts'
 - Arch City Defenders
-- ferguson
+- Politics
 - municipal courts
 - police
 type: "post"

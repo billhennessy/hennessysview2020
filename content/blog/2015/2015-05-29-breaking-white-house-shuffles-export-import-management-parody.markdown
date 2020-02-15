@@ -6,7 +6,7 @@ title: 'Breaking: White House Shuffles Export Import Management (parody)'
 layout: blog
 #url: e/2015/05/28/breaking-white-house-shuffles-export-import-management-parody/
 categories:
-- Crony Capitalism
+- Politics
 tags:
 - 'endExIm'
 - Art Vandelay

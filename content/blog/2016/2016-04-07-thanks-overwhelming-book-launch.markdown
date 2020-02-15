@@ -7,7 +7,7 @@ layout: blog
 #url: e/2016/04/06/thanks-overwhelming-book-launch/
 categories:
 - Living
-- Crony Capitalism
+- Politics
 tags:
 - Chigurupati Technologies
 - Fight to Evolve

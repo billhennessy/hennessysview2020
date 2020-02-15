@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Liberty Movement
 tags:
-- crony capitalism
+- Politics
 - Tom Landry
 type: "post"
 ---

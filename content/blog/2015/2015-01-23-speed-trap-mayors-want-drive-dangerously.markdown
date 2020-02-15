@@ -11,7 +11,7 @@ tags:
 - 'municourts'
 - 'TaxationByCitation'
 - Eric Schmitt
-- ferguson
+- Politics
 - missouri
 type: "post"
 ---

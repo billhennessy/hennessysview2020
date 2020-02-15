@@ -6,7 +6,7 @@ title: The Lazy Person's Cure for Herpes Ex-Im
 layout: blog
 #url: e/2015/05/07/the-lazy-persons-cure-for-herpes-ex-im/
 categories:
-- Crony Capitalism
+- Politics
 tags:
 - End Ex Im
 - Ex-Im

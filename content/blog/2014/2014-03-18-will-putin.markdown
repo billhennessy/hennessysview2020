@@ -6,7 +6,7 @@ title: What Will Putin Do?
 layout: blog
 #url: e/2014/03/17/will-putin/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - Banksters
 - featured

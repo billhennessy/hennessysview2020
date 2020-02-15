@@ -6,11 +6,11 @@ title: A Health Insurance Solution that Some Smart State Should Try
 layout: blog
 #url: e/2012/03/29/a-health-insurance-solution-that-some-smart-state-should-try/
 categories:
-- Federalism
+- Politics
 tags:
-- Federalism
-- health insurance
-- healthcare
+- Politics
+- Living insurance
+- Livingcare
 - medical costs
 - medical insurance
 - medicine

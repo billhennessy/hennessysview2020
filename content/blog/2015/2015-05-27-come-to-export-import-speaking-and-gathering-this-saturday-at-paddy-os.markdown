@@ -7,7 +7,7 @@ layout: blog
 #url: e/2015/05/27/come-to-export-import-speaking-and-gathering-this-saturday-at-paddy-os/
 categories:
 - Activism
-- Crony Capitalism
+- Politics
 tags:
 - 'endExIm'
 - Andrew Koenig

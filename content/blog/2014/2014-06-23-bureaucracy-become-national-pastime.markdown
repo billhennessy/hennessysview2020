@@ -6,11 +6,11 @@ title: How Crony Capitalism Spreads Bureaucracy
 layout: blog
 #url: e/2014/06/23/bureaucracy-become-national-pastime/
 categories:
-- Crony Capitalism
+- Politics
 tags:
 - big business
 - bureaucracy
-- crony capitalism
+- Politics
 - cronyism
 - Eric Greitens
 - st.-louis

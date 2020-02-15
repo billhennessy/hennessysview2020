@@ -9,10 +9,11 @@ categories:
 - Business
 tags:
 - Business
-- crony capitalism
+- Politics
 - Dodd-Frank
 - free enterprise capitalism
-- free markets
+- Economy
+- Politics
 - John Mackey
 - Milton Friedman
 - obamacare

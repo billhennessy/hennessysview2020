@@ -6,7 +6,7 @@ title: Little Wars Waste Lives. Go Big Or Stay Home
 layout: blog
 # #url: e/2013/09/06/little-wars-waste-lives-go-big-or-stay-home/
 categories:
-- Foreign Relations
+- Politics
 type: "post"
 ---
 

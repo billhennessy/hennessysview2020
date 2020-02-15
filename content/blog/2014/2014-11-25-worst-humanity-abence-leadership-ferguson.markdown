@@ -9,7 +9,7 @@ categories:
 - News
 tags:
 - Chris Koster
-- ferguson
+- Politics
 - Jay Nixon
 type: "post"
 ---

@@ -9,7 +9,7 @@ categories:
 - Limited Government
 tags:
 - executive order
-- immigration
+- Politics
 type: "post"
 ---
 

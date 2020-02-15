@@ -7,7 +7,7 @@ layout: blog
 #url: e/2011/04/25/tell-umsl-to-stop-teaching-industrial-sabotage/
 categories:
 - Activism
-- Headline
+- Politics
 - Union News
 tags:
 - Activism

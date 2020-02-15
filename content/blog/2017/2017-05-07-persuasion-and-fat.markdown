@@ -6,7 +6,7 @@ title: Persuasion and Fat
 layout: blog
 #url: e/2017/05/07/persuasion-and-fat/
 categories:
-- Health
+- Living
 - Persuasion
 tags:
 - avoid disease

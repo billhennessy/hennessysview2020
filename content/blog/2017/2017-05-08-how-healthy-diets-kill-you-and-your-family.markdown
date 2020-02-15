@@ -6,7 +6,7 @@ title: How "Healthy" Diets Kill You and Your Family
 layout: blog
 #url: e/2017/05/08/how-healthy-diets-kill-you-and-your-family/
 categories:
-- Health
+- Living
 tags:
 - Diet
 - low carb high fat

@@ -12,7 +12,7 @@ tags:
 - boomers
 - crisis
 - disasters
-- generation x
+- Generation X
 - generations
 - Millennials
 - The Fourth Turning

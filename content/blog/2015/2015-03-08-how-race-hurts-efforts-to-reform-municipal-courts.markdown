@@ -8,7 +8,7 @@ layout: blog
 categories:
 - 'Ferguson'
 tags:
-- ferguson
+- Politics
 - Leadership
 - Racial Politics
 - racism

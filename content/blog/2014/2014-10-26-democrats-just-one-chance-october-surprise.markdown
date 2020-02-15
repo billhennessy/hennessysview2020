@@ -10,7 +10,7 @@ categories:
 tags:
 - department of justice
 - eric holder
-- ferguson
+- Politics
 - Michael Brown
 - new black panther party
 - obama

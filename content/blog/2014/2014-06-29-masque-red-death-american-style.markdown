@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - Banksters
-- crony capitalism
+- Politics
 - political dichotomy
 - red death
 type: "post"

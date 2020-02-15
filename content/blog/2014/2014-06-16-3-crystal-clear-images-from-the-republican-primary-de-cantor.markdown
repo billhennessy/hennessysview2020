@@ -6,10 +6,10 @@ title: 3 Crystal-Clear Images From The Republican Primary De-Cantor
 layout: blog
 #url: e/2014/06/15/3-crystal-clear-images-from-the-republican-primary-de-cantor/
 categories:
-- Crony Capitalism
+- Politics
 tags:
 - endExIm
-- crony capitalism
+- Politics
 - David Brat
 - Elizabeth Warren
 - eric cantor

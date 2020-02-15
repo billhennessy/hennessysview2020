@@ -8,7 +8,7 @@ layout: blog
 categories:
 - Politics
 tags:
-- crony capitalism
+- Politics
 - political class
 - Politics
 - the establishment

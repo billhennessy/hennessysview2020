@@ -11,7 +11,7 @@ categories:
 tags:
 - Cruz
 - Donald J. Trump
-- immigration
+- Politics
 - jihad
 - travel
 - Trump

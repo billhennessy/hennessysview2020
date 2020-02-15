@@ -6,7 +6,7 @@ title: '"We Are Killing Terrorists"'
 layout: blog
 #url: e/2017/08/21/we-are-killing-terrorists/
 categories:
-- Foreign Relations
+- Politics
 - News
 tags:
 - afghanistan

@@ -6,7 +6,7 @@ title: Why the Export Import Bank Matters Now
 layout: blog
 #url: e/2015/05/18/why-the-export-import-bank-matters-now/
 categories:
-- Crony Capitalism
+- Politics
 tags:
 - 'endExIm'
 - export-import

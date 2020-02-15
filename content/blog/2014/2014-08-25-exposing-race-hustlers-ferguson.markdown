@@ -9,7 +9,7 @@ categories:
 - 'Ferguson'
 tags:
 - Al Sharpton
-- ferguson
+- Politics
 - Jesse Jackson
 - mau-mauing the flak catchers
 - poverty

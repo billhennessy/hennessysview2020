@@ -6,10 +6,12 @@ title: 'NYTimes: Cubans Find Freedom Fun'
 layout: blog
 #url: e/2011/02/04/nytimes-cubans-find-freedom-fun/
 categories:
-- Free Markets
+- Economy
+- Politics
 tags:
 - cuba
-- free markets
+- Economy
+- Politics
 - freedom
 type: "post"
 ---

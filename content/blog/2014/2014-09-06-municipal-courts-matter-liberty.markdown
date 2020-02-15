@@ -12,7 +12,7 @@ tags:
 - Arch City Defenders
 - Donald J. Trump
 - featured
-- ferguson
+- Politics
 - libertarian
 - liberty movement
 - municipal courts

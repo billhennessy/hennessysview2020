@@ -6,13 +6,13 @@ title: Why Ann Wagner Is Wrong to Attack Heritage Action
 layout: blog
 #url: e/2014/09/24/ann-wagner-wrong-attack-heritage-action/
 categories:
-- Crony Capitalism
+- Politics
 - Politics
 tags:
 - 'endExIm'
 - Ann Wagner
 - corporate welfare
-- crony capitalism
+- Politics
 - export-import
 - Heritage Action
 - heritage foundation

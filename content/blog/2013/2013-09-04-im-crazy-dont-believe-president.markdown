@@ -6,7 +6,7 @@ title: Am I Crazy If I Don't Believe the President?
 layout: blog
 #url: e/2013/09/04/im-crazy-dont-believe-president/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - syria
 - war

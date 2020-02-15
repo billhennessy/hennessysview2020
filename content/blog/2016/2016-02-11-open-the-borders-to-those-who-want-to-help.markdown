@@ -6,7 +6,7 @@ title: 'Guest Post: Open the borders . . . to those who want to help'
 layout: blog
 #url: e/2016/02/10/open-the-borders-to-those-who-want-to-help/
 categories:
-- Immigration
+- Politics
 type: "post"
 ---
 

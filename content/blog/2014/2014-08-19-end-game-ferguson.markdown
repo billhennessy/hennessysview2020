@@ -10,7 +10,7 @@ categories:
 tags:
 - Antonio French
 - featured
-- ferguson
+- Politics
 - Future
 - Jay Nixon
 - Maria Chappelle-Nadal

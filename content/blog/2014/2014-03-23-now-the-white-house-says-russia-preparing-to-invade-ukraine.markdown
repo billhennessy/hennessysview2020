@@ -6,7 +6,7 @@ title: Now, the White House Says Russia Preparing to Invade Ukraine
 layout: blog
 #url: e/2014/03/23/now-the-white-house-says-russia-preparing-to-invade-ukraine/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - featured
 - russia

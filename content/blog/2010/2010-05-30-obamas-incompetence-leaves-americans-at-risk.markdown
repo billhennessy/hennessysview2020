@@ -6,7 +6,7 @@ title: Obama’s Incompetence Leaves Americans At Risk
 layout: blog
 #url: e/2010/05/30/obamas-incompetence-leaves-americans-at-risk/
 categories:
-- Foreign Relations
+- Politics
 - Politics
 tags:
 - afghanistan

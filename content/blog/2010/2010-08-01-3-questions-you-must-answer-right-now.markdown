@@ -9,7 +9,7 @@ categories:
 - Latest
 tags:
 - Politics Day
-- Healthcare Free Choice Act
+- Livingcare Free Choice Act
 - Prop C
 - vote
 type: "post"

@@ -9,7 +9,7 @@ categories:
 - St. Louis County
 tags:
 - crime
-- ferguson
+- Politics
 - missouri
 - police militarization
 - poverty

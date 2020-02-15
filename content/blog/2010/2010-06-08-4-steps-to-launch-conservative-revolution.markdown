@@ -11,7 +11,7 @@ categories:
 tags:
 - conservative revolution
 - HCFA
-- healthcare freedom act
+- Livingcare freedom act
 - howard jarvis
 - missouri
 - Missouri Primary

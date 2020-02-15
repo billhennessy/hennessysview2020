@@ -6,7 +6,7 @@ title: We Interrupt This World War For a Democratic Fundraiser
 layout: blog
 #url: e/2014/07/17/interrupt-world-war-democratic-fundraiser/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - Barack Obama
 - crash

@@ -6,7 +6,7 @@ title: Politics Is War By Other Means
 layout: blog
 #url: e/2015/07/15/politics-is-war-by-other-means/
 categories:
-- 'Greece grexit tsipras merkel'
+- Politics
 tags:
 - Greece
 - Grexit

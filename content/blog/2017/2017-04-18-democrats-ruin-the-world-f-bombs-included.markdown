@@ -6,7 +6,7 @@ title: Democrats Ruin the World (f-bombs included!)
 layout: blog
 #url: e/2017/04/17/democrats-ruin-the-world-f-bombs-included/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - democrats
 - North Korea

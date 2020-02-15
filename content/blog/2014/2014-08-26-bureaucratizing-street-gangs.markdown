@@ -9,7 +9,7 @@ categories:
 - News
 tags:
 - bureaucrats
-- ferguson
+- Politics
 - Lee Presser
 - own your life
 - poverty

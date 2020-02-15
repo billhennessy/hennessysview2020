@@ -7,7 +7,7 @@ layout: blog
 #url: e/2014/06/03/im-changing-mind-impeaching-obama/
 categories:
 - Crime
-- Foreign Relations
+- Politics
 tags:
 - afghanistan
 - Bergdahl

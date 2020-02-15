@@ -10,7 +10,7 @@ categories:
 tags:
 - aerotropolis
 - china hub
-- crony capitalism
+- Politics
 - dick fleming
 - paul mckee
 - RCGA

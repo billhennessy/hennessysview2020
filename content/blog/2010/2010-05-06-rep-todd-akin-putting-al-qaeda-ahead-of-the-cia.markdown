@@ -6,7 +6,7 @@ title: 'Rep. Todd Akin: Putting Al-Qaeda Ahead of the CIA?'
 layout: blog
 #url: e/2010/05/05/rep-todd-akin-putting-al-qaeda-ahead-of-the-cia/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - al-qaeda
 - big government

@@ -6,7 +6,7 @@ title: 'Healthcare Strategy: Ignore Government Diet Advice'
 layout: blog
 #url: e/2017/03/22/healthcare-strategy-ignore-government-diet-advice/
 categories:
-- Health
+- Living
 type: "post"
 ---
 

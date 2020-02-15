@@ -6,7 +6,7 @@ title: Forcing Functions
 layout: blog
 #url: e/2011/02/01/forcing-functions/
 categories:
-- Foreign Relations
+- Politics
 tags:
 - 'jan25'
 - cairo

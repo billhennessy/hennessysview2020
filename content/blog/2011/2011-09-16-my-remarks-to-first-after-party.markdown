@@ -6,7 +6,7 @@ title: My Remarks to First After Party
 layout: blog
 #url: e/2011/09/15/my-remarks-to-first-after-party/
 categories:
-- Headline
+- Politics
 - Tea Party News
 tags:
 - The After Party

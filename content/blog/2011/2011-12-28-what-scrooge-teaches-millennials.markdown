@@ -10,7 +10,7 @@ categories:
 tags:
 - Baby Boomers
 - debt
-- generation x
+- Generation X
 - Millennials
 - Scrooge
 - WWII Generation

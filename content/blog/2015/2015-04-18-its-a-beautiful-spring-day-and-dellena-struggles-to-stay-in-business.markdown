@@ -11,9 +11,9 @@ tags:
 - 'FergusonBuycott'
 - 911 Hair Salon
 - Dellana Jones
-- ferguson
-- Ferguson Recovery
-- Ferguson Riots
+- Politics
+- Politics Recovery
+- Politics Riots
 - Small business
 type: "post"
 ---

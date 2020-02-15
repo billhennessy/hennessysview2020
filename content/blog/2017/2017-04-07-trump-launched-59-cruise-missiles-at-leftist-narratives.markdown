@@ -6,7 +6,7 @@ title: Trump Launched 59 Cruise Missiles at Leftist Narratives
 layout: blog
 #url: e/2017/04/06/trump-launched-59-cruise-missiles-at-leftist-narratives/
 categories:
-- Foreign Relations
+- Politics
 - Trump
 tags:
 - syria

@@ -11,8 +11,9 @@ tags:
 - 'FergusonBuycott'
 - 'stlteaparty'
 - 'stltpc'
-- ferguson
-- free markets
+- Politics
+- Economy
+- Politics
 - happiness
 - healing
 - own your life

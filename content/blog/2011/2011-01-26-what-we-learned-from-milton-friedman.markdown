@@ -6,12 +6,14 @@ title: What We Learned from Milton Friedman
 layout: blog
 #url: e/2011/01/26/what-we-learned-from-milton-friedman/
 categories:
-- Free Markets
+- Economy
+- Politics
 tags:
 - Adam Smith
 - capitalism
 - Creating Shared Value
-- free markets
+- Economy
+- Politics
 - John Mackey
 - Milton Friedman
 - reason

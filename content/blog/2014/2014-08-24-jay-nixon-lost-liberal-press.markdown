@@ -8,7 +8,7 @@ layout: blog
 categories:
 - 'Ferguson'
 tags:
-- ferguson
+- Politics
 - Jay Nixon
 type: "post"
 ---
