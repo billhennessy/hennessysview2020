@@ -2,17 +2,37 @@
     <nav class = 'nav-menu'>
       <a href='{{ absURL "" }}' class = 'nav-brand nav_item'>{{ .Site.Title }}</a>
       <a class="subscribe" href="http://eepurl.com/gx1WCD">Subscribe</a>
+      <!-- <div class="search-box">
+      <form onsubmit="duckSearch()" action="javascript:void(0)">
+        <input id="searchField" type="text" value="" placeholder="Search...">
+    </form> -->
+  </div>
       <div class = 'nav_bar-wrap'>
         <div class = 'nav_bar'></div>
       </div> 
     </nav>
   </header>
   <style>
-    .search-box {
-      
+    .search-box .input {
+      position: absolute;
       padding: 5px;
-      text-align: center;
+      text-align: right;
       height: 30px;
       width: 40px;
     }
   </style>
+
+<script type="text/javascript">
+  function duckSearch() {
+      var searchField = document.getElementById("searchField");
+      if (window.location.hostname == "localhost") {
+    alert( "Running on localhost not a proper domain so cannot search via duckduckgo.com" );
+    return;
+    }
+      if (searchField && searchField.value) {
+        var site = "{{ .Site.BaseURL }}" ;
+          var query = escape(site + searchField.value);
+          window.location.href = "https://duckduckgo.com/?q=" + query;
+      }
+  }
+</script>
