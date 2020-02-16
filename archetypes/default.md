@@ -2,12 +2,12 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-
+url: "{{ .Name }}"
 # author
 author: "Bill Hennessy"
 
 # post thumb
-image: "/uploads/"
+image: ""
 
 # meta description
 description: "this is meta description"

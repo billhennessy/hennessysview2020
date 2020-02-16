@@ -4,7 +4,7 @@ theme = "swift"
 author = "Bill Hennessy"
 copyright = "Copyright © 2003-2020, Right Press LLC & Bill Hennessy; all rights reserved."
 canonifyurls = true
-paginate = 6
+paginate = 8
 # Enable syntax highlighting
 # comment on delete the following lines 11 ~ 13
 pygmentsCodefences = true
