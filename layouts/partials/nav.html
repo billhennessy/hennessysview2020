@@ -15,26 +15,21 @@
 {{- partial "header" . }}
 <script type="text/javascript">
   function duckSearch() {
-    var searchField = document.getElementById("searchField");
-    if (window.location.hostname == "localhost") {
-      alert("Running on localhost not a proper domain so cannot search via duckduckgo.com");
-      return;
-    }
-    // if (searchField && searchField.value) {
-    //   var site = "{{ .Site.BaseURL }}";
-    //   var query = escape("www.hennessysview.com" + searchField.value);
-    //   window.location.href = "https://duckduckgo.com/?q=" + query;
-    // }
-
-    var q = document.getElementById('searchField').value;
+   var q = document.getElementById('searchField').value;
     q = encodeURIComponent( q );
     // var site = "rv1.tech";
-    var site = "{{ .Site.BaseURL }}" ;
+    var site ='';
+    if (window.location.hostname == "localhost")
+      site = "https://www.hennessysview.com";
+    else{
+      site = " {{ .Site.BaseURL }}";
+    }
+    //var site = "{{ .Site.BaseURL }}" ;
     var url  = "https://duckduckgo.com?q=" + q + "+site:" + site; 
     console.log( url );
     window.open(url, "_self");
     }
-  }
+  
 </script>
 <style>
   input[type=text], select {
