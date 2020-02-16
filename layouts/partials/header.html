@@ -7,17 +7,3 @@
     </div>
   </nav>
 </header>
-<script type="text/javascript">
-  function duckSearch() {
-    var searchField = document.getElementById("searchField");
-    if (window.location.hostname == "localhost") {
-      alert("Running on localhost not a proper domain so cannot search via duckduckgo.com");
-      return;
-    }
-    if (searchField && searchField.value) {
-      var site = "{{ .Site.BaseURL }}";
-      var query = escape("www.hennessysview.com" + searchField.value);
-      window.location.href = "https://duckduckgo.com/?q=" + query;
-    }
-  }
-</script>
