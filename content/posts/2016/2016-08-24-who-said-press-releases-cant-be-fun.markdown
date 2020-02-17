@@ -4,7 +4,7 @@ date: 2016-08-24 22:30:32+00:00
 title: Who Said Press Releases Can't Be Fun?
 layout: blog
 draft: true
-url: /
+url: /2016/who-said-press-releases-cant-be-fun
 categories:
 - Politics
 - Politics

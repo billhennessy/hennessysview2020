@@ -4,7 +4,7 @@ date: 2018-04-23 12:14:11+00:00
 draft: false
 title: Eric Greitens in His Own Words
 
-# url: /2018/04/23/eric-greitens-in-his-own-words/
+url: /2018/04/23/eric-greitens-in-his-own-words/
 categories:
 - News
 tags:
