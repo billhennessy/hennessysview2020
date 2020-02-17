@@ -4,7 +4,7 @@ date: 2013-03-28 03:43:23+00:00
 draft: false
 title: Today Is National Stomp On Marx Day
 layout: blog
-# url: /2013/03/27/today-is-national-stomp-on-marx-day/
+url:  /2013/03/27/today-is-national-stomp-on-marx-day/
 categories:
 - Activism
 tags:

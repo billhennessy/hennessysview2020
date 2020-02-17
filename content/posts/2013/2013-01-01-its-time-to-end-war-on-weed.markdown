@@ -4,7 +4,7 @@ date: 2013-01-01 08:02:00+00:00
 draft: false
 title: It’s Time To End War On Weed
 layout: blog
-# url: /2013/01/01/its-time-to-end-war-on-weed/
+url:  /2013/01/01/its-time-to-end-war-on-weed/
 categories:
 - Politics
 tags:

@@ -4,7 +4,7 @@ date: 2018-05-26 20:52:06+00:00
 draft: false
 title: Why Is Jay Barnes So Angry?
 
-# url: /2018/05/26/why-is-greasy-jay-barnes-so-angry/
+url:  /2018/05/26/why-is-greasy-jay-barnes-so-angry/
 categories:
 - Politics
 - News

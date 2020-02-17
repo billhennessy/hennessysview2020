@@ -4,7 +4,7 @@ date: 2018-11-05 15:43:15+00:00
 draft: false
 title: How will God answer our prayers?
 
-# url: /2018/11/05/how-will-god-answer-our-prayers/
+url:  /2018/11/05/how-will-god-answer-our-prayers/
 categories:
 - Politics
 - Faith

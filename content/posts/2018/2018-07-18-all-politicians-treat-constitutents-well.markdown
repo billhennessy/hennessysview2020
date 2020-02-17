@@ -4,7 +4,7 @@ date: 2018-07-18 00:02:36+00:00
 draft: false
 title: All Politicians Treat Constitutents Well
 
-# url: /2018/07/17/all-politicians-treat-constitutents-well/
+url:  /2018/07/17/all-politicians-treat-constitutents-well/
 categories:
 - Living
 tags:

@@ -4,7 +4,7 @@ date: 2018-09-28 09:15:36+00:00
 draft: false
 title: Pray for Our Nation
 
-# url: /2018/09/28/pray-for-our-nation/
+url:  /2018/09/28/pray-for-our-nation/
 categories:
 - Faith
 - Living

@@ -5,7 +5,7 @@ draft: false
 title: 'Guest Post: Why is it that we expect more from elected public servants than
   from ourselves?'
 layout: blog
-# url: /2013/09/13/why-is-it-that-we-expect-more-from-elected-public-servants-than-from-ourselves/
+url:  /2013/09/13/why-is-it-that-we-expect-more-from-elected-public-servants-than-from-ourselves/
 categories:
 - Politics
 type: "post"

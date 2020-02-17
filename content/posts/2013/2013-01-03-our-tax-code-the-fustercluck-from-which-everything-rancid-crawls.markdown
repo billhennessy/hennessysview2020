@@ -4,7 +4,7 @@ date: 2013-01-03 01:47:29+00:00
 draft: false
 title: 'Our Tax Code: The Fustercluck From Which Everything Rancid Crawls'
 layout: blog
-# url: /2013/01/02/our-tax-code-the-fustercluck-from-which-everything-rancid-crawls/
+url:  /2013/01/02/our-tax-code-the-fustercluck-from-which-everything-rancid-crawls/
 categories:
 - Politics
 tags:

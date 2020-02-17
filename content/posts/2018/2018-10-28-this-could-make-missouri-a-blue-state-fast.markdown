@@ -4,7 +4,7 @@ date: 2018-10-28 11:33:48+00:00
 draft: false
 title: This could make Missouri a blue state fast
 
-# url: /2018/10/28/this-could-make-missouri-a-blue-state-fast/
+url:  /2018/10/28/this-could-make-missouri-a-blue-state-fast/
 categories:
 - Politics
 tags:

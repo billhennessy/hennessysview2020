@@ -4,7 +4,7 @@ date: 2018-04-26 03:16:42+00:00
 draft: false
 title: Doc of the Decade Is Almost Here. Watch the Trailer
 
-# url: /2018/04/25/doc-of-the-decade-is-almost-here-watch-the-trailer/
+url:  /2018/04/25/doc-of-the-decade-is-almost-here-watch-the-trailer/
 categories:
 - News
 tags:

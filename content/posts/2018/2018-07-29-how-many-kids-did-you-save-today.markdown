@@ -4,7 +4,7 @@ date: 2018-07-29 23:39:24+00:00
 draft: false
 title: How Many Kids Did You Save Today?
 
-# url: /2018/07/29/how-many-kids-did-you-save-today/
+url:  /2018/07/29/how-many-kids-did-you-save-today/
 categories:
 - Faith
 tags:

@@ -4,7 +4,7 @@ date: 2018-09-01 00:21:12+00:00
 draft: false
 title: Pope Emeritus Benedict Can Settle It All
 
-# url: /2018/08/31/pope-emeritus-benedict-can-settle-it-all/
+url:  /2018/08/31/pope-emeritus-benedict-can-settle-it-all/
 categories:
 - Crime
 - Faith

@@ -4,7 +4,7 @@ date: 2013-09-11 09:05:00+00:00
 draft: false
 title: Firing John Kerry Is Obama’s Only Hope for Credibility
 layout: blog
-# url: /2013/09/11/firing-john-kerry-is-obamas-only-hope-for-credibility/
+url:  /2013/09/11/firing-john-kerry-is-obamas-only-hope-for-credibility/
 categories:
 - Politics
 tags:

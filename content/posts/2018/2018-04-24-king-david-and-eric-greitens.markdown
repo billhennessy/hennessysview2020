@@ -4,7 +4,7 @@ date: 2018-04-24 11:15:29+00:00
 draft: false
 title: King David and Eric Greitens
 
-# url: /2018/04/24/king-david-and-eric-greitens/
+url:  /2018/04/24/king-david-and-eric-greitens/
 categories:
 - Politics
 tags:

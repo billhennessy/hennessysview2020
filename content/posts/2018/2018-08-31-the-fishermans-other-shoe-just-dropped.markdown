@@ -4,7 +4,7 @@ date: 2018-08-31 11:00:07+00:00
 draft: false
 title: The Fisherman's Other Shoe Just Dropped
 
-# url: /2018/08/31/the-fishermans-other-shoe-just-dropped/
+url:  /2018/08/31/the-fishermans-other-shoe-just-dropped/
 categories:
 - Crime
 - Faith

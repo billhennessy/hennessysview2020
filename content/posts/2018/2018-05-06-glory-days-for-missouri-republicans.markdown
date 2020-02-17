@@ -4,7 +4,7 @@ date: 2018-05-06 12:06:28+00:00
 draft: false
 title: Glory Days for Missouri Republicans
 
-# url: /2018/05/06/glory-days-for-missouri-republicans/
+url:  /2018/05/06/glory-days-for-missouri-republicans/
 categories:
 - Politics
 tags:

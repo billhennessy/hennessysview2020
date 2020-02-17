@@ -4,7 +4,7 @@ date: 2018-08-30 01:36:51+00:00
 draft: false
 title: Take the Leap of Faith
 
-# url: /2018/08/29/take-the-leap-of-faith/
+url:  /2018/08/29/take-the-leap-of-faith/
 categories:
 - Faith
 type: "post"

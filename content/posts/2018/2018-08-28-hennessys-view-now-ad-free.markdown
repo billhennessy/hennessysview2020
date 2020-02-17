@@ -4,7 +4,7 @@ date: 2018-08-28 23:49:37+00:00
 draft: false
 title: Hennessy's View Now Ad-Free!
 
-# url: /2018/08/28/hennessys-view-now-ad-free/
+url:  /2018/08/28/hennessys-view-now-ad-free/
 categories:
 - Living
 type: "post"

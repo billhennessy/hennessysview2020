@@ -4,7 +4,7 @@ date: 2013-04-11 05:24:35+00:00
 draft: false
 title: Kudos to President Obama For Touching the Third Rail
 layout: blog
-# url: /2013/04/11/kudos-to-president-obama-for-touching-the-third-rail/
+url:  /2013/04/11/kudos-to-president-obama-for-touching-the-third-rail/
 categories:
 - Politics
 tags:

@@ -5,7 +5,7 @@ draft: false
 title: The Best Grilling Of Bernanke Came From Senator Elizabeth Warren And Republicans
   Should Be Ashamed
 layout: blog
-# url: /2013/02/26/the-best-grilling-of-bernanke-came-from-senator-elizabeth-warren-and-republicans-should-be-ashamed/
+url:  /2013/02/26/the-best-grilling-of-bernanke-came-from-senator-elizabeth-warren-and-republicans-should-be-ashamed/
 categories:
 - Politics
 tags:

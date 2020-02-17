@@ -4,7 +4,7 @@ date: 2013-03-17 04:53:51+00:00
 draft: false
 title: Here's Why John Danforth's Attack On Ed Martin Is So Bad for the GOP
 layout: blog
-# url: /2013/03/16/dear-senator-danforth-rockefeller-is-dead-and-so-is-your-message/
+url:  /2013/03/16/dear-senator-danforth-rockefeller-is-dead-and-so-is-your-message/
 categories:
 - Politics
 tags:

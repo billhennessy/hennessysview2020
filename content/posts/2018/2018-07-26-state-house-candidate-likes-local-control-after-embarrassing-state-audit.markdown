@@ -4,7 +4,7 @@ date: 2018-07-26 01:11:15+00:00
 draft: false
 title: State House Candidate Likes Local Control after Embarrassing State Audit
 
-# url: /2018/07/25/state-house-candidate-likes-local-control-after-embarrassing-state-audit/
+url:  /2018/07/25/state-house-candidate-likes-local-control-after-embarrassing-state-audit/
 categories:
 - Politics
 tags:

@@ -4,7 +4,7 @@ date: 2018-09-10 12:10:06+00:00
 draft: false
 title: How God Uses Dogs
 
-# url: /2018/09/10/how-god-uses-dogs/
+url:  /2018/09/10/how-god-uses-dogs/
 categories:
 - Faith
 type: "post"

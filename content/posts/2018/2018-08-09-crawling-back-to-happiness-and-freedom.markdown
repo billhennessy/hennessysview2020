@@ -4,7 +4,7 @@ date: 2018-08-09 04:04:30+00:00
 draft: false
 title: Crawling Back to Happiness and Freedom
 
-# url: /2018/08/08/crawling-back-to-happiness-and-freedom/
+url:  /2018/08/08/crawling-back-to-happiness-and-freedom/
 categories:
 - Faith
 - Living

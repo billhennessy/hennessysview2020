@@ -4,7 +4,7 @@ date: 2013-09-12 09:05:00+00:00
 draft: false
 title: Who Will Be America’s Clothing Czar
 layout: blog
-# url: /2013/09/12/who-will-be-americas-clothing-czar/
+url:  /2013/09/12/who-will-be-americas-clothing-czar/
 categories:
 - Politics
 - Politics

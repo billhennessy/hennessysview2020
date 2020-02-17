@@ -4,7 +4,7 @@ date: 2018-08-26 17:15:27+00:00
 draft: false
 title: Why Do You Stay?
 
-# url: /2018/08/26/why-do-you-stay/
+url:  /2018/08/26/why-do-you-stay/
 categories:
 - Faith
 - Living

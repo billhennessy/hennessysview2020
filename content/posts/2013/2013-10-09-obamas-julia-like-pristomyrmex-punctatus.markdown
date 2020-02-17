@@ -4,7 +4,7 @@ date: 2013-10-09 01:41:46+00:00
 draft: false
 title: How is Obama's Julia Like Pristomyrmex Punctatus?
 layout: blog
-# url: /2013/10/08/obamas-julia-like-pristomyrmex-punctatus/
+url:  /2013/10/08/obamas-julia-like-pristomyrmex-punctatus/
 categories:
 - Living
 tags:

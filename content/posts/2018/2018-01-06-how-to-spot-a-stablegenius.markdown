@@ -4,7 +4,7 @@ date: 2018-01-06 17:55:03+00:00
 draft: false
 title: 'How to spot a #StableGenius'
 
-# url: /2018/01/06/how-to-spot-a-stablegenius/
+url:  /2018/01/06/how-to-spot-a-stablegenius/
 categories:
 - Donald Trump
 tags:

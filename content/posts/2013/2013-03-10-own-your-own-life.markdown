@@ -4,7 +4,7 @@ date: 2013-03-10 14:27:00+00:00
 draft: false
 title: This Is What It’s Like To Take Ownership Of Your Own Life
 layout: blog
-# url: /2013/03/10/own-your-own-life/
+url:  /2013/03/10/own-your-own-life/
 categories:
 - Living
 tags:

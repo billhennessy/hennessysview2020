@@ -4,7 +4,7 @@ date: 2018-08-22 00:58:21+00:00
 draft: false
 title: You Need the Church Christ Founded
 
-# url: /2018/08/21/you-need-church-christ-founded/
+url:  /2018/08/21/you-need-church-christ-founded/
 categories:
 - Faith
 - Living

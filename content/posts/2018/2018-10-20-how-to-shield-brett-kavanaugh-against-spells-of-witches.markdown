@@ -4,7 +4,7 @@ date: 2018-10-20 14:08:05+00:00
 draft: false
 title: How to shield Brett Kavanaugh against spells of witches
 
-# url: /2018/10/20/how-to-shield-brett-kavanaugh-against-spells-of-witches/
+url:  /2018/10/20/how-to-shield-brett-kavanaugh-against-spells-of-witches/
 categories:
 - Faith
 - Living

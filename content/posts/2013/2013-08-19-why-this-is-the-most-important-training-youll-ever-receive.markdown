@@ -4,7 +4,7 @@ date: 2013-08-19 10:00:00+00:00
 draft: false
 title: Why Self-governance Training Is the Most Important Training You’ll Ever Receive
 layout: blog
-# url: /2013/08/19/why-this-is-the-most-important-training-youll-ever-receive/
+url:  /2013/08/19/why-this-is-the-most-important-training-youll-ever-receive/
 categories:
 - Activism
 - Politics

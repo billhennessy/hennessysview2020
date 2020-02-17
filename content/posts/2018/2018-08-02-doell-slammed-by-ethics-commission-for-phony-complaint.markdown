@@ -4,7 +4,7 @@ date: 2018-08-02 21:03:47+00:00
 draft: false
 title: Doell Slammed by Ethics Commission for Phony Complaint
 
-# url: /2018/08/02/doell-slammed-by-ethics-commission-for-phony-complaint/
+url:  /2018/08/02/doell-slammed-by-ethics-commission-for-phony-complaint/
 categories:
 - Politics
 tags:

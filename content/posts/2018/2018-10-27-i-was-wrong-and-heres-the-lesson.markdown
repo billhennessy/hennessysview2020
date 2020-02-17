@@ -4,7 +4,7 @@ date: 2018-10-27 13:20:56+00:00
 draft: false
 title: I was wrong! And here's the lesson
 
-# url: /2018/10/27/i-was-wrong-and-heres-the-lesson/
+url:  /2018/10/27/i-was-wrong-and-heres-the-lesson/
 categories:
 - Living
 tags:

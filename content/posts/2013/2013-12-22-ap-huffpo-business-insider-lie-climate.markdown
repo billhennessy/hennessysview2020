@@ -4,7 +4,7 @@ date: 2013-12-22 21:03:19+00:00
 draft: false
 title: How the AP, Huffpo, and Business Insider Lie About Climate
 layout: blog
-# url: /2013/12/22/ap-huffpo-business-insider-lie-climate/
+url:  /2013/12/22/ap-huffpo-business-insider-lie-climate/
 categories:
 - global-warming
 type: "post"

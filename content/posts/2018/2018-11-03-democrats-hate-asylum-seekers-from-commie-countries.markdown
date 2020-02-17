@@ -4,7 +4,7 @@ date: 2018-11-03 13:09:23+00:00
 draft: false
 title: Democrats Hate Asylum Seekers From Commie Countries
 
-# url: /2018/11/03/democrats-hate-asylum-seekers-from-commie-countries/
+url:  /2018/11/03/democrats-hate-asylum-seekers-from-commie-countries/
 categories:
 - Politics
 tags:

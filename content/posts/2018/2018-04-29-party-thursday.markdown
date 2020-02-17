@@ -4,7 +4,7 @@ date: 2018-04-29 12:46:47+00:00
 draft: false
 title: Party Thursday!
 
-# url: /2018/04/29/party-thursday/
+url:  /2018/04/29/party-thursday/
 categories:
 - News
 tags:

@@ -4,7 +4,7 @@ date: 2018-08-10 21:20:57+00:00
 draft: false
 title: Follow-up to Yesterday's Post
 
-# url: /2018/08/10/follow-up-to-yesterdays-post/
+url:  /2018/08/10/follow-up-to-yesterdays-post/
 categories:
 - Faith
 tags:

@@ -4,7 +4,7 @@ date: 2018-07-06 03:09:14+00:00
 draft: false
 title: An Awesome Prayer to Start Your Day
 
-# url: /2018/07/05/an-awesome-prayer-to-start-your-day/
+url:  /2018/07/05/an-awesome-prayer-to-start-your-day/
 categories:
 - Faith
 - Living

@@ -4,7 +4,7 @@ date: 2018-10-20 17:57:34+00:00
 draft: false
 title: Are These Woman as Stupid as They Say?
 
-# url: /2018/10/20/are-these-woman-as-stupid-as-they-say/
+url:  /2018/10/20/are-these-woman-as-stupid-as-they-say/
 categories:
 - Politics
 tags:

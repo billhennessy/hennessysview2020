@@ -4,7 +4,7 @@ date: 2018-10-06 19:56:39+00:00
 draft: false
 title: How did I get the Kavanaugh vote so wrong?
 
-# url: /2018/10/06/how-did-i-get-the-kavanaugh-vote-so-wrong/
+url:  /2018/10/06/how-did-i-get-the-kavanaugh-vote-so-wrong/
 categories:
 - Politics
 tags:

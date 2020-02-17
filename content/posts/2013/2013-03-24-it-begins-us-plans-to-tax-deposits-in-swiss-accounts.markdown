@@ -4,7 +4,7 @@ date: 2013-03-24 21:05:32+00:00
 draft: false
 title: 'It Begins: US Plans to Tax Deposits in Swiss Accounts'
 layout: blog
-# url: /2013/03/24/it-begins-us-plans-to-tax-deposits-in-swiss-accounts/
+url:  /2013/03/24/it-begins-us-plans-to-tax-deposits-in-swiss-accounts/
 type: "post"
 ---
 

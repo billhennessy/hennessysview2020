@@ -4,7 +4,7 @@ date: 2018-08-04 14:56:46+00:00
 draft: false
 title: 'Matt Doell: The Ru Paul of Eureka'
 
-# url: /2018/08/04/matt-doell-the-ru-paul-of-eureka/
+url:  /2018/08/04/matt-doell-the-ru-paul-of-eureka/
 categories:
 - Politics
 - Politics

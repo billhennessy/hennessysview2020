@@ -4,7 +4,7 @@ date: 2018-08-05 14:18:30+00:00
 draft: false
 title: 'Urgent: We Need Poll Sitters'
 
-# url: /2018/08/05/urgent-we-need-poll-sitters/
+url:  /2018/08/05/urgent-we-need-poll-sitters/
 categories:
 - Politics
 tags:

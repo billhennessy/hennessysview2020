@@ -4,7 +4,7 @@ date: 2018-09-27 01:32:53+00:00
 draft: false
 title: 'Amy Coney Barrett: Remember Her Name'
 
-# url: /2018/09/26/amy-coney-barrett-remember-her-name/
+url:  /2018/09/26/amy-coney-barrett-remember-her-name/
 categories:
 - Politics
 type: "post"

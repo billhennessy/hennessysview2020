@@ -4,7 +4,7 @@ date: 2018-09-19 02:15:22+00:00
 draft: false
 title: Rosary Coast-to-Coast October 7—Pray for America! *UPDATE*
 
-# url: /2018/09/18/rosary-coast-to-coast-october-7-pray-for-america/
+url:  /2018/09/18/rosary-coast-to-coast-october-7-pray-for-america/
 categories:
 - Activism
 - Faith

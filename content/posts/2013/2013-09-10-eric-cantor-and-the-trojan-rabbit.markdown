@@ -4,7 +4,7 @@ date: 2013-09-10 22:15:18+00:00
 draft: false
 title: Eric Cantor and the Trojan Rabbit
 layout: blog
-# url: /2013/09/10/eric-cantor-and-the-trojan-rabbit/
+url:  /2013/09/10/eric-cantor-and-the-trojan-rabbit/
 categories:
 - Politics
 tags:

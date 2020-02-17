@@ -4,7 +4,7 @@ date: 2018-10-02 10:03:32+00:00
 draft: false
 title: You Will Be Punished Efficiently
 
-# url: /2018/10/02/you-will-be-punished-efficiently/
+url:  /2018/10/02/you-will-be-punished-efficiently/
 categories:
 - Politics
 tags:

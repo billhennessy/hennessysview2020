@@ -4,7 +4,7 @@ date: 2018-05-17 11:35:03+00:00
 draft: false
 title: Descend on Jefferson City
 
-# url: /2018/05/17/descend-on-jefferson-city/
+url:  /2018/05/17/descend-on-jefferson-city/
 categories:
 - Activism
 tags:

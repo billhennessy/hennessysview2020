@@ -4,7 +4,7 @@ date: 2018-10-14 20:50:58+00:00
 draft: false
 title: The secret to holding the House of Representatives
 
-# url: /2018/10/14/the-secret-to-holding-the-house-of-representatives/
+url:  /2018/10/14/the-secret-to-holding-the-house-of-representatives/
 categories:
 - Living
 type: "post"

@@ -4,7 +4,7 @@ date: 2013-10-01 00:36:13+00:00
 draft: false
 title: Shutdown Week Could Turn Into Big Win for Republicans
 layout: blog
-# url: /2013/09/30/shutdown-week-republicans-winning/
+url:  /2013/09/30/shutdown-week-republicans-winning/
 categories:
 - Politics
 tags:

@@ -4,7 +4,7 @@ date: 2018-05-17 03:25:23+00:00
 draft: false
 title: Poll Your Missouri State Rep Now
 
-# url: /2018/05/16/poll-your-missouri-state-rep-now/
+url:  /2018/05/16/poll-your-missouri-state-rep-now/
 categories:
 - Politics
 - Politics

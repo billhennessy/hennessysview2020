@@ -4,7 +4,7 @@ date: 2018-09-03 12:41:41+00:00
 draft: false
 title: Did Pope Francis and Vatican Sec State Admit Viganò's Testimony?
 
-# url: /2018/09/03/did-pope-francis-and-vatican-sec-state-admit-viganos-testimony/
+url:  /2018/09/03/did-pope-francis-and-vatican-sec-state-admit-viganos-testimony/
 categories:
 - Crime
 - Faith

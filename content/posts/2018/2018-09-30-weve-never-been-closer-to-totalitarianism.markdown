@@ -4,7 +4,7 @@ date: 2018-09-30 13:28:38+00:00
 draft: false
 title: We've Never Been Closer to Totalitarianism
 
-# url: /2018/09/30/weve-never-been-closer-to-totalitarianism/
+url:  /2018/09/30/weve-never-been-closer-to-totalitarianism/
 categories:
 - Faith
 - Politics

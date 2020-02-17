@@ -4,7 +4,7 @@ date: 2013-03-20 14:30:00+00:00
 draft: false
 title: How the Condorcet Method Could Save The GOP
 layout: blog
-# url: /2013/03/20/how-the-condorcet-method-could-save-the-gop/
+url:  /2013/03/20/how-the-condorcet-method-could-save-the-gop/
 categories:
 - Politics
 tags:

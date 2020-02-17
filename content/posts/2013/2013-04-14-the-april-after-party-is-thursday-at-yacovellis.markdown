@@ -4,7 +4,7 @@ date: 2013-04-14 13:01:28+00:00
 draft: false
 title: The April After Party is Thursday at Yacovelli’s
 layout: blog
-# url: /2013/04/14/the-april-after-party-is-thursday-at-yacovellis/
+url:  /2013/04/14/the-april-after-party-is-thursday-at-yacovellis/
 type: "post"
 ---
 

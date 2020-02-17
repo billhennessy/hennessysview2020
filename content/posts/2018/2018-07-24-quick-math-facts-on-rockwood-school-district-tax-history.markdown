@@ -5,7 +5,7 @@ draft: false
 title: 'Quick Math Facts on Rockwood School District Tax History. UPDATE: RDS Servers
   Bouncing?'
 
-# url: /2018/07/23/quick-math-facts-on-rockwood-school-district-tax-history/
+url:  /2018/07/23/quick-math-facts-on-rockwood-school-district-tax-history/
 categories:
 - Politics
 - Politics

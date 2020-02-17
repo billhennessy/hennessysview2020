@@ -4,7 +4,7 @@ date: 2018-07-31 23:28:46+00:00
 draft: false
 title: Bad Judgment on Rockwood School Board (or something worse?)
 
-# url: /2018/07/31/bad-judgment-rockwood-school-board/
+url:  /2018/07/31/bad-judgment-rockwood-school-board/
 categories:
 - Politics
 - Politics

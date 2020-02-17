@@ -4,7 +4,7 @@ date: 2018-11-04 14:54:45+00:00
 draft: false
 title: Election Day Spiritual Warfare
 
-# url: /2018/11/04/election-day-spiritual-warfare/
+url:  /2018/11/04/election-day-spiritual-warfare/
 categories:
 - Politics
 - Faith

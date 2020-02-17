@@ -4,7 +4,7 @@ date: 2018-04-21 00:33:49+00:00
 draft: false
 title: Yellow Josh "Hee" Hawley
 
-# url: /2018/04/20/yellow-josh-hee-hawley/
+url:  /2018/04/20/yellow-josh-hee-hawley/
 categories:
 - Politics
 tags:

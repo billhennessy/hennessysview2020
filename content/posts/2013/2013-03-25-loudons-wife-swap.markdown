@@ -4,7 +4,7 @@ date: 2013-03-25 23:10:00+00:00
 draft: false
 title: Before You Slam the Loudons for Reality TV Show, Watch This
 layout: blog
-# url: /2013/03/25/loudons-wife-swap/
+url:  /2013/03/25/loudons-wife-swap/
 categories:
 - Activism
 tags:

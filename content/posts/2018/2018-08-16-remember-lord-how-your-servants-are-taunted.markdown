@@ -4,7 +4,7 @@ date: 2018-08-16 22:05:35+00:00
 draft: false
 title: Remember, Lord, how your servants are taunted (because of the sex abuse scandal)
 
-# url: /2018/08/16/remember-lord-how-your-servants-are-taunted/
+url:  /2018/08/16/remember-lord-how-your-servants-are-taunted/
 categories:
 - Faith
 tags:

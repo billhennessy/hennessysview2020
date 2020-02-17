@@ -4,7 +4,7 @@ date: 2018-06-17 15:10:37+00:00
 draft: false
 title: Father's Day
 
-# url: /2018/06/17/fathers-day-3/
+url:  /2018/06/17/fathers-day-3/
 categories:
 - Living
 type: "post"

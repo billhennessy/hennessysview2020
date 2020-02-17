@@ -4,7 +4,7 @@ date: 2013-02-24 13:17:08+00:00
 draft: false
 title: The Republican Party Seems Bent On Self-Destruction
 layout: blog
-# url: /2013/02/24/the-republican-party-seems-bent-on-destruction/
+url:  /2013/02/24/the-republican-party-seems-bent-on-destruction/
 categories:
 - Politics
 tags:

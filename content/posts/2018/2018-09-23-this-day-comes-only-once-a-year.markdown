@@ -4,7 +4,7 @@ date: 2018-09-23 15:42:10+00:00
 draft: false
 title: This Day Comes Only Once a Year
 
-# url: /2018/09/23/this-day-comes-only-once-a-year/
+url:  /2018/09/23/this-day-comes-only-once-a-year/
 categories:
 - Activism
 - Faith

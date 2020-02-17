@@ -4,7 +4,7 @@ date: 2018-10-29 11:00:29+00:00
 draft: false
 title: The Secret to a Better Life and Less Political Violence Is Here
 
-# url: /2018/10/29/this-will-make-your-life-better-no-matter-how-the-elections-turn-out/
+url:  /2018/10/29/this-will-make-your-life-better-no-matter-how-the-elections-turn-out/
 categories:
 - Crime
 - Politics

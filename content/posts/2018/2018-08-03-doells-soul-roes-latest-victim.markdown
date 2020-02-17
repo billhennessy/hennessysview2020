@@ -4,7 +4,7 @@ date: 2018-08-03 01:09:51+00:00
 draft: false
 title: Doell's Soul Roe's Latest Victim
 
-# url: /2018/08/02/doells-soul-roes-latest-victim/
+url:  /2018/08/02/doells-soul-roes-latest-victim/
 categories:
 - Politics
 tags:

@@ -4,7 +4,7 @@ date: 2018-11-01 11:49:21+00:00
 draft: false
 title: What do Stoics and Catholics Have in Common?
 
-# url: /2018/11/01/what-do-stoics-and-catholics-have-in-common/
+url:  /2018/11/01/what-do-stoics-and-catholics-have-in-common/
 categories:
 - Faith
 - Living

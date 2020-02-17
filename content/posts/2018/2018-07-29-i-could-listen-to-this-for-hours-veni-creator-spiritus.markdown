@@ -4,7 +4,7 @@ date: 2018-07-29 11:05:44+00:00
 draft: false
 title: 'I could listen to this for hours: Veni Creator Spiritus'
 
-# url: /2018/07/29/i-could-listen-to-this-for-hours-veni-creator-spiritus/
+url:  /2018/07/29/i-could-listen-to-this-for-hours-veni-creator-spiritus/
 categories:
 - Faith
 - Living

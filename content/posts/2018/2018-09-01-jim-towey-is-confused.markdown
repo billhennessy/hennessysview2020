@@ -4,7 +4,7 @@ date: 2018-09-01 18:24:45+00:00
 draft: false
 title: Jim Towey Is Confused
 
-# url: /2018/09/01/jim-towey-is-confused/
+url:  /2018/09/01/jim-towey-is-confused/
 categories:
 - Crime
 - Faith

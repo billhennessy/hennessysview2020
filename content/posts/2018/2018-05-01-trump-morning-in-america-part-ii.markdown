@@ -4,7 +4,7 @@ date: 2018-05-01 12:12:23+00:00
 draft: false
 title: 'Trump: Morning in America Part II'
 
-# url: /2018/05/01/trump-morning-in-america-part-ii/
+url:  /2018/05/01/trump-morning-in-america-part-ii/
 categories:
 - Donald Trump
 tags:

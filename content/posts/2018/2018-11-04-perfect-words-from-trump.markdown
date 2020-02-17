@@ -4,7 +4,7 @@ date: 2018-11-04 12:23:21+00:00
 draft: false
 title: Perfect Words from Trump
 
-# url: /2018/11/04/perfect-words-from-trump/
+url:  /2018/11/04/perfect-words-from-trump/
 categories:
 - Politics
 tags:

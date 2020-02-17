@@ -4,7 +4,7 @@ date: 2013-12-18 22:55:45+00:00
 draft: false
 title: Here's a Secret about the GOP My Friends Told Me Not To Share
 layout: blog
-# url: /2013/12/18/heres-secret-gop-friends-told-share/
+url:  /2013/12/18/heres-secret-gop-friends-told-share/
 categories:
 - Politics
 - News

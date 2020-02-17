@@ -4,7 +4,7 @@ date: 2018-09-02 14:11:06+00:00
 draft: false
 title: Why Would I Do This Now?
 
-# url: /2018/09/02/why-would-i-do-this-now/
+url:  /2018/09/02/why-would-i-do-this-now/
 categories:
 - Faith
 tags:

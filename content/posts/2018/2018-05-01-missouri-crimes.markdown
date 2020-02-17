@@ -4,7 +4,7 @@ date: 2018-05-01 04:29:20+00:00
 draft: false
 title: Missouri Crimes
 
-# url: /2018/04/30/missouri-crimes/
+url:  /2018/04/30/missouri-crimes/
 categories:
 - Politics
 - News

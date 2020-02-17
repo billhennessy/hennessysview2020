@@ -4,7 +4,7 @@ date: 2018-08-11 09:45:00+00:00
 draft: false
 title: How I Deal With the Pope's Teaching on the Death Penalty
 
-# url: /2018/08/11/how-i-deal-with-the-popes-teaching-on-the-death-penalty/
+url:  /2018/08/11/how-i-deal-with-the-popes-teaching-on-the-death-penalty/
 categories:
 - Faith
 - Living

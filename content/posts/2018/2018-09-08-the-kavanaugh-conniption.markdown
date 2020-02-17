@@ -4,7 +4,7 @@ date: 2018-09-08 20:08:00+00:00
 draft: false
 title: The  Kavanaugh Conniption
 
-# url: /2018/09/08/the-kavanaugh-conniption/
+url:  /2018/09/08/the-kavanaugh-conniption/
 categories:
 - Faith
 tags:

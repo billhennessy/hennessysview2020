@@ -4,7 +4,7 @@ date: 2018-08-04 22:05:44+00:00
 draft: false
 title: Listen to Napoleon
 
-# url: /2018/08/04/listen-to-napoleon/
+url:  /2018/08/04/listen-to-napoleon/
 categories:
 - Politics
 type: "post"

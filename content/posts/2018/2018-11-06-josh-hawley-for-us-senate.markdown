@@ -4,7 +4,7 @@ date: 2018-11-06 02:09:32+00:00
 draft: false
 title: Josh Hawley for US Senate
 
-# url: /2018/11/05/josh-hawley-for-us-senate/
+url:  /2018/11/05/josh-hawley-for-us-senate/
 categories:
 - Politics
 tags:

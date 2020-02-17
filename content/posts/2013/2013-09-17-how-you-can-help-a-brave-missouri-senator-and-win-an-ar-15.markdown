@@ -4,7 +4,7 @@ date: 2013-09-17 23:04:23+00:00
 draft: false
 title: How You Can Help a Brave Missouri Senator and Win an AR-15
 layout: blog
-# url: /2013/09/17/how-you-can-help-a-brave-missouri-senator-and-win-an-ar-15/
+url:  /2013/09/17/how-you-can-help-a-brave-missouri-senator-and-win-an-ar-15/
 categories:
 - Politics
 tags:

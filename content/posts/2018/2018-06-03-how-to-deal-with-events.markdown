@@ -4,7 +4,7 @@ date: 2018-06-03 16:34:04+00:00
 draft: false
 title: How to Deal With Events
 
-# url: /2018/06/03/how-to-deal-with-events/
+url:  /2018/06/03/how-to-deal-with-events/
 categories:
 - Stoicism
 tags:

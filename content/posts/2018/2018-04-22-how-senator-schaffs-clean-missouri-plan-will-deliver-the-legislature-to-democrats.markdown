@@ -5,7 +5,7 @@ draft: false
 title: How Senator Schaff's "Clean Missouri" Plan Will Deliver the Legislature to
   Democrats
 
-# url: /2018/04/22/how-senator-schaffs-clean-missouri-plan-will-deliver-the-legislature-to-democrats/
+url:  /2018/04/22/how-senator-schaffs-clean-missouri-plan-will-deliver-the-legislature-to-democrats/
 categories:
 - News
 tags:

@@ -4,7 +4,7 @@ date: 2018-08-10 09:19:37+00:00
 draft: false
 title: What Should We Do Next?
 
-# url: /2018/08/10/what-should-we-do-next/
+url:  /2018/08/10/what-should-we-do-next/
 categories:
 - Faith
 tags:

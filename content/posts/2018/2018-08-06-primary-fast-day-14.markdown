@@ -4,7 +4,7 @@ date: 2018-08-06 14:41:53+00:00
 draft: false
 title: 'Primary Fast: Day 14'
 
-# url: /2018/08/06/primary-fast-day-14/
+url:  /2018/08/06/primary-fast-day-14/
 categories:
 - Politics
 - Faith

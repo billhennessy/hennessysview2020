@@ -4,7 +4,7 @@ date: 2018-08-24 14:08:40+00:00
 draft: false
 title: A Bishop Does the Right Thing and the Post-Dispatch Deceives You
 
-# url: /2018/08/24/a-bishop-does-the-right-thing-and-the-post-dispatch-deceives-you/
+url:  /2018/08/24/a-bishop-does-the-right-thing-and-the-post-dispatch-deceives-you/
 categories:
 - Living
 tags:

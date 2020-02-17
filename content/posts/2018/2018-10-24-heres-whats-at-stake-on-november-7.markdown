@@ -4,7 +4,7 @@ date: 2018-10-24 10:55:58+00:00
 draft: false
 title: Here's what's at stake on November 7
 
-# url: /2018/10/24/heres-whats-at-stake-on-november-7/
+url:  /2018/10/24/heres-whats-at-stake-on-november-7/
 categories:
 - Politics
 tags:

@@ -4,7 +4,7 @@ date: 2018-09-04 14:04:08+00:00
 draft: false
 title: But What If the Holy Father Is Right?
 
-# url: /2018/09/04/but-what-if-the-holy-father-is-right/
+url:  /2018/09/04/but-what-if-the-holy-father-is-right/
 categories:
 - Faith
 tags:

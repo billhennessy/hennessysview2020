@@ -4,7 +4,7 @@ date: 2013-09-05 09:30:00+00:00
 draft: false
 title: Have You Noticed How Political Lines Are Blurring?
 layout: blog
-# url: /2013/09/05/have-you-noticed-how-political-lines-are-blurring/
+url:  /2013/09/05/have-you-noticed-how-political-lines-are-blurring/
 categories:
 - Politics
 - Politics

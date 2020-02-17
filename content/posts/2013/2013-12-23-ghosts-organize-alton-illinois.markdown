@@ -4,7 +4,7 @@ date: 2013-12-23 00:04:12+00:00
 draft: false
 title: Ghosts Organize in Alton, Illinois
 layout: blog
-# url: /2013/12/22/ghosts-organize-alton-illinois/
+url:  /2013/12/22/ghosts-organize-alton-illinois/
 categories:
 - Satire
 type: "post"

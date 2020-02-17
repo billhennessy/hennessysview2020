@@ -4,7 +4,7 @@ date: 2018-08-14 14:04:16+00:00
 draft: false
 title: The Power of Praise
 
-# url: /2018/08/14/the-power-of-praise/
+url:  /2018/08/14/the-power-of-praise/
 categories:
 - Faith
 - Living

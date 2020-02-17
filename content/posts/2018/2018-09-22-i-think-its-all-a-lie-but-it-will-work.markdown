@@ -4,7 +4,7 @@ date: 2018-09-22 16:40:10+00:00
 draft: false
 title: I think it's all a lie, but it will work
 
-# url: /2018/09/22/i-think-its-all-a-lie-but-it-will-work/
+url:  /2018/09/22/i-think-its-all-a-lie-but-it-will-work/
 categories:
 - Living
 type: "post"

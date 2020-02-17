@@ -4,7 +4,7 @@ date: 2013-03-24 20:29:03+00:00
 draft: false
 title: Palm Sunday Snowstorm of 2013
 layout: blog
-# url: /2013/03/24/snowstorm-of-2013/
+url:  /2013/03/24/snowstorm-of-2013/
 post_format:
 - Gallery
 tags:

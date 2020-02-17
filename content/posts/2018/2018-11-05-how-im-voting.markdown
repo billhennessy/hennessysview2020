@@ -4,7 +4,7 @@ date: 2018-11-05 12:04:00+00:00
 draft: false
 title: How I'm Voting
 
-# url: /2018/11/05/how-im-voting/
+url:  /2018/11/05/how-im-voting/
 categories:
 - Politics
 - Living

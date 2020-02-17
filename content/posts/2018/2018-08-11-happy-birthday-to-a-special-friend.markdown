@@ -4,7 +4,7 @@ date: 2018-08-11 14:50:27+00:00
 draft: false
 title: Happy Birthday to a Special Friend
 
-# url: /2018/08/11/happy-birthday-to-a-special-friend/
+url:  /2018/08/11/happy-birthday-to-a-special-friend/
 categories:
 - Faith
 tags:

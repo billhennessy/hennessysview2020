@@ -4,7 +4,7 @@ date: 2018-08-06 17:47:15+00:00
 draft: false
 title: How I'm Voting August 7
 
-# url: /2018/08/06/how-im-voting-august-7/
+url:  /2018/08/06/how-im-voting-august-7/
 categories:
 - Living
 type: "post"

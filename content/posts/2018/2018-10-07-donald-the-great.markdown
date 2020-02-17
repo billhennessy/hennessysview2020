@@ -4,7 +4,7 @@ date: 2018-10-07 01:05:57+00:00
 draft: false
 title: Donald the Great
 
-# url: /2018/10/06/donald-the-great/
+url:  /2018/10/06/donald-the-great/
 categories:
 - Donald Trump
 type: "post"

@@ -4,7 +4,7 @@ date: 2018-01-16 02:46:39+00:00
 draft: false
 title: I’m 100% with Governor Greitens
 
-# url: /2018/01/15/im-100-with-governor-greitens/
+url:  /2018/01/15/im-100-with-governor-greitens/
 categories:
 - News
 type: "post"

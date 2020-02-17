@@ -4,7 +4,7 @@ date: 2013-01-06 02:39:04+00:00
 draft: false
 title: Ed Martin’s Grit Overwhelms Establishment’s Power
 layout: blog
-# url: /2013/01/05/ed-martins-grit-overwhelms-establishments-power/
+url:  /2013/01/05/ed-martins-grit-overwhelms-establishments-power/
 categories:
 - Politics
 tags:

@@ -4,7 +4,7 @@ date: 2013-03-20 10:15:00+00:00
 draft: false
 title: 'The Weednesday Post: You Want the UN Deciding Your State’s Laws?'
 layout: blog
-# url: /2013/03/20/the-weednesday-post-you-want-the-un-deciding-your-states-laws/
+url:  /2013/03/20/the-weednesday-post-you-want-the-un-deciding-your-states-laws/
 categories:
 - Politics
 tags:

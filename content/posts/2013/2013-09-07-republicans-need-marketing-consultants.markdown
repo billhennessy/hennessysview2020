@@ -4,7 +4,7 @@ date: 2013-09-07 05:24:35+00:00
 draft: false
 title: Republicans Need Marketing Consultants
 layout: blog
-# url: /2013/09/07/republicans-need-marketing-consultants/
+url:  /2013/09/07/republicans-need-marketing-consultants/
 categories:
 - Politics
 type: "post"

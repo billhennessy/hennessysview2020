@@ -4,7 +4,7 @@ date: 2013-03-13 19:47:59+00:00
 draft: false
 title: 'Breaking: Dem Appointed Director of Missouri Revenue Caught Lying to Senate'
 layout: blog
-# url: /2013/03/13/breaking-dem-appointed-director-of-missouri-revenue-caught-lying-to-senate/
+url:  /2013/03/13/breaking-dem-appointed-director-of-missouri-revenue-caught-lying-to-senate/
 categories:
 - Politics
 - Politics

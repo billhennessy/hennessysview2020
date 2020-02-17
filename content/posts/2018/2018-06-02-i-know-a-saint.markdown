@@ -4,7 +4,7 @@ date: 2018-06-02 14:07:54+00:00
 draft: false
 title: I Know a Saint
 
-# url: /2018/06/02/i-know-a-saint/
+url:  /2018/06/02/i-know-a-saint/
 categories:
 - Faith
 - Living

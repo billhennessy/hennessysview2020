@@ -4,7 +4,7 @@ date: 2013-03-19 09:30:00+00:00
 draft: false
 title: Vote No on Proposition P on April 2
 layout: blog
-# url: /2013/03/19/vote-no-on-proposition-p-on-april-2/
+url:  /2013/03/19/vote-no-on-proposition-p-on-april-2/
 categories:
 - Politics
 tags:

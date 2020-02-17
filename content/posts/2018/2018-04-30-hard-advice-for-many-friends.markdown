@@ -4,7 +4,7 @@ date: 2018-04-30 10:30:24+00:00
 draft: false
 title: Hard Advice for Many Friends
 
-# url: /2018/04/30/hard-advice-for-many-friends/
+url:  /2018/04/30/hard-advice-for-many-friends/
 categories:
 - Politics
 tags:

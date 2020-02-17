@@ -4,7 +4,7 @@ date: 2018-08-16 04:08:03+00:00
 draft: false
 title: How to Find Truth In Consistency
 
-# url: /2018/08/15/how-to-find-truth-in-consistency/
+url:  /2018/08/15/how-to-find-truth-in-consistency/
 categories:
 - Faith
 tags:

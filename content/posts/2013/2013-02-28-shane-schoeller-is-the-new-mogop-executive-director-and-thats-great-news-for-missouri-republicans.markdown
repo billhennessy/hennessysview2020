@@ -5,7 +5,7 @@ draft: false
 title: Shane Schoeller Is The New MOGOP Executive Director And That’s Great News For
   Missouri Republicans
 layout: blog
-# url: /2013/02/28/shane-schoeller-is-the-new-mogop-executive-director-and-thats-great-news-for-missouri-republicans/
+url:  /2013/02/28/shane-schoeller-is-the-new-mogop-executive-director-and-thats-great-news-for-missouri-republicans/
 categories:
 - Politics
 tags:

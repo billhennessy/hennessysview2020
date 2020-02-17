@@ -4,7 +4,7 @@ date: 2018-08-23 13:49:50+00:00
 draft: false
 title: Now, Let's Thank God for Priests
 
-# url: /2018/08/23/now-lets-thank-god-for-priests/
+url:  /2018/08/23/now-lets-thank-god-for-priests/
 categories:
 - Faith
 tags:

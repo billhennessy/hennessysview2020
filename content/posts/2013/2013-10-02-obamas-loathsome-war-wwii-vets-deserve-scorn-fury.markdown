@@ -4,7 +4,7 @@ date: 2013-10-02 03:05:25+00:00
 draft: false
 title: Obama's Loathsome War on WWII Vets Deserves Our Scorn and Fury
 layout: blog
-# url: /2013/10/01/obamas-loathsome-war-wwii-vets-deserve-scorn-fury/
+url:  /2013/10/01/obamas-loathsome-war-wwii-vets-deserve-scorn-fury/
 categories:
 - Living
 tags:

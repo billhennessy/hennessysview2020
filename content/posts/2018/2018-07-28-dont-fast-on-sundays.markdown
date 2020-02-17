@@ -4,7 +4,7 @@ date: 2018-07-28 13:35:01+00:00
 draft: false
 title: Don't Fast on Sundays
 
-# url: /2018/07/28/dont-fast-on-sundays/
+url:  /2018/07/28/dont-fast-on-sundays/
 categories:
 - Politics
 - Faith

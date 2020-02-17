@@ -4,7 +4,7 @@ date: 2018-09-09 13:37:54+00:00
 draft: false
 title: The Little Girl in Cory Booker
 
-# url: /2018/09/09/the-little-girl-in-cory-booker/
+url:  /2018/09/09/the-little-girl-in-cory-booker/
 categories:
 - Faith
 - Politics

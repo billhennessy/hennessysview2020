@@ -4,7 +4,7 @@ date: 2018-08-02 23:09:56+00:00
 draft: false
 title: 'Breaking: Droopy Matt Doell Gets Dirty'
 
-# url: /2018/08/02/droopy-matt-doell-gets-dirty/
+url:  /2018/08/02/droopy-matt-doell-gets-dirty/
 categories:
 - Politics
 tags:

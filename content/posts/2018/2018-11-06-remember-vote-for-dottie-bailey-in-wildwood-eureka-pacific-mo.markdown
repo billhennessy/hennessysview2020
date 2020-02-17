@@ -4,7 +4,7 @@ date: 2018-11-06 02:18:44+00:00
 draft: false
 title: 'Remember: Vote for Dottie Bailey in Wildwood, Eureka, Pacific MO'
 
-# url: /2018/11/05/remember-vote-for-dottie-bailey-in-wildwood-eureka-pacific-mo/
+url:  /2018/11/05/remember-vote-for-dottie-bailey-in-wildwood-eureka-pacific-mo/
 categories:
 - Politics
 tags:

@@ -4,7 +4,7 @@ date: 2013-04-11 21:45:00+00:00
 draft: false
 title: One Strong Leader Can Keep Congress In Line
 layout: blog
-# url: /2013/04/11/one-strong-leader-can-keep-congress-in-line/
+url:  /2013/04/11/one-strong-leader-can-keep-congress-in-line/
 categories:
 - Political Psychology
 tags:

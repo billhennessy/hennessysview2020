@@ -4,7 +4,7 @@ date: 2018-07-24 16:06:56+00:00
 draft: false
 title: Primary Fasting
 
-# url: /2018/07/24/primary-fasting/
+url:  /2018/07/24/primary-fasting/
 categories:
 - Politics
 - Faith

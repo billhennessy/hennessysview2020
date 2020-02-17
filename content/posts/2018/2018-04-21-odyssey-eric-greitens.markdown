@@ -4,7 +4,7 @@ date: 2018-04-21 14:14:32+00:00
 draft: false
 title: The Odyssey of Eric Greitens
 
-# url: /2018/04/21/odyssey-eric-greitens/
+url:  /2018/04/21/odyssey-eric-greitens/
 categories:
 - Politics
 tags:

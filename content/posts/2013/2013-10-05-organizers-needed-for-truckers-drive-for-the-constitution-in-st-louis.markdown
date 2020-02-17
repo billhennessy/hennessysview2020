@@ -4,7 +4,7 @@ date: 2013-10-05 12:04:00+00:00
 draft: false
 title: Organizers Needed for Truckers Drive for the Constitution in St. Louis
 layout: blog
-# url: /2013/10/05/organizers-needed-for-truckers-drive-for-the-constitution-in-st-louis/
+url:  /2013/10/05/organizers-needed-for-truckers-drive-for-the-constitution-in-st-louis/
 categories:
 - Activism
 type: "post"

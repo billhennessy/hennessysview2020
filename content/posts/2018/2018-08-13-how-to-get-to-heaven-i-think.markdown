@@ -4,7 +4,7 @@ date: 2018-08-13 04:09:45+00:00
 draft: false
 title: How to Get to Heaven (I think)
 
-# url: /2018/08/12/how-to-get-to-heaven-i-think/
+url:  /2018/08/12/how-to-get-to-heaven-i-think/
 categories:
 - Faith
 tags:

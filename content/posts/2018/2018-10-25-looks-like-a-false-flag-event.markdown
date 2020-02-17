@@ -4,7 +4,7 @@ date: 2018-10-25 11:31:54+00:00
 draft: false
 title: Looks Like a False Flag Event
 
-# url: /2018/10/25/looks-like-a-false-flag-event/
+url:  /2018/10/25/looks-like-a-false-flag-event/
 categories:
 - Living
 type: "post"

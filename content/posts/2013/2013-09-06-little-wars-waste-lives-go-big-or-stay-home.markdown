@@ -4,7 +4,7 @@ date: 2013-09-06 09:30:00+00:00
 draft: false
 title: Little Wars Waste Lives. Go Big Or Stay Home
 layout: blog
-# url: /2013/09/06/little-wars-waste-lives-go-big-or-stay-home/
+url:  /2013/09/06/little-wars-waste-lives-go-big-or-stay-home/
 categories:
 - Politics
 type: "post"

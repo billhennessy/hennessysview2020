@@ -4,7 +4,7 @@ date: 2018-07-04 14:06:42+00:00
 draft: false
 title: Declare Independence from Social Media. Do This Instead
 
-# url: /2018/07/04/declare-independence-from-social-media/
+url:  /2018/07/04/declare-independence-from-social-media/
 categories:
 - Living
 - Political Psychology

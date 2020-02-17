@@ -4,7 +4,7 @@ date: 2018-04-22 12:42:55+00:00
 draft: false
 title: A Candidate With Skin in the Game
 
-# url: /2018/04/22/a-candidate-with-skin-in-the-game/
+url:  /2018/04/22/a-candidate-with-skin-in-the-game/
 categories:
 - Politics
 tags:
