@@ -7,16 +7,16 @@ url: "{{ .Name }}"
 author: "Bill Hennessy"
 
 # post thumb
-image: ""
+image: 
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Replace_Me"
+- Replace_Me
 tags:
-  - "Replace_Me"
+- Replace_Me
 
 # post type
 type: "post"
