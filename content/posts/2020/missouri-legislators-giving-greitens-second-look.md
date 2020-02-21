@@ -7,7 +7,7 @@ url: "missouris-festering-wound"
 author: "Bill Hennessy"
 
 # post thumb
-image: "greitens.jpg"
+image: "faughn.jpg"
 
 # meta description
 description: "Missouri legislators are taking a fresh look at the crooked frame-up of Eric Greitens"
@@ -35,7 +35,7 @@ Those wounds aren't healing. They're pushing through the scaly skin of the 24th 
 
 Among those recognizing the enormous wounds inflicted by Kim Gardner, Scott Faughn, Jay Barnes, and their financiers are Representatives Rob Vescovo of Jefferson County and Justin Hill of Lake St. Louis. Even the normally compliant Missouri press has begun to smell the stench of rotting flesh. 
 
-[Jason Hancock of the Kansas City Star](https://www.kansascity.com/news/politics-government/article240409101.html#storylink=cpy) wrote earlier this week on the legislature's growing awareness of the enormity of the crime. Hancock details the [obvious shadiness of Scott Faughn](https://www.hennessysview.com/posts/2020/where-is-scott-faughns-book/), proprietor of The Missouri Times, a propaganda rag for lobbyists and corporate special interests. The story provides important background:
+[Jason Hancock of the Kansas City Star](https://www.kansascity.com/news/politics-government/article240409101.html#storylink=cpy) wrote earlier this week on the legislature's growing awareness of the enormity of the crime against Greitens and Missouri voters. Hancock details the [obvious shadiness of Scott Faughn](https://www.hennessysview.com/posts/2020/where-is-scott-faughns-book/), proprietor of The Missouri Times, a propaganda rag for lobbyists and corporate special interests. The story provides important background:
 
 > In 2017, Greitens orchestrated the demise of the state’s low-income housing tax credit, a program he routinely criticized during his successful campaign for governor.
 
