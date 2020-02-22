@@ -40,7 +40,7 @@ Like this:
 - DEEP STATE: Here's the highly classified intelligence product.
 - SCHIFF (into phone): Jake? Adam. Just got an intel briefing . . .yes, of course, someone with direct knowledge speaking on condition of anonymity. Russia trying to Boost Bernie Sanders, not only Trump . . . Sure, "report says." Sounds official.
 
-*Ten minutes later . . . *
+_Ten minutes later . . ._
 
 ![STLToday Russia Hoax](/images/stltoday-russia-hoax.png)
 
@@ -57,7 +57,7 @@ In their maniacal quest to steal another election, Democrats fail to realize tha
 
 Because of the nature of this hoax, and the fact that a member of the intel committee criminally leaked details of the fake intel report, someone might *finally* go to jail. 
 
-	[The Gateway Pundit has video of Trump's response](https://www.thegatewaypundit.com/2020/02/thats-pencil-neck-little-pencil-president-trump-unloads-on-pencil-neck-schiff-and-fake-news-media-on-latest-anonymous-russia-hoax-video/)!
+[The Gateway Pundit has video of Trump's response](https://www.thegatewaypundit.com/2020/02/thats-pencil-neck-little-pencil-president-trump-unloads-on-pencil-neck-schiff-and-fake-news-media-on-latest-anonymous-russia-hoax-video/)!
 
 P.S. The first paragraph of this post is every bit as authentic as anything produced by the US intel agencies and the House Intelligence Committee.  
 
