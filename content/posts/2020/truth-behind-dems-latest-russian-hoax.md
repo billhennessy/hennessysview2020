@@ -22,6 +22,10 @@ tags:
 type: "post"
 ---
 
+> BREAKING: Sources with direct knowledge of the House Intelligence Committee briefing tell Hennessy's View that a report leaked to the Associated Press claiming Russia is trying to Boost Bernie Sanders and Donald Trump was manufactured by Congressional Democrats, given a stamp of authenticity by anti-Trump staffers inside the National Security Council, and leaked in hopes of undermining President Trump and the Sanders campaign. 
+
+---
+
 Democrats are getting really bad at hoaxes, and I'm going to tell you the truth behind the latest Democrat Russian hoax. 
 
 Tonight, the liars at Washington Post, CNN, and the rest of the Dem's propaganda network are breathlessly reporting a lie conjured up by Adam Schiff: the Russians have infiltrated the US election system. They're pushing Donald Trump, of course, but also Bernie Sanders. 
@@ -53,5 +57,5 @@ In their maniacal quest to steal another election, Democrats fail to realize tha
 
 Because of the nature of this hoax, and the fact that a member of the intel committee criminally leaked details of the fake intel report, someone might *finally* go to jail. 
 
-Never, ever, ever trust a Democrat.  
+P.S. The first paragraph of this post is as authentic anything produced by the US intel agencies and the House Intelligence Committee.  
 
