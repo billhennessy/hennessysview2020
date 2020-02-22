@@ -57,5 +57,5 @@ In their maniacal quest to steal another election, Democrats fail to realize tha
 
 Because of the nature of this hoax, and the fact that a member of the intel committee criminally leaked details of the fake intel report, someone might *finally* go to jail. 
 
-P.S. The first paragraph of this post is as authentic anything produced by the US intel agencies and the House Intelligence Committee.  
+P.S. The first paragraph of this post is every bit as authentic as anything produced by the US intel agencies and the House Intelligence Committee.  
 
