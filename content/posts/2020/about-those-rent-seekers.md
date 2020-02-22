@@ -19,6 +19,8 @@ type: "post"
 
 What is "rent-seeking?"
 
+Here' a brief description from Forbes:
+
 > Rent-seeking doesn't add any national value. It is coerced trade and benefits only one side. Rent-seeking can include piracy, lobbying the government or even just giving away money.
 > — David John Marotta, [*What Is Rent-Seeking Behavior*](https://www.forbes.com/sites/davidmarotta/2013/02/24/what-is-rent-seeking-behavior/#16cf9366658a) in Forbes
 
