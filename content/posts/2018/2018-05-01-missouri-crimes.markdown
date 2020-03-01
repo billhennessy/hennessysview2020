@@ -9,7 +9,6 @@ categories:
 - Politics
 - News
 tags:
-- Al Watkins
 - Eric Greitens
 - Politics Times
 - Scott Faughn
@@ -304,7 +303,7 @@ In the end, sloppy Scott Faughn was nothing more than a bagman for the people wi
 
 
 
-    Someone  will take Faughn's place, doing the dirty work of the elitists. Maybe one of the Missouri Five on the House committee to overturn the election. Maybe someone else.
+Someone  will take Faughn's place, doing the dirty work of the elitists. Maybe one of the Missouri Five on the House committee to overturn the election. Maybe someone else.
 
 
 
