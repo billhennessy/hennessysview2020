@@ -16,7 +16,7 @@ description: "Coronavirus has triggered a global Common Knowledge game"
 categories: 
 - Living
 tags:
-- Corona Virus
+- Coronavirus
 
 # post type
 type: "post"
