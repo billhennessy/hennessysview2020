@@ -52,6 +52,8 @@ Some will say this stocking-up behavior is irrational, but it's not. Stocking up
 
 Stocking up for the coronavirus is the right thing to do, the best strategy, because of the Common Knowledge game. I didn't buy lots of bacon because of a pandemic; I bought lots of bacon because other people were buying lots of food because of a pandemic. 
 
+(For a better [explanation of Common Knowledge, check this out](https://www.epsilontheory.com/when-does-the-story-break/).)
+
 The irrational part of the response was from those who bought fresh, uncured meat. That stuff won't last long if electrical workers can't keep the grid up. The fact that people were stocking up on the most perishable foods with the shortest shelf lives shows that, at some level, they don't expect the coronavirus to cause major disruptions. They are simply responding to their anticipation of the behavior of others. 
 
 And that's how Common Knowledge games work. 
