@@ -54,3 +54,4 @@ Nothing could be further from the truth.
 
 By contrast, a prayer for the graces needed to faithfully and hopefully get through these times says, "Jesus, I trust in you." It is a prayer of hope in God's promises to give us the grace we need to follow Christ all the way to the cross. And, if we've ever needed God's graces, we need them now. 
 
+P.S. If you're wondering, the Novus Ordo Missae (the New Mass of Pope Paul VI) did away with the Mass in Time of Pestilence. If you want to attend a Mass specifically formed for times like these, you'll find it only in the pre-Vatican II parishes and oratories.
