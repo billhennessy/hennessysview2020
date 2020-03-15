@@ -8,25 +8,17 @@ url: /2012/12/29/this-is-why-i-feel-sorry-for-millennials/
 categories:
 - Living
 tags:
-- attitude
-- external locus of control
-- internal locus of control
-- Man's Search for Meaning
-- Millennials
-- powerful others
-- responsibility
 - Viktor Frankl
-- who determines your fate
-- young people
+
 type: "post"
 ---
 
-Doctor Viktor Frankl was a neurologist and <del>psychologist</del>  psychiatrist in Vienna, Austria. He founded the third branch of Viennese psychological therapies, logotherapy. But his life changed drastically when Austria capitulated to the National Socialists.
+Doctor Viktor Frankl was a neurologist and psychiatrist in Vienna, Austria. He founded the third branch of Viennese psychological therapies, logotherapy. But his life changed drastically when Austria capitulated to the National Socialists.
 
 [![Viktor-Frankl](https://ludicrite.files.wordpress.com/2012/12/viktor-frankl_thumb.jpg)
 ](https://ludicrite.files.wordpress.com/2012/12/viktor-frankl.jpg)
 
-The Nazis interned Frankl. He spent time in four concentration camps, including Auschwitz and Dachau. For three years, his captors made him dig ditches for railroads and water pipes, and fed him a slice of bread an ounce or so of soup a day. The Nazis destroyed the only copy of a manuscript he’d worked on for years. The Nazis killed his mother, his father, his brother, and his beloved wife Tilly. They beat him repeatedly. They forced him to sleep on a bed of boards six feet by eight feet with nine other prisoners and only two blankets.
+The Nazis interned Frankl. He spent time in four concentration camps, including Auschwitz and Dachau. For three years, his captors made him dig ditches for railroads and water pipes, and fed him a slice of bread and an ounce or two of soup a day. The Nazis destroyed the only copy of a manuscript he’d worked on for years. The Nazis killed his mother, his father, his brother, and his beloved wife Tilly. They beat him repeatedly. They forced him to sleep on a bed of boards six feet by eight feet with nine other prisoners and only two blankets.
 
 **To any reasonable person, Frankl lost everything but his life**. He lived at the whim of evil people bent on exhausting his usefulness before feeding him to an oven. Frankl, though, didn’t see it that way.
 
