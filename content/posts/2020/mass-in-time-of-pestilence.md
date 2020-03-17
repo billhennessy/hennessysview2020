@@ -1,5 +1,5 @@
 ---
-title: "Mass in Time of Pestilence"
+title: "UPDATE: Mass in Time of Pestilence"
 date: 2020-03-15T14:11:00-05:00
 draft: false
 url: "mass-in-time-of-pestilence"
@@ -22,11 +22,13 @@ tags:
 type: "post"
 ---
 
+*UPDATE: St. Louis Archdiocese has ordered all public Masses cancelled until at least April 6, including the planned Mass in Time of Pestilence.*
+
 I don't normally invite people to my church explicitly. But I am about to because we are living in a time of pestilence. 
 
 ### Mass in Time of Pestilence: Wednesdays
 
-**Each Wednesday for the remainder of Lent, my parish, the [Oratory of Saints Gregory and Augustine](https://stlouislatinmass.com), will offer a Mass in Time of Pestilence at 6:30 p.m**. The church is located at 7230 Dale Avenue in Richmond Heights, Missouri, ([view map](https://www.google.com/maps?ll=38.626956,-90.311857&z=14&t=m&hl=en&gl=US&mapclient=embed&q=7230+Dale+Ave+Richmond+Heights,+MO+63117)) at the corner of Dale and Bellevue. This Masses was given us by Holy Mother Church to ask specifically for the graces to get through plagues and pestilence. 
+~~Each Wednesday for the remainder of Lent, my parish, the [Oratory of Saints Gregory and Augustine](https://stlouislatinmass.com), will offer a Mass in Time of Pestilence at 6:30 p.m~~. The church is located at 7230 Dale Avenue in Richmond Heights, Missouri, ([view map](https://www.google.com/maps?ll=38.626956,-90.311857&z=14&t=m&hl=en&gl=US&mapclient=embed&q=7230+Dale+Ave+Richmond+Heights,+MO+63117)) at the corner of Dale and Bellevue. This Masses was given us by Holy Mother Church to ask specifically for the graces to get through plagues and pestilence. 
 
 Coronavirus is a plague by anyone's definition. Man's poor ability to respond to such a plague is playing out before our very eyes. While the United States has managed to limit the human suffering seen in China, Iran, Italy, Spain, France, and other nations, we have no assurance that will remain the case. Moreover, the economic damage is yet come. 
 
