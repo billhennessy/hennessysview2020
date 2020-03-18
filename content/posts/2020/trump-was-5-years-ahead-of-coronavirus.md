@@ -30,7 +30,7 @@ The woke world of experts and smug, sneering Millennials excoriated Trump and th
 
 Now, all those woke experts are reeling. The open borders people are, all of a sudden, more concerned about their personal welfare and the lives of their parents than about the migrants and "refugees." The European Union, Germany, Belgium, and even the wretched United Nations have ended open border policies and resettlement efforts. 
 
-Had the world listen to Trump in 2015 and put their own countries first (as national leaders have a fiduciary duty to do), the coronavirus would have spread much slower. But the woke Intellectual-Yet-Idiot experts of the world went their own. They defied millennia of learned experience and decided their brains had evolved faster than viruses. 
+Had the world listened to Trump in 2015 and put their own countries first (as national leaders have a fiduciary duty to do), the coronavirus would have spread much slower. But the woke Intellectual-Yet-Idiot experts of the world went their own. They defied millennia of learned experience and decided their brains had evolved faster than viruses. 
 
 The work idiots are panicking now, and innocent people are suffering economic and physical damage because of them. 
 
