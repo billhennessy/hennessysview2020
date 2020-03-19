@@ -1,7 +1,7 @@
 ---
 title: "Spanish Flu vs. Coronavirus"
 date: 2020-03-19T13:29:43-05:00
-draft: true
+draft: false
 url: "spanish-flu-vs-coronavirus"
 # author
 author: "Bill Hennessy"
