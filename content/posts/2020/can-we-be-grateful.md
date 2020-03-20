@@ -1,7 +1,7 @@
 ---
 title: "Can We Be Grateful?"
 date: 2020-03-19T15:17:20-05:00
-draft: true
+draft: false
 url: "can-we-be-grateful"
 # author
 author: "Bill Hennessy"
