@@ -41,11 +41,11 @@ To understand the differences between these two pandemics, we have to consider t
 
 ![Spanish flu age graph](/images/W_curve.png)
 
-- Spanish Flu killed between 50 million and 100 million people around the world, while coronavirus has killed less than 10,000 so far. 
+- Spanish Flu killed between 50 million and 100 million people around the world, while coronavirus has killed fewer than 10,000 so far. 
 - Spanish Flu's cultural effect was muted because World War I was capturing most of the world's attention, while coronavirus has no other major news story to compete with.
-- Spanish Flu pandemic occurred before the world had vaccines against viruses or anti-viral medicines, while coronavirus occurred in a world with many weapons to fight viral diseases.
-- Spanish Flu occurred during World War I while many countries were adopted to wartime restrictions, while coronavirus struck during an economic and cultural peak in which people in developed countries enjoyed maximum freedom, high disposable income, and almost limitless sources of amusement. 
-- Spanish Flu epidemic ended in about April 1919 and has been careful studied for a century. coronavirus pandemic is just beginning, and very little is known about its trajectory and final death toll. 
+- Spanish Flu epidemic occurred before the world had vaccines against viruses or anti-viral medicines, while coronavirus is emerging in a world with many weapons to fight viral diseases.
+- Spanish Flu occurred during World War I while many countries were adapted to wartime restrictions, while coronavirus struck during an economic and cultural peak in which people in developed countries enjoyed maximum freedom, high disposable income, and almost limitless sources of amusement. 
+- Spanish Flu epidemic ended in about April 1919 and has been carefully studied for a century. Coronavirus pandemic is just beginning, and very little is known about its trajectory and final death toll. 
 
 ### Similarities in Pandemics
 
