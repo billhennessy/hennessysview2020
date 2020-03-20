@@ -9,6 +9,7 @@ paginate = 8
 # comment on delete the following lines 11 ~ 13
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
+rssLimit = 5
 
 [params]
   ga_analytics = "UA-3826996-2" # google analytics ID e.g UA-116386578-1
