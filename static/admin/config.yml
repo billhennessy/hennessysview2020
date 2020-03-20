@@ -19,7 +19,7 @@ collections:
       - {label: "Type", name: "type", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Category", name: "categories", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "select", options: ["Faith", "Politics", "Living"]}
+      - {label: "Category", name: "categories", widget: "list", allowAdd: true, default: ["Coronavirus"]}
       - {label: "Tags", name: "tags", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
