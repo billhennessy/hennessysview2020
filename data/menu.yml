@@ -1,5 +1,9 @@
 - item: Home
   url: "blog"
+- item: Coronavirus
+  url: tags/coronavirus/
+- item: The Fourth Turning
+  url: tags/the-fourth-turning/
 - item: Faith
   url: categories/faith/
 - item: Politics
