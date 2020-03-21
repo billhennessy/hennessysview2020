@@ -50,9 +50,9 @@ But why? Why would a loving God permit so many people to suffer?
 
 My crass answer is, "Did you see what He allowed to happen to his Son?" 
 
-Jesus is true God and true man without stain of sin, without blemish. And, yet, He was accused, beaten, humiliated, tortured, and killed. On earth, the justification for His passion and death was blaspheme against God. In Heaven, the reason for His death was that we might live forever in peace with Him and the Father in Heaven. 
+Jesus is true God and true man without stain of sin, without blemish. And, yet, He was accused, beaten, humiliated, tortured, and killed. On earth, the justification for His passion and death was blasphemy against God. In Heaven, the reason for His death was that we might live forever in peace with Him and the Father in Heaven. 
 
-And this is the answer: only a truly loving God would discipline His children that they might experience the ultimate and eternal joy of His great feast. God knows that his world and this life is nothing. Those who wonder why this life isn't perfect yet fail to understand that this life was never meant to be perfect. This is the *Via Dolorosa* for everyone! "Pick up your cross daily and follow me," Christ command. Though He didn't say it, "all the way to the cross" was implied. 
+And this is the answer: only a truly loving God would discipline His children that they might experience the ultimate and eternal joy of His great feast. God knows that this world and this life are nothing. Those who wonder why this life isn't perfect yet fail to understand that this life was never meant to be perfect. This is the *Via Dolorosa* for everyone! "Pick up your cross daily and follow me," Christ commanded. Though He didn't say it, "all the way to the cross" was implied. 
 
 Seventy-five percent of American Catholics don't believe in the Real Presence or the miracle of transubstantiation. 
 
@@ -60,7 +60,7 @@ Most American Catholics approve of abortion on demand and practice artificial co
 
 Most American Catholics don't fulfill their Sunday and Holy Day obligations. 
 
-In short, most American Catholics aren't actually Catholics. 
+What, then, will the majority of American Catholics miss exactly? Putting on their finest Nike soccer shorts and flip-flops to parade up the carpeted aisle between garish felt banners proclaiming "Joy!" to receive their attendance prize of stale bread and cheap red wine? 
 
 The irony is that the few American Catholics who actually believe and try to live by the Church's immemorial teachings are the ones who seem to recognize that **we had this coming!** And even this is far less than we deserve. 
 
@@ -68,13 +68,13 @@ What is a few weeks of "this" after all, compared to an eternity of this?
 
 Yes, this plague is either God's doing or God's allowance. And all things happen for a reason. Those who deny the reason deny God. Those who believe they don't deserve "this," also deny God by denying that He knows what's best. As C.S. Lewis once said, "there are two kinds of men in the world. Those who say to God 'Thy will be done,' and those to whom God says, 'alright, then, have it your way.'"
 
-Our way leads plague, pestilence, and death without redemption. Like childbirth without the child. A stillborn existence with no meaning. 
+Our way leads to plague, pestilence, and death without redemption. Like childbirth without the child. A stillborn existence with no meaning. 
 
-Gods way leads many to Him and the riches He promised. 
+God's way leads many to Him and the riches He promised. The wedding feast that never ends. 
 
-Therefore, gratitude is the proper feeling. 
+Therefore, [gratitude is the proper feeling](https://www.hennessysview.com/can-we-be-grateful/). Thank God for caring enough to slap us to our senses. 
 
-I'll close with a communion prayer from St. Augustine of Hippo:
+Let's close with a communion prayer from St. Augustine of Hippo:
 
 *BEFORE Thine eyes, O Lord, we bring our sins, and we compare them with the stripes we have received.*
 
@@ -102,7 +102,6 @@ I'll close with a communion prayer from St. Augustine of Hippo:
 
 *Grant then, O almighty Father, without our deserving it, the pardon we ask; Thou Who madest out of nothing those Who ask Thee. Through Christ our Lord. Amen*
 
-*V. Deal not with us, O Lord, according to our sins.*
-*R. Neither reward us according to our iniquities.*
+*V. Deal not with us, O Lord, according to our sins.* *R. Neither reward us according to our iniquities.*
 
 *Let us pray.—O God, Who by sin art offended and by penance pacified, mercifully regard the prayers of Thy suppliant people, and turn away the scourges of Thy wrath, which we deserve for our sins. Through Christ our Lord. R. Amen.*
