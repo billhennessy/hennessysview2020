@@ -62,7 +62,7 @@ Most American Catholics don't fulfill their Sunday and Holy Day obligations.
 
 What, then, will the majority of American Catholics miss exactly? Putting on their finest Nike soccer shorts and flip-flops to parade up the carpeted aisle between garish felt banners proclaiming "Joy!" to receive their attendance prize of stale bread and cheap red wine? 
 
-The irony is that the few American Catholics who actually believe and try to live by the Church's immemorial teachings are the ones who seem to recognize that **we had this coming!** And even this is far less than we deserve. 
+The irony is that the few American Catholics like Taylor Marshall and Eric Sammons who actually believe and try to live by the Church's immemorial teachings are the ones who seem to recognize that **we had this coming!** And even this is far less than we deserve. 
 
 What is a few weeks of "this" after all, compared to an eternity of this?
 
