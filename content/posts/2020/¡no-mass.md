@@ -2,7 +2,7 @@
 type: post
 title: ¡No Mass!
 date: 2020-03-21T13:58:06.621Z
-image: /altar-empty.jpg
+image: altar-empty.jpg
 categories: Faith
 tags:
   - Coronavirus
