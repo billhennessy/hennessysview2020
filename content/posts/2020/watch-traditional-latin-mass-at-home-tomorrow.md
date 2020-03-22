@@ -1,12 +1,20 @@
 ---
 type: post
-title: Watch Traditional Latin Mass at Home Tomorrow
+title: 'UPDATED: Watch Traditional Latin Mass at Home Tomorrow '
 date: 2020-03-21T22:00:00.938Z
 image: /confiteor.jpg
 categories: Faith
 tags:
   - Coronavirus
 ---
+UPDATE: I saw this too late, but Msgr. Eugene Morris livestreamed his private Missa Cantata at 8:00 a.m. today, preceded by the Most Holy Rosary of the Blessed Virgin Mary. You can watch replay here:
+
+{{< video "238455303998922" >}}
+
+Please [Like the Facebook page of the Oratory of Ss. Gregory and Augustine](https://www.facebook.com/OratorySsGregoryAugustine/). 
+
+---
+
 Chinese coronavirus has moved bishops around the world to shut down the Catholic Church. 
 
 Luckily, the Traditional Latin Mass orders continue to offer the Holy Mass. And one such order livestreams Masses for the masses.
