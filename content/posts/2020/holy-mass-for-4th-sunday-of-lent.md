@@ -15,4 +15,6 @@ I apologize that I did not see this earlier.
 
 {{< video "238455303998922" >}}
 
-You will see why I fell in love with the Oratory of Ss. Gregory and Augustine. 
+You will see why I fell in love with the Oratory of Ss. Gregory and Augustine. You can [Like their Facebook page to keep track of future livestreamed Masses here](https://www.facebook.com/OratorySsGregoryAugustine/).
+
+Deo gratias
