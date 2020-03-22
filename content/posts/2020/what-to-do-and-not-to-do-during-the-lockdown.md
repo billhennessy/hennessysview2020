@@ -21,7 +21,7 @@ We are not good enough for that. We do not deserve that luxury. We owe it to our
 
 **Do not seek comfort during the pandemic.**
 
-That's the only "not to do" item on the list. Resist comfort. Avoid leisure. Eschew idleness. (Idle hands are the devil's workshop.) 
+That's the only "not to do" item on the list. **Resist comfort. Avoid leisure. Eschew idleness.** (Idle hands are the devil's workshop.) 
 
 If you ignore this advice and follow the comfortable advice to be a slug and sloth, you will hate yourself when this is over. 
 
@@ -57,14 +57,16 @@ If, at the end of this trial, our homes are as clean as the day we moved in, we 
 
 - [ ]  If we can check any of these things off at the end of the lockdown, then we will have made ourselves and the whole world stronger while pleased God. 
 
-The best memories in life are not the good times, but our resilience in the bad times. When we say of someone, "he knows how to have a good," we all know it isn't really a compliment. When we talk of making the best of bad experience, we don't mean numbing ourselves with drugs or amusements. 
+The best memories in life are not of the good times, but of our resilience in the bad ones. When we say of someone, "he knows how to have a good time," we all know it isn't really a compliment. When we talk of making the best of a bad experience, we don't mean numbing ourselves with drugs or amusements. 
 
-Coronavirus and the world's response is the number one news story of every life on the planet right now. This trumps 9-11 in every way. And the financial crisis. It touches more lives in more places than anything since World War II. You might not see it now, but wait. 
+Coronavirus and the world's response is the number-one news story of every life on the planet right now. This trumps 9-11 in every way. And the financial crisis. It touches more lives in more places than anything since World War II. You might not see it now, but wait. 
 
-In 10, 20, even 70 years, children will read about this moment and ask you what you did during the great Chinese coronavirus plague. It could be your student or your child or grandchild. To borrow from General Patton, when those innocent, curious eyes look into yours for an answer, you don't want to have to say, "I shoveled sh!t in Louisiana."
+In 10, 20, even 70 years, children will read about this moment and ask you what you did during the great Chinese coronavirus plague. It could be your student or your child or grandchild. To borrow a line from General Patton, when those innocent, curious eyes look into yours for an answer, you don't want to have to say, "I shoveled sh!t in Louisiana."
 
-Nor will you want to say, "I watched every episode of Seinfeld." Watching every episode of Seinfeld might sound comforting now. It is. But it will make you look like loser if that was your entire contribution to the greatest pandemic since the Spanish Flu. 
+Nor will you want to say, "I watched every episode of Seinfeld." Watching every episode of Seinfeld might sound comforting now. It is comforting for a moment. But it will make you look like a loser in the eyes of that child if that was your entire contribution to the greatest pandemic since the Spanish Flu. 
 
-If you haven't guessed, this is really a note to self. In light of all the disinformation regarding the best practices for a lockdown, I thought I'd share something that will help us all live into the promise emerging stronger even if different. 
+If you haven't guessed, this is really a note to self. I caught myself binge-watching a television series. I've relaxed my daily disciplines. And I've given myself excuses. I've fallen for the lies.
+
+In light of all the disinformation regarding the best practices for a lockdown, I thought I'd share something that will help us all live into the promise emerging stronger even if different. 
 
 God bless.
