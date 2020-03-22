@@ -2,7 +2,7 @@
 type: post
 title: 'Holy Mass for 4th Sunday of Lent '
 date: 2020-03-22T15:50:37.929Z
-image: /screen-shot-2020-03-22-at-09.02.30.png
+image: /screen-shot-2020-03-22-at-09.02.13.png
 categories: Faith
 tags:
   - Traditional Latin Mass
