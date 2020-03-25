@@ -9,13 +9,13 @@ tags:
 ---
 Hysterical headlines scream about the number of new coronavirus infections every hour. This is a mistake. Ignore those headlines. 
 
-Doing some casual analytics, it's pretty obvious what drives the death rate: the number of hospitalizations in a given geographic area. 
+Doing some casual analysis, it's pretty obvious what drives the death rate: the number of hospitalizations in a given geographic area. 
 
 Last week I pointed out that mean averages are meaningless, even destructive if used to project into the future. One of the reasons **means are meaningless** is that diseases do not spread in a linear fashion. The skip and hop like tornadoes.
 
 Instead, I've tried to find the known variables that seem to relate to numbers of deaths. Then, look for a logical reason why this correlation might be meaningful. 
 
-As obvious as it sounds, of the data that are readily available to the public, the strongest logical correlative to deaths is serious cases, not number of infections.
+As obvious as it sounds, using only the data that are readily available to the public, the strongest logical correlative to deaths is serious cases, not number of infections.
 
 You might think, "yeah, but the more infections, the more serious cases." Smart assertion, but the correlation between infections and serious cases is much weaker than between serious cases and deaths. Some countries with many, many cases, like Germany with almost 30,000, have very few serious cases, like Germany with 23. That's 0.0008. Low. 
 
@@ -30,7 +30,7 @@ But there's another reason why number of infections is meaningless: testing.
 Everyday, more people get tested than were tested the day before. Therefore, every day the number of cases will increase more than the day before. It looks like this:
 
 | Day | Tested | Positive | RunningTotal |
-|---:|---:|---:|---:|
+| ---: | ---: | ---: | ---: |
 | 1 | 100 | 10 | 10 |
 | 2 | 120 | 12 | 22 |
 | 3 | 150 | 15 | 37 |
