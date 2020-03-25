@@ -1,6 +1,6 @@
 ---
 type: post
-title: Number of Infections Doesn't Matter—Here's What Does
+title: Number of Confirmed Cases Doesn't Matter—Here's What Does
 date: 2020-03-23T16:07:59.644Z
 image: /ncov19-table.png
 categories: Living
@@ -59,7 +59,7 @@ When you hear hysterical pronouncements about rises in confirmed cases, remember
 Pray for a quick end to this pestilence and an even quicker return of the greatest economy in US history. Pray, also, that our reporters and headline writers stop sensationalizing a bad situation for financial and political gain. 
 
 
-
+*Note: all number are as of 13:00 CDT Monday, March 23, 2020*
 
 
 
