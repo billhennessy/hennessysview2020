@@ -44,7 +44,7 @@ In her final days of lucidity, coronavirus was of little concern to her. Neither
 
 Many people erroneously assumed Buckley’s reference to “finally important” things was a reference to The Wealth of Nations or the Declaration of Independence. No. Buckley was referring to the moment that we will all face sooner than most of us wish: the moment when we must answer for how we spent our time. Something tells me God won’t be impressed with our knowledge of the issues surrounding H.R. 748. Learn all you want about this, but it will not on the final exam.
 
-But at last came also the other virgins, saying: Lord, Lord, open to us. But he answering said: Amen I say to you, I know you not. Watch ye therefore, because you know not the day nor the hour.
+> But at last came also the other virgins, saying: Lord, Lord, open to us. But he answering said: Amen I say to you, I know you not. Watch ye therefore, because you know not the day nor the hour.
 
 That is the known truth and the finally important thing Buckley spoke of.
 
