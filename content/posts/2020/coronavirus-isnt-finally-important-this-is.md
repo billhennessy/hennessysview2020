@@ -1,7 +1,7 @@
 ---
 title: "Coronavirus Isn't Finally Important This Is"
 date: 2020-03-25T21:06:51-05:00
-draft: true
+draft: false
 url: "coronavirus-isnt-finally-important-this-is"
 type: post
 image: /buckley.jpg
