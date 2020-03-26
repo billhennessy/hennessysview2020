@@ -1,13 +1,13 @@
 ---
 type: post
 title: Number of Confirmed Cases Doesn't Matter—Here's What Does
-date: 2020-03-23T16:07:59.644Z
+date: 2020-03-26T22:07:00.000Z
 image: /ncov19-table.png
 categories: Living
 tags:
   - Coronavirus
 ---
-Hysterical headlines scream about the number of new coronavirus infections every hour. This is a mistake. Ignore those headlines. 
+Hysterical headlines scream about the number of new coronavirus infections every hour. This is a mistake. Ignore those headlines. Number of confirmed cases will rise as number of people tested rises. If we tested everyone for the flu, the number of confirmed flu cases would be astronomical.
 
 Doing some casual analysis, it's pretty obvious what drives the death rate: the number of hospitalizations in a given geographic area. 
 
@@ -21,7 +21,7 @@ You might think, "yeah, but the more infections, the more serious cases." Smart 
 
 Then look at Italy. 63,927 cases and 3,204 serious ones. And those are mostly in a small geographic area. That overwhelms the healthcare system, and overwhelmed healthcare systems result in more deaths. 
 
-In the United States, we have relatively few cases at 42,000 out of 330,000,000 people, but we have 1,040 serious cases. Even 1,040 serious cases is meaningless until we know *where* those cases are. If they're all in New York City, New York City is going to have problems. Not just with coronavirus, but with everything health related. If the ER is overwhelmed, your broken arm or car crash injuries or heart attack will receive worse care than if the staff is fresh and healthy and underworked. But if 1,040 serious cases are distributed evenly around the country, it isn't a blip on the healthcare radar. 
+In the United States, we had 42,000 confirmed cases out of 330,000,000 people as of March 23, but we have 1,040 serious cases. Even 1,040 serious cases is meaningless until we know *where* those cases are. If they're all in New York City, New York City is going to have problems. Not just with coronavirus, but with everything health related. If the ER is overwhelmed, your broken arm or car crash injuries or heart attack will receive worse care than if the staff is fresh and healthy and underworked. But if 1,040 serious cases are distributed evenly around the country, it isn't a blip on the healthcare radar. 
 
 The question isn't "how many infections," it's "how many need to be hospitalized, and where?"
 
@@ -30,12 +30,12 @@ But there's another reason why number of infections is meaningless: testing.
 Everyday, more people get tested than were tested the day before. Therefore, every day the number of cases will increase more than the day before. It looks like this:
 
 | Day | Tested | Positive | RunningTotal |
-| ---: | ---: | ---: | ---: |
-| 1 | 100 | 10 | 10 |
-| 2 | 120 | 12 | 22 |
-| 3 | 150 | 15 | 37 |
-| 4 | 200 | 20 | 57 |
-| 5 | 500 | 50 | 107 |
+| --- | ------ | -------- | ------------ |
+| 1   | 100    | 10       | 10           |
+| 2   | 120    | 12       | 22           |
+| 3   | 150    | 15       | 37           |
+| 4   | 200    | 20       | 57           |
+| 5   | 500    | 50       | 107          |
 
 You get the point. 
 
@@ -58,8 +58,6 @@ When you hear hysterical pronouncements about rises in confirmed cases, remember
 
 Pray for a quick end to this pestilence and an even quicker return of the greatest economy in US history. Pray, also, that our reporters and headline writers stop sensationalizing a bad situation for financial and political gain. 
 
+If you'd like to do your own analysis, [the complete dataset is available here](https://github.com/RamiKrispin/coronavirus).
 
 *Note: all number are as of 13:00 CDT Monday, March 23, 2020*
-
-
-
