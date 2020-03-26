@@ -6,6 +6,7 @@ image: /buckley.jpg
 categories: Faith
 tags:
   - Coronavirus
+  - William F. Buckley
 ---
 *“Conservatism is the tacit acknowledgement that all that is finally important in human experience is behind us; that the crucial explorations have been undertaken, and that it is given to man to know what are the great truths that emerged from them.”*
 
