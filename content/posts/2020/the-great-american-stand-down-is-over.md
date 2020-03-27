@@ -2,7 +2,7 @@
 type: post
 title: 'End the Great American Stand-Down '
 date: 2020-03-27T00:49:42.294Z
-image: /images/get-back-to-work.jpg
+image: get-back-to-work.jpg
 categories: Politics
 tags:
   - Coronavirus
