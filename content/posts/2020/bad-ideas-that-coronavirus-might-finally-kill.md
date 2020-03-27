@@ -2,7 +2,7 @@
 type: post
 title: Bad Ideas That Coronavirus Might Finally Kill
 date: 2020-03-27T12:22:22.136Z
-image: /images/cube-farm-big.jpg
+image: cube-farm-big.jpg
 categories: Living
 tags:
   - Coronavirus
