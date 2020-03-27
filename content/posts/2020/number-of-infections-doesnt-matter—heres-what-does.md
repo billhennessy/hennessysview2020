@@ -3,6 +3,7 @@ type: post
 title: Number of Confirmed Cases Doesn't Matter—Here's What Does
 date: 2020-03-26T22:07:00.000Z
 image: /ncov19-table.png
+draft: false
 categories: Living
 tags:
   - Coronavirus
