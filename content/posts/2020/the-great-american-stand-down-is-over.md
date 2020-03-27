@@ -1,8 +1,8 @@
 ---
 type: post
-title: The Great American Stand-Down Is Over
+title: 'End the Great American Stand-Down '
 date: 2020-03-27T00:49:42.294Z
-image: /images/Coronavirus-2.jpg
+image: /images/get-back-to-work.jpg
 categories: Politics
 tags:
   - Coronavirus
