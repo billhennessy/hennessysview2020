@@ -9,7 +9,7 @@ tags:
 ---
 Bishops have banned public Masses, but that hasn't stopped the Mass, especially the Traditional Latin Mass.
 
-Monsignor Eugene Morris of the Oratory of Ss. Gregory and Augustine is livestreaming the Holy Mass each Sunday at 8:00 a.m. You watch live on [the Oratory's Facebook page](https://www.facebook.com/OratorySsGregoryAugustine/). 
+Monsignor Eugene Morris of the Oratory of Ss. Gregory and Augustine is livestreaming the Holy Mass each Sunday at 8:00 a.m. You can watch live on [the Oratory's Facebook page](https://www.facebook.com/OratorySsGregoryAugustine/). 
 
 ### How to Get the Most from the Mass in Time of Pestilence
 
@@ -18,9 +18,8 @@ Msgr. Morris has published a guide to keeping the Mass holy in this time of pest
 What should be done with a Sunday without Holy Mass.
 I would offer the following suggestions:
 
-1. Our First Mass at the Oratory is normally 8 am. Rise in time for the 8’o clock hour with all family members present and spend that time prayer. I would encourage using your Missals to access the Epistle and Gospel for the Sundays we are away and read that as a family. Spend some time in silent prayer together, and then make a spiritual communion using the below prayer. You could
-use the following online resource to assist with readings [if you do not have a Missal](http://www.extraordinaryform.org). You
-may also desire to live stream the Holy Mass. There are several resources on line to assist you [Live Mass](https://fsspjoliet.wordpress.com/2017/12/08/fraternity-ofsaint-peter-fssp-live-mass-channel) and [Holy Mass](https://www.tridentinecatholic.com). There are other resources online for live streaming the Holy Mass.
+1. Our First Mass at the Oratory is normally 8 am. Rise in time for the 8’o clock hour with all family members present and spend that time prayer. I would encourage using your Missals to access the Epistle and Gospel for the Sundays we are away and read that as a family. Spend some time in silent prayer together, and then make a spiritual communion using the below prayer. You could use the following online resource to assist with readings [if you do not have a Missal](http://www.extraordinaryform.org). You
+may also desire to live stream the Holy Mass. There are several resources on line to assist you [Live Mass](https://fsspjoliet.wordpress.com/2017/12/08/fraternity-ofsaint-peter-fssp-live-mass-channel) and [Holy Mass](https://www.tridentinecatholic.com). Or [the Oratory's Facebook page](https://www.facebook.com/OratorySsGregoryAugustine/)
 
 2. Pray the rosary as a family (hopefully this is already happening, but if not now is a good time to begin).
 
@@ -44,3 +43,6 @@ Amen. (Padre Pio)*
 
 +++++++++++++++++++++++ 
 
+I would also encourage you to read Monsignor's weekly column to keep holy in this time of pestilence. 
+
+[Monsignor Morris's Weekly Column](https://stlouislatinmass.com/coronavirus)
