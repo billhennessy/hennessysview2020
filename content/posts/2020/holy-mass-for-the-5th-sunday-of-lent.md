@@ -2,7 +2,7 @@
 type: post
 title: Holy Mass for the 5th Sunday of Lent
 date: 2020-03-28T18:08:24.731Z
-image: /static/images/screen-shot-2020-03-22-at-09.02.13.png
+image: screen-shot-2020-03-22-at-09.02.13.png
 categories: Faith
 tags:
   - Coronavirus
