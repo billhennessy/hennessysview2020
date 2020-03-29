@@ -22,7 +22,7 @@ tags:
 type: "post"
 ---
 
-Last week, I pointed out that [the number of confirmed cases of coronavirus is a meaningless number](https://www.hennessysview.com/posts/2020/number-of-infections-doesnt-matterheres-what-does/). The media is all atwitter about it, but the media are mostly idiots. Never trust a reporter. 
+Last week, I pointed out that [the number of confirmed cases of coronavirus is a meaningless number](https://www.hennessysview.com/posts/2020/number-of-infections-doesnt-matterheres-what-does/). The media is all atwitter about it, but the media are mostly idiots. (Never trust a reporter.)
 
 Bloomberg now cites many ["experts" who agree with me on this](https://www.bloomberg.com/opinion/articles/2020-03-28/confirmed-coronavirus-cases-is-an-almost-meaningless-metric):
 
@@ -31,9 +31,10 @@ Bloomberg now cites many ["experts" who agree with me on this](https://www.bloom
 The number to watch is **the number of serious cases in a specific location**. Here's a quick review:
 
 1. Serious cases involve hospitalization and, probably, ventilators. 
-2. A small number of serious cases in a hospital or cities will not tax the healthcare system.
+2. A small number of serious cases in a hospital or one city will not tax the healthcare system.
 3. A large concentration of serious cases in one hospital or city will overwhelm the healthcare system.
 4. When the healthcare system is overwhelmed, it's bad not only for people with the virus, but for anyone who needs medical care. 
+
 	5. Heart-attacks
 	6. Car accidents
 	7. Strokes
@@ -43,7 +44,7 @@ The number to watch is **the number of serious cases in a specific location**. H
 Confirmed cases, on the other hand, is simply a function of testing. 
 
 1. The more you test, the more positives you find.
-2. The US is doing the most testing, thus is has the most confirmed cases.
+2. The US is doing the most testing, thus it has the most confirmed cases.
 3. Confirmed cases that don't progress to serious don't tax the healthcare system anymore than confirmed cases of the flu.
 
 A lot of otherwise intelligent people fail to understand this simple statistical logic, thus they say ignorant, terrifying things. 
