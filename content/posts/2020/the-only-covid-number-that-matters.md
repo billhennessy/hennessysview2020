@@ -50,21 +50,21 @@ A lot of otherwise intelligent people fail to understand this simple statistical
 
 For instance, in their ignorance, many people believe and report that the increase in confirmed cases proves that the disease is still spreading rapidly, but they're wrong. **An increase in confirmed cases tells us nothing about how the disease is spreading, only about how it spread in the past** and how many people are getting tested. If we stopped testing today, the number of confirmed cases would be static, but would that mean no one else is getting the disease? 
 
-Now that we understand why the number of confirmed cases is meaningless, let's see what's happening with the number of serious cases by location, via [nCov2019.live](https://ncov2019.live):
+Now that we understand why the number of confirmed cases is meaningless, let's see what's happening with the number of serious cases by location, via [nCov2019.live](https://ncov2019.live), sorted by number of serious cases, descending:
 
 ![ncov19.live snapshot](/images/serious-cases-mar-29.png)
 
 Notice only seven states have any serious cases at all. And of those seven three states have just one serious case each. One state, Arkansas, has just 17. 
 
-| State | Serious Cases | Deaths |
-|---|---:|---:|
-| New York | 1,755 | 883 |
-| Louisiana | 336 | 137 |
-| Ohio | 123 | 25 |
-| Arkansas | 17 | 5 |
-| Pennsylvania | 1 | 34 |
-| Texas | 1 | 34 |
-| Minnesota | 1 | 5 |
+| State | Serious Cases | 
+|---|---:|
+| New York | 1,755 |
+| Louisiana | 336 |
+| Ohio | 123 |
+| Arkansas | 17 |
+| Pennsylvania | 1 |
+| Texas | 1 | 
+| Minnesota | 1 |
 
 Things could change, of course, but right now we have all the ventilators we need. Even New York has at least two ventilators for everybody who needs one because of coronavirus. (I realize that people need ventilators for conditions other than coronavirus.)
 
