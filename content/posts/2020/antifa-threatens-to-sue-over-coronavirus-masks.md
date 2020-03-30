@@ -1,7 +1,7 @@
 ---
 title: "Antifa Threatens to Sue Over Coronavirus Masks"
 date: 2020-03-30T07:32:26-05:00
-draft: true
+draft: false
 url: "antifa-threatens-to-sue-over-coronavirus-masks"
 # author
 author: "Bill Hennessy"
