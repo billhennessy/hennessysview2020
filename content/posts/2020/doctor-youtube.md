@@ -30,7 +30,7 @@ First, the statistics.
 
 ### The Doctor's Statistical Error
 
-The doctor, a general surgeon, opens the video by stating his conclusion that coronavirus is deadly than influenza and his proof. His proof is simple: the death rate for influenza is 0.1 percent, while the death rate for coronavirus in Italy is 10 percent. That seems to make coronavirus 100 times deadlier than the flu, which was Dr. YouTube's conclusion.  
+The doctor, a general surgeon, opens the video by stating his conclusion that coronavirus is deadlier than influenza and his proof. His proof is simple: the death rate for influenza is 0.1 percent, while the death rate for coronavirus in Italy is 10 percent. That seems to make coronavirus 100 times deadlier than the flu, which was Dr. YouTube's conclusion.  
 
 Case closed, right? I mean, these are numbers we can all look up. And they come from a doctor. 
 
