@@ -1,7 +1,7 @@
 ---
 title: "Why Should I Believe You?"
 date: 2020-04-02T04:17:37-05:00
-draft: true
+draft: false
 url: "why-should-i-believe-you"
 # author
 author: "Bill Hennessy"
