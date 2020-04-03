@@ -28,7 +28,7 @@ When real life tells us a story, our minds will mold the facts to fit our desire
 
 As we retell our semi-fictionalized story to ourselves or others, we pad the hero's character and tarnish the villain's with each telling. The more we think about such stories, the more angelic the hero becomes and the more demonic the villain. 
 
-The problem is that real life is full of stories that have no real villain. Others have a villain, but we don't know enough to figure out it is. Our impatients and our desire for clean lines turns innocent people into villains to satisfy our emotional need to be right and for our the story to conform to our world views.
+The problem is that real life is full of stories that have no real villain. Others have a villain, but we don't know enough to figure out who it is. Our impatience and our desire for clean lines turns innocent people into villains to satisfy our emotional need to be right and for our the story to conform to our world views. It also turns neutral characters into heroes, overlooking their ordinary failings and maginifying their ordinary traits into superpowers.
 
 This week, the Captain Brett Crozier, commanding officer of the USS Theodore Roosevelt, a US Navy aircraft carrier, was relieved of command by Thomas Modly, the acting Secretary of the Navy. Modly briefed reporters on the reasons. Chief among them, Crozier released to the media a letter the captain had sent to his chain of command regarding the conditions on the ship as a result of coronavirus. The letter contained classified information, and very little time passed between Crozier's delivery of the letter via email and its publication in the San Francisco Chronicle newspaper. 
 
