@@ -60,7 +60,7 @@ Similar tests in France, Italy, and other places in the US produced nearly ident
 
 Yet, doctors who prescribe the Trump Pills risk losing their medical licenses or even being jailed in Nevada and other states. And their standing in the medical community will be shot.
 
-In New York, where Dr. Zelinski's trial took place and where over 3,000 coronavirus patients have died, Governor Andrew Cuomo refuses to allow dying patients to even try the cure. A pharmacist in New York City confirmed that he is not allowed to dispense the drugs even with a valid prescription from a doctor. 
+In New York, where Dr. Zelenko's trial took place and where over 3,000 coronavirus patients have died, Governor Andrew Cuomo refuses to allow dying patients to even try the cure. A pharmacist in New York City confirmed that he is not allowed to dispense the drugs even with a valid prescription from a doctor. 
 
 It's possible, of course, that Democrats in New York, Nevada, and Michigan are intentionally letting people die to make Trump look bad.
 
