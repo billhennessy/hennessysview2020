@@ -24,7 +24,7 @@ tags:
 type: "post"
 ---
 
-In the 2003 movie, "Northfork," two pseudo-government agents working for a power company try to convince a devout Mormon farmer to get out of his home before the construction of dam floods him out. 
+In the 2003 movie, "Northfork," two pseudo-government agents working for a power company try to convince a devout Mormon farmer to get out of his home before the construction of a dam floods him out. 
 
 The farmer insists he must first receive a sign from God. The Mormon has built a replica of Noah's ark, which he expects will rise with the waters and sail him and has wives to safety. 
 
