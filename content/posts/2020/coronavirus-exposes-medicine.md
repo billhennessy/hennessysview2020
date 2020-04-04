@@ -92,7 +92,7 @@ One of the best books about failed plans is [*Why Plans Fail*](https://www.amazo
 
 — Benson, Jim. [Why Plans Fail: Cognitive Bias, Decision Making, and Your Business](https://www.amazon.com/Why-Plans-Fail-Business-MemeMachine/dp/0989081222/ref=sr_1_1_sspa?dchild=1&keywords=why+plans+fail&qid=1586011609&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyOE1TVkdMREozWEJNJmVuY3J5cHRlZElkPUFCMTNXQzhIR0ZURU0mZW5jcnlwdGVkQWRJZD1BMDAwNDc4NTEzOVM4V1FOOU9BNVUmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) 
 
-Here we are in 2020, 173 years after Dr. Semmelweis was driven out of medicine and into his grave for discovering a cure for deadly disease. (Will Dr. Zelenski suffer the same grim fate?) And, yet, our medical community has gone exactly nowhere when it comes to recognizing its own cognitive errors and overcoming the fear of peer pressure in order to save lives. 
+Here we are in 2020, 173 years after Dr. Semmelweis was driven out of medicine and into his grave for discovering a cure for deadly disease. (Will Dr. Zelenko suffer the same grim fate?) And, yet, our medical community has gone exactly nowhere when it comes to recognizing its own cognitive errors and overcoming the fear of peer pressure in order to save lives. 
 
 Instead, people die two feet from the cure. 
 
