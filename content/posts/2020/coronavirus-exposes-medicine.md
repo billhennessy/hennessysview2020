@@ -103,3 +103,20 @@ If you want to do something to shorten the economic depression and save lives, d
 
 Rest assured, [there is a cure](https://www.washingtontimes.com/news/2020/apr/2/hydroxychloroquine-rated-most-effective-therapy-do/). Doctors just won't use it, except on themselves.
 
+---
+
+UPDATE: All of the drugs and supplemnets in the Trump Pills prescription are approved drugs. Of course, they haven't been approved for this specific disease because this disease is brand new. The FDA's approval process is sloooooooooow.  Off-label prescription of approved drugs is extremely common. [From the FDA's website](https://www.fda.gov/patients/learn-about-expanded-access-and-other-treatment-options/understanding-unapproved-use-approved-drugs-label):
+
+> #### Why might an approved drug be used for an unapproved use?
+> 
+> From the FDA perspective, once the FDA approves a drug, healthcare providers generally may prescribe the drug for an unapproved use when they judge that it is medically appropriate for their patient.
+>
+> You may be asking yourself why your healthcare provider would want to prescribe a drug to treat a disease or medical condition that the drug is not approved for.  One reason is that there might not be an approved drug to treat your disease or medical condition.  Another is that you may have tried all approved treatments without seeing any benefits.  In situations like these, you and your healthcare provider may talk about using an approved drug for an unapproved use to treat your disease or medical condition.
+>
+> #### What are examples of unapproved uses of approved drugs?
+> 
+> Unapproved use of an approved drug is often called “off-label” use. This term can mean that the drug is:
+>
+> * Used for a disease or medical condition that it is not approved to treat, such as when a chemotherapy is approved to treat one type of cancer, but healthcare providers use it to treat a different type of cancer.
+> * Given in a different way, such as when a drug is approved as a capsule, but it is given instead in an oral solution.
+> * Given in a different dose, such as when a drug is approved at a dose of one tablet every day, but a patient is told by their healthcare provider to take two tablets every day.
