@@ -96,7 +96,10 @@ Here we are in 2020, 173 years after Dr. Semmelweis was driven out of medicine a
 
 Instead, people die two feet from the cure. 
 
-If you want to do something to shorten the economic depression and save lives, demand the Trump Pills at the first sign of the infection. Scott Adams gave some tips on how to it, but I can't find the Periscope now. (Periscope search is weak.) The killer line is, "would you prescribe this to a loved one?" (If they're honest, they'll say, 'yes.')
+If you want to do something to shorten the economic depression and save lives, demand the Trump Pills at the first sign of the infection. Scott Adams gave some tips on how to it, but I can't find the Periscope now. (Periscope search is weak.) The killer line is, "would you prescribe this to a loved one?" (If they're honest, they'll say, 'yes.') As [the Washington Times reported today](https://www.washingtontimes.com/news/2020/apr/2/hydroxychloroquine-rated-most-effective-therapy-do/):
+
+> An international poll of more than 6,000 doctors released Thursday found that the antimalarial drug hydroxychloroquine was the most highly rated treatment for the novel coronavirus.
+
 
 Rest assured, [there is a cure](https://www.washingtontimes.com/news/2020/apr/2/hydroxychloroquine-rated-most-effective-therapy-do/). Doctors just won't use it, except on themselves.
 
