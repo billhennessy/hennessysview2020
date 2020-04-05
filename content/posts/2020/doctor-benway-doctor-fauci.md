@@ -1,7 +1,7 @@
 ---
 title: "Doctor Benway Doctor Fauci"
 date: 2020-04-05T13:06:34-05:00
-draft: true
+draft: false
 url: "doctor-benway-doctor-fauci"
 # author
 author: "Bill Hennessy"
