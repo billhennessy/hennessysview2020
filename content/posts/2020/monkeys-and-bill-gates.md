@@ -56,9 +56,9 @@ Put another way:
 | ICU Beds Needed | 33,176   | 5,207   | **27,969**   |
 | Ventilators Needed | 26,544   | 656   | **25,888**   |
 
-([Track these important statistic here](https://covidtracking.com/data).)
+([Track these important statistics here](https://covidtracking.com/data).)
 
-IMHE OVER-ESTIMATED DEMAND FOR VENTILATOR BY 40 TIMES!!! FORTY TIMES!!!
+IMHE OVER-ESTIMATED DEMAND FOR VENTILATORS BY 40 TIMES!!! FORTY TIMES!!!
 
 The idiots at IMHE would flunk out of a freshman-level data analysis class on Kahn Academy with those results. Monkeys throwing darts would have produced more accurate estimates.
 
