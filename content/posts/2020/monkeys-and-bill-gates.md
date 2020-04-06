@@ -50,11 +50,8 @@ How bad were the IHME's projections? Via [the irrepressible Jim Hoft at The Gate
 
 Put another way:
 
-| Item | Estimate  | Actual   | Error   |
-| --- | ---: | ---: | ---: |
-| Beds Needed | 179,267 | 22,158   | **157,109**   |
-| ICU Beds Needed | 33,176   | 5,207   | **27,969**   |
-| Ventilators Needed | 26,544   | 656   | **25,888**   |
+![ihme-errors](/images/ihme-error.png)
+
 
 ([Track these important statistics here](https://covidtracking.com/data).)
 
