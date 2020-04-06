@@ -37,9 +37,7 @@ Idiots began demanding the President of the United States personally design, tes
 
 Have I exaggerated? Perhaps, but far less than the IMHE exaggerated the numbers that caused the Great American Freak-Out of Twenty Twenty. 
 
-The IMHE's exaggerations and their consequences deserve life in imprisonment for everyone associated with that hideous cult, including all of its donors, however small their donation. If an 86-year-old widow living on her late husband's railroad pension sent a dollar ninety-two to the IMHE, she should live out her remaining days in a federal penitentiary for materially contributing to a man-made catastrophe. 
-
-LOCK HER UP!
+The IMHE's exaggerations and their consequences deserve life in imprisonment for everyone associated with that hideous cult, including all of its donors, however small their donation.
 
 How bad were the IMHE's projections? Via [the irrepressible Jim Hoft at The Gateway Pundit](https://www.thegatewaypundit.com/2020/04/latest-numbers-govt-models-overestimated-hospitalizations-8-times-icu-beds-6-4-times-ventilators-needed-40-5-times/):  
 
@@ -56,6 +54,8 @@ Put another way:
 | Beds Needed | 179,267 | 22,158   | **157,109**   |
 | ICU Beds Needed | 33,176   | 5,207   | **27,969**   |
 | Ventilators Needed | 26,544   | 656   | **25,888**   |
+
+([Track these important statistic here](https://covidtracking.com/data).)
 
 IMHE OVER-ESTIMATED DEMAND FOR VENTILATOR BY 40 TIMES!!! FORTY TIMES!!!
 
