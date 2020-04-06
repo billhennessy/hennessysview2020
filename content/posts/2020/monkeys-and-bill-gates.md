@@ -45,6 +45,7 @@ How bad were the IMHE's projections? Via [the irrepressible Jim Hoft at The Gate
 – Overestimation of hospitalizations: **8 times**
 
 – Overestimation of of ICU beds needed: **6.4 times**
+
 – Overestimation of ventilators needed: **40.5 times**
 
 Put another way:
