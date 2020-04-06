@@ -1,5 +1,5 @@
 ---
-title: "Monkeys Throwing Darts and Bill Gates' Coronavirus Estimates"
+title: "Confirmed! Monkeys Throwing Darts and Bill Gates' Coronavirus Estimates"
 date: 2020-04-05T21:02:43-05:00
 draft: false
 url: "monkeys-and-bill-gates"
@@ -81,3 +81,11 @@ This pandemic is a human tragedy on its own. People are sick and dying. Families
 I say it's high time we all don our face shields and march in six-foot intervals to the steps of the IMHE headquarters at the University of Washington chanting arcane algebraic equations until the idiots inside surrender or destroy their laptops. 
 
 Then, let's Make America Work Again!
+
+UPDATE: The dunderheads at IMHE have cut their model projections by 50% (h/t [The Gateway Pundit](https://www.thegatewaypundit.com/2020/04/huge-official-imhe-model-coronavirus-used-cdc-just-cut-numbers-half-making-go-along/)):
+
+![IMHE 50% correction](/images/IMHE-update.png)
+
+This is crucial. Hospitals and governor LOST THEIR MINDS because they relied on the incompetent models from IMHE. The need for equipment is HALF of what the governors were told. [See their correction](http://www.healthdata.org/covid/updates).
+
+ALWAYS DOUBT THE EXPERTS. 
