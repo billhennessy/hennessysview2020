@@ -68,7 +68,7 @@ I mean, God bless all those wonderful lives you brought into the world, but I th
 
 But that's not all!!!
 
-If you really to know how Mr. Trump must feel, imagine that every afternoon at 4:30 for 40+ years, a gaggle of reporters barged into your bedroom to cajole you and your husband to pump out rugrats even *faster* than one every nine months. "Your first litter is starving while you lollygag in producing enough offspring to enable the government to feed them."
+If you really want to know how Mr. Trump must feel, imagine that every afternoon at 4:30 for 40+ years, a gaggle of reporters barged into your bedroom to cajole you and your husband to pump out rugrats even *faster* than one every nine months. "Your first litter is starving while you lollygag in producing enough offspring to enable the government to feed them."
 
 That's exactly what's going on in Washington DC every day. The poor president walks out to inform the country on how the war against China's deadliest export is going, only to be harangued by a bunch of morons over why he isn't personally manufacturing 40 ventilators for every one that is actually needed. 
 
@@ -76,7 +76,7 @@ Meanwhile, Americans are losing their jobs faster than the New York Times can in
 
 And it's all the fault of four nerds and a spreadsheet out in the wretched state of Washington, the very state that introduced America to Antifa, Bill Gates, and the Chinese Coronavirus!
 
-This pandemic is a human tragedy on its own. People are sick and dying. Families are in misery waiting to hear whether a loved will survive. People are afraid for their health and their homes. It was bad enough without pseudoscience that diverted medical attention from where it was actually needed. **The IMHE has done serious damage to human lives**. It's gross exaggerations probably cost people their lives through misallocation and unnecessary preparation. Not to mention the economic damage that could shorten the lives of two generations. God have mercy on all of us who have suffered and will suffer loss because of this insidious disease. But the truth of Coronavirus was bad enough; it did not need embellishment by supposed experts.
+This pandemic is a human tragedy on its own. People are sick and dying. Families are in misery waiting to hear whether a loved will survive. People are afraid for their health and their homes. It was bad enough without pseudoscience that diverted medical attention from where it was actually needed. **The IMHE has done serious damage to human lives**. Its gross exaggerations probably cost people their lives through misallocation and unnecessary preparation. Not to mention the economic damage that could shorten the lives of two generations. God have mercy on all of us who have suffered and will suffer loss because of this insidious disease. But the truth of Coronavirus was bad enough; it did not need embellishment by supposed experts.
 
 I say it's high time we all don our face shields and march in six-foot intervals to the steps of the IMHE headquarters at the University of Washington chanting arcane algebraic equations until the idiots inside surrender or destroy their laptops. 
 
