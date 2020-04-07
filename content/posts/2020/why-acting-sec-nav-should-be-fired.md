@@ -34,11 +34,13 @@ If only Modly had stopped there.
 
 Instead, Modly flew to Guam, boarded the Roosevelt, seized the 1MC (ship's general announcing system), denigrated Captain Crozier, and publicly rebuked the crew for cheering Crozier off the ship.
 
-In his ship-wide announcement, which he reasonably knew would reach the press, Modly called Crozier "naive" or "stupid." He criticized the sailors of the Roosevelt for cheering for their departing captain. He injected politics into the equation. And, most pathetically of all, he complained that Crozier's letter caused a disruption in Washington, DC.  
+In his ship-wide announcement, which he reasonably should have known would reach the press, Modly called Crozier "naive" or "stupid." He criticized the sailors of the Roosevelt for cheering for their departing captain. He injected politics into the equation. And, most pathetically of all, he complained that Crozier's letter caused a disruption in Washington, DC.  
 
-I can assure you that telling sailors what kinds of behavior upset the suits in Washington will only encourage them to it more. 
+I can assure you that telling sailors what kinds of behavior upset the suits in Washington will only encourage them to do it more. 
 
-A true leader would have transmitted his displeasure with crew's behavior down the through the chain of command. In the process, he would have asked a responsible, mature colleague to temper his emotions. He would have focused on the crew, their illnesses, their disrupted deployment, and the upheaval they have to deal with. And he would have explained that their former captain's love of his crew went too far, violating regulations. He might have dropped in an example from history of a commanding officer letting his attachment to the troops cloud his judgment. (There are many.) 
+A true leader would have transmitted his displeasure with crew's behavior down through the chain of command. In the process, he would have asked a responsible, mature colleague to temper any emotions in this statement. 
+
+He would have focused on the crew — their illnesses, their disrupted deployment, and the upheaval they have to deal with. And he would have explained that their former captain's love of his crew went too far, violating regulations. He might have dropped in an example from history of a commanding officer letting his attachment to the troops cloud his judgment. (There are many.) 
 
 If a true leader had made the trip to Guam, his words to the crew would have been understanding and encouraging. He would have apologized on behalf of the president and the Navy for the embarrassing and difficult situation the crew is in. He would have acknowledged that, back in Washington, people can't always see what conditions are like on the front lines. He would have assured them this untimely change of command, and the confusion it undoubtedly caused, will be supported with every form of assistance required, and that he would personally see to it. 
 
