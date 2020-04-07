@@ -48,7 +48,7 @@ A real leader would have asked the crew to help him and the on-coming captain to
 
 That's how a leader handles these situations. Instead, Modly whined to the sailors for making his privileged life uncomfortable. 
 
-By his immature, petulant, and irresponsible actions, Thomas Crozier demonstrated the worst characteristics of a bad manager and a complete lack of leadership qualities. 
+By his immature, petulant, and irresponsible actions, Thomas Modly demonstrated the worst characteristics of a bad manager and a complete lack of leadership qualities. 
 
 If Crozier's letter set a bad example for his subordinates, Modly's obnoxious behavior on board the Roosevelt set a bad example for leaders in every walk of life.  
 
