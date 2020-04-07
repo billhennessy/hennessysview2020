@@ -26,7 +26,7 @@ Last week, Acting Secretary of the Navy Thomas Modly fired the commanding office
 
 Modley fired Captain Brett Crozier after Crozier's letter to a wide distribution list appeared in the San Francisco Chronicle. That five-page letter asked the Navy to move 4,000 sailors from the USS Roosevelt to hotels in Guam to be isolated to protect them from Coronavirus, which was spreading on board the aircraft carrier. 
 
-Several factors required that Crozier be relieved of command. Among them, his letter seemed to under classified, meaning, the letter disclosed classified information related to force and nuclear reactor readiness but Crozier failed to mark the letter as Confidential or Secret. Crozier treated the contents of the letter as unclassified. Commanding officers are required to know security regulations.   
+Several factors required that Crozier be relieved of command. Among them, his letter seemed under-classified, meaning, the letter disclosed classified information related to force and nuclear reactor readiness but Crozier failed to mark the letter as Confidential or Secret. Crozier treated the contents of the letter as unclassified. Commanding officers are required to know security regulations.   
 
 Further, the letter's distribution was wider than necessary and violated protocol for correspondence. Crozier broadcast the letter to multiple recipients in parallel as carbon-copy recipients. Instead, information of this sensitivity should have been addressed to the Secretary of the Navy *via* each officer between Crozier and Modly, starting with Crozier's flag officer who was on board the Roosevelt at the time. This breach of standard correspondence protocol alone was enough to justify Modly's action. I completely support the Navy's decision to relieve the captain based on what we now know. 
 
@@ -56,7 +56,6 @@ Americans who send our sons and daughters to the Navy expect and deserve that th
 
 I ask President Trump to fire Thomas Modly immediately.  
 
-In [my previous post on this matter](https://www.hennessysview.com/who-is-villain-of-uss-roosevelt/), I suggested the plot of the  story might contain two heroes and no villains. But, as the story has unfolds, it seems more likely there are two villains. 
-
+	
 
 
