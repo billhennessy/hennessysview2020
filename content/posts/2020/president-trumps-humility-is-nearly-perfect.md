@@ -7,7 +7,7 @@ categories: Politics
 tags:
   - Coronavirus
 ---
-If I asked you, "what's the greatest act of love and humility?" you'd like answer, "to give one's life for his neighbor."
+If I asked you, "what's the perfect act of love and humility?" you'd likely answer, "to give one's life for his neighbor."
 
 If I asked your for the *second greatest*, you might say, "to sacrifice one's life's greatest work for his neighbor." 
 
