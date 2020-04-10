@@ -9,7 +9,7 @@ tags:
 ---
 Models failed. Miserably. 
 
-The IHME models the CDC used as their primary source to justify the destruction of President Trump's beautiful economy turned out to be no better than guesses from three drunks at a bar. The IHME factored in strict mitigation (lockdown), but they still over estimated everything by factors as high as 40. 
+The IHME models the CDC used as their primary source to justify the destruction of [President Trump's beautiful economy](https://www.hennessysview.com/posts/2020/president-trumps-humility-is-nearly-perfect/) turned out to be no better than guesses from three drunks at a bar. The IHME factored in strict mitigation (lockdown), but they still over estimated everything by factors as high as 40. 
 
 That [models were unbelievably bad](https://www.hennessysview.com/monkeys-and-bill-gates/) is not open to debate. The models were hideously bad. 
 
