@@ -8,13 +8,13 @@ categories: Living
 tags:
   - Coronavirus
 ---
-If a picture can paint 1,000 words, this infograph would fill a library.
+If a picture can paint 1,000 words, this infographic would fill a library.
 
 It is a visual representation of the death toll from various plagues throughout history (most of which originated in China), including COVID-19 (which originated in China). 
 
 You will notice that COVID-19 is a rather mundane specimen. As of April 10, its death toll fell somewhere between the Yellow Fever of the late 1800s and Ebola of 2014-2015. 
 
-![Pandemics](Screen Shot 2020-04-11 at 7.14.57 AM.png]
+![Pandemics](screen-shot-2020-04-11-at-7.14.57-am.png]
 
 What's missing is the reaction, both public and governmental, to these pandemics. And our Coronavirus reaction will be what history remembers of the Great Freakout of 2020. 
 
