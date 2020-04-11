@@ -1,6 +1,6 @@
 ---
 type: post
-title: Walls Are the Answer
+title: All We Are Saying Is Give Walls a Chance
 date: 2020-04-12T19:01:00.000Z
 image: beautiful-wall.jpg
 categories: Politics
