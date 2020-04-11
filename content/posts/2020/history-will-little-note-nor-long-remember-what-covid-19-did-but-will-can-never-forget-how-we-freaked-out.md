@@ -1,6 +1,6 @@
 ---
 type: post
-title: History Will Little Note Nor Long Remember What COVID-19 Did But Will Can
+title: History Will Little Note Nor Long Remember What COVID-19 Did But Will
   Never Forget How We Freaked Out
 date: 2020-04-11T12:15:37.279Z
 image: screen-shot-2020-04-11-at-7.14.57-am.png
