@@ -1,7 +1,7 @@
 ---
 type: post
 title: Walls Are the Answer
-date: 2020-04-11T19:01:37.556Z
+date: 2020-04-12T19:01:00.000Z
 image: beautiful-wall.jpg
 categories: Politics
 tags:
