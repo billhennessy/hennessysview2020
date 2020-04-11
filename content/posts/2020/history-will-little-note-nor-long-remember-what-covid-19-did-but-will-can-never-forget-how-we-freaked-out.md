@@ -14,7 +14,7 @@ It is a visual representation of the death toll from various plagues throughout 
 
 You will notice that COVID-19 is a rather mundane specimen. As of April 10, its death toll fell somewhere between the Yellow Fever of the late 1800s and Ebola of 2014-2015. 
 
-![Pandemics](/images/Screen Shot 2020-04-11 at 7.14.57 AM.png]
+![Pandemics](Screen Shot 2020-04-11 at 7.14.57 AM.png]
 
 What's missing is the reaction, both public and governmental, to these pandemics. And our Coronavirus reaction will be what history remembers of the Great Freakout of 2020. 
 
