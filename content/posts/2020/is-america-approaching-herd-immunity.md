@@ -1,6 +1,6 @@
 ---
 type: post
-title: Is America Approaching Herd Immunity?
+title: Is America Approaching Herd Immunity? **UPDATE**
 date: 2020-04-10T12:02:26.840Z
 image: bison-herd.jpg
 categories: Living
@@ -49,4 +49,6 @@ We should be hoping that something like 80 or 90 million Americans have already 
 
 I'm going to hope I'm right.  
 
+---
+**UPDATE**: Antibody testing in Chicago shows 30 to 50 percent of population already immune to Coronavirus. [The Gateway Pundit has more](https://www.thegatewaypundit.com/2020/04/report-30-50-patients-chicago-tested-covid-19-already-antibodies-system/). 
 
