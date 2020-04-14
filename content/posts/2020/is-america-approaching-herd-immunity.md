@@ -1,7 +1,7 @@
 ---
 type: post
-title: Is America Approaching Herd Immunity? **UPDATE**
-date: 2020-04-10T12:02:26.840Z
+title: "Is America Approaching Herd Immunity? **CONFIRMED** "
+date: 2020-04-10T12:02:00.000Z
 image: bison-herd.jpg
 categories: Living
 tags:
@@ -52,3 +52,7 @@ I'm going to hope I'm right.
 ---
 **UPDATE**: Antibody testing in Chicago shows 30 to 50 percent of population already immune to Coronavirus. [The Gateway Pundit has more](https://www.thegatewaypundit.com/2020/04/report-30-50-patients-chicago-tested-covid-19-already-antibodies-system/). 
 
+---
+**ANALYSIS CONFIRMED** Two researchers have confirmed my simple calculations presented in this post. At least 28 million Americans have already gotten over Coronavirus. [The Economist has more](https://www.economist.com/graphic-detail/2020/04/11/why-a-study-showing-that-covid-19-is-everywhere-is-good-news). 
+
+{{< twitter 1247861137040977920 >}}
