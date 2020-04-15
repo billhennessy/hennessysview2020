@@ -30,9 +30,7 @@ Maybe it's time to assert our civil rights like free people, instead of begging 
 
 Maybe it's time to finish the mission of 2009.
 
-Maybe we need 10,000 pipe-bending patriots on the steps of every governor's mansion in America in war paint and brandishing baseball bats with 10-penny nails driven through until the governors abdicate. 
-
-Maybe it's time for 20,000 patriots to storm the halls of CNN, throwing tables and desks and laptops through their windows onto the streets below. (Don't stand underneath.)
+Maybe we need 10,000 pipe-bending patriots on the steps of every governor's mansion in America in war paint until the governors abdicate. 
 
 Maybe it's time we use the pronouns appropriate for one's chromosomes: XX = she; XY = he, and there ain't no ternary operator in this equation. 
 
