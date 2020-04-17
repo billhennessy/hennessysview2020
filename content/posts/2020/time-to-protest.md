@@ -35,6 +35,10 @@ Play theme from Rawhide at full volume with your windows open.
 > Don't try to understand 'em
 > Just rope 'em, throw, and brand 'em
 
+And, if the bureaucrats don't get it, try this version:
+
+{{< video "RdR6MN2jKYs" >}}
+
 Let Us Work!
 
 See you Tuesday! 
