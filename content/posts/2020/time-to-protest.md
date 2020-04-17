@@ -32,6 +32,13 @@ Play theme from Rawhide at full volume with your windows open.
 
 {{< youtube CFpiszqA4 >}}
 
+Another, longer version of Rawhide:
+
+{{< youtube YCGeeCIzBs4 >}}
+
+> Don't try to understand 'em
+> Just rope, throw, and brand 'em
+
 Let Us Work!
 
 See you Tuesday! 
