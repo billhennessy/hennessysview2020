@@ -13,7 +13,7 @@ Thanks to Josh Schisler and the Reopen Missouri movement, protests are a comin'.
 
 ## Part One: Reopen Missouri @ State Capitol at Noon
 
-Jefferson City, Missouri. Noon to 1:00 vehicle protest at the State Capitol. Details on Reopen Missouri Facebook page. 
+Jefferson City, Missouri. Noon to 1:00 vehicle protest at the State Capitol. Details on [Reopen Missouri Facebook page](https://www.facebook.com/groups/2330933170343589/). 
 
 ## Part Two: Reopen the County @ St. Louis County Government Center
 
