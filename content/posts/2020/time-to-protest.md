@@ -1,6 +1,6 @@
 ---
 type: post
-title: Time to Protest
+title: Protests to Reopen Missouri and St. Louis County Tuesday
 date: 2020-04-17T02:22:04.688Z
 image: mask.jpg
 categories: Politics
@@ -30,11 +30,11 @@ Be polite.
 
 Play theme from Rawhide at full volume with your windows open.
 
-{{< youtube CFpiszqA4 >}}
+{{< video "CFpiszqA4" >}}
 
 Another, longer version of Rawhide:
 
-{{< youtube YCGeeCIzBs4 >}}
+{{< video "YCGeeCIzBs4" >}}
 
 > Don't try to understand 'em
 > Just rope, throw, and brand 'em
