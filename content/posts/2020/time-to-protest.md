@@ -37,7 +37,7 @@ Another, longer version of Rawhide:
 {{< video "YCGeeCIzBs4" >}}
 
 > Don't try to understand 'em
-> Just rope, throw, and brand 'em
+> Just rope 'em, throw, and brand 'em
 
 Let Us Work!
 
