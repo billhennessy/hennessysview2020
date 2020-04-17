@@ -30,10 +30,6 @@ Be polite.
 
 Play theme from Rawhide at full volume with your windows open.
 
-{{< video "CFpiszqA4" >}}
-
-Another, longer version of Rawhide:
-
 {{< video "YCGeeCIzBs4" >}}
 
 > Don't try to understand 'em
