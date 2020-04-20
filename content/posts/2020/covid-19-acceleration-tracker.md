@@ -9,7 +9,7 @@ tags:
 ---
 This is a live view of the most important COVID-19 metric: acceleration rates of positive tests, hospitalizations, and deaths.
 
-![](change-in-acceleration-covid-19_-key-metrics.png)
+![](/images/change-in-acceleration-covid-19_-key-metrics.png)
 
 [Source: The Covid Tracking Project](https://covidtracking.com/data)
 
