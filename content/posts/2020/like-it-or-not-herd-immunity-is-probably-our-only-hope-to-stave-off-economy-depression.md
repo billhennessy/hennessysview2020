@@ -8,7 +8,7 @@ categories: Living
 tags:
   - Coronavirus
 ---
-I know President Trump mocks the idea of herd immunity, but there's really no other option absent a vaccine. And if we keep in lockdown until a vaccine is widely available, millions will die from the collapsed economy and collapsed infrastructure. 
+I know President Trump mocks the idea of [herd immunity](https://www.hennessysview.com/posts/2020/is-america-approaching-herd-immunity/), but there's really no other option absent a vaccine. And if we keep in lockdown until a vaccine is widely available, millions will die from the collapsed economy and collapsed infrastructure. 
 
 What makes Coronavirus more dangerous than flu is lack of immune people. 
 
