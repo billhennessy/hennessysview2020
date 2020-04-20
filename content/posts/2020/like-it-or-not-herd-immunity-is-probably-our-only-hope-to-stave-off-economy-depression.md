@@ -34,7 +34,9 @@ Suppose you went to a Christmas party last December at which there were 50 guest
 
 In this scenario, it's possible that only 8 people would catch the flu while 25 could catch Coronavirus. (Each partygoer can within two people of both carriers.) That's because 60 percent of the people were immune to the flu. (Rough estimates, but you get the idea.)
 
-This means there are only two ways to slow the spread of Coronavirus: herd immunity or vaccine. All other mitigations only delay the spread to alleviate congestion at hospitals, and overwhelmed hospitals were a key reason for so many deaths in Italy. (People who might have lived died because hospitals lacked the capacity to treat them.) 
+This means there are only two ways to slow the spread of Coronavirus: herd immunity or a vaccine. All other mitigations only delay the spread to alleviate congestion at hospitals, and overwhelmed hospitals were a key reason for so many deaths in Italy. (People who might have lived died because hospitals lacked the capacity to treat them.) 
+
+[READ WHY YOU SHOULD IGNORE THE MEDIA](https://www.hennessysview.com/posts/2020/why-are-media-leading-us-into-despair/)
 
 If you want to hear the same thing from a doctor who studies infectious diseases for a living, see [Mark Levin's interview with Dr. David Katz, founder of Yale-Griffin Prevention Research Center](https://www.foxnews.com/media/david-katz-coronavirus-vaccine-herd-immunity).
 
