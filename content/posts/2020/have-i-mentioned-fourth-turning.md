@@ -43,6 +43,8 @@ And, it won't be the Coronavirus that wipes us out: it will be our response.
 
 Buyers are demanding cash to take oil off the hands of producers. (I'd fill up today, if you still can.)
 
+![](/images/oil-glut.png)
+
 What does that mean? It means there is no incentive to produce oil. None. No one in his right might would pump, refine, or deliver oil. 
 
 You can say, "yes, but there's demand, so someone will provide it." Maybe. But demand might be below the cost of production. Remember regulations. Taxes. Those things can actually cause the cost to produce and deliver a commodity higher than the economy can afford.
@@ -52,6 +54,8 @@ Plus, negatively priced crude oil can trigger financial meltdowns that make 2008
 ### The Healthcare Sector Is Collapsing
 
 You'd think with a pandemic going around, hospitals would be overflowing. Think again. From [today's Wall Street Journal](https://www.wsj.com/articles/sending-hospitals-into-bankruptcy-11587326607?mod=hp_opin_pos_2):
+
+![](/images/hospital-crash.png)
 
 > Oxford Economics forecasts that 1.5 million “non-essential” health-care workers will lose their jobs this month. The Mayo Clinic is cutting physician salaries by 10%. Boston Medical Center is furloughing 10% of its workforce. Cincinnati-based Bon Secours Mercy Health, with 43 hospitals and 1,000 outpatient facilities across seven states, is furloughing employees who aren’t treating coronavirus patients.
 
@@ -63,7 +67,9 @@ As with most things in an F-18, it can happen faster than you can blink.
 
 ### People Are Ready to Explode
 
-Populist anger at the elites has never been higher in modern times. Never. It has turned from frustration to true, visceral hatred. 
+Populist anger at the elites has never been higher in modern times. Never. It has turned from frustration to true, visceral hatred.
+
+![](/images/lockdown-protest.jpg) 
 
 And the elites hate the people even more than the people hate the elites. 
 
