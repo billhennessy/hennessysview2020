@@ -9,7 +9,7 @@ tags:
 ---
 This is a live view of the most important COVID-19 metric: acceleration rates of positive tests, hospitalizations, and deaths.
 
-
+![](change-in-acceleration-covid-19_-key-metrics.png)
 
 [Source: The Covid Tracking Project](https://covidtracking.com/data)
 
@@ -22,3 +22,5 @@ The most important number regarding Coronavirus is a number none of the tracking
 I have been tracking this since April 1, so April 2 is the first day available. 
 
 {{< twitter 1249709818442547200 >}}
+
+Note: I call this "acceleration," but I am not using the actual acceleration formula. That would confuse too many people, as the swings in numbers and in positive/negative would seem crazy. But the formula ((d1-d0)/d0, where d is day) is reasonable proxy for acceleration. 
