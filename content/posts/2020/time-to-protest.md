@@ -17,7 +17,7 @@ Jefferson City, Missouri. Noon to 1:00 vehicle protest at the State Capitol. Det
 
 ## Part Two: Reopen the County @ St. Louis County Government Center
 
-Rolling (tea) Party Protest in Clayton around the St. Louis County Government Center before the County Council meets.
+Clayton, MO. 3:30 to 5:00 p.m. Rolling (tea) Party Protest in Clayton around the St. Louis County Government Center before the County Council meets.
 
 Map of Route:
 ![map](/images/open-stlco-route.png)
