@@ -1,7 +1,7 @@
 ---
 type: post
 title: Have I Mentioned 'Fourth Turning?'
-date: 2020-04-21T01:07:16.775Z
+date: 2020-04-21T01:23:01.771Z
 image: shelves-1.jpeg
 categories: Living
 tags:
