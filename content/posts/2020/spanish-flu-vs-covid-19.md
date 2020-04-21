@@ -1,25 +1,16 @@
 ---
-title: "Spanish Flu vs. Coronavirus"
-date: 2020-03-19T13:29:43-05:00
 draft: false
-url: "spanish-flu-vs-coronavirus"
-# author
-author: "Bill Hennessy"
-
-# post thumb
+author: Bill Hennessy
+date: 2020-03-19T18:29:43.000Z
+url: spanish-flu-vs-coronavirus
+type: post
+title: Spanish Flu vs. Coronavirus
 image: WTMahon-2.jpg
-
-# meta description
-description: "What can we learn from the 1918-1919 Spanish Flu epidemic?"
-
-# taxonomies
-categories: 
-- Living
+categories:
+  - Living
 tags:
-- Coronavirus
-
-# post type
-type: "post"
+  - Coronavirus
+description: What can we learn from the 1918-1919 Spanish Flu epidemic?
 ---
 
 You might have heard mention of the Spanish Flu epidemic of 1918 to 1919. Being the great-grandson of a doctor who came out of retirement to assist with St. Louis's response to that epidemic, I thought I'd should share a little information about the differences and similarities between the Spanish Flu and coronavirus. I'll briefly cover both the diseases and the responses. 
@@ -71,7 +62,7 @@ The 2019-2020 flu season started in the US in about October, but coronavirus did
 	
 Next, the flu virus was very mild in October, as it is most seasons. It takes time to spread around the country. In other words, by February when coronavirus hit the US in only a handful of locations, the flu was already widely spread. Therefore, we need to control for distribution. We can do this by factoring on known cases. 
 	
-Yes, factoring out the time and distribution numbers means we through out a lot of flu cases, but it's the only honest way to fairly compare the two. 
+Yes, factoring out the time and distribution numbers means we throw out a lot of flu cases, but it's the only honest way to fairly compare the two. 
 	
 Third, as the skeptics rightly point out, WHO and CDC usually report flu based on estimated cases rather than confirmed cases while using confirmed cases of coronavirus. This is another number that needs to be controlled. Because we cannot estimate the number of infections of a disease that has no history, we have throw out the estimated flu cases and use only confirmed cases for analysis. When we do this, the mortality rate for flu skyrockets to 10 percent. (We know that most people with the flu never get tested, so there's no need to panic.)
 	
