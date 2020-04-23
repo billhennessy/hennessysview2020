@@ -16,6 +16,7 @@ rssLimit = 5
 
   ga_verify = "google-site-verification=XfoRVS-X91PIqRi4b_ealPYbSv3Y76uBAu_ZLIXRt14"
   twitter = "@hennessystl" # twitter handle e.g @weru
+  gab = "https://gab.com/whennessy"
   logo = "logo.gif"
   author = "Bill Hennessy" # default author
   image = "images/Hennessys-View-Photo.png" # used whenever a page image is not set
