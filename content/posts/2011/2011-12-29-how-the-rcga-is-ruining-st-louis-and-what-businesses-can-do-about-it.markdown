@@ -7,22 +7,18 @@ layout: blog
 url: /2011/12/29/how-the-rcga-is-ruining-st-louis-and-what-businesses-can-do-about-it/
 categories:
 - Politics
-- Politics
-- Politics
-- Politics
+
 tags:
 - aerotropolis
 - chambers of commerce
-- good government
-- pork barrel
 - RCGA
 type: "post"
 ---
 
 Everyone knows and accepts that government does stupid things. Sometimes it feels like people institute governments and delegate them certain powers just to give us something to complain about.
 
-[![governmentdemotivator](https://hennessysview.com/wp-content/uploads/2011/12/governmentdemotivator.jpg)
-](https://www.despair.com/government.html)
+![governmentdemotivator](/wp-content/uploads/2011/12/governmentdemotivator.jpeg)
+
 
 Government stupidity, scandal, and corruption hits different people in different ways. Government hyperactivity keeps poor people poor by limiting opportunity and by building barriers to exiting poverty programs. “If you take that job, you’ll lose your health insurance.” Compassion my non-qualifying asset.
 
@@ -104,7 +100,13 @@ Luckily, that Harvard Business School piece offers some solutions. I’d like to
 
 
 
-  1. Set an ambitious new vision for engagement with the deepest irritations among chamber members; involve non-members to aid recruitment.    2. Build capacity among staff and volunteers to manage protest.    3. Recognize that government "bads" and threats are usually a far more influential force on businesses than government "goods": **avoid the US "pork barrel"** and do not be trapped by the UK or EU incentives to "chase the funding". This just gets non-profits to follow politicians' agendas.    4. Focus on where threats, risks, and anger are highest; most businesses are not interested in the minor or trivial.    5. Use new technology to expose contention and open new avenues to welcome protest. Take on the tough problems and avoid easy solutions. Use business networks, social media, and crowdsourcing to re-engage business communities at low cost.    6. Prepare for long term and sustained campaigns; policy victories are rarely won quickly.    7. Expose policy incompetence, look for public programs that do not work and press for termination; but celebrate policy successes, especially where businesses and chambers have contributed. Use blogs and networks to keep up to date and monitor feelings. [emphasis mine]
+  1. Set an ambitious new vision for engagement with the deepest irritations among chamber members; involve non-members to aid recruitment.    
+  2. Build capacity among staff and volunteers to manage protest.    
+  3. Recognize that government "bads" and threats are usually a far more influential force on businesses than government "goods": **avoid the US "pork barrel"** and do not be trapped by the UK or EU incentives to "chase the funding". This just gets non-profits to follow politicians' agendas.    
+  4. Focus on where threats, risks, and anger are highest; most businesses are not interested in the minor or trivial.    
+  5. Use new technology to expose contention and open new avenues to welcome protest. Take on the tough problems and avoid easy solutions. Use business networks, social media, and crowdsourcing to re-engage business communities at low cost.    
+  6. Prepare for long term and sustained campaigns; policy victories are rarely won quickly.    
+  7. Expose policy incompetence, look for public programs that do not work and press for termination; but celebrate policy successes, especially where businesses and chambers have contributed. Use blogs and networks to keep up to date and monitor feelings. [emphasis mine]
 
 If you’re interested in starting such a chamber, please enter comments below. 
 

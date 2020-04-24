@@ -1,7 +1,7 @@
 ---
 title: "Sunlight Kills Coronavirus"
 date: 2020-04-23T19:12:35-05:00
-draft: true
+draft: false
 url: "sunlight-kills-coronavirus"
 # author
 author: "Bill Hennessy"
