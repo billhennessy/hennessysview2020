@@ -14,9 +14,11 @@ description: "this is meta description"
 
 # taxonomies
 categories: 
-- Replace_Me
+#- Faith
+#- Living
+#- Politics
 tags:
-- Replace_Me
+# - Replace_Me
 
 # post type
 type: "post"
