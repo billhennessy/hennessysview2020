@@ -1,4 +1,4 @@
-baseurl = "https://www.hennessysview.com/"  # Include trailing slash
+baseurl = "https://hennessysview.web.app/"  # Include trailing slash
 title = "Hennessy's View"
 theme = "swift"
 author = "Bill Hennessy"
