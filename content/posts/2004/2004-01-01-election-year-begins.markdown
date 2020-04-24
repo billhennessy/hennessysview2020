@@ -4,6 +4,7 @@ date: 2004-01-01 18:38:00+00:00
 draft: false
 title: Election Year Begins
 layout: blog
+type: post
 url: /2004/01/01/election-year-begins/
 categories:
 - Latest

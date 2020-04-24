@@ -3,7 +3,7 @@ author: Bill Hennessy
 date: 2003-12-19 08:13:00+00:00
 draft: false
 title: Kofi Annan "Frustrated"
-
+type: post
 url: /2003/12/19/kofi-annan-quotfrustratedquot/
 categories:
 - Foreign Relations

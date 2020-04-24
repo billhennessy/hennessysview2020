@@ -3,7 +3,7 @@ author: Bill Hennessy
 date: 2003-12-31 18:30:00+00:00
 draft: false
 title: Resolutions
-
+type: post
 url: /2003/12/31/resolutions/
 categories:
 - Latest

@@ -4,6 +4,7 @@ date: 2004-01-01 18:40:00+00:00
 draft: false
 title: Will Deaniacs Vote?
 layout: blog
+type: post
 url: /2004/01/01/will-deaniacs-vote/
 categories:
 - Latest

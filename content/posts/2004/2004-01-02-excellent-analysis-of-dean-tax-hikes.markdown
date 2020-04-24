@@ -4,6 +4,7 @@ date: 2004-01-02 20:32:00+00:00
 draft: false
 title: Excellent Analysis of Dean Tax Hikes
 layout: blog
+type: post
 url: /2004/01/02/excellent-analysis-of-dean-tax-hikes/
 categories:
 - Latest

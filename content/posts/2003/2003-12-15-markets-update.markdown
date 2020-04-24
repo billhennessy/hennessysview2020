@@ -3,7 +3,7 @@ author: Bill Hennessy
 date: 2003-12-15 19:52:00+00:00
 draft: false
 title: Markets Update
-
+type: post
 url: /2003/12/15/markets-update/
 categories:
 - Foreign Relations

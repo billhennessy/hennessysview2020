@@ -4,6 +4,7 @@ date: 2004-01-02 14:48:00+00:00
 draft: false
 title: North Korea Allows US Inspectors
 layout: blog
+type: post
 url: /2004/01/02/north-korea-allows-us-inspectors/
 categories:
 - Foreign Relations

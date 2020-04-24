@@ -3,7 +3,7 @@ author: Bill Hennessy
 date: 2003-04-12 04:55:54+00:00
 draft: false
 title: Do-It-Yourselfer Disappointed
-
+type: post
 url: /2003/04/11/do-it-yourselfer-disappointed/
 categories:
 - Latest

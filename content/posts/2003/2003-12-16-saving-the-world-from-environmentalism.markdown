@@ -3,7 +3,7 @@ author: Bill Hennessy
 date: 2003-12-16 21:50:00+00:00
 draft: false
 title: Saving the World from Environmentalism
-
+type: post
 url: /2003/12/16/saving-the-world-from-environmentalism/
 categories:
 - Latest

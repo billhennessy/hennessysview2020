@@ -3,7 +3,7 @@ author: Bill Hennessy
 date: 2003-12-15 17:28:00+00:00
 draft: false
 title: Markets Responding Oddly
-
+type: post
 url: /2003/12/15/markets-responding-oddly/
 categories:
 - Latest

@@ -3,7 +3,7 @@ author: Bill Hennessy
 date: 2003-12-31 18:14:00+00:00
 draft: false
 title: Predictions Part I
-
+type: post
 url: /2003/12/31/predictions-part-i/
 categories:
 - Foreign Relations

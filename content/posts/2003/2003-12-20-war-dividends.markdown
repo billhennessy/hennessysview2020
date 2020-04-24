@@ -3,7 +3,7 @@ author: Bill Hennessy
 date: 2003-12-20 01:53:00+00:00
 draft: false
 title: War Dividends
-
+type: post
 url: /2003/12/20/war-dividends/
 categories:
 - Foreign Relations
