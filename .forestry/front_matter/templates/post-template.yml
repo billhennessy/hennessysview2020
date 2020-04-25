@@ -9,11 +9,9 @@ fields:
   name: date
   label: date
 - type: text
-  name: url
-  label: url
-- type: text
   name: author
   label: author
+  default: Bill Hennessy
 - type: file
   name: image
   label: image
@@ -29,3 +27,4 @@ fields:
 - type: text
   name: type
   label: type
+  default: post
