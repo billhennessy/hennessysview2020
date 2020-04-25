@@ -12,6 +12,9 @@
 </section>
 <div class = 'post'>
   <article class='post_content'>
+    {{ $customDateFormat := "January 2, 2006" }}
+      {{ with .Site.Params.customDateFormat }}{{ $customDateFormat = . }}{{ end }}
+      <small class="text-secondary">&mdash;Published {{ .PublishDate.Format $customDateFormat }} by {{ .Params.Author }}</small>
     {{- .Content }}
     <div class = 'post_extra'>
       {{- partial "copy" . }}
