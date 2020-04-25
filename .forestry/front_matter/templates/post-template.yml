@@ -28,3 +28,5 @@ fields:
   name: type
   label: type
   default: post
+pages:
+- content/posts/this-is-only-a-test.md
