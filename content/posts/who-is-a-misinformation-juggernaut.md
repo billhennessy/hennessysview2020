@@ -1,6 +1,6 @@
 ---
 title: "The WHO Is a Misinformation Juggernaut"
-date: 2020-04-27T17:29:11-05:00
+date: 2020-04-27T16:29:11-05:00
 draft: false
 url: "who-is-a-misinformation-juggernaut"
 # author
