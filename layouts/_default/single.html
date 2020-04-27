@@ -6,15 +6,18 @@
   {{ $scratch.Set "image" "thumbnail.svg" }}
 {{- end }}
 {{- $image := $scratch.Get "image" }}
+{{ $page := . }}
 {{- $bg := (path.Join "images" $image | absLangURL) }}
 <section class = 'post_header' style = 'background-image:url({{ $bg }});'>
   <h1 class='post_title'>{{ .Title }}</h1>
 </section>
 <div class = 'post'>
   <article class='post_content'>
-    {{ $customDateFormat := "January 2, 2006" }}
-      {{ with .Site.Params.customDateFormat }}{{ $customDateFormat = . }}{{ end }}
-      <small class="text-secondary">&mdash;Published {{ .PublishDate.Format $customDateFormat }}</small>
+      <div class="meta text-muted mb-3">
+        <p class="created text-muted text-uppercase font-weight-bold mb-1">{{ $page.Date.Format "January 2, 2006" }}</p>
+        <!-- <span class="mr-2"><i class="fas fa-book-open mr-2"></i>{{ T "wordCount" $page.WordCount }}</span>
+        <span><i class="fas fa-clock mr-2"></i>{{ T "readingTime" $page.ReadingTime }}</span> -->
+    </div>
     {{- .Content }}
     <div class = 'post_extra'>
       {{- partial "copy" . }}
