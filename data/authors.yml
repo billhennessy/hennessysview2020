@@ -1,4 +1,4 @@
 - name: "bill hennessy"
-  photo: "https://hennessysview.com/images/bill-hennessy.jpg"
+#  photo: "/images/billhennessy.jpg"
   url: "https://hennessysview.com"
-  bio: "Writer and part-time activist."
+  bio: "Writer"
