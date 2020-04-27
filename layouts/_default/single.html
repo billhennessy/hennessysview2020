@@ -8,6 +8,7 @@
 {{- $image := $scratch.Get "image" }}
 {{ $page := . }}
 {{- $bg := (path.Join "images" $image | absLangURL) }}
+</style>
 <section class = 'post_header' style = 'background-image:url({{ $bg }});'>
   <h1 class='post_title'>{{ .Title }}</h1>
 </section>

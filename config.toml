@@ -23,3 +23,4 @@ rssLimit = 5
 #  blogDir = "posts" # uncomment and edit to exclude normal pages ... see issue #57
   commento = true
 
+
