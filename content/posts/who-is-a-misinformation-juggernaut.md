@@ -28,7 +28,7 @@ In the past 48 hours, the World Health Organization has spread misinformation ab
 
 On Saturday, the WHO, through its propaganda tools like the New York Times, Twitter, Facebook, and CNN, released a statement that Coronavirus antibodies offered no protection against catching the disease a second time. This statement was factually wrong, but the media quickly broadcast the false statement.
 
-On Sunday, after an outcry by physicians and researchers, the WHO amended its statement to say "there is no evidence" that Coronavirus antibodies protect people from the disease. This, too, was a lie. Antibodies by definition protect a host. 
+On Sunday, after an outcry by physicians and researchers, the WHO amended its statement to say "there is no evidence" that Coronavirus antibodies protect people from the disease. This, too, was a lie. [Antibodies by definition protect a host](https://en.wikipedia.org/wiki/Antibody). If an "antibody" does not protect the host from the bacteria of virus, it isn't an anitbody. 
 
 Today, the WHO again amended its statement after further complaints from doctors. Now, the WHO says people should not rely on antibodies to protect them.
 
