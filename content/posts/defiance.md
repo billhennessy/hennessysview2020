@@ -1,7 +1,7 @@
 ---
 title: "Twitter and YouTube Reject Science"
 date: 2020-04-25T21:29:12-05:00
-draft: true
+draft: false
 url: "twitter-and-youtub-reject-science"
 # author
 author: "Bill Hennessy"
