@@ -2,7 +2,7 @@
 title: "Christmas One and Christmas Two"
 date: 2018-12-23T12:06:54-06:00
 draft: true
-author: "bhennessy"
+author: "bill hennessy"
 categories:
 - faith
 - faith

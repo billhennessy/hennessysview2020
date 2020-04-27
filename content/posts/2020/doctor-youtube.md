@@ -4,7 +4,7 @@ date: 2020-04-02T04:17:37-05:00
 draft: false
 url: "why-should-i-believe-you"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: dr-youtube.png

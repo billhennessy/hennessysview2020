@@ -4,7 +4,7 @@ date: 2020-03-14T12:33:03-05:00
 draft: true
 url: "people-dont-listen"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: 

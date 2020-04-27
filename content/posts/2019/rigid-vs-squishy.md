@@ -9,7 +9,7 @@ categories:
 tags:
 - Pope Francis
 - Evil
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

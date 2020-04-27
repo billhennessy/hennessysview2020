@@ -8,7 +8,7 @@ categories:
 - Faith
 tags:
 - Traditional Latin Mass
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

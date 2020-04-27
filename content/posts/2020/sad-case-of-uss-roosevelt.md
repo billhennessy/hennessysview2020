@@ -4,7 +4,7 @@ date: 2020-04-03T15:56:00-05:00
 draft: false
 url: "who-is-villain-of-uss-roosevelt"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: roosevelt.jpg

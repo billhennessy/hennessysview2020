@@ -4,7 +4,7 @@ date: 2020-03-29T10:21:35-05:00
 draft: false
 url: "the-only-covid-number-that-matters"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: Coronavirus-2.jpg

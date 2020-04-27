@@ -4,7 +4,7 @@ date: 2020-03-15T00:55:56-05:00
 draft: false
 url: "corona-couriers"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: Coronavirus-2.jpg

@@ -10,7 +10,7 @@ tags:
 - popularity
 - Timothy Gordon
 - David Gordon
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

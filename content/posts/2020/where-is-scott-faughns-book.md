@@ -11,7 +11,7 @@ tags:
 - Eric Greitens
 - Scott Faughn
 
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 type: "post"
 ---

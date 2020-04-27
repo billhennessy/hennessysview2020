@@ -4,7 +4,7 @@ date: 2020-03-18T09:32:48-05:00
 draft: false
 url: "trump-was-5-years-ahead-of-coronavirus"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: trump-escalator.jpg

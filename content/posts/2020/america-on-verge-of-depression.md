@@ -4,7 +4,7 @@ date: 2020-04-25T11:36:40-05:00
 draft: false
 url: "america-on-verge-of-depression"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: great-depression.jpg

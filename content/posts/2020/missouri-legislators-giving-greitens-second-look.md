@@ -4,7 +4,7 @@ date: 2020-02-20T19:56:27-06:00
 draft: false
 url: "missouris-festering-wound"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: "faughn.jpg"

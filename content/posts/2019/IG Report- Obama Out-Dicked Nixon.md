@@ -8,7 +8,7 @@ categories:
 - Politics
 tags:
 - IG Report
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

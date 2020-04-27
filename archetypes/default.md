@@ -4,7 +4,7 @@ date: {{ .Date }}
 draft: true
 url: "{{ .Name }}"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: 

@@ -4,7 +4,7 @@ date: 2020-04-25T21:29:12-05:00
 draft: false
 url: "twitter-and-youtub-reject-science"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: fty.jpg

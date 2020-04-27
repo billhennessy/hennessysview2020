@@ -2,7 +2,7 @@
 title: "Can't Look Away"
 date: 2018-12-25T04:06:54-06:00
 draft: true
-author: "Bill Hennessy"
+author: "bill hennessy"
 categories:
 - Faith
 - Art

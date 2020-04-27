@@ -8,7 +8,7 @@ categories:
 - Faith
 tags:
 - Fiction
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

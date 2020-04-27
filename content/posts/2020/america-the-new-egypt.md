@@ -4,7 +4,7 @@ date: 2020-02-24T22:00:50-06:00
 draft: true
 url: "america-the-new-egypt"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: 

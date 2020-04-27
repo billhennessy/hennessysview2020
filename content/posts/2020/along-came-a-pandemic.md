@@ -4,7 +4,7 @@ date: 2020-02-24T06:45:37-06:00
 draft: false
 url: "along-came-a-pandemic"
 # author
-author: "billHennessy"
+author: "bill hennessy"
 
 # post thumb
 image: Coronavirus-2.jpg

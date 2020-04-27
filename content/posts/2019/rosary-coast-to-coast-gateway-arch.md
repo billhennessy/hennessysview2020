@@ -8,7 +8,7 @@ categories:
 - Faith
 tags:
 - Rosary Coast-to-Coast
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

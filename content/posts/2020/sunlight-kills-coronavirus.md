@@ -4,7 +4,7 @@ date: 2020-04-23T19:12:35-05:00
 draft: false
 url: "sunlight-kills-coronavirus"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: sunlight.jpg

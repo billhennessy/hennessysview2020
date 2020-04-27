@@ -12,7 +12,7 @@ tags:
 - Pew Survey
 - Latin Mass
 - Novus Ordo
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

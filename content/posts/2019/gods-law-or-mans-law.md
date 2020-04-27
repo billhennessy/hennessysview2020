@@ -8,7 +8,7 @@ categories:
 - Faith
 tags:
 - Fr. Jim Sichko
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

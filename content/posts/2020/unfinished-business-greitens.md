@@ -10,7 +10,7 @@ tags:
 - Eric Greitens
 - Tax Credit Syndicate
 - Exodus
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 type: "post"
 ---

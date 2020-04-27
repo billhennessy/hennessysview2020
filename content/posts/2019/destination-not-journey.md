@@ -9,7 +9,7 @@ categories:
 tags:
 - Humility
 - Jerry Garcia
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

@@ -4,7 +4,7 @@ date: 2020-02-16T11:37:10-06:00
 draft: true
 url: "can-the-doj-be-fixed"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: andrew_mccabe.jpg

@@ -8,7 +8,7 @@ categories:
 - Politics
 tags:
 - Executive Privilege
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

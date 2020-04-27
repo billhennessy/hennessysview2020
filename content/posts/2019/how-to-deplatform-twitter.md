@@ -8,7 +8,7 @@ categories:
 - Politics
 tags:
 - deplatform twitter
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

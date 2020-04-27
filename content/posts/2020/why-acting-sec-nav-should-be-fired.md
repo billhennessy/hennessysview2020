@@ -4,7 +4,7 @@ date: 2020-04-06T18:19:18-05:00
 draft: false
 url: "why-acting-sec-nav-should-be-fired"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: thomas-modly-navy.jpg

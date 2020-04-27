@@ -8,7 +8,7 @@ categories:
 - Faith
 tags:
 - Ephesians 6
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

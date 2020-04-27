@@ -4,7 +4,7 @@ date: 2020-02-16T12:58:25-06:00
 draft: true
 url: "what-happens-when-youre-not-watching"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: watching.jpg

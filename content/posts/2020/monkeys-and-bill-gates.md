@@ -4,7 +4,7 @@ date: 2020-04-05T21:02:43-05:00
 draft: false
 url: "monkeys-and-bill-gates"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: angrygates.jpg

@@ -4,7 +4,7 @@ date: 2020-03-07T13:28:01-06:00
 draft: false
 url: "eating-neapolitan-ice-cream-from-the-carton"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: ice-cream-spoon.png

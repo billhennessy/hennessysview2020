@@ -8,7 +8,7 @@ categories:
 - Politics
 tags:
 - Iowa Caucuses
-author: "Bill Hennessy"
+author: "bill hennessy"
 ---
 
 You've probably heard that [the Democrat Iowa Caucuses were a humiliating and laugh-out-loud disaster](https://www.thegatewaypundit.com/2020/02/omg-democrat-caucus-disaster-precinct-heads-told-to-take-pictures-of-caucus-results-text-to-manager-who-will-drive-it-to-hq-video/). Apparently, the same idiots who built the Obamacare website (aka Harvard) also built a voting app for the caucuses. Like Obamacare, the app didn't work. At least, that's the official story.

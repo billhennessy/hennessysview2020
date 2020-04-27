@@ -4,7 +4,7 @@ date: 2020-02-21T19:23:38-06:00
 draft: false
 url: "truth-behind-dems-latest-russian-hoax"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: schiff-russia.png

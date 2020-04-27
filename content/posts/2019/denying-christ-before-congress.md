@@ -8,7 +8,7 @@ categories:
 - Faith
 tags:
 - Bishop Robert Barron
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

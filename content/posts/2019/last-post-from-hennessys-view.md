@@ -4,7 +4,7 @@ date: 2019-08-18T11:11:54-05:00
 draft: false
 categories:
 - Politics
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

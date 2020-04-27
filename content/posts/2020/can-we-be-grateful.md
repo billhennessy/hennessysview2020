@@ -4,7 +4,7 @@ date: 2020-03-19T15:17:20-05:00
 draft: false
 url: "can-we-be-grateful"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: grateful-dog.jpeg

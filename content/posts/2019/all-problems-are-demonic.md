@@ -9,7 +9,7 @@ categories:
 - Faith
 tags:
 - Demonic
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

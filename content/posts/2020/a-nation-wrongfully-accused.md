@@ -4,7 +4,7 @@ date: 2020-04-24T18:14:21-05:00
 draft: false
 url: "a-nation-wrongfully-accused"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: man-in-prison.jpg

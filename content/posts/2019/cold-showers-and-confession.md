@@ -8,7 +8,7 @@ categories:
 - Faith
 tags:
 - Exodus 90
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

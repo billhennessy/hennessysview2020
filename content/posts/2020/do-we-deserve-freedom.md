@@ -4,7 +4,7 @@ date: 2020-03-31T08:14:03-05:00
 draft: false
 url: "do-we-deserve-freedom"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: constitution.jpg

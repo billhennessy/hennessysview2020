@@ -4,7 +4,7 @@ date: 2020-03-15T14:11:00-05:00
 draft: false
 url: "mass-in-time-of-pestilence"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: mass-pestilence.jpg

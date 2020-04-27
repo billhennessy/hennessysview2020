@@ -2,7 +2,7 @@
 title: "What Comes After Social Media?"
 date: 2018-12-25T12:06:54-06:00
 draft: true
-author: "Bill Hennessy"
+author: "bill hennessy"
 categories:
 - Faith
 tags:

@@ -10,7 +10,7 @@ tags:
 - UK Elections
 - Boris Johnson
 - Donald Trump
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

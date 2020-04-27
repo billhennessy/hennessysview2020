@@ -4,7 +4,7 @@ date: 2020-04-27T06:28:36-05:00
 draft: false
 url: "open-offices-covid-casualty"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: open-office.jpg

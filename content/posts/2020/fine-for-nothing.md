@@ -4,7 +4,7 @@ date: 2020-02-15T16:12:08-06:00
 draft: false
 
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: "/mec_logo.png"

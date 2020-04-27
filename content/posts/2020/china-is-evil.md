@@ -4,7 +4,7 @@ date: 2020-04-02T08:09:21-05:00
 draft: true
 url: "china-is-evil"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: 

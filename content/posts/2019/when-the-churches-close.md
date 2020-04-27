@@ -7,7 +7,7 @@ categories:
 - Faith
 tags:
 - End Game
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

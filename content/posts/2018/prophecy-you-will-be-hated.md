@@ -2,7 +2,7 @@
 title: "Prophecy: You Will Be Hated"
 date: 2018-12-26T04:06:54-06:00
 draft: true
-author: "Bill Hennessy"
+author: "bill hennessy"
 categories:
 - Faith
 tags:

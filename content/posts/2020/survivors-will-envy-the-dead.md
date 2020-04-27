@@ -4,7 +4,7 @@ date: 2020-04-02T05:01:43-05:00
 draft: false
 url: "survivors-will-envy-the-dead"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: akita.jpg

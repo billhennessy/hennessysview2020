@@ -4,7 +4,7 @@ date: 2020-03-17T13:07:59-05:00
 draft: false
 url: "should-we-overreact"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: mass-hysteria.jpg

@@ -9,7 +9,7 @@ categories:
 tags:
 - Our Lady
 - Demons
-author: "Bill Hennessy"
+author: "bill hennessy"
 type: "post"
 ---
 

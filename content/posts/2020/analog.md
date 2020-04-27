@@ -4,7 +4,7 @@ date: 2020-02-22T17:28:17-06:00
 draft: false
 url: "analog"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: paper-ballot.jpg

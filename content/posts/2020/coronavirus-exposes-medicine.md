@@ -4,7 +4,7 @@ date: 2020-04-04T09:02:57-05:00
 draft: false
 url: "coronavirus-exposes-medicines-herd-mentality"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: chloroquine.jpg

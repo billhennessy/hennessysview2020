@@ -4,7 +4,7 @@ date: 2020-03-18T19:43:34-05:00
 draft: false
 url: "opportunity-for-excellence"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: wild-horses.jpg

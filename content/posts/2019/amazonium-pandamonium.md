@@ -9,7 +9,7 @@ categories:
 tags:
 - Amazon Synod
 - Pachamama
-author: "Bill Hennessy"
+author: "bill hennessy"
 ---
 > Jesus said to him: Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with thy whole mind.  **This is the greatest and the first commandment**. (Matthew 22:37-38)
 

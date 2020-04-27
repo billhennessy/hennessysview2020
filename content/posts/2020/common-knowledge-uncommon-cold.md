@@ -4,7 +4,7 @@ date: 2020-03-14T09:22:50-05:00
 draft: false
 url: "common-knowledge-uncommon-cold"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: shelves-2.jpg

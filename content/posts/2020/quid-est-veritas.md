@@ -12,7 +12,7 @@ categories:
 tags:
   - Truth
 
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 type: "featured"
 ---

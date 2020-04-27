@@ -4,7 +4,7 @@ date: 2020-03-09T17:32:48-05:00
 draft: true
 url: "everybody-panic"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: 

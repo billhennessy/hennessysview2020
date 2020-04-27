@@ -4,7 +4,7 @@ date: 2020-04-05T13:06:34-05:00
 draft: false
 url: "doctor-benway-doctor-fauci"
 # author
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 # post thumb
 image: fauci.jpg

@@ -12,7 +12,7 @@ tags:
 - Rent-Seekers
 - Eric Greitens
 
-author: "Bill Hennessy"
+author: "bill hennessy"
 
 type: "post"
 ---
