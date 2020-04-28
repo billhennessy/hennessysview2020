@@ -18,7 +18,7 @@ categories:
 #- Living
 - Politics
 tags:
-# - Coronavirus
+- Coronavirus
 
 # post type
 type: "post"
