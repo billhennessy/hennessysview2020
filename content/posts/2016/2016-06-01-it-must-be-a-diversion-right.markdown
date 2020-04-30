@@ -34,9 +34,9 @@ Now, Mr. Kristol and others have said that any "independent" candidate must meet
 
 
 
-** Trump-like name recognition,
-** Trump-like money, and
-** Trump-like candidate skills
+* Trump-like name recognition,
+* Trump-like money, and
+* Trump-like candidate skills
 
 
 Why not just vote for Trump? But that's beside the point.
@@ -46,7 +46,7 @@ To show the absurdity of a David French candidacy, let's look at a little Venn d
 ![french](https://hennessysview.com/wp-content/uploads/2016/06/french-1.jpg)
 
 
-Yes, it looks like a graphic of a total lunar eclipse with a small rock thrown into the picture for effect.
+Yes, it looks like a graphic of a total lunar eclipse with a small rock thrown into the picture for affect.
 
 While my own finances are often the source of amusement among friends, I don't think Mr. French has Trump money. He probably doesn't even have Crooked Hillary money. And I'm sure Mr. French is a wonderful guy, but Donald Trump just dispatched 16 of the GOP's best, most seasoned professional politicians as if they were hayseeds. What chance does French stand?
 
