@@ -1,0 +1,66 @@
+---
+title: "A Rebellion Is Brewing"
+date: 2020-04-30T20:11:32-05:00
+draft: false
+url: "a-rebellion-is-brewing"
+# author
+author: "bill hennessy"
+
+# post thumb
+image: rebellion-mi.png
+
+# meta description
+description: "The armed rebellion in Michigan is only the beginning."
+
+# taxonomies
+categories: 
+#- Faith
+#- Living
+- Politics
+tags:
+- Coronavirus
+- Rebellion
+
+# post type
+type: "post"
+---
+
+The only thing more dangerous than a man with unlimited resources is a man with nothing to lose. 
+
+Thanks to tyrannical and unlawful restrictions on liberty and commerce by a few governors, mayors, and county executives, 30 million Americans have nothing left to lose except their dignity and freedom. 
+
+And those 30 million Americans are beginning to demonstrate just how stupid and dangerous it is to push Americans into a corner.This was the scene inside the Michigan capitol today.
+
+{{< twitter 1255922426120146947 >}}
+
+Hundreds of freedom lovers, many armed, stormed the Michigan state capitol, demanding freedom. The left, of course, reacted like cowardly Karens. The right side of the web wrapped their admiration for the rebels in careful words of non-endorsement. 
+
+What both sides miss is what's coming: many more rebellions with escalating intensity. This is the final showdown between freedom and tyranny, between the rights of man and the power of the state, between individualism and collectivism. 
+
+Having spent a fair amount of time protesting, confronting, and interfering with the state, I can tell that people don't lightly storm government building brandishing weapons. You don't pack a gun unless you think you need it and you're willing to use it. You aren't willing to use it unless your life, or the lives of innocents, are expected to come under serious threat. In all of the hundreds of protests St. Louis Tea Party conducted or participated in, only once did we feel the need to be armed and asked for outside protection.
+
+Today, the battle between the people and the tyrants crossed a point of no return. One side has to win, and the other side to lose so decisively that there's no chance of another round. 
+
+No, it won't erupt into all-out civil war tomorrow, most likely. It will, however, escalate. Either the states back down on restrictions, effectively surrendering, or the next rebellion will be more uncomfortable and more intense, likely involving significant property damage. Like the Boston Tea Party. 
+
+If Michigan had been an isolated case, I wouldn't be writing this. But something else happened on the other side of the country today that tells me the rebellion is approaching the breaking point. 
+
+In California, at least three county sheriffs openly defied Governor Gavin Newsom's order to arrest anyone who enters a beach or park. The sheriffs cited their primary duty to support and defend the Constitution of the United States against all enemies, foreign and domestic. In this, the sheriffs were doubly correct. They were correct that the Constitution supersedes any unlawful order by the governor. They were also right to base their rebellion on Constitutional principles instead of transient feelings of what they personally consider right. 
+
+I hope the California sheriffs realize that their bold statement carries a commitment. The sheriffs cannot now backdown without giving tyranny a total victory. That means the sheriffs must be willing to defend their position against potentially violent reprisals from the governor's loyal forces: the California Highway Patrol and, possibly, California's National Guard. By promising the people of their counties safe passage to the beach, the sheriffs must protect their citizens from attempts by state agencies to arrest or harass the people who exercise their rights to breathe fresh air near the ocean or amongst trees. 
+
+Assuming the tyrants continue recent past behavior, expect Governor Newsom in California and Governor Whitmer in Michigan to impose further restrictions on freedom and threaten more draconian punishments against violators. 
+
+Likewise, the defenders of freedom will respond more intense countermeasures. 
+
+And again. 
+
+And again. 
+
+Until...something "bad" happens. Then something worse. And again. Until, finally, one side is defeated.
+
+Leftists politicians have used the Coronavirus as an excuse to impose a totalitarian regime. In the process, they destroyed the comfortable prosperity Americans have enjoyed since Donald Trump's election. In other words, the left has taken away the opiate of the masses: money, food, and amusements. Bread and circuses. And hope for a brighter future. 
+
+When you take away hope and comfort, you leave people a stark choice: fight or die.
+
+Expect a fight. 
