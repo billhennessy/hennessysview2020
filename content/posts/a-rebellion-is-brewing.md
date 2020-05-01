@@ -29,7 +29,9 @@ The only thing more dangerous than a man with unlimited resources is a man with 
 
 Thanks to tyrannical and unlawful restrictions on liberty and commerce by a few governors, mayors, and county executives, 30 million Americans have nothing left to lose except their dignity and freedom. 
 
-And those 30 million Americans are beginning to demonstrate just how stupid and dangerous it is to push Americans into a corner.This was the scene inside the Michigan capitol today.
+Millions of American feel threatened by stupid and tyrannical policies that have no basis in science or evidence. Only the will to power drives governors like Gavin Newsom and Gretchen Whitmer. A naked will to power that threatens the lives and livelihoods of millions of people. People with families. People with hopes. People with guns. People with rights. 
+
+This was the scene inside the Michigan capitol today as some of those people asserted their rights to liberty and the pursuit of happiness.
 
 {{< twitter 1255922426120146947 >}}
 
@@ -59,7 +61,7 @@ And again.
 
 Until...something "bad" happens. Then something worse. And again. Until, finally, one side is defeated.
 
-Leftists politicians have used the Coronavirus as an excuse to impose a totalitarian regime. In the process, they destroyed the comfortable prosperity Americans have enjoyed since Donald Trump's election. In other words, the left has taken away the opiate of the masses: money, food, and amusements. Bread and circuses. And hope for a brighter future. 
+Leftist politicians have used the Coronavirus as an excuse to impose totalitarian regimes. In the process, they destroyed the comfortable prosperity Americans have enjoyed since Donald Trump's election. These leftists have stripped away the comforts that normally keep people docile and tolerant: money, food, and amusements. Bread and circuses. And the hope of a brighter tomorrow. 
 
 When you take away hope and comfort, you leave people a stark choice: fight or die.
 
