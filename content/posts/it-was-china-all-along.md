@@ -7,7 +7,7 @@ url: "it-was-china-all-along"
 author: "bill hennessy"
 
 # post thumb
-image: xi.jpg
+image: xi.jpeg
 
 # meta description
 description: "this is meta description"
