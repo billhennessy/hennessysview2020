@@ -1,7 +1,7 @@
 ---
 title: "Science Is Wrong Two-Thirds of the Time"
 date: 2020-05-03T11:12:14-05:00
-draft: true
+draft: false
 url: "science-is-wrong-two-thirds-of-the-time"
 # author
 author: "bill hennessy"
