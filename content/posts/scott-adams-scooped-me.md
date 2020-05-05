@@ -113,9 +113,9 @@ REPORTER: How many lives could Remdesivir save?
 
 FAUCI: In clinical trials, Remdesivir was shown to shorten the disease by thirty-one percent. 
 
-Here's the truth: in clinical trials, there was no different in mortality rates between patients given Remdesivir (subjects) and those given a placebo (controls). That's the question reporters ask. Fauci, though, answers the question China and Gilead, the drug's patent-holders, want him to answer. The subjects who lived became asymptomatic 31 percent sooner than the control group. 
+Here's the truth: in clinical trials, there was no difference in mortality rates between patients given Remdesivir (subjects) and those given a placebo (controls). That's the question reporters ask. Fauci, though, answers the question China and Gilead, the drug's patent-holders, want him to answer. The subjects who lived became asymptomatic 31 percent sooner than the control group. 
 
-Remdesivir does not save lives, but it does make China and Gilead rich, [which all this is about](https://hennessysview.com/it-was-china-all-along/). 
+Remdesivir does not save lives, but it does make China and Gilead rich, [which is what this is about](https://hennessysview.com/it-was-china-all-along/). 
 
 
 ### Flu Death Statistics Are Pure BS

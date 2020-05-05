@@ -10,7 +10,7 @@ author: "bill hennessy"
 image: xi.jpeg
 
 # meta description
-description: "this is meta description"
+description: "Coronavirus is China's attempt at leverage in trade negotiations."
 
 # taxonomies
 categories: 
