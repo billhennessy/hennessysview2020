@@ -7,8 +7,7 @@ url: "did-cuomo-use-intentionally-kill-the-elderly"
 author: "bill hennessy"
 
 # post thumb
-image: deblasio-and-cuomo.jpg
-
+image: cuomo-tracks.png
 # meta description
 description: "New York officials had the means, motive, and opportunity to eliminate the elderly in nursing homes. Did he do it?"
 
