@@ -32,7 +32,7 @@ As unimaginable as it would be, evidence is mounting New York Governor Andrew Cu
 
 New York Governor Andrew Cuomo implemented an emergency declaration that required nursing homes to accept active Coronavirus patients regardless of their ability to care for or isolate the infected patients. As a result, at 12,000 people have died, and the number rises every day. 
 
-Throughout the Coronavirus crisis in New York, the state have refused to treat nursing home patients in hospitals. Elderly patients who test positive for Coronavirus are, instead, sent back to nursing homes with a supply of PPE for the staff and body bags for the patients. [From New York Post, April 23, 2020](https://nypost.com/2020/04/23/coronavirus-patients-admitted-to-queens-nursing-home-with-body-bags/):
+Throughout the Coronavirus crisis in New York, the state has sent elderly Coronavirus patients to nursing homes that are ill-equipped to treat the disease or keep healthy residence safe from infection. Elderly patients who test positive for Coronavirus at hospitals are sent back to nursing homes with a supply of PPE for the staff and body bags for the patients. [From New York Post, April 23, 2020](https://nypost.com/2020/04/23/coronavirus-patients-admitted-to-queens-nursing-home-with-body-bags/):
 
 > The first coronavirus patients admitted to a Queens nursing home under a controversial state mandate arrived along with some grim accessories — **a supply of body bags**.
 
@@ -58,7 +58,7 @@ The Coronavirus panic started when news spread of the rapid deterioration inside
 
 Long before the outbreak officially struck the US, we knew that the virus was particularly deadly for the elderly and those with certain chronic conditions. Cuomo called the Coronavirus situation in nursing homes "a feeding frenzy." 
 
-Cuomo also knew that nursing homes are ill-equipped to isolate residents with infectious diseases. Nursing homes a communal living facilities where interaction with other residents is designed to provide the elderly and infirm with the socialization people need to survive. ([Social isolation will kill you faster than smoking](https://www.webmd.com/balance/news/20180504/loneliness-rivals-obesity-smoking-as-health-risk).) 
+Cuomo also knew that nursing homes are ill-equipped to isolate residents with infectious diseases. Nursing homes are communal living facilities where interaction with other residents is designed to provide the elderly and infirm with the socialization people need to survive. ([Social isolation will kill you faster than smoking](https://www.webmd.com/balance/news/20180504/loneliness-rivals-obesity-smoking-as-health-risk).) 
 
 Long before Coronavirus became a panic, the White House strongly urged all nursing homes to ban visitors. 
 
@@ -66,7 +66,7 @@ Only a madman or an idiot, then, would send known carriers of the Coronavirus in
 
 > The governor — who himself has described nursing homes as a “feeding frenzy’’ for the deadly coronavirus — said that the facilities can’t challenge a state regulation forcing them to admit patients with the contagion.
 
-As a result, half of New York's 25,000 Coronavirus deaths occurred in these facilities. Over 12,000 dead thanks, in part, to a policy that assured maximum human destruction. 
+As a result, [half of New York's 25,000 Coronavirus deaths occurred in these facilities](https://news.wbfo.org/post/nursing-home-residents-account-almost-half-western-new-york-s-covid-19-deaths). Almost 12,000 dead thanks, in part, to a policy that assured maximum human destruction. 
 
 Now, the question remains: did he do it on purpose?
 
@@ -86,17 +86,19 @@ An example: if the victim was shot with a .45 caliber pistol at close range in h
 
 Let's look at means, motive, and opportunity in the case of Andrew Cuomo vs. the elderly population of New York City. Assuming the crime here is mass murder of vulnerable and elderly citizens by means of a deadly infectious disease, here's how we might assess the situation:
 
-* **Means**: The Coronavirus is particularly deadly to the very people who populate nursing homes, whether elderly or with a major chronic condition. It is also highly contagious compared to similarly dangerous microbes like H1N1 flu. We have to conclude, then, that the governor and mayor had the means to carry out this crime.
-* **Opportunity**: The opportunity was a pandemic that gave the governor elevated, almost dictatorial power. He was well within their emergency powers to direct hospitals to return infected nursing home residents to their nursing homes and to require nursing home to accept Coronavirus patients turned away from hospitals. 
-* **Motive**: What could be Cuomo's motive to kill 12,000 elderly New Yorkers? As usually, money. New York State is in dire financial straits with massive debt, declining population, and impending expenses related to unfunded retirement plans. Cuomo has begged the federal government for a financial bailout. And the elderly in nursing homes is one of the biggest budget items on New York's books. **By culling the herd of these "expenses," Cuomo stood to alleviate his state's difficult financial situation.**
+* **Means**: The Coronavirus is particularly deadly to the very people who populate nursing homes, whether elderly or with a major chronic condition. It is also highly contagious compared to similarly dangerous microbes like H1N1 flu. We have to conclude, then, that the governor had the means to carry out this crime. The means was Coronavirus.
+* **Opportunity**: The opportunity was a pandemic that gave the governor elevated, almost dictatorial power. He was well within his emergency powers to direct hospitals to return infected nursing home residents to their nursing homes and to require nursing home to accept Coronavirus patients turned away from hospitals. 
+* **Motive**: What could be Cuomo's motive to kill 12,000 elderly New Yorkers? As usual, money. New York State is in dire financial straits with massive debt, declining population, and impending expenses related to unfunded retirement plans. Cuomo has begged the federal government for a financial bailout. And the elderly in nursing homes is one of the biggest budget items on New York's books. **By culling the herd of these "expenses," Cuomo stood to alleviate his state's difficult financial situation.**
 
 As [New York State's own website admits](https://www.dfs.ny.gov/consumer/ltc/ltc_about_cost.htm):
 
 > Downstate, nursing home costs vary from $340 per day in the Northern Metropolitan area to $390 per day in Long Island, which is approximately $124,100 per year in the Northern Metropolitan area to $142,350 per year in Long Island. It is estimated that persons in nursing homes stay for less than 2½ years on average.
 
-Reducing that 2.5 year average would save the state a lot of money. Maybe enough to kill for. New York City, alone, had almost 42,000 nursing home residents in 2016 (the latest year data is available.) At $124,100 per month, that's a bill of $5.2 billion a year. And that's just New York City. [This page on New York State's website](https://www.health.ny.gov/facilities/nursing/rhcf_bed_need_by_county.htm) breaks down the count of nursing home beds and expected needs for each county, a total of over 104,000 as of 2016. 
+Reducing that 2.5 year average stay in nursing homes would save the state a lot of money. Maybe enough to kill for?
 
-Cuomo had a very strong financial motivation for this crime. 
+New York City, alone, had almost 42,000 nursing home residents in 2016 (the latest year data is available.) At $124,100 per month, that's a bill of $5.2 billion a year. And that's just New York City. [This page on New York State's website](https://www.health.ny.gov/facilities/nursing/rhcf_bed_need_by_county.htm) breaks down the count of nursing home beds and expected needs for each county, a total of over 104,000 as of 2016. 
+
+Cuomo had a very strong financial motivation to commit this crime. 
 
 ### Conclusion
 
