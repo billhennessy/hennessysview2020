@@ -1,6 +1,6 @@
 baseurl = "https://hennessysview.com/"  # Include trailing slash
 title = "Hennessy's View"
-theme = "swift"
+theme = ["hugo-video", "swift"]
 author = "Bill Hennessy"
 copyright = "Copyright © 2003-2020, Right Press LLC & Bill Hennessy; all rights reserved."
 canonifyurls = true
